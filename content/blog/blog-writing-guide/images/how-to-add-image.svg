@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" width="520" height="220" dir="ltr">
+  <defs>
+    <style>
+      .title { font: bold 14px 'Vazirmatn', Tahoma, sans-serif; fill: #1a1a1a; }
+      .code { font: 13px monospace; fill: #0d9488; }
+      .path { font: 12px monospace; fill: #6366f1; }
+      .comment { font: 11px 'Vazirmatn', Tahoma; fill: #64748b; }
+      .box { fill: #f1f5f9; stroke: #cbd5e1; stroke-width: 1; }
+    </style>
+  </defs>
+  <rect width="520" height="220" fill="#fff" stroke="#e2e8f0" stroke-width="1" rx="8"/>
+  <text x="16" y="32" class="title">F-HG /1, 9©3 /1 (D'¯</text>
+  <text x="16" y="58" class="comment">ñ. A'ÌD 9©3 1' /1 ~H4G images GEÌF (D'¯ (¯0'1Ì/.</text>
+  <text x="16" y="78" class="comment">ò. /1 E*F MDX (G 'ÌF 4©D (FHÌ3Ì/:</text>
+  <rect x="16" y="88" width="488" height="36" class="box" rx="4"/>
+  <text x="24" y="112" class="code">![*H6Ì- *5HÌ1](./images/F'E-A'ÌD.jpg)</text>
+  <text x="16" y="142" class="comment">E+'D E3Ì1 ~H4G:</text>
+  <rect x="16" y="150" width="488" height="28" class="box" rx="4"/>
+  <text x="24" y="170" class="path">content/blog/slug-(D'¯-you/images/photo.png</text>
+  <text x="16" y="200" class="comment">/1 A1'F*E*1 (1'Ì *5HÌ1 ~Ì4FE'Ì4 (thumbnail): thumbnail: "images/cover.jpg"</text>
+</svg>

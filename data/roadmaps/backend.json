@@ -1,0 +1,531 @@
+{
+  "slug": "backend",
+  "title": "توسعه‌دهنده بک‌اند",
+  "description": "مسیر یادگیری کامل برای تبدیل شدن به یک توسعه‌دهنده بک‌اند حرفه‌ای. این مسیر شامل تمامی مباحث مورد نیاز از مبانی اینترنت تا معماری‌های پیشرفته است.",
+  "steps": [
+    {
+      "id": "internet-basics",
+      "title": "مبانی اینترنت",
+      "description": "درک نحوه کار اینترنت، پروتکل‌ها و مفاهیم پایه شبکه",
+      "order": 1,
+      "children": [
+        {
+          "id": "how-internet-works",
+          "title": "اینترنت چگونه کار می‌کند؟",
+          "description": "یادگیری مفاهیم پایه‌ای نحوه کار اینترنت شامل DNS، IP، TCP/UDP و نحوه انتقال داده‌ها",
+          "resources": [
+            {
+              "title": "اینترنت چگونه کار می‌کند - مقاله جامع",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۳۰ دقیقه",
+              "language": "en",
+              "description": "مقاله جامع موزیلا درباره نحوه کار اینترنت"
+            },
+            {
+              "title": "دوره شبکه‌های کامپیوتری - مکتب‌خونه",
+              "type": "course",
+              "url": "https://maktabkhooneh.org",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱۰ ساعت",
+              "language": "fa",
+              "description": "دوره رایگان مبانی شبکه‌های کامپیوتری به زبان فارسی"
+            }
+          ]
+        },
+        {
+          "id": "http-https",
+          "title": "HTTP و HTTPS",
+          "description": "یادگیری پروتکل HTTP، متدها، کدهای وضعیت و تفاوت HTTP با HTTPS",
+          "resources": [
+            {
+              "title": "آشنایی با HTTP - ویدیو یوتیوب",
+              "type": "video",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۴۵ دقیقه",
+              "language": "fa",
+              "description": "ویدیو آموزشی کامل درباره پروتکل HTTP به زبان فارسی"
+            }
+          ]
+        },
+        {
+          "id": "dns",
+          "title": "DNS چیست؟",
+          "description": "سیستم نام دامنه (DNS) چگونه کار می‌کند و نقش آن در اینترنت",
+          "resources": [
+            {
+              "title": "DNS به زبان ساده",
+              "type": "article",
+              "url": "https://www.cloudflare.com/learning/dns/what-is-dns/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۲۰ دقیقه",
+              "language": "en",
+              "description": "مقاله Cloudflare درباره نحوه کار DNS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "programming-language",
+      "title": "زبان برنامه‌نویسی",
+      "description": "انتخاب و یادگیری یک زبان برنامه‌نویسی بک‌اند",
+      "order": 2,
+      "children": [
+        {
+          "id": "python",
+          "title": "Python",
+          "description": "زبان پایتون یکی از محبوب‌ترین زبان‌های بک‌اند با سینتکس ساده و کتابخانه‌های فراوان",
+          "resources": [
+            {
+              "title": "دوره جامع پایتون - جادی",
+              "type": "playlist",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۲۰ ساعت",
+              "language": "fa",
+              "description": "پلی‌لیست آموزش پایتون توسط جادی میرمیرانی"
+            },
+            {
+              "title": "دوره پایتون - یودمی",
+              "type": "course",
+              "url": "https://udemy.com",
+              "price": "paid",
+              "priceAmount": 29,
+              "duration": "۴۰ ساعت",
+              "language": "en",
+              "description": "دوره جامع پایتون در یودمی"
+            }
+          ]
+        },
+        {
+          "id": "javascript-nodejs",
+          "title": "JavaScript / Node.js",
+          "description": "Node.js به شما امکان اجرای جاوااسکریپت در سمت سرور را می‌دهد",
+          "resources": [
+            {
+              "title": "دوره Node.js - آپارات",
+              "type": "playlist",
+              "url": "https://aparat.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱۵ ساعت",
+              "language": "fa",
+              "description": "پلی‌لیست آموزش Node.js به زبان فارسی"
+            }
+          ]
+        },
+        {
+          "id": "go",
+          "title": "Go",
+          "description": "زبان Go توسط گوگل طراحی شده و برای سیستم‌های مقیاس‌پذیر عالی است",
+          "resources": [
+            {
+              "title": "آموزش Go از صفر تا صد",
+              "type": "course",
+              "url": "https://gobyexample.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱۲ ساعت",
+              "language": "en",
+              "description": "آموزش زبان Go با مثال‌های عملی"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "version-control",
+      "title": "کنترل نسخه",
+      "description": "یادگیری Git و سیستم‌های کنترل نسخه",
+      "order": 3,
+      "children": [
+        {
+          "id": "git-basics",
+          "title": "مبانی Git",
+          "description": "یادگیری دستورات پایه Git شامل init, add, commit, push, pull, branch, merge",
+          "resources": [
+            {
+              "title": "آموزش Git و GitHub - فارسی",
+              "type": "video",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۳ ساعت",
+              "language": "fa",
+              "description": "آموزش کامل Git و GitHub به زبان فارسی"
+            }
+          ]
+        },
+        {
+          "id": "github",
+          "title": "GitHub",
+          "description": "کار با GitHub، Pull Request، Issues و مشارکت در پروژه‌های اوپن‌سورس",
+          "resources": [
+            {
+              "title": "مستندات رسمی GitHub",
+              "type": "article",
+              "url": "https://docs.github.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۲ ساعت",
+              "language": "en",
+              "description": "مستندات رسمی GitHub برای شروع کار"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "database",
+      "title": "دیتابیس",
+      "description": "یادگیری دیتابیس‌های رابطه‌ای و غیررابطه‌ای",
+      "order": 4,
+      "children": [
+        {
+          "id": "relational-db",
+          "title": "دیتابیس رابطه‌ای",
+          "description": "یادگیری SQL و دیتابیس‌های رابطه‌ای مثل PostgreSQL و MySQL",
+          "resources": [
+            {
+              "title": "آموزش PostgreSQL",
+              "type": "course",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۸ ساعت",
+              "language": "fa",
+              "description": "دوره آموزش PostgreSQL از مبتدی تا پیشرفته"
+            }
+          ]
+        },
+        {
+          "id": "nosql-db",
+          "title": "دیتابیس NoSQL",
+          "description": "آشنایی با MongoDB، Redis و سایر دیتابیس‌های غیررابطه‌ای",
+          "resources": [
+            {
+              "title": "آموزش MongoDB",
+              "type": "course",
+              "url": "https://university.mongodb.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۶ ساعت",
+              "language": "en",
+              "description": "دوره رسمی MongoDB University"
+            }
+          ]
+        },
+        {
+          "id": "orm",
+          "title": "ORM ها",
+          "description": "استفاده از ORM ها مثل Prisma، SQLAlchemy و Sequelize",
+          "resources": [
+            {
+              "title": "آموزش Prisma ORM",
+              "type": "article",
+              "url": "https://prisma.io/docs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۴ ساعت",
+              "language": "en",
+              "description": "مستندات رسمی Prisma برای شروع کار"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "api-development",
+      "title": "توسعه API",
+      "description": "یادگیری طراحی و پیاده‌سازی API های RESTful و GraphQL",
+      "order": 5,
+      "children": [
+        {
+          "id": "rest-api",
+          "title": "REST API",
+          "description": "طراحی و پیاده‌سازی API های RESTful با رعایت بهترین شیوه‌ها",
+          "resources": [
+            {
+              "title": "طراحی REST API - بهترین شیوه‌ها",
+              "type": "article",
+              "url": "https://restfulapi.net",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱ ساعت",
+              "language": "en",
+              "description": "راهنمای جامع طراحی REST API"
+            }
+          ]
+        },
+        {
+          "id": "graphql",
+          "title": "GraphQL",
+          "description": "آشنایی با GraphQL به عنوان جایگزین REST",
+          "resources": [
+            {
+              "title": "آموزش GraphQL",
+              "type": "course",
+              "url": "https://graphql.org/learn",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۵ ساعت",
+              "language": "en",
+              "description": "آموزش رسمی GraphQL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "authentication",
+      "title": "احراز هویت",
+      "description": "پیاده‌سازی سیستم‌های احراز هویت و مجوز",
+      "order": 6,
+      "children": [
+        {
+          "id": "jwt",
+          "title": "JWT",
+          "description": "احراز هویت مبتنی بر توکن با JSON Web Token",
+          "resources": [
+            {
+              "title": "JWT به زبان ساده",
+              "type": "article",
+              "url": "https://jwt.io/introduction",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۳۰ دقیقه",
+              "language": "en",
+              "description": "مقدمه‌ای بر JWT"
+            }
+          ]
+        },
+        {
+          "id": "oauth",
+          "title": "OAuth 2.0",
+          "description": "پیاده‌سازی OAuth برای ورود با سرویس‌های دیگر",
+          "resources": [
+            {
+              "title": "آموزش OAuth 2.0",
+              "type": "video",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱ ساعت",
+              "language": "en",
+              "description": "ویدیو آموزشی OAuth 2.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caching",
+      "title": "کشینگ",
+      "description": "استراتژی‌های کش برای بهبود عملکرد. شامل کش سمت سرور، CDN و ابزارهایی مثل Redis و Memcached.",
+      "order": 7,
+      "resources": [
+        {
+          "title": "آموزش Redis",
+          "type": "course",
+          "url": "https://redis.io/docs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "۴ ساعت",
+          "language": "en",
+          "description": "مستندات رسمی Redis"
+        },
+        {
+          "title": "استراتژی‌های کشینگ",
+          "type": "article",
+          "url": "https://aws.amazon.com/caching/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "۳۰ دقیقه",
+          "language": "en",
+          "description": "راهنمای جامع AWS درباره استراتژی‌های مختلف کشینگ"
+        }
+      ]
+    },
+    {
+      "id": "testing",
+      "title": "تست نرم‌افزار",
+      "description": "نوشتن تست‌های واحد، یکپارچه‌سازی و E2E",
+      "order": 8,
+      "children": [
+        {
+          "id": "unit-testing",
+          "title": "تست واحد",
+          "description": "نوشتن تست‌های واحد برای اطمینان از صحت عملکرد کد",
+          "resources": [
+            {
+              "title": "آموزش تست نویسی",
+              "type": "course",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۵ ساعت",
+              "language": "fa",
+              "description": "دوره آموزش تست نویسی به زبان فارسی"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "docker",
+      "title": "داکر",
+      "description": "کانتینرسازی اپلیکیشن‌ها با Docker",
+      "order": 9,
+      "children": [
+        {
+          "id": "docker-basics",
+          "title": "مبانی Docker",
+          "description": "یادگیری مفاهیم پایه Docker شامل Image، Container، Volume و Network",
+          "resources": [
+            {
+              "title": "آموزش Docker - فارسی",
+              "type": "playlist",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۸ ساعت",
+              "language": "fa",
+              "description": "پلی‌لیست آموزش Docker به زبان فارسی"
+            }
+          ]
+        },
+        {
+          "id": "docker-compose",
+          "title": "Docker Compose",
+          "description": "مدیریت چند کانتینر با Docker Compose",
+          "resources": [
+            {
+              "title": "مستندات Docker Compose",
+              "type": "article",
+              "url": "https://docs.docker.com/compose/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۲ ساعت",
+              "language": "en",
+              "description": "مستندات رسمی Docker Compose"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ci-cd",
+      "title": "CI/CD",
+      "description": "پیاده‌سازی خط لوله CI/CD با ابزارهایی مانند GitHub Actions، Jenkins و GitLab CI",
+      "order": 10,
+      "resources": [
+        {
+          "title": "آموزش GitHub Actions",
+          "type": "article",
+          "url": "https://docs.github.com/en/actions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "۳ ساعت",
+          "language": "en",
+          "description": "مستندات رسمی GitHub Actions"
+        },
+        {
+          "title": "آموزش CI/CD - فارسی",
+          "type": "video",
+          "url": "https://youtube.com",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "۲ ساعت",
+          "language": "fa",
+          "description": "ویدیو آموزشی CI/CD به زبان فارسی"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "todo-api",
+      "title": "API مدیریت کارها (Todo)",
+      "level": "beginner",
+      "description": "یک REST API ساده برای مدیریت لیست کارها بسازید. شامل عملیات CRUD برای تسک‌ها با احراز هویت ساده.",
+      "requirements": [
+        "ایجاد، خواندن، ویرایش و حذف تسک‌ها",
+        "دسته‌بندی تسک‌ها",
+        "احراز هویت کاربر",
+        "مستندسازی API"
+      ]
+    },
+    {
+      "id": "blog-api",
+      "title": "API بلاگ",
+      "level": "beginner",
+      "description": "یک API کامل برای سیستم بلاگ بسازید شامل پست‌ها، دسته‌بندی‌ها و کامنت‌ها.",
+      "requirements": [
+        "CRUD برای پست‌ها",
+        "سیستم کامنت‌گذاری",
+        "دسته‌بندی و تگ",
+        "صفحه‌بندی و جستجو"
+      ]
+    },
+    {
+      "id": "url-shortener",
+      "title": "کوتاه‌کننده لینک",
+      "level": "intermediate",
+      "description": "یک سرویس کوتاه‌کننده لینک مشابه bit.ly بسازید با قابلیت ردیابی آمار.",
+      "requirements": [
+        "کوتاه‌سازی لینک‌ها",
+        "ریدایرکت خودکار",
+        "آمار کلیک و بازدید",
+        "محدودیت نرخ درخواست",
+        "کش با Redis"
+      ]
+    },
+    {
+      "id": "chat-app",
+      "title": "اپلیکیشن چت بلادرنگ",
+      "level": "intermediate",
+      "description": "یک اپلیکیشن چت بلادرنگ با WebSocket بسازید.",
+      "requirements": [
+        "چت خصوصی و گروهی",
+        "ارسال فایل",
+        "نشانگر آنلاین بودن",
+        "WebSocket با Socket.io"
+      ]
+    },
+    {
+      "id": "ecommerce-api",
+      "title": "API فروشگاه آنلاین",
+      "level": "advanced",
+      "description": "یک API کامل فروشگاه آنلاین با سیستم پرداخت، سبد خرید و مدیریت محصولات بسازید.",
+      "requirements": [
+        "مدیریت محصولات و دسته‌بندی",
+        "سبد خرید و سفارش",
+        "سیستم پرداخت",
+        "مدیریت موجودی",
+        "سیستم تخفیف و کوپن",
+        "داشبورد ادمین"
+      ]
+    },
+    {
+      "id": "microservices",
+      "title": "معماری میکروسرویس",
+      "level": "advanced",
+      "description": "یک سیستم مبتنی بر میکروسرویس با سرویس‌های مستقل و ارتباط بین آنها بسازید.",
+      "requirements": [
+        "حداقل ۳ میکروسرویس مستقل",
+        "API Gateway",
+        "ارتباط بین سرویس‌ها با Message Queue",
+        "داکرایز کردن هر سرویس",
+        "مانیتورینگ و لاگینگ"
+      ]
+    }
+  ]
+}

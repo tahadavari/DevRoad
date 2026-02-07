@@ -1,0 +1,224 @@
+{
+  "slug": "frontend",
+  "title": "توسعه‌دهنده فرانت‌اند",
+  "description": "مسیر یادگیری کامل برای تبدیل شدن به یک توسعه‌دهنده فرانت‌اند حرفه‌ای. از HTML و CSS تا فریمورک‌های مدرن.",
+  "steps": [
+    {
+      "id": "html-basics",
+      "title": "HTML",
+      "description": "یادگیری مبانی HTML و ساختار صفحات وب",
+      "order": 1,
+      "children": [
+        {
+          "id": "html-fundamentals",
+          "title": "مبانی HTML",
+          "description": "تگ‌ها، المان‌ها، فرم‌ها و ساختار معنایی HTML",
+          "resources": [
+            {
+              "title": "آموزش HTML - W3Schools",
+              "type": "article",
+              "url": "https://www.w3schools.com/html/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۵ ساعت",
+              "language": "en",
+              "description": "آموزش کامل HTML از مبتدی تا پیشرفته"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "css-basics",
+      "title": "CSS",
+      "description": "یادگیری استایل‌دهی صفحات وب",
+      "order": 2,
+      "children": [
+        {
+          "id": "css-fundamentals",
+          "title": "مبانی CSS",
+          "description": "سلکتورها، باکس مدل، Flexbox، Grid و انیمیشن‌ها",
+          "resources": [
+            {
+              "title": "آموزش CSS - فارسی",
+              "type": "playlist",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۸ ساعت",
+              "language": "fa",
+              "description": "پلی‌لیست آموزش CSS به زبان فارسی"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "javascript",
+      "title": "JavaScript",
+      "description": "یادگیری زبان جاوااسکریپت",
+      "order": 3,
+      "children": [
+        {
+          "id": "js-fundamentals",
+          "title": "مبانی JavaScript",
+          "description": "متغیرها، توابع، حلقه‌ها، آرایه‌ها، اشیاء و DOM",
+          "resources": [
+            {
+              "title": "آموزش جاوااسکریپت - الگانس",
+              "type": "course",
+              "url": "https://eloquentjavascript.net",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۲۰ ساعت",
+              "language": "en",
+              "description": "کتاب آنلاین رایگان Eloquent JavaScript"
+            }
+          ]
+        },
+        {
+          "id": "es6-plus",
+          "title": "ES6+ و JavaScript مدرن",
+          "description": "Arrow functions، Destructuring، Modules، Async/Await و ...",
+          "resources": [
+            {
+              "title": "JavaScript مدرن",
+              "type": "article",
+              "url": "https://javascript.info",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱۵ ساعت",
+              "language": "en",
+              "description": "آموزش کامل JavaScript مدرن"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "react",
+      "title": "React",
+      "description": "یادگیری فریمورک React",
+      "order": 4,
+      "children": [
+        {
+          "id": "react-basics",
+          "title": "مبانی React",
+          "description": "کامپوننت‌ها، State، Props، Hooks و مدیریت فرم",
+          "resources": [
+            {
+              "title": "مستندات رسمی React",
+              "type": "article",
+              "url": "https://react.dev",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱۰ ساعت",
+              "language": "en",
+              "description": "مستندات رسمی React - بهترین منبع برای شروع"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typescript",
+      "title": "TypeScript",
+      "description": "یادگیری TypeScript برای توسعه امن‌تر",
+      "order": 5,
+      "children": [
+        {
+          "id": "ts-basics",
+          "title": "مبانی TypeScript",
+          "description": "تایپ‌ها، اینترفیس‌ها، جنریک‌ها و پیکربندی",
+          "resources": [
+            {
+              "title": "آموزش TypeScript",
+              "type": "course",
+              "url": "https://typescriptlang.org",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۸ ساعت",
+              "language": "en",
+              "description": "مستندات رسمی TypeScript"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nextjs",
+      "title": "Next.js",
+      "description": "فریمورک فول‌استک React",
+      "order": 6,
+      "children": [
+        {
+          "id": "nextjs-basics",
+          "title": "مبانی Next.js",
+          "description": "App Router، SSR، SSG، API Routes و میدلور",
+          "resources": [
+            {
+              "title": "مستندات Next.js",
+              "type": "article",
+              "url": "https://nextjs.org/docs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱۲ ساعت",
+              "language": "en",
+              "description": "مستندات رسمی Next.js"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "portfolio",
+      "title": "وبسایت شخصی (پورتفولیو)",
+      "level": "beginner",
+      "description": "یک وبسایت شخصی واکنش‌گرا با HTML و CSS بسازید.",
+      "requirements": [
+        "طراحی واکنش‌گرا",
+        "بخش‌های معرفی، پروژه‌ها، مهارت‌ها و تماس",
+        "انیمیشن‌های CSS"
+      ]
+    },
+    {
+      "id": "weather-app",
+      "title": "اپلیکیشن آب و هوا",
+      "level": "beginner",
+      "description": "اپلیکیشن نمایش آب و هوا با استفاده از API.",
+      "requirements": [
+        "جستجوی شهر",
+        "نمایش وضعیت آب و هوا",
+        "پیش‌بینی چند روزه"
+      ]
+    },
+    {
+      "id": "ecommerce-frontend",
+      "title": "فرانت‌اند فروشگاه آنلاین",
+      "level": "intermediate",
+      "description": "فرانت‌اند یک فروشگاه آنلاین با React.",
+      "requirements": [
+        "لیست محصولات با فیلتر",
+        "سبد خرید",
+        "صفحه محصول",
+        "احراز هویت",
+        "واکنش‌گرا"
+      ]
+    },
+    {
+      "id": "dashboard",
+      "title": "داشبورد مدیریت",
+      "level": "advanced",
+      "description": "داشبورد مدیریت پیشرفته با نمودارها و جداول.",
+      "requirements": [
+        "نمودارهای تعاملی",
+        "جداول با مرتب‌سازی و فیلتر",
+        "تم تاریک/روشن",
+        "مدیریت کاربران",
+        "SSR با Next.js"
+      ]
+    }
+  ]
+}

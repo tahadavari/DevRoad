@@ -1,0 +1,93 @@
+{
+  "slug": "main",
+  "title": "نقشه راه اصلی",
+  "description": "مسیر کلی یادگیری برنامه‌نویسی از آشنایی با کامپیوتر تا انتخاب و طی کردن یک مسیر تخصصی (بک‌اند، فرانت‌اند یا اندروید).",
+  "steps": [
+    {
+      "id": "intro-computers",
+      "title": "آشنایی اولیه با کامپیوترها",
+      "description": "درک مفاهیم پایه سخت‌افزار، نرم‌افزار و کار با سیستم‌عامل",
+      "order": 1,
+      "children": [
+        {
+          "id": "intro-computers-basics",
+          "title": "مبانی کامپیوتر",
+          "description": "سخت‌افزار، نرم‌افزار، سیستم‌عامل و کار با فایل‌ها",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "id": "algorithmic-thinking",
+      "title": "تفکر الگوریتمی",
+      "description": "یادگیری حل مسئله گام‌به‌گام و تفکر منطقی",
+      "order": 2,
+      "children": [
+        {
+          "id": "algorithmic-basics",
+          "title": "مفاهیم الگوریتم",
+          "description": "الگوریتم، flowchart و حل مسئله ساده",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "id": "basic-programming",
+      "title": "زبان برنامه‌نویسی پایه",
+      "description": "یادگیری اولین زبان برنامه‌نویسی و مفاهیم مشترک",
+      "order": 3,
+      "children": [
+        {
+          "id": "first-language",
+          "title": "انتخاب و یادگیری یک زبان",
+          "description": "متغیرها، شرط، حلقه، توابع و آرایه",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "id": "choose-path",
+      "title": "انتخاب یک مسیر حرفه‌ای‌تر",
+      "description": "آشنایی با مسیرهای مختلف و انتخاب حوزه تخصص",
+      "order": 4,
+      "children": [
+        {
+          "id": "paths-overview",
+          "title": "معرفی مسیرها",
+          "description": "بک‌اند، فرانت‌اند، موبایل و مقایسه آن‌ها",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "id": "specialization",
+      "title": "مسیر تخصصی",
+      "description": "یکی از نقشه‌های راه تخصصی را انتخاب و دنبال کنید",
+      "order": 5,
+      "children": [
+        {
+          "id": "path-backend",
+          "title": "بک‌اند",
+          "description": "توسعه سمت سرور، API و دیتابیس — نقشه راه کامل بک‌اند",
+          "resources": [],
+          "linkedRoadmapSlug": "backend"
+        },
+        {
+          "id": "path-frontend",
+          "title": "فرانت‌اند",
+          "description": "توسعه رابط کاربری وب — نقشه راه کامل فرانت‌اند",
+          "resources": [],
+          "linkedRoadmapSlug": "frontend"
+        },
+        {
+          "id": "path-android",
+          "title": "اندروید",
+          "description": "توسعه اپلیکیشن موبایل اندروید — نقشه راه کامل اندروید",
+          "resources": [],
+          "linkedRoadmapSlug": "android"
+        }
+      ]
+    }
+  ],
+  "projects": []
+}

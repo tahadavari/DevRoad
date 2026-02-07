@@ -1,0 +1,130 @@
+{
+  "slug": "android",
+  "title": "توسعه‌دهنده اندروید",
+  "description": "مسیر یادگیری کامل برای تبدیل شدن به یک توسعه‌دهنده اپلیکیشن اندروید. از Kotlin/Java تا انتشار در مارکت.",
+  "steps": [
+    {
+      "id": "android-basics",
+      "title": "مبانی اندروید",
+      "description": "معماری اندروید، Activity، Fragment و چرخه حیات",
+      "order": 1,
+      "children": [
+        {
+          "id": "android-intro",
+          "title": "آشنایی با پلتفرم اندروید",
+          "description": "معماری اندروید، نسخه‌ها و ابزارهای توسعه",
+          "resources": [
+            {
+              "title": "مستندات رسمی اندروید",
+              "type": "article",
+              "url": "https://developer.android.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۲ ساعت",
+              "language": "en",
+              "description": "راهنمای رسمی توسعه اندروید"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kotlin-java",
+      "title": "Kotlin / Java",
+      "description": "یادگیری زبان برنامه‌نویسی برای اندروید",
+      "order": 2,
+      "children": [
+        {
+          "id": "kotlin-basics",
+          "title": "مبانی Kotlin",
+          "description": "سینتکس Kotlin، null safety و Coroutines مقدماتی",
+          "resources": [
+            {
+              "title": "آموزش Kotlin - رسمی",
+              "type": "course",
+              "url": "https://kotlinlang.org/docs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱۰ ساعت",
+              "language": "en",
+              "description": "مستندات و آموزش رسمی Kotlin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ui-android",
+      "title": "رابط کاربری",
+      "description": "Layout ها، Jetpack Compose و Material Design",
+      "order": 3,
+      "children": [
+        {
+          "id": "layouts-views",
+          "title": "Layout و View",
+          "description": "ConstraintLayout، RecyclerView و طراحی UI",
+          "resources": []
+        },
+        {
+          "id": "jetpack-compose",
+          "title": "Jetpack Compose",
+          "description": "ساخت UI با رویکرد declarative در اندروید",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "id": "data-android",
+      "title": "مدیریت داده",
+      "description": "Room، SharedPreferences و کار با شبکه",
+      "order": 4,
+      "children": [
+        {
+          "id": "room-db",
+          "title": "Room Database",
+          "description": "دیتابیس لوکال با Room",
+          "resources": []
+        },
+        {
+          "id": "networking",
+          "title": "شبکه و API",
+          "description": "Retrofit، OkHttp و دریافت داده از سرور",
+          "resources": []
+        }
+      ]
+    },
+    {
+      "id": "publish-android",
+      "title": "انتشار اپ",
+      "description": "ساخت APK/AAB و انتشار در Google Play",
+      "order": 5,
+      "children": [
+        {
+          "id": "build-release",
+          "title": "ساخت و امضای نسخه",
+          "description": "Build variants و امضای اپلیکیشن",
+          "resources": []
+        },
+        {
+          "id": "play-store",
+          "title": "Google Play Console",
+          "description": "ثبت اپ، متادیتا و انتشار در مارکت",
+          "resources": []
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "todo-android",
+      "title": "اپلیکیشن لیست کارها",
+      "level": "beginner",
+      "description": "یک اپ ساده برای مدیریت کارهای روزانه با ذخیره لوکال.",
+      "requirements": [
+        "لیست کارها با افزودن/حذف/تکمیل",
+        "ذخیره با Room یا SharedPreferences",
+        "رابط کاربری ساده و تمیز"
+      ]
+    }
+  ]
+}

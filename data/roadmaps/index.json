@@ -1,0 +1,44 @@
+{
+  "roadmaps": [
+    {
+      "slug": "main",
+      "title": "نقشه راه اصلی",
+      "description": "مسیر کلی از آشنایی با کامپیوتر تا انتخاب مسیر تخصصی (بک‌اند، فرانت‌اند، اندروید)",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 7
+    },
+    {
+      "slug": "backend",
+      "title": "توسعه‌دهنده بک‌اند",
+      "description": "مسیر یادگیری کامل برای تبدیل شدن به یک توسعه‌دهنده بک‌اند حرفه‌ای",
+      "icon": "Server",
+      "color": "#3b82f6",
+      "totalSteps": 20
+    },
+    {
+      "slug": "frontend",
+      "title": "توسعه‌دهنده فرانت‌اند",
+      "description": "مسیر یادگیری کامل برای تبدیل شدن به یک توسعه‌دهنده فرانت‌اند حرفه‌ای",
+      "icon": "Monitor",
+      "color": "#8b5cf6",
+      "totalSteps": 18
+    },
+    {
+      "slug": "android",
+      "title": "توسعه‌دهنده اندروید",
+      "description": "مسیر یادگیری کامل برای تبدیل شدن به توسعه‌دهنده اپلیکیشن اندروید",
+      "icon": "Smartphone",
+      "color": "#22c55e",
+      "totalSteps": 12
+    },
+    {
+      "slug": "devops",
+      "title": "مهندس دواپس",
+      "description": "مسیر یادگیری کامل برای تبدیل شدن به یک مهندس دواپس حرفه‌ای",
+      "icon": "Cloud",
+      "color": "#10b981",
+      "totalSteps": 15
+    }
+  ]
+}

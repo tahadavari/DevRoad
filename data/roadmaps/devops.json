@@ -1,0 +1,169 @@
+{
+  "slug": "devops",
+  "title": "مهندس دواپس",
+  "description": "مسیر یادگیری کامل برای تبدیل شدن به یک مهندس دواپس حرفه‌ای. از لینوکس تا کوبرنتیز و CI/CD.",
+  "steps": [
+    {
+      "id": "linux-basics",
+      "title": "مبانی لینوکس",
+      "description": "یادگیری سیستم‌عامل لینوکس و خط فرمان",
+      "order": 1,
+      "children": [
+        {
+          "id": "linux-commands",
+          "title": "دستورات لینوکس",
+          "description": "آشنایی با دستورات پایه شل و مدیریت فایل‌ها",
+          "resources": [
+            {
+              "title": "آموزش لینوکس - فارسی",
+              "type": "playlist",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱۰ ساعت",
+              "language": "fa",
+              "description": "پلی‌لیست آموزش لینوکس به زبان فارسی"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networking",
+      "title": "شبکه",
+      "description": "مفاهیم شبکه مورد نیاز دواپس",
+      "order": 2,
+      "children": [
+        {
+          "id": "networking-basics",
+          "title": "مبانی شبکه",
+          "description": "DNS، HTTP، TCP/IP، فایروال و لود بالانسر",
+          "resources": [
+            {
+              "title": "مبانی شبکه برای دواپس",
+              "type": "course",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۶ ساعت",
+              "language": "en",
+              "description": "دوره مبانی شبکه برای مهندسان دواپس"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "containerization",
+      "title": "کانتینرسازی",
+      "description": "Docker و مدیریت کانتینرها",
+      "order": 3,
+      "children": [
+        {
+          "id": "docker",
+          "title": "Docker",
+          "description": "ساخت، اجرا و مدیریت کانتینرهای Docker",
+          "resources": [
+            {
+              "title": "آموزش Docker",
+              "type": "course",
+              "url": "https://docker.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۸ ساعت",
+              "language": "en",
+              "description": "دوره رسمی Docker"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kubernetes",
+      "title": "Kubernetes",
+      "description": "ارکستراسیون کانتینرها با Kubernetes",
+      "order": 4,
+      "children": [
+        {
+          "id": "k8s-basics",
+          "title": "مبانی Kubernetes",
+          "description": "Pod، Service، Deployment، ConfigMap و Secret",
+          "resources": [
+            {
+              "title": "آموزش Kubernetes",
+              "type": "course",
+              "url": "https://kubernetes.io/docs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۱۲ ساعت",
+              "language": "en",
+              "description": "مستندات رسمی Kubernetes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cicd",
+      "title": "CI/CD",
+      "description": "پیاده‌سازی خط لوله‌های CI/CD",
+      "order": 5,
+      "children": [
+        {
+          "id": "cicd-tools",
+          "title": "ابزارهای CI/CD",
+          "description": "Jenkins، GitHub Actions، GitLab CI و ArgoCD",
+          "resources": [
+            {
+              "title": "آموزش CI/CD",
+              "type": "playlist",
+              "url": "https://youtube.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "۸ ساعت",
+              "language": "fa",
+              "description": "پلی‌لیست آموزش CI/CD به زبان فارسی"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "dockerize-app",
+      "title": "داکرایز کردن اپلیکیشن",
+      "level": "beginner",
+      "description": "یک اپلیکیشن وب ساده را داکرایز کنید.",
+      "requirements": [
+        "نوشتن Dockerfile",
+        "استفاده از Docker Compose",
+        "مدیریت Volume و Network"
+      ]
+    },
+    {
+      "id": "cicd-pipeline",
+      "title": "خط لوله CI/CD",
+      "level": "intermediate",
+      "description": "یک خط لوله CI/CD کامل برای یک اپلیکیشن بسازید.",
+      "requirements": [
+        "تست خودکار",
+        "ساخت Docker image",
+        "دیپلوی خودکار",
+        "اعلان‌رسانی"
+      ]
+    },
+    {
+      "id": "k8s-cluster",
+      "title": "کلاستر Kubernetes",
+      "level": "advanced",
+      "description": "یک کلاستر Kubernetes با چندین سرویس راه‌اندازی کنید.",
+      "requirements": [
+        "راه‌اندازی کلاستر",
+        "دیپلوی چند سرویس",
+        "Ingress و لود بالانسینگ",
+        "مانیتورینگ با Prometheus"
+      ]
+    }
+  ]
+}
