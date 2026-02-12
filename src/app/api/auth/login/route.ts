@@ -56,7 +56,7 @@ export async function POST(request: NextRequest) {
       data: session,
     });
 
-    response.cookies.set("cyver_token", token, {
+    response.cookies.set("devroad_token", token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
       sameSite: "lax",
