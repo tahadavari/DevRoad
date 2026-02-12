@@ -12,6 +12,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
+import Link from "next/link";
 import {
   Shield,
   Users,
@@ -20,6 +21,7 @@ import {
   ChevronUp,
   UserCheck,
   Crown,
+  MessageCircle,
 } from "lucide-react";
 
 interface AdminUser {
@@ -124,6 +126,12 @@ export default function AdminPage() {
           <h1 className="text-2xl font-bold">پنل مدیریت</h1>
           <p className="text-muted-foreground text-sm">مدیریت کاربران و نقش‌ها</p>
         </div>
+        <Link href="/admin/chat">
+          <Button variant="outline" size="sm" className="gap-1">
+            <MessageCircle className="h-4 w-4" />
+            مشاهده چت‌ها
+          </Button>
+        </Link>
       </div>
 
       {/* Stats */}

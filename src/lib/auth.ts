@@ -5,7 +5,7 @@ import { prisma } from "./prisma";
 import type { UserSession } from "@/types";
 
 const JWT_SECRET = process.env.JWT_SECRET || "fallback-secret";
-const TOKEN_COOKIE_NAME = "devroad_token";
+const TOKEN_COOKIE_NAME = "cyver_token";
 
 export async function hashPassword(password: string): Promise<string> {
   return bcrypt.hash(password, 12);

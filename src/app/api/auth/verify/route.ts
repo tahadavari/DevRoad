@@ -13,15 +13,27 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Find the latest valid verification code
-    const verificationCode = await prisma.verificationCode.findFirst({
-      where: {
-        email: email.toLowerCase(),
-        code,
-        expiresAt: { gt: new Date() },
-      },
-      orderBy: { createdAt: "desc" },
-    });
+    const isDevBypass =
+      process.env.NODE_ENV === "development" && code === "123456";
+
+    let verificationCode: { email: string } | null = null;
+
+    if (isDevBypass) {
+      // در حالت dev کد ۱۲۳۴۵۶ همیشه معتبر است
+      const user = await prisma.user.findUnique({
+        where: { email: email.toLowerCase() },
+      });
+      if (user) verificationCode = { email: user.email };
+    } else {
+      verificationCode = await prisma.verificationCode.findFirst({
+        where: {
+          email: email.toLowerCase(),
+          code,
+          expiresAt: { gt: new Date() },
+        },
+        orderBy: { createdAt: "desc" },
+      });
+    }
 
     if (!verificationCode) {
       return NextResponse.json(
