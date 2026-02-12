@@ -201,3 +201,37 @@
   background: var(--muted);
   font-size: 0.9em;
 }
+
+/* Voice Component - Telegram Style Animations */
+@keyframes voice-bar-animate {
+  0%, 100% { transform: scaleY(0.4); }
+  50% { transform: scaleY(1); }
+}
+
+@keyframes voice-pulse-ring {
+  0% { transform: scale(1); opacity: 0.6; }
+  100% { transform: scale(1.8); opacity: 0; }
+}
+
+@keyframes voice-recording-dot {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.3; }
+}
+
+.voice-bar-animated {
+  animation: voice-bar-animate 1.2s ease-in-out infinite;
+}
+
+.voice-pulse-ring::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  background: var(--primary);
+  animation: voice-pulse-ring 1.5s ease-out infinite;
+  z-index: -1;
+}
+
+.voice-recording-dot {
+  animation: voice-recording-dot 1s ease-in-out infinite;
+}
