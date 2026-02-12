@@ -1,8 +1,10 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { getRoadmapIndex } from "@/lib/roadmap";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
+import { buildPageMetadata, getAbsoluteUrl, siteConfig } from "@/lib/seo";
 import {
   Map,
   ArrowLeft,
@@ -15,6 +17,13 @@ import {
   Smartphone,
 } from "lucide-react";
 
+export const metadata: Metadata = buildPageMetadata({
+  title: "مسیر یادگیری برنامه‌نویسی",
+  description:
+    "با DevRoad مسیر یادگیری برنامه‌نویسی را با رودمپ‌های جامع، پروژه‌های عملی، منتورینگ و جامعه تخصصی فارسی شروع کنید.",
+  path: "/",
+});
+
 const iconMap: Record<string, React.ReactNode> = {
   Server: <Server className="h-8 w-8" />,
   Monitor: <Monitor className="h-8 w-8" />,
@@ -25,8 +34,30 @@ const iconMap: Record<string, React.ReactNode> = {
 export default function HomePage() {
   const { roadmaps } = getRoadmapIndex();
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "مسیرهای یادگیری DevRoad",
+    itemListElement: roadmaps.map((roadmap, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      name: roadmap.title,
+      description: roadmap.description,
+      url: getAbsoluteUrl(`/roadmaps/${roadmap.slug}`),
+    })),
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name,
+      url: siteConfig.url,
+    },
+  };
+
   return (
     <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Hero Section */}
       <section className="relative overflow-hidden border-b bg-gradient-to-b from-primary/5 to-background">
         <div className="container mx-auto px-4 py-20 md:py-32">

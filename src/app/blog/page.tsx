@@ -1,11 +1,15 @@
 import type { Metadata } from "next";
 import { getAllBlogsMeta } from "@/lib/blog";
 import { BlogListClient } from "@/components/blog/blog-list-client";
+import { buildPageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "بلاگ DevRoad",
-  description: "مطالب آموزشی و تجربیات برنامه‌نویسی به زبان فارسی",
-};
+export const metadata: Metadata = buildPageMetadata({
+  title: "بلاگ برنامه‌نویسی",
+  description:
+    "مطالب آموزشی، نکات حرفه‌ای و تجربه‌های کاربردی برنامه‌نویسی به زبان فارسی در بلاگ DevRoad.",
+  path: "/blog",
+  keywords: ["بلاگ برنامه نویسی", "آموزش برنامه نویسی", "مقالات برنامه نویسی", "DevRoad blog"],
+});
 
 export default function BlogPage() {
   const posts = getAllBlogsMeta();
