@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { getRoadmapIndex } from "@/lib/roadmap";
 import {
@@ -8,7 +9,15 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
+import { buildPageMetadata } from "@/lib/seo";
 import { Map, ArrowLeft, Server, Monitor, Cloud, Smartphone } from "lucide-react";
+
+export const metadata: Metadata = buildPageMetadata({
+  title: "رودمپ‌های برنامه‌نویسی",
+  description:
+    "بهترین رودمپ‌های فارسی برنامه‌نویسی برای بک‌اند، فرانت‌اند، موبایل و دواپس را ببینید و مسیر یادگیری‌تان را گام‌به‌گام شروع کنید.",
+  path: "/roadmaps",
+});
 
 const iconMap: Record<string, React.ReactNode> = {
   Server: <Server className="h-8 w-8" />,
