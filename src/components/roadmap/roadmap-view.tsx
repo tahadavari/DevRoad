@@ -7,12 +7,15 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Progress } from "@/components/ui/progress";
 import { StepDialog } from "./step-dialog";
-import { RoadmapFlow, getFirstIncompleteStepId } from "./flow/roadmap-flow";
 import { useAuthStore } from "@/lib/store";
 import {
   FolderKanban,
   MessageSquare,
   PlayCircle,
+  Check,
+  Circle,
+  ArrowUpRight,
+  BookOpen,
 } from "lucide-react";
 
 type ClickableStep = RoadmapStep | (RoadmapCategory & { resources: RoadmapResource[] });
@@ -32,10 +35,19 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
 
   const currentStepId = useMemo(() => {
     if (!user || !isStarted) return null;
-    return getFirstIncompleteStepId(roadmap, completedSteps);
+
+    for (const category of roadmap.steps) {
+      if (category.children?.length) {
+        const incompleteChild = category.children.find((child) => !completedSteps.has(child.id));
+        if (incompleteChild) return incompleteChild.id;
+      } else if (!completedSteps.has(category.id)) {
+        return category.id;
+      }
+    }
+
+    return null;
   }, [user, isStarted, roadmap, completedSteps]);
 
-  // Load user progress
   useEffect(() => {
     if (user) {
       fetch(`/api/progress?roadmapSlug=${roadmap.slug}`)
@@ -122,23 +134,22 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      {/* Header */}
-      <div className="mb-6">
+      <div className="mb-8 rounded-2xl border border-border/70 bg-card/70 p-6 backdrop-blur-sm">
         <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
           <div>
-            <h1 className="text-3xl font-bold">{roadmap.title}</h1>
-            <p className="mt-2 text-muted-foreground leading-relaxed max-w-2xl">
+            <h1 className="text-3xl font-bold tracking-tight">{roadmap.title}</h1>
+            <p className="mt-2 text-muted-foreground leading-relaxed max-w-3xl">
               {roadmap.description}
             </p>
           </div>
-          <div className="flex gap-2 shrink-0">
+          <div className="flex gap-2 shrink-0 flex-wrap">
             {!isStarted ? (
               <Button onClick={startRoadmap} className="gap-2">
                 <PlayCircle className="h-4 w-4" />
                 شروع مسیر
               </Button>
             ) : (
-              <Badge variant="secondary" className="text-sm py-1.5 px-3">
+              <Badge variant="secondary" className="text-sm py-1.5 px-3 h-fit">
                 در حال یادگیری
               </Badge>
             )}
@@ -157,9 +168,8 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
           </div>
         </div>
 
-        {/* Progress bar */}
         {isStarted && (
-          <div className="mt-6 max-w-xl">
+          <div className="mt-6 max-w-2xl">
             <div className="flex items-center justify-between text-sm mb-2">
               <span className="text-muted-foreground">پیشرفت شما</span>
               <span className="font-medium">
@@ -171,22 +181,126 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
         )}
       </div>
 
-      {/* React Flow Roadmap */}
-      <RoadmapFlow
-        roadmap={roadmap}
-        completedSteps={completedSteps}
-        isLoggedIn={!!user && isStarted}
-        currentStepId={currentStepId}
-        onStepClick={(step) => setSelectedStep(step)}
-        onToggleStep={toggleStep}
-      />
+      <section className="relative rounded-2xl border border-border/70 bg-background/90 p-4 sm:p-6">
+        <div className="mb-5 flex items-center gap-2 text-sm text-muted-foreground">
+          <BookOpen className="h-4 w-4" />
+          نقشه‌راه مرحله به مرحله (الهام گرفته از roadmap.sh)
+        </div>
 
-      {/* Hint */}
-      <p className="text-xs text-muted-foreground text-center mt-3">
-        روی هر مرحله کلیک کنید تا زیرمراحل باز شود یا منابع را ببینید. با چک‌باکس تکمیل را علامت بزنید. نودها را می‌توانید جابجا کنید.
-      </p>
+        <div className="space-y-5">
+          {roadmap.steps.map((category, index) => {
+            const hasChildren = !!category.children?.length;
+            const isCategoryDone = hasChildren
+              ? category.children!.every((child) => completedSteps.has(child.id))
+              : completedSteps.has(category.id);
 
-      {/* Step Detail Dialog */}
+            return (
+              <div key={category.id} className="relative">
+                {index !== roadmap.steps.length - 1 && (
+                  <div className="absolute right-6 top-12 h-[calc(100%+1.25rem)] w-px bg-border" />
+                )}
+
+                <div className="relative overflow-hidden rounded-xl border border-border/70 bg-card">
+                  <div className="flex items-start justify-between gap-3 border-b border-border/60 p-4">
+                    <button
+                      type="button"
+                      onClick={() =>
+                        setSelectedStep({
+                          ...category,
+                          resources: category.resources ?? [],
+                        })
+                      }
+                      className="text-right"
+                    >
+                      <p className="text-xs text-muted-foreground">مرحله {index + 1}</p>
+                      <h2 className="text-lg font-semibold hover:text-primary transition-colors">
+                        {category.title}
+                      </h2>
+                      <p className="mt-1 text-sm text-muted-foreground line-clamp-2">
+                        {category.description}
+                      </p>
+                    </button>
+
+                    <div className="flex items-center gap-2">
+                      {category.linkedRoadmapSlug && (
+                        <a
+                          href={`/roadmaps/${category.linkedRoadmapSlug}`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-border hover:bg-accent"
+                          title="باز کردن نقشه‌راه مرتبط"
+                        >
+                          <ArrowUpRight className="h-4 w-4" />
+                        </a>
+                      )}
+
+                      <button
+                        type="button"
+                        disabled={!isStarted || (!user && !isStarted)}
+                        onClick={() => toggleStep(category.id)}
+                        className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-border hover:bg-accent disabled:opacity-40 disabled:cursor-not-allowed"
+                        title={isStarted ? "تغییر وضعیت تکمیل" : "ابتدا مسیر را شروع کنید"}
+                      >
+                        {isCategoryDone ? <Check className="h-4 w-4" /> : <Circle className="h-4 w-4" />}
+                      </button>
+                    </div>
+                  </div>
+
+                  {hasChildren && (
+                    <div className="grid gap-3 p-4 sm:grid-cols-2">
+                      {category.children!.map((step) => {
+                        const isDone = completedSteps.has(step.id);
+                        const isCurrent = currentStepId === step.id;
+
+                        return (
+                          <div
+                            key={step.id}
+                            className={`rounded-lg border p-3 transition-colors ${
+                              isCurrent
+                                ? "border-primary/60 bg-primary/5"
+                                : "border-border/70 hover:border-primary/40"
+                            }`}
+                          >
+                            <div className="flex items-start justify-between gap-2">
+                              <button
+                                type="button"
+                                className="text-right"
+                                onClick={() => setSelectedStep(step)}
+                              >
+                                <h3 className="font-medium leading-snug hover:text-primary transition-colors">
+                                  {step.title}
+                                </h3>
+                                <p className="mt-1 text-xs text-muted-foreground line-clamp-2">
+                                  {step.description}
+                                </p>
+                              </button>
+
+                              <button
+                                type="button"
+                                onClick={() => toggleStep(step.id)}
+                                disabled={!isStarted || (!user && !isStarted)}
+                                className="inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-md border border-border hover:bg-accent disabled:opacity-40 disabled:cursor-not-allowed"
+                              >
+                                {isDone ? <Check className="h-4 w-4" /> : <Circle className="h-4 w-4" />}
+                              </button>
+                            </div>
+                            {isCurrent && (
+                              <Badge variant="default" className="mt-2 text-[10px]">
+                                مرحله فعلی
+                              </Badge>
+                            )}
+                          </div>
+                        );
+                      })}
+                    </div>
+                  )}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </section>
+
       {selectedStep && (
         <StepDialog
           step={selectedStep}
