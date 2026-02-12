@@ -24,6 +24,7 @@ import {
   Clock,
   Mic,
   AudioLines,
+  Play,
 } from "lucide-react";
 
 interface Answer {
@@ -306,33 +307,120 @@ export default function QuestionPage() {
 
       <Separator className="my-6" />
 
-      <Card className="mb-6 overflow-hidden border-primary/20 bg-gradient-to-br from-primary/5 via-background to-background shadow-sm">
-        <CardContent className="p-5">
-          <div className="flex items-center justify-between gap-3 flex-wrap">
-            <div className="flex items-center gap-3">
-              <div className="flex h-11 w-11 items-center justify-center rounded-full bg-primary/15 text-primary">
-                <Mic className="h-5 w-5" />
+      {/* Voice Component - Telegram Style */}
+      <Card className="mb-6 overflow-hidden border-0 shadow-lg bg-card">
+        {/* Header */}
+        <div className="flex items-center justify-between px-5 py-3 border-b border-border/50 bg-gradient-to-l from-primary/5 to-transparent">
+          <div className="flex items-center gap-2.5">
+            <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary/10">
+              <AudioLines className="h-4 w-4 text-primary" />
+            </div>
+            <span className="text-sm font-semibold">پیام صوتی</span>
+          </div>
+          <Badge variant="secondary" className="text-[10px] px-2 py-0.5 rounded-full">
+            به‌زودی
+          </Badge>
+        </div>
+
+        <CardContent className="p-5 space-y-4">
+          {/* Voice Message 1 - Received Style */}
+          <div className="flex items-start gap-2.5 max-w-[340px]">
+            <Avatar className="h-8 w-8 shrink-0 mt-1">
+              <AvatarFallback className="text-xs bg-blue-100 text-blue-600 dark:bg-blue-900 dark:text-blue-300">م</AvatarFallback>
+            </Avatar>
+            <div className="bg-muted/80 dark:bg-muted/40 rounded-2xl rounded-tr-sm px-3 py-2.5 flex-1 shadow-sm">
+              <div className="flex items-center gap-2.5">
+                <button className="h-10 w-10 rounded-full bg-primary text-primary-foreground flex items-center justify-center shrink-0 shadow-md hover:shadow-lg transition-shadow">
+                  <Play className="h-4 w-4 mr-[-2px]" />
+                </button>
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-end gap-[2px] h-7">
+                    {[4, 8, 6, 14, 8, 18, 10, 6, 20, 14, 8, 24, 16, 10, 22, 14, 6, 16, 26, 18, 12, 8, 16, 20, 14, 8, 12, 18, 22, 16, 10, 14, 8, 12, 6].map((h, i) => (
+                      <span
+                        key={i}
+                        className={`w-[3px] rounded-full shrink-0 transition-all ${
+                          i < 14 ? "bg-primary" : "bg-primary/25"
+                        }`}
+                        style={{ height: `${h}px` }}
+                      />
+                    ))}
+                  </div>
+                  <div className="flex items-center justify-between mt-1.5">
+                    <span className="text-[10px] text-muted-foreground font-mono">0:24</span>
+                    <span className="text-[10px] text-muted-foreground font-mono">1:05</span>
+                  </div>
+                </div>
               </div>
-              <div>
-                <p className="font-medium">کامپوننت وویس</p>
-                <p className="text-xs text-muted-foreground">
-                  رابط کاربری ضبط وویس با طراحی جدید و مدرن
+            </div>
+          </div>
+
+          {/* Voice Message 2 - Sent Style */}
+          <div className="flex items-start gap-2.5 max-w-[340px] mr-0 ml-auto flex-row-reverse">
+            <Avatar className="h-8 w-8 shrink-0 mt-1">
+              <AvatarFallback className="text-xs bg-primary/15 text-primary">ش</AvatarFallback>
+            </Avatar>
+            <div className="bg-primary/10 dark:bg-primary/20 rounded-2xl rounded-tl-sm px-3 py-2.5 flex-1 shadow-sm">
+              <div className="flex items-center gap-2.5">
+                <button className="h-10 w-10 rounded-full bg-primary text-primary-foreground flex items-center justify-center shrink-0 shadow-md hover:shadow-lg transition-shadow">
+                  <Play className="h-4 w-4 mr-[-2px]" />
+                </button>
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-end gap-[2px] h-7">
+                    {[6, 10, 14, 8, 20, 12, 6, 18, 24, 10, 16, 8, 22, 14, 6, 12, 20, 16, 8, 14, 10, 18, 6, 12, 8, 16, 22, 10, 14, 6].map((h, i) => (
+                      <span
+                        key={i}
+                        className="w-[3px] rounded-full shrink-0 bg-primary/30"
+                        style={{ height: `${h}px` }}
+                      />
+                    ))}
+                  </div>
+                  <div className="flex items-center justify-between mt-1.5">
+                    <span className="text-[10px] text-muted-foreground font-mono">0:00</span>
+                    <span className="text-[10px] text-muted-foreground font-mono">0:42</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Divider */}
+          <div className="relative py-2">
+            <div className="absolute inset-0 flex items-center">
+              <div className="w-full border-t border-dashed border-border/60" />
+            </div>
+          </div>
+
+          {/* Recording Area */}
+          <div className="flex flex-col items-center gap-4 py-2">
+            {/* Animated Waveform Preview */}
+            <div className="flex items-center gap-[3px] h-8 opacity-40">
+              {[8, 14, 10, 20, 16, 24, 12, 18, 8, 22, 14, 28, 10, 16, 24, 20, 8, 14, 18, 12, 26, 16, 10, 20, 14].map((h, i) => (
+                <span
+                  key={i}
+                  className="w-[3px] rounded-full bg-primary voice-bar-animated"
+                  style={{
+                    height: `${h}px`,
+                    animationDelay: `${i * 0.08}s`,
+                  }}
+                />
+              ))}
+            </div>
+
+            {/* Mic Button */}
+            <div className="flex items-center gap-4">
+              <div className="relative">
+                <button className="relative h-14 w-14 rounded-full bg-gradient-to-br from-primary to-primary/80 text-primary-foreground flex items-center justify-center shadow-xl hover:shadow-2xl transition-all hover:scale-105 voice-pulse-ring">
+                  <Mic className="h-6 w-6" />
+                </button>
+                <span className="absolute bottom-0 left-0 h-3.5 w-3.5 rounded-full bg-red-500 border-2 border-card voice-recording-dot" />
+              </div>
+              <div className="text-right">
+                <p className="text-sm font-semibold">ضبط پیام صوتی</p>
+                <p className="text-[11px] text-muted-foreground">
+                  نگه دارید و صحبت کنید
                 </p>
               </div>
             </div>
-            <div className="flex items-center gap-2 rounded-full border border-primary/30 bg-background px-3 py-1.5 text-xs text-primary">
-              <AudioLines className="h-4 w-4" />
-              به‌زودی فعال می‌شود
-            </div>
-          </div>
-          <div className="mt-4 flex items-center gap-1.5">
-            {[60, 35, 50, 28, 55, 40, 62, 30, 46].map((h, i) => (
-              <span
-                key={i}
-                className="w-1.5 rounded-full bg-primary/60"
-                style={{ height: `${h / 4}px` }}
-              />
-            ))}
           </div>
         </CardContent>
       </Card>
