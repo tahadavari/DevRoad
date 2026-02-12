@@ -15,14 +15,54 @@
           "description": "تگ‌ها، المان‌ها، فرم‌ها و ساختار معنایی HTML",
           "resources": [
             {
-              "title": "آموزش HTML - W3Schools",
+              "title": "Structuring content with HTML - MDN",
               "type": "article",
-              "url": "https://www.w3schools.com/html/",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۵ ساعت",
+              "duration": "2 hours",
               "language": "en",
-              "description": "آموزش کامل HTML از مبتدی تا پیشرفته"
+              "description": "Official HTML learning path from MDN."
+            },
+            {
+              "title": "HTML articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "30 min",
+              "language": "fa",
+              "description": "Curated Persian posts for HTML basics."
+            },
+            {
+              "title": "Free Persian HTML/CSS course - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+html+css+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10+ hours",
+              "language": "fa",
+              "description": "Free Persian course-style content for HTML/CSS."
+            },
+            {
+              "title": "HTML Full Course - freeCodeCamp",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=mU6anWqZJcc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4 hours",
+              "language": "en",
+              "description": "Complete HTML video for beginners."
+            },
+            {
+              "title": "Persian HTML/CSS playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/html_css",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8+ hours",
+              "language": "fa",
+              "description": "Aparat playlists for Persian HTML/CSS practice."
             }
           ]
         }
@@ -40,14 +80,54 @@
           "description": "سلکتورها، باکس مدل، Flexbox، Grid و انیمیشن‌ها",
           "resources": [
             {
-              "title": "آموزش CSS - فارسی",
-              "type": "playlist",
-              "url": "https://youtube.com",
+              "title": "CSS Tutorials - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۸ ساعت",
+              "duration": "3 hours",
+              "language": "en",
+              "description": "Official CSS tutorials including Flexbox and Grid."
+            },
+            {
+              "title": "CSS articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/css",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "30 min",
               "language": "fa",
-              "description": "پلی‌لیست آموزش CSS به زبان فارسی"
+              "description": "Persian CSS explainers and examples."
+            },
+            {
+              "title": "Free CSS course in Persian - Roocket",
+              "type": "course",
+              "url": "https://roocket.ir/series/learn-css/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "6+ hours",
+              "language": "fa",
+              "description": "Free Persian CSS series."
+            },
+            {
+              "title": "CSS Full Course for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=OXGznpKZ_sA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "11 hours",
+              "language": "en",
+              "description": "Full beginner-to-intermediate CSS video."
+            },
+            {
+              "title": "Persian CSS playlists - YouTube",
+              "type": "playlist",
+              "url": "https://www.youtube.com/results?search_query=free+persian+css+playlist",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8+ hours",
+              "language": "fa",
+              "description": "Persian CSS playlists with practical exercises."
             }
           ]
         }
@@ -65,14 +145,54 @@
           "description": "متغیرها، توابع، حلقه‌ها، آرایه‌ها، اشیاء و DOM",
           "resources": [
             {
-              "title": "آموزش جاوااسکریپت - الگانس",
-              "type": "course",
-              "url": "https://eloquentjavascript.net",
+              "title": "The JavaScript Language - javascript.info",
+              "type": "article",
+              "url": "https://javascript.info/first-steps",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۲۰ ساعت",
+              "duration": "2 hours",
               "language": "en",
-              "description": "کتاب آنلاین رایگان Eloquent JavaScript"
+              "description": "Step-by-step JavaScript fundamentals."
+            },
+            {
+              "title": "JavaScript articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "30 min",
+              "language": "fa",
+              "description": "Persian JavaScript basics and examples."
+            },
+            {
+              "title": "Free JavaScript course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+javascript+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "20+ hours",
+              "language": "fa",
+              "description": "Free Persian JavaScript course content."
+            },
+            {
+              "title": "JavaScript Full Course - freeCodeCamp",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "3 hours",
+              "language": "en",
+              "description": "Quick but complete JavaScript introduction."
+            },
+            {
+              "title": "Persian JavaScript playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "12+ hours",
+              "language": "fa",
+              "description": "Persian JavaScript playlists on Aparat."
             }
           ]
         },
@@ -82,14 +202,54 @@
           "description": "Arrow functions، Destructuring، Modules، Async/Await و ...",
           "resources": [
             {
-              "title": "JavaScript مدرن",
+              "title": "JavaScript Guide (ES6+) - MDN",
               "type": "article",
-              "url": "https://javascript.info",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱۵ ساعت",
+              "duration": "3 hours",
               "language": "en",
-              "description": "آموزش کامل JavaScript مدرن"
+              "description": "Core ES6+ concepts in the official guide."
+            },
+            {
+              "title": "ES6 articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/es6",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "25 min",
+              "language": "fa",
+              "description": "Persian ES6 explainers and examples."
+            },
+            {
+              "title": "Free ES6 course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+es6+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "6+ hours",
+              "language": "fa",
+              "description": "Free ES6-focused Persian lessons."
+            },
+            {
+              "title": "ES6 JavaScript Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=NCwa_xi0Uuc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1.5 hours",
+              "language": "en",
+              "description": "Practical ES6 feature walkthrough."
+            },
+            {
+              "title": "Persian ES6 playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/es6",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "5+ hours",
+              "language": "fa",
+              "description": "Persian ES6 playlists for modern JS."
             }
           ]
         }
@@ -107,14 +267,54 @@
           "description": "کامپوننت‌ها، State، Props، Hooks و مدیریت فرم",
           "resources": [
             {
-              "title": "مستندات رسمی React",
+              "title": "Learn React - Official Docs",
               "type": "article",
-              "url": "https://react.dev",
+              "url": "https://react.dev/learn",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱۰ ساعت",
+              "duration": "4 hours",
               "language": "en",
-              "description": "مستندات رسمی React - بهترین منبع برای شروع"
+              "description": "Official React learning track."
+            },
+            {
+              "title": "React articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/reactjs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "30 min",
+              "language": "fa",
+              "description": "Persian React guides and tips."
+            },
+            {
+              "title": "Free React course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+react+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "20+ hours",
+              "language": "fa",
+              "description": "Free Persian React courses and projects."
+            },
+            {
+              "title": "React Course for Beginners - freeCodeCamp",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "11 hours",
+              "language": "en",
+              "description": "Comprehensive React course video."
+            },
+            {
+              "title": "Persian React playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/react",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10+ hours",
+              "language": "fa",
+              "description": "Persian React playlists on Aparat."
             }
           ]
         }
@@ -132,14 +332,54 @@
           "description": "تایپ‌ها، اینترفیس‌ها، جنریک‌ها و پیکربندی",
           "resources": [
             {
-              "title": "آموزش TypeScript",
-              "type": "course",
-              "url": "https://typescriptlang.org",
+              "title": "TypeScript Handbook",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۸ ساعت",
+              "duration": "3 hours",
               "language": "en",
-              "description": "مستندات رسمی TypeScript"
+              "description": "Official TypeScript documentation and handbook."
+            },
+            {
+              "title": "TypeScript articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/typescript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "25 min",
+              "language": "fa",
+              "description": "Persian TypeScript explainers."
+            },
+            {
+              "title": "Free TypeScript course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+typescript+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10+ hours",
+              "language": "fa",
+              "description": "Free Persian TypeScript lessons."
+            },
+            {
+              "title": "TypeScript Full Course - freeCodeCamp",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=30LWjhZzg50",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4.5 hours",
+              "language": "en",
+              "description": "Complete TypeScript video course."
+            },
+            {
+              "title": "Persian TypeScript playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/typescript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8+ hours",
+              "language": "fa",
+              "description": "Persian TypeScript playlists for practice."
             }
           ]
         }
@@ -157,14 +397,54 @@
           "description": "App Router، SSR، SSG، API Routes و میدلور",
           "resources": [
             {
-              "title": "مستندات Next.js",
+              "title": "Next.js Documentation",
               "type": "article",
               "url": "https://nextjs.org/docs",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱۲ ساعت",
+              "duration": "4 hours",
               "language": "en",
-              "description": "مستندات رسمی Next.js"
+              "description": "Official Next.js docs for App Router and SSR."
+            },
+            {
+              "title": "Next.js articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/nextjs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "25 min",
+              "language": "fa",
+              "description": "Persian Next.js articles for practical learning."
+            },
+            {
+              "title": "Free Next.js course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+nextjs+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "12+ hours",
+              "language": "fa",
+              "description": "Free Persian Next.js tutorials and projects."
+            },
+            {
+              "title": "Next.js Full Course for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=1WmNXEVia8I",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "6 hours",
+              "language": "en",
+              "description": "Hands-on Next.js full course."
+            },
+            {
+              "title": "Persian Next.js playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/nextjs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8+ hours",
+              "language": "fa",
+              "description": "Aparat playlists for Persian Next.js learning."
             }
           ]
         }

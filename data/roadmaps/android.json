@@ -15,14 +15,54 @@
           "description": "معماری اندروید، نسخه‌ها و ابزارهای توسعه",
           "resources": [
             {
-              "title": "مستندات رسمی اندروید",
+              "title": "Android Developers - Build your first app",
               "type": "article",
-              "url": "https://developer.android.com",
+              "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۲ ساعت",
+              "duration": "1 hour",
               "language": "en",
-              "description": "راهنمای رسمی توسعه اندروید"
+              "description": "Official getting started codelab for Android."
+            },
+            {
+              "title": "Android articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/android",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "30 min",
+              "language": "fa",
+              "description": "Persian Android starter articles."
+            },
+            {
+              "title": "Free Android course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+android+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "20+ hours",
+              "language": "fa",
+              "description": "Free Persian Android course content."
+            },
+            {
+              "title": "Android Development for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fis26HvvDII",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4 hours",
+              "language": "en",
+              "description": "Beginner Android development video."
+            },
+            {
+              "title": "Persian Android playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/android",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "15+ hours",
+              "language": "fa",
+              "description": "Aparat Android playlists in Persian."
             }
           ]
         }
@@ -40,14 +80,54 @@
           "description": "سینتکس Kotlin، null safety و Coroutines مقدماتی",
           "resources": [
             {
-              "title": "آموزش Kotlin - رسمی",
-              "type": "course",
-              "url": "https://kotlinlang.org/docs",
+              "title": "Kotlin Docs - Getting Started",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/getting-started.html",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱۰ ساعت",
+              "duration": "1 hour",
               "language": "en",
-              "description": "مستندات و آموزش رسمی Kotlin"
+              "description": "Official Kotlin language quickstart."
+            },
+            {
+              "title": "Kotlin articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/kotlin",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "25 min",
+              "language": "fa",
+              "description": "Persian Kotlin basics and examples."
+            },
+            {
+              "title": "Free Kotlin course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+kotlin+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "12+ hours",
+              "language": "fa",
+              "description": "Free Persian Kotlin tutorials."
+            },
+            {
+              "title": "Kotlin Course for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=F9UC9DY-vIU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4 hours",
+              "language": "en",
+              "description": "Kotlin beginner full video."
+            },
+            {
+              "title": "Persian Kotlin playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/kotlin",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10+ hours",
+              "language": "fa",
+              "description": "Aparat Kotlin playlists in Persian."
             }
           ]
         }
@@ -63,13 +143,115 @@
           "id": "layouts-views",
           "title": "Layout و View",
           "description": "ConstraintLayout، RecyclerView و طراحی UI",
-          "resources": []
+          "resources": [
+            {
+              "title": "Compose Layout Basics - Android",
+              "type": "article",
+              "url": "https://developer.android.com/develop/ui/compose/layouts/basics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1 hour",
+              "language": "en",
+              "description": "Official layout and UI composition basics."
+            },
+            {
+              "title": "Android UI articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/android-ui",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "20 min",
+              "language": "fa",
+              "description": "Persian Android UI articles."
+            },
+            {
+              "title": "Free Android UI course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+android+ui+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8+ hours",
+              "language": "fa",
+              "description": "Free Persian UI-focused Android content."
+            },
+            {
+              "title": "Android Layouts and UI Basics",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=BBWyXo-3JGQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1.5 hours",
+              "language": "en",
+              "description": "UI fundamentals in Android."
+            },
+            {
+              "title": "Persian Android UI playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/android_ui",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8+ hours",
+              "language": "fa",
+              "description": "Aparat playlists for Android UI in Persian."
+            }
+          ]
         },
         {
           "id": "jetpack-compose",
           "title": "Jetpack Compose",
           "description": "ساخت UI با رویکرد declarative در اندروید",
-          "resources": []
+          "resources": [
+            {
+              "title": "Jetpack Compose Documentation",
+              "type": "article",
+              "url": "https://developer.android.com/compose",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "2 hours",
+              "language": "en",
+              "description": "Official Jetpack Compose docs."
+            },
+            {
+              "title": "Jetpack Compose articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/jetpack-compose",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "20 min",
+              "language": "fa",
+              "description": "Persian Compose articles and notes."
+            },
+            {
+              "title": "Free Jetpack Compose course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+jetpack+compose+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10+ hours",
+              "language": "fa",
+              "description": "Free Persian Compose tutorials."
+            },
+            {
+              "title": "Jetpack Compose Crash Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=6_wK_Ud8--0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "2 hours",
+              "language": "en",
+              "description": "Practical introduction to Compose."
+            },
+            {
+              "title": "Persian Jetpack Compose playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/jetpack_compose",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8+ hours",
+              "language": "fa",
+              "description": "Aparat Compose playlists in Persian."
+            }
+          ]
         }
       ]
     },
@@ -83,13 +265,115 @@
           "id": "room-db",
           "title": "Room Database",
           "description": "دیتابیس لوکال با Room",
-          "resources": []
+          "resources": [
+            {
+              "title": "Save data with Room - Android",
+              "type": "article",
+              "url": "https://developer.android.com/training/data-storage/room",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1 hour",
+              "language": "en",
+              "description": "Official Room persistence guide."
+            },
+            {
+              "title": "Room Database articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/room-database",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "20 min",
+              "language": "fa",
+              "description": "Persian Room Database introductions."
+            },
+            {
+              "title": "Free Room Database course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+room+database+android+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "6+ hours",
+              "language": "fa",
+              "description": "Free Persian Room-focused content."
+            },
+            {
+              "title": "Room Database Android Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=bOd3wO0uFr8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1 hour",
+              "language": "en",
+              "description": "Hands-on Room example walkthrough."
+            },
+            {
+              "title": "Persian Room DB playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/room_database",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "5+ hours",
+              "language": "fa",
+              "description": "Aparat playlists for Room in Persian."
+            }
+          ]
         },
         {
           "id": "networking",
           "title": "شبکه و API",
           "description": "Retrofit، OkHttp و دریافت داده از سرور",
-          "resources": []
+          "resources": [
+            {
+              "title": "Retrofit Documentation",
+              "type": "article",
+              "url": "https://square.github.io/retrofit/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "45 min",
+              "language": "en",
+              "description": "Official Retrofit docs for networking."
+            },
+            {
+              "title": "Retrofit articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/retrofit",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "20 min",
+              "language": "fa",
+              "description": "Persian Retrofit tutorials and guides."
+            },
+            {
+              "title": "Free Retrofit course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+retrofit+android+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "6+ hours",
+              "language": "fa",
+              "description": "Free Persian Retrofit tutorials."
+            },
+            {
+              "title": "Android Networking with Retrofit",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=t6Sql3WMAnk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1 hour",
+              "language": "en",
+              "description": "Build an API layer with Retrofit."
+            },
+            {
+              "title": "Persian Retrofit playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/retrofit",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4+ hours",
+              "language": "fa",
+              "description": "Aparat Retrofit playlists in Persian."
+            }
+          ]
         }
       ]
     },
@@ -103,13 +387,115 @@
           "id": "build-release",
           "title": "ساخت و امضای نسخه",
           "description": "Build variants و امضای اپلیکیشن",
-          "resources": []
+          "resources": [
+            {
+              "title": "Build for release - Android",
+              "type": "article",
+              "url": "https://developer.android.com/build/build-for-release",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "45 min",
+              "language": "en",
+              "description": "Official Android release build guide."
+            },
+            {
+              "title": "Android release articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/android-release",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "20 min",
+              "language": "fa",
+              "description": "Persian guides for Android release builds."
+            },
+            {
+              "title": "Free Android release course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+android+release+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4+ hours",
+              "language": "fa",
+              "description": "Free Persian release/signing tutorials."
+            },
+            {
+              "title": "Android App Signing Explained",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=8rjRfkg3elA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "30 min",
+              "language": "en",
+              "description": "App signing and release explained."
+            },
+            {
+              "title": "Persian Android release playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/android_release",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "3+ hours",
+              "language": "fa",
+              "description": "Aparat playlists for Android publishing steps."
+            }
+          ]
         },
         {
           "id": "play-store",
           "title": "Google Play Console",
           "description": "ثبت اپ، متادیتا و انتشار در مارکت",
-          "resources": []
+          "resources": [
+            {
+              "title": "Google Play Console Help",
+              "type": "article",
+              "url": "https://support.google.com/googleplay/android-developer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1 hour",
+              "language": "en",
+              "description": "Official Play Console support docs."
+            },
+            {
+              "title": "Google Play articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/google-play",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "20 min",
+              "language": "fa",
+              "description": "Persian Google Play publishing notes."
+            },
+            {
+              "title": "Free Google Play publish course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+google+play+publish+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "5+ hours",
+              "language": "fa",
+              "description": "Free Persian Google Play publishing tutorials."
+            },
+            {
+              "title": "How to publish an app on Google Play",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fyQUnK7P7H4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "25 min",
+              "language": "en",
+              "description": "Practical Play Store publish walkthrough."
+            },
+            {
+              "title": "Persian Google Play playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/google_play_console",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "3+ hours",
+              "language": "fa",
+              "description": "Aparat playlists for Play Console in Persian."
+            }
+          ]
         }
       ]
     }

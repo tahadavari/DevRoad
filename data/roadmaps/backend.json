@@ -390,6 +390,26 @@
               "duration": "10 دقیقه",
               "language": "fa",
               "description": "مرور فارسی NoSQL و کاربردها."
+            },
+            {
+              "title": "MongoDB در یک ویدیو - کوئرا",
+              "type": "video",
+              "url": "https://quera.org/course/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1 ساعت",
+              "language": "fa",
+              "description": "آشنایی با MongoDB به فارسی."
+            },
+            {
+              "title": "Redis Crash Course - Traversy Media",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=jgpVdJB2sKQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1 hour",
+              "language": "en",
+              "description": "شروع سریع Redis به انگلیسی."
             }
           ]
         },
@@ -786,6 +806,284 @@
           "duration": "1 ساعت",
           "language": "fa",
           "description": "پیاده‌سازی Pipeline ساده به زبان فارسی."
+        },
+        {
+          "title": "What is CI and CD? - roadmap.sh",
+          "type": "article",
+          "url": "https://roadmap.sh/guides/ci-cd",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "15 min",
+          "language": "en",
+          "description": "راهنمای تصویری CI/CD."
+        },
+        {
+          "title": "دوره رایگان DevOps و CI/CD - مکتب‌خونه",
+          "type": "course",
+          "url": "https://maktabkhooneh.org/course/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "4 ساعت",
+          "language": "fa",
+          "description": "مفاهیم DevOps و Pipeline به فارسی."
+        }
+      ]
+    },
+    {
+      "id": "web-security",
+      "title": "امنیت وب",
+      "description": "مفاهیم امنیت وب: HTTPS، SSL/TLS، هش پسورد، OWASP و بهترین شیوه‌های امنیت API",
+      "order": 11,
+      "resources": [
+        {
+          "title": "OWASP Top 10",
+          "type": "article",
+          "url": "https://owasp.org/www-project-top-ten/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "1 hour",
+          "language": "en",
+          "description": "مرجع معتبر آسیب‌پذیری‌های رایج وب."
+        },
+        {
+          "title": "API Security Best Practices - roadmap.sh",
+          "type": "article",
+          "url": "https://roadmap.sh/best-practices/api-security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "25 min",
+          "language": "en",
+          "description": "بهترین شیوه‌های امنیت API."
+        },
+        {
+          "title": "امنیت وب و HTTPS - فرادرس",
+          "type": "course",
+          "url": "https://faradars.org/courses",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "2 ساعت",
+          "language": "fa",
+          "description": "آشنایی با SSL/TLS و امنیت ارتباط."
+        },
+        {
+          "title": "Web Security - Web.dev",
+          "type": "article",
+          "url": "https://web.dev/secure/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "45 min",
+          "language": "en",
+          "description": "راهنمای امنیت وب گوگل."
+        }
+      ]
+    },
+    {
+      "id": "web-servers",
+      "title": "وب‌سرورها",
+      "description": "آشنایی با Nginx، Apache، Caddy و نقش Reverse Proxy و Load Balancer",
+      "order": 12,
+      "resources": [
+        {
+          "title": "Nginx Beginner's Guide",
+          "type": "article",
+          "url": "https://nginx.org/en/docs/beginners_guide.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "1 hour",
+          "language": "en",
+          "description": "راهنمای رسمی Nginx."
+        },
+        {
+          "title": "Nginx vs Apache - DigitalOcean",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/nginx-vs-apache",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "15 min",
+          "language": "en",
+          "description": "مقایسه دو وب‌سرور پرکاربرد."
+        },
+        {
+          "title": "آموزش Nginx فارسی - آپارات",
+          "type": "playlist",
+          "url": "https://www.aparat.com/v/gD3Q4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "2 ساعت",
+          "language": "fa",
+          "description": "نصب و تنظیم Nginx به فارسی."
+        }
+      ]
+    },
+    {
+      "id": "message-brokers",
+      "title": "Message Brokers",
+      "description": "صف پیام و ارتباط Async: Kafka، RabbitMQ و کاربرد در معماری Event-Driven",
+      "order": 13,
+      "resources": [
+        {
+          "title": "Apache Kafka Documentation",
+          "type": "article",
+          "url": "https://kafka.apache.org/documentation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "2 hours",
+          "language": "en",
+          "description": "مستندات رسمی Kafka."
+        },
+        {
+          "title": "RabbitMQ Get Started",
+          "type": "article",
+          "url": "https://www.rabbitmq.com/getstarted.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "1 hour",
+          "language": "en",
+          "description": "شروع کار با RabbitMQ."
+        },
+        {
+          "title": "Kafka vs RabbitMQ - YouTube",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=6w2K1b2FODU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "20 min",
+          "language": "en",
+          "description": "مقایسه دو Message Broker."
+        },
+        {
+          "title": "آموزش RabbitMQ - راکت",
+          "type": "article",
+          "url": "https://roocket.ir/articles",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "25 دقیقه",
+          "language": "fa",
+          "description": "مفاهیم صف پیام به فارسی."
+        }
+      ]
+    },
+    {
+      "id": "search-engines",
+      "title": "موتورهای جستجو",
+      "description": "جستجوی full-text و Elasticsearch، Solr برای اپلیکیشن‌های بزرگ",
+      "order": 14,
+      "resources": [
+        {
+          "title": "Elasticsearch Guide",
+          "type": "article",
+          "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "3 hours",
+          "language": "en",
+          "description": "راهنمای رسمی Elasticsearch."
+        },
+        {
+          "title": "Elasticsearch Full Course - freeCodeCamp",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=6oRj2Qf0SAg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "2 hours",
+          "language": "en",
+          "description": "دوره ویدیویی Elasticsearch."
+        },
+        {
+          "title": "Elasticsearch چیست؟ - ویرگول",
+          "type": "article",
+          "url": "https://vrgl.ir/elastic",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "12 دقیقه",
+          "language": "fa",
+          "description": "معرفی Elasticsearch به فارسی."
+        }
+      ]
+    },
+    {
+      "id": "realtime-data",
+      "title": "داده بلادرنگ",
+      "description": "WebSockets، Server-Sent Events و Long/Short Polling برای ارتباط Real-Time",
+      "order": 15,
+      "resources": [
+        {
+          "title": "WebSocket API - MDN",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "30 min",
+          "language": "en",
+          "description": "مرجع WebSocket در MDN."
+        },
+        {
+          "title": "Socket.io Documentation",
+          "type": "article",
+          "url": "https://socket.io/docs/v4/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "1 hour",
+          "language": "en",
+          "description": "کتابخانه محبوب Real-Time در Node.js."
+        },
+        {
+          "title": "Real-Time Apps with Node - freeCodeCamp",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ZKEqqIO7n-k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "2 hours",
+          "language": "en",
+          "description": "ساخت اپ Real-Time با Node و Socket.io."
+        },
+        {
+          "title": "آموزش Socket.io و چت Real-Time - آپارات",
+          "type": "video",
+          "url": "https://www.aparat.com/v/8x4j1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "1 ساعت",
+          "language": "fa",
+          "description": "چت بلادرنگ با Node و Socket.io به فارسی."
+        }
+      ]
+    },
+    {
+      "id": "open-api",
+      "title": "Open API Specs",
+      "description": "مستندسازی API با OpenAPI (Swagger) و طراحی قرارداد API",
+      "order": 16,
+      "resources": [
+        {
+          "title": "OpenAPI Specification",
+          "type": "article",
+          "url": "https://swagger.io/specification/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "1 hour",
+          "language": "en",
+          "description": "استاندارد رسمی OpenAPI."
+        },
+        {
+          "title": "Swagger Editor - Try it",
+          "type": "article",
+          "url": "https://editor.swagger.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "30 min",
+          "language": "en",
+          "description": "نوشتن و تست Spec در مرورگر."
+        },
+        {
+          "title": "مستندسازی API با Swagger - راکت",
+          "type": "article",
+          "url": "https://roocket.ir/articles",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "20 دقیقه",
+          "language": "fa",
+          "description": "آموزش Swagger به فارسی."
         }
       ]
     }

@@ -1,0 +1,88 @@
+---
+title: ۸ مهارت پرتقاضای Backend Developer که باید یاد بگیرید
+slug: backend-developer-skills
+authorEmail: team@devroad.ir
+date: '2026-02-12'
+description: >-
+  ترجمه مقاله roadmap.sh درباره مهارت‌های کلیدی توسعه‌دهنده بک‌اند برای ماندن در
+  بازار کار.
+tags:
+  - بک‌اند
+  - roadmap.sh
+  - ترجمه شده با AI
+  - مهارت‌های بک‌اند
+  - Career
+---
+چه هدف شما تبدیل شدن به یک Backend Developer باشد یا ماندن در این نقش، در هر صورت به ذهنیت «دانشجو مادام‌العمر» نیاز دارید. فضای توسعه وب همیشه در حال تغییر است و یادگیری مداوم لازم است. در این مقاله هشت مهارت پرتقاضا برای Backend Developer را مرور می‌کنیم؛ با حفظ اصطلاحات فنی به انگلیسی.
+
+## درک Backend Development
+
+Backend Developer روی نوشتن **Business Logic** اپلیکیشن و بخش زیادی از منطق پشتیبانی تمرکز دارد. در برخی اپلیکیشن‌ها این منطق بین Frontend و Backend تقسیم می‌شود؛ اما Backend Developer بیشتر وقتش را روی هسته منطق کسب‌وکار می‌گذارد.
+
+## ۱. تسلط به زبان‌های برنامه‌نویسی اصلی و نوظهور
+
+- **JavaScript / TypeScript:** رایج است چون در Frontend هم استفاده می‌شود و امکان Full-Stack را می‌دهد.
+- **Python:** برای وب و Data Science پرکاربرد؛ Frameworkهای خوب و یادگیری آسان.
+- **Go (Golang):** طراحی شده توسط گوگل؛ سادگی، کارایی و Concurrency. مناسب پروژه‌های با تمرکز روی Performance.
+- **Java:** گزینه رایج برای راه‌حل‌های Enterprise؛ پایدار و با جامعه بزرگ.
+
+همچنین به **Framework**های هر زبان توجه کنید (مثل Django، Spring Boot، Express، Gin). Frameworkها معمولاً Parsing درخواست HTTP، Abstraction مفاهیم و دسترسی به دیتا (مثلاً از طریق ORM) را ساده می‌کنند.
+
+## ۲. Software Design و Architecture
+
+معماری یعنی تعریف مفاهیم برای بخش‌های مختلف راه‌حل و نحوه تعامل آن‌ها با هم. الگوهای رایج:
+
+- **Monolithic:** همه چیز در یک واحد تنگاتنگ؛ مناسب پروژه‌های کوچک.
+- **Microservice:** سرویس‌های کوچک و مستقل که از طریق API با هم صحبت می‌کنند.
+- **Service-Oriented Architecture (SOA):** مشابه Microservice با گرانولاریتی کمتر.
+- **Event-driven:** سرویس‌ها از طریق Event Bus به رویدادها واکنش نشان می‌دهند.
+- **Serverless (FaaS):** اجرای توابع در پاسخ به رویداد بدون مدیریت سرور.
+- **Microkernel:** هسته کوچک + قابلیت‌ها به صورت Plugin.
+
+## ۳. تسلط به Database Management Systems
+
+دو دسته اصلی:
+
+- **SQL (Relational):** دیتابیس‌های ساختاریافته با Schema و زبان SQL. مثلاً PostgreSQL، MySQL.
+- **NoSQL:** دیتابیس‌های Document (مثل MongoDB)، Key-Value (مثل Redis)، Graph (مثل Neo4j)، Columnar و موتورهای جستجو مثل Elasticsearch.
+
+انتخاب بین SQL و NoSQL به Trade-off و نیاز پروژه بستگی دارد.
+
+## ۴. قابلیت توسعه API
+
+APIها تقریباً همه‌جا هستند. انواع رایج:
+
+- **RESTful API:** روی HTTP با استفاده از HTTP Verbs؛ هنوز بسیار پرکاربرد.
+- **GraphQL:** کوئری انعطاف‌پذیر؛ کلاینت فقط داده مورد نیاز را درخواست می‌کند.
+
+به‌عنوان Backend Developer تجربه عملی با حداقل یکی از این دو توصیه می‌شود.
+
+## ۵. Version Control
+
+استاندارد فعلی **Git** است و **GitHub** پلتفرم محبوب دور و بر آن. باید مبانی (add, commit, push, pull) و **Branching Strategies** را بلد باشید تا در تیم‌های بزرگ کار با کد مشترک ممکن شود.
+
+## ۶. Testing
+
+- **Unit testing:** تست توابع/متدها به‌صورت جداگانه؛ سریع و معمولاً قبل از هر Commit.
+- **Integration testing:** اطمینان از تعامل درست اجزای مستقل (مثلاً چند Microservice).
+- **End-to-end (E2E):** شامل UI؛ شبیه‌سازی رفتار کاربر واقعی.
+- **Load testing:** بررسی آمادگی سیستم برای ترافیک بالا.
+
+برای شروع، تمرکز روی Unit Testing کافی است و بعد به تدریج به بقیه برسید.
+
+## ۷. آشنایی با CI/CD و DevOps
+
+کد شما از طریق **CI/CD** (Continuous Integration / Continuous Deployment) تست و استقرار می‌شود. حتی اگر خودتان Pipeline را تنظیم نکنید، دانستن مفاهیم مهم است. **DevOps** به اتوماسیون، استقرار کارآمد و نگهداری محیط سرور می‌پردازد و با نقش Backend هم‌پوشانی دارد.
+
+## ۸. Soft Skills
+
+- **Communication:** توضیح کار و اثرات آن به همکاران فنی و غیرفنی.
+- **Critical thinking:** تحلیل مسائل پیچیده، شناسایی الگوها و ارائه راه‌حل‌های منظم.
+
+---
+
+جمع‌بندی: به صنعت و ترندهای جدید توجه کنید، مبانی Design و Architecture را درک کنید، با SQL و NoSQL آشنا شوید، API بسازید و استفاده کنید، Testing را جدی بگیرید و با CI/CD و DevOps آشنا باشید. این لیست نقطه شروع است؛ برای رشد بیشتر از Comfort Zone خارج شوید و به [Backend Roadmap](https://roadmap.sh/backend) هم نگاه کنید.
+
+## رفرنس
+
+- [8 In-Demand Backend Developer Skills to Master - roadmap.sh](https://roadmap.sh/backend/developer-skills)

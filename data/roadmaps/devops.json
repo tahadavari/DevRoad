@@ -15,14 +15,54 @@
           "description": "آشنایی با دستورات پایه شل و مدیریت فایل‌ها",
           "resources": [
             {
-              "title": "آموزش لینوکس - فارسی",
-              "type": "playlist",
-              "url": "https://youtube.com",
+              "title": "Linux Journey - Command Line",
+              "type": "article",
+              "url": "https://linuxjourney.com/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱۰ ساعت",
+              "duration": "2 hours",
+              "language": "en",
+              "description": "Hands-on Linux command line learning."
+            },
+            {
+              "title": "Linux articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/linux",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "30 min",
               "language": "fa",
-              "description": "پلی‌لیست آموزش لینوکس به زبان فارسی"
+              "description": "Persian Linux intro and command references."
+            },
+            {
+              "title": "Free Linux course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+linux+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "15+ hours",
+              "language": "fa",
+              "description": "Free Persian Linux course-style content."
+            },
+            {
+              "title": "Linux Command Line Full Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=sWbUDq4S6Y8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "3 hours",
+              "language": "en",
+              "description": "Beginner-friendly Linux command line video."
+            },
+            {
+              "title": "Persian Linux playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/linux",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10+ hours",
+              "language": "fa",
+              "description": "Persian Linux playlists on Aparat."
             }
           ]
         }
@@ -40,14 +80,54 @@
           "description": "DNS، HTTP، TCP/IP، فایروال و لود بالانسر",
           "resources": [
             {
-              "title": "مبانی شبکه برای دواپس",
-              "type": "course",
-              "url": "https://youtube.com",
+              "title": "How does the Internet work? - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۶ ساعت",
+              "duration": "30 min",
               "language": "en",
-              "description": "دوره مبانی شبکه برای مهندسان دواپس"
+              "description": "Clear networking basics for developers."
+            },
+            {
+              "title": "Networking articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/network",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "30 min",
+              "language": "fa",
+              "description": "Persian networking explainers."
+            },
+            {
+              "title": "Free networking course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+networking+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "12+ hours",
+              "language": "fa",
+              "description": "Free Persian networking course videos."
+            },
+            {
+              "title": "Computer Networking Full Course - freeCodeCamp",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qiQR5rTSshw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4 hours",
+              "language": "en",
+              "description": "Comprehensive networking video."
+            },
+            {
+              "title": "Persian networking playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/network",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10+ hours",
+              "language": "fa",
+              "description": "Aparat networking playlists in Persian."
             }
           ]
         }
@@ -65,14 +145,54 @@
           "description": "ساخت، اجرا و مدیریت کانتینرهای Docker",
           "resources": [
             {
-              "title": "آموزش Docker",
-              "type": "course",
-              "url": "https://docker.com",
+              "title": "Docker Documentation",
+              "type": "article",
+              "url": "https://docs.docker.com/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۸ ساعت",
+              "duration": "3 hours",
               "language": "en",
-              "description": "دوره رسمی Docker"
+              "description": "Official Docker docs."
+            },
+            {
+              "title": "Docker articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/docker",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "25 min",
+              "language": "fa",
+              "description": "Persian Docker primers and examples."
+            },
+            {
+              "title": "Free Docker course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+docker+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10+ hours",
+              "language": "fa",
+              "description": "Free Persian Docker and Compose lessons."
+            },
+            {
+              "title": "Docker Full Course for Beginners - freeCodeCamp",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "3 hours",
+              "language": "en",
+              "description": "End-to-end Docker beginner course."
+            },
+            {
+              "title": "Persian Docker playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/docker",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8+ hours",
+              "language": "fa",
+              "description": "Aparat playlists for Docker in Persian."
             }
           ]
         }
@@ -90,14 +210,54 @@
           "description": "Pod، Service، Deployment، ConfigMap و Secret",
           "resources": [
             {
-              "title": "آموزش Kubernetes",
-              "type": "course",
-              "url": "https://kubernetes.io/docs",
+              "title": "Kubernetes Documentation",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/home/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱۲ ساعت",
+              "duration": "4 hours",
               "language": "en",
-              "description": "مستندات رسمی Kubernetes"
+              "description": "Official Kubernetes docs and concepts."
+            },
+            {
+              "title": "Kubernetes articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/kubernetes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "30 min",
+              "language": "fa",
+              "description": "Persian Kubernetes overviews and guides."
+            },
+            {
+              "title": "Free Kubernetes course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+kubernetes+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "12+ hours",
+              "language": "fa",
+              "description": "Free Persian Kubernetes lessons."
+            },
+            {
+              "title": "Kubernetes Course for Beginners - freeCodeCamp",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4 hours",
+              "language": "en",
+              "description": "Beginner Kubernetes full course."
+            },
+            {
+              "title": "Persian Kubernetes playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/kubernetes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8+ hours",
+              "language": "fa",
+              "description": "Aparat playlists for Kubernetes in Persian."
             }
           ]
         }
@@ -115,14 +275,54 @@
           "description": "Jenkins، GitHub Actions، GitLab CI و ArgoCD",
           "resources": [
             {
-              "title": "آموزش CI/CD",
-              "type": "playlist",
-              "url": "https://youtube.com",
+              "title": "GitHub Actions Documentation",
+              "type": "article",
+              "url": "https://docs.github.com/en/actions",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۸ ساعت",
+              "duration": "2 hours",
+              "language": "en",
+              "description": "Official CI/CD reference for GitHub Actions."
+            },
+            {
+              "title": "CI/CD articles in Persian - Virgool",
+              "type": "article",
+              "url": "https://virgool.io/tags/ci-cd",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "25 min",
               "language": "fa",
-              "description": "پلی‌لیست آموزش CI/CD به زبان فارسی"
+              "description": "Persian CI/CD articles and walkthroughs."
+            },
+            {
+              "title": "Free CI/CD course in Persian - YouTube",
+              "type": "course",
+              "url": "https://www.youtube.com/results?search_query=free+persian+ci+cd+course",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8+ hours",
+              "language": "fa",
+              "description": "Free Persian CI/CD training videos."
+            },
+            {
+              "title": "CI/CD Explained In 100 Seconds",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=scEDHsr3APg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "20 min",
+              "language": "en",
+              "description": "Quick conceptual overview of CI/CD."
+            },
+            {
+              "title": "Persian CI/CD playlists - Aparat",
+              "type": "playlist",
+              "url": "https://www.aparat.com/result/ci_cd",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "6+ hours",
+              "language": "fa",
+              "description": "Persian CI/CD playlists on Aparat."
             }
           ]
         }
