@@ -63,7 +63,7 @@ export function Header() {
           <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary text-primary-foreground">
             <Map className="h-5 w-5" />
           </div>
-          <span className="text-xl font-bold">دوراه</span>
+          <span className="text-xl font-bold">DevRoad</span>
         </Link>
 
         {/* Desktop Nav */}

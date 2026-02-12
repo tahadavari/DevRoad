@@ -42,7 +42,7 @@ async function main() {
       data: {
         email: adminEmail,
         firstName: "ادمین",
-        lastName: "دوراه",
+        lastName: "DevRoad",
         password: hashedPassword,
         role: "ADMIN",
         emailVerified: true,

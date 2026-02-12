@@ -79,7 +79,7 @@ export default function RegisterPage() {
           <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-xl bg-primary text-primary-foreground mb-2">
             <Map className="h-6 w-6" />
           </div>
-          <CardTitle className="text-2xl">ثبت‌نام در دوراه</CardTitle>
+          <CardTitle className="text-2xl">ثبت‌نام در DevRoad</CardTitle>
           <CardDescription>
             حساب کاربری خود را بسازید و مسیر یادگیری خود را شروع کنید
           </CardDescription>

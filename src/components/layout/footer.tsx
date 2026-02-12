@@ -12,7 +12,7 @@ export function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
                 <Map className="h-4 w-4" />
               </div>
-              <span className="text-lg font-bold">دوراه</span>
+              <span className="text-lg font-bold">DevRoad</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
               مسیر یادگیری برنامه‌نویسی به زبان فارسی. پروژه‌ای اوپن‌سورس برای

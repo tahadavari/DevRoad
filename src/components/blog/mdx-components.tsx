@@ -16,7 +16,7 @@ export function BlogRef({
     >
       <span className="text-2xl">📖</span>
       <div className="flex-1">
-        <span className="text-xs text-muted-foreground">مطلب مرتبط از بلاگ دوراه</span>
+        <span className="text-xs text-muted-foreground">مطلب مرتبط از بلاگ DevRoad</span>
         <p className="font-medium text-foreground">{title}</p>
       </div>
       <span className="text-muted-foreground">←</span>

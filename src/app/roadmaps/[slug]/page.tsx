@@ -13,7 +13,7 @@ export function generateMetadata({ params }: { params: Promise<{ slug: string }>
     const index = getRoadmapIndex();
     const roadmapSummary = index.roadmaps.find((r) => r.slug === slug);
     return {
-      title: roadmapSummary ? `${roadmapSummary.title} - دوراه` : "دوراه",
+      title: roadmapSummary ? `${roadmapSummary.title} - DevRoad` : "DevRoad",
       description: roadmapSummary?.description || "",
     };
   });
