@@ -12,6 +12,7 @@ export interface BlogFrontmatter {
   thumbnail?: string;
   date?: string;
   description?: string;
+  tags?: string[];
 }
 
 export interface BlogMeta {
@@ -21,6 +22,7 @@ export interface BlogMeta {
   thumbnail?: string;
   date: string;
   description?: string;
+  tags: string[];
   readingTimeMinutes: number;
 }
 
@@ -34,7 +36,6 @@ function getBlogDir(): string {
   return BLOG_DIR;
 }
 
-/** لیست تمام slugهای بلاگ (هر زیرپوشه‌ای که index.mdx دارد) */
 export function getBlogSlugs(): string[] {
   const dir = getBlogDir();
   if (!fs.existsSync(dir)) return [];
@@ -48,7 +49,6 @@ export function getBlogSlugs(): string[] {
   return slugs.sort();
 }
 
-/** خواندن یک بلاگ با slug؛ برای SSR در بیلد */
 export function getBlogBySlug(slug: string): BlogPost | null {
   const mdxPath = path.join(getBlogDir(), slug, "index.mdx");
   if (!fs.existsSync(mdxPath)) return null;
@@ -57,6 +57,7 @@ export function getBlogBySlug(slug: string): BlogPost | null {
   const front = data as Partial<BlogFrontmatter>;
   const title = front.title ?? slug;
   const date = front.date ?? "";
+  const tags = Array.isArray(front.tags) ? front.tags.filter(Boolean) : [];
   const stats = readingTime(content);
   const readingTimeMinutes = Math.max(1, Math.ceil(stats.minutes));
   return {
@@ -66,13 +67,13 @@ export function getBlogBySlug(slug: string): BlogPost | null {
     thumbnail: front.thumbnail,
     date,
     description: front.description,
+    tags,
     readingTimeMinutes,
     content,
     rawContent: raw,
   };
 }
 
-/** لیست متای همه بلاگ‌ها برای صفحه لیست و جستجو */
 export function getAllBlogsMeta(): BlogMeta[] {
   const slugs = getBlogSlugs();
   const list: BlogMeta[] = [];
@@ -86,18 +87,17 @@ export function getAllBlogsMeta(): BlogMeta[] {
       thumbnail: post.thumbnail,
       date: post.date,
       description: post.description,
+      tags: post.tags,
       readingTimeMinutes: post.readingTimeMinutes,
     });
   }
   return list.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
 }
 
-/** مسیر تصویر داخل یک بلاگ (نسبت به پوشه آن بلاگ) */
 export function getBlogImagePath(blogSlug: string, imageName: string): string {
   return `/blog-assets/${blogSlug}/images/${imageName}`;
 }
 
-/** تبدیل مسیرهای نسبی تصاویر در محتوا به URL سرو شده */
 export function resolveBlogContentImagePaths(content: string, blogSlug: string): string {
   return content.replace(
     /\]\(\.\/images\//g,

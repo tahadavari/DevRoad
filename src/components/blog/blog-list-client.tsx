@@ -7,7 +7,7 @@ import { Input } from "@/components/ui/input";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import type { BlogMeta } from "@/lib/blog";
-import { Search, Clock, Mail, FileText } from "lucide-react";
+import { Search, Clock, Mail, FileText, Tag } from "lucide-react";
 
 export function BlogListClient({ initialPosts }: { initialPosts: BlogMeta[] }) {
   const [query, setQuery] = useState("");
@@ -20,7 +20,8 @@ export function BlogListClient({ initialPosts }: { initialPosts: BlogMeta[] }) {
         p.title.toLowerCase().includes(q) ||
         (p.description ?? "").toLowerCase().includes(q) ||
         p.authorEmail.toLowerCase().includes(q) ||
-        p.slug.toLowerCase().includes(q)
+        p.slug.toLowerCase().includes(q) ||
+        p.tags.some((t) => t.toLowerCase().includes(q))
     );
   }, [initialPosts, query]);
 
@@ -30,7 +31,7 @@ export function BlogListClient({ initialPosts }: { initialPosts: BlogMeta[] }) {
         <Search className="absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
         <Input
           type="search"
-          placeholder="جستجو در عنوان، توضیحات، نویسنده یا slug..."
+          placeholder="جستجو در عنوان، توضیحات، نویسنده، تگ یا slug..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           className="pr-10 pl-4"
@@ -93,6 +94,12 @@ export function BlogListClient({ initialPosts }: { initialPosts: BlogMeta[] }) {
                               {new Date(post.date).toLocaleDateString("fa-IR")}
                             </span>
                           )}
+                          {post.tags.map((tag) => (
+                            <Badge key={tag} variant="outline" className="gap-1 text-xs">
+                              <Tag className="h-3 w-3" />
+                              {tag}
+                            </Badge>
+                          ))}
                         </div>
                       </CardHeader>
                     </div>
