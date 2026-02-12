@@ -15,24 +15,34 @@
           "description": "یادگیری مفاهیم پایه‌ای نحوه کار اینترنت شامل DNS، IP، TCP/UDP و نحوه انتقال داده‌ها",
           "resources": [
             {
-              "title": "اینترنت چگونه کار می‌کند - مقاله جامع",
+              "title": "How does the Internet work? - MDN",
               "type": "article",
               "url": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۳۰ دقیقه",
+              "duration": "30 min",
               "language": "en",
-              "description": "مقاله جامع موزیلا درباره نحوه کار اینترنت"
+              "description": "راهنمای پایه برای درک زیرساخت اینترنت."
             },
             {
-              "title": "دوره شبکه‌های کامپیوتری - مکتب‌خونه",
+              "title": "مبانی شبکه‌های کامپیوتری - فرادرس",
               "type": "course",
-              "url": "https://maktabkhooneh.org",
+              "url": "https://faradars.org/courses/fvnet9707-computer-network-fundamentals",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱۰ ساعت",
+              "duration": "7 ساعت",
               "language": "fa",
-              "description": "دوره رایگان مبانی شبکه‌های کامپیوتری به زبان فارسی"
+              "description": "آموزش رایگان مفاهیم اولیه شبکه به فارسی."
+            },
+            {
+              "title": "Computer Networking Full Course - freeCodeCamp",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qiQR5rTSshw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4 hours",
+              "language": "en",
+              "description": "ویدیوی کامل Networking برای شروع."
             }
           ]
         },
@@ -42,14 +52,34 @@
           "description": "یادگیری پروتکل HTTP، متدها، کدهای وضعیت و تفاوت HTTP با HTTPS",
           "resources": [
             {
-              "title": "آشنایی با HTTP - ویدیو یوتیوب",
+              "title": "HTTP: The Protocol Every Web Developer Must Know - Hussein Nasser",
               "type": "video",
-              "url": "https://youtube.com",
+              "url": "https://www.youtube.com/watch?v=iYM2zFP3Zn0",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۴۵ دقیقه",
+              "duration": "1 hour",
+              "language": "en",
+              "description": "توضیح دقیق HTTP/1.1 تا HTTP/3."
+            },
+            {
+              "title": "HTTP چیست؟ - وبسیما",
+              "type": "article",
+              "url": "https://websima.com/http/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "15 دقیقه",
               "language": "fa",
-              "description": "ویدیو آموزشی کامل درباره پروتکل HTTP به زبان فارسی"
+              "description": "مقاله فارسی ساده برای مرور مفاهیم HTTP."
+            },
+            {
+              "title": "دوره رایگان HTTP و HTTPS - مکتب‌خونه",
+              "type": "course",
+              "url": "https://maktabkhooneh.org/course/%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-mk455/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "2 ساعت",
+              "language": "fa",
+              "description": "بخش‌های مرتبط با پروتکل‌های وب در دوره مبانی شبکه."
             }
           ]
         },
@@ -59,14 +89,34 @@
           "description": "سیستم نام دامنه (DNS) چگونه کار می‌کند و نقش آن در اینترنت",
           "resources": [
             {
-              "title": "DNS به زبان ساده",
+              "title": "What is DNS? - Cloudflare",
               "type": "article",
               "url": "https://www.cloudflare.com/learning/dns/what-is-dns/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۲۰ دقیقه",
+              "duration": "20 min",
               "language": "en",
-              "description": "مقاله Cloudflare درباره نحوه کار DNS"
+              "description": "مرجع خوب برای یادگیری DNS."
+            },
+            {
+              "title": "DNS Explained - PowerCert",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=72snZctFFtA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "12 min",
+              "language": "en",
+              "description": "ویدیوی کوتاه و دقیق برای فهم DNS."
+            },
+            {
+              "title": "DNS چیست؟ - سبزلرن بلاگ",
+              "type": "article",
+              "url": "https://sabzlearn.ir/blog/what-is-dns/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10 دقیقه",
+              "language": "fa",
+              "description": "توضیح فارسی DNS به زبان ساده."
             }
           ]
         }
@@ -84,24 +134,34 @@
           "description": "زبان پایتون یکی از محبوب‌ترین زبان‌های بک‌اند با سینتکس ساده و کتابخانه‌های فراوان",
           "resources": [
             {
-              "title": "دوره جامع پایتون - جادی",
-              "type": "playlist",
-              "url": "https://youtube.com",
+              "title": "Python Full Course for Beginners - freeCodeCamp",
+              "type": "course",
+              "url": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۲۰ ساعت",
-              "language": "fa",
-              "description": "پلی‌لیست آموزش پایتون توسط جادی میرمیرانی"
+              "duration": "12 hours",
+              "language": "en",
+              "description": "مسیر کامل پایتون برای شروع."
             },
             {
-              "title": "دوره پایتون - یودمی",
+              "title": "آموزش پایتون مقدماتی - مکتب‌خونه",
               "type": "course",
-              "url": "https://udemy.com",
-              "price": "paid",
-              "priceAmount": 29,
-              "duration": "۴۰ ساعت",
-              "language": "en",
-              "description": "دوره جامع پایتون در یودمی"
+              "url": "https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-python-mk61/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10 ساعت",
+              "language": "fa",
+              "description": "دوره رایگان مقدماتی Python به فارسی."
+            },
+            {
+              "title": "پلی‌لیست پایتون - آپارات",
+              "type": "playlist",
+              "url": "https://www.aparat.com/v/ga3NQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8 ساعت",
+              "language": "fa",
+              "description": "پلی‌لیست فارسی برای تمرین سینتکس و پروژه‌های ساده."
             }
           ]
         },
@@ -111,14 +171,34 @@
           "description": "Node.js به شما امکان اجرای جاوااسکریپت در سمت سرور را می‌دهد",
           "resources": [
             {
-              "title": "دوره Node.js - آپارات",
-              "type": "playlist",
-              "url": "https://aparat.com",
+              "title": "Node.js and Express.js - freeCodeCamp",
+              "type": "course",
+              "url": "https://www.youtube.com/watch?v=Oe421EPjeBE",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱۵ ساعت",
+              "duration": "8 hours",
+              "language": "en",
+              "description": "دوره رایگان Node.js و Express."
+            },
+            {
+              "title": "آموزش Node.js - سون‌لرن",
+              "type": "article",
+              "url": "https://7learn.com/blog/what-is-nodejs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "15 دقیقه",
               "language": "fa",
-              "description": "پلی‌لیست آموزش Node.js به زبان فارسی"
+              "description": "مقاله فارسی برای شروع مفاهیم Node.js."
+            },
+            {
+              "title": "پلی‌لیست Node.js فارسی - یوتیوب",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PLK2P4edlvFJLjQf_Q4vY8iI9d4aC5oQ5I",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "6 ساعت",
+              "language": "fa",
+              "description": "آموزش فارسی Node.js به صورت گام‌به‌گام."
             }
           ]
         },
@@ -128,14 +208,34 @@
           "description": "زبان Go توسط گوگل طراحی شده و برای سیستم‌های مقیاس‌پذیر عالی است",
           "resources": [
             {
-              "title": "آموزش Go از صفر تا صد",
-              "type": "course",
-              "url": "https://gobyexample.com",
+              "title": "Go by Example",
+              "type": "article",
+              "url": "https://gobyexample.com/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱۲ ساعت",
+              "duration": "4 hours",
               "language": "en",
-              "description": "آموزش زبان Go با مثال‌های عملی"
+              "description": "مرجع عملی Go با مثال‌های کوتاه."
+            },
+            {
+              "title": "Learn Go Programming - freeCodeCamp",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=YS4e4q9oBaU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "7 hours",
+              "language": "en",
+              "description": "ویدیوی آموزشی کامل Go."
+            },
+            {
+              "title": "آموزش زبان Go - فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/fvgolang9909-go-programming-language",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "5 ساعت",
+              "language": "fa",
+              "description": "دوره فارسی برای شروع Go."
             }
           ]
         }
@@ -153,14 +253,34 @@
           "description": "یادگیری دستورات پایه Git شامل init, add, commit, push, pull, branch, merge",
           "resources": [
             {
-              "title": "آموزش Git و GitHub - فارسی",
-              "type": "video",
-              "url": "https://youtube.com",
+              "title": "Pro Git Book",
+              "type": "article",
+              "url": "https://git-scm.com/book/en/v2",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۳ ساعت",
+              "duration": "4 hours",
+              "language": "en",
+              "description": "کتاب رسمی Git."
+            },
+            {
+              "title": "آموزش Git و GitHub - راکت",
+              "type": "course",
+              "url": "https://roocket.ir/series/learn-git-and-github",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "3 ساعت",
               "language": "fa",
-              "description": "آموزش کامل Git و GitHub به زبان فارسی"
+              "description": "آموزش فارسی و کاربردی Git."
+            },
+            {
+              "title": "Git and GitHub for Beginners - freeCodeCamp",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1.5 hours",
+              "language": "en",
+              "description": "ویدیوی سریع برای شروع."
             }
           ]
         },
@@ -170,14 +290,24 @@
           "description": "کار با GitHub، Pull Request، Issues و مشارکت در پروژه‌های اوپن‌سورس",
           "resources": [
             {
-              "title": "مستندات رسمی GitHub",
+              "title": "GitHub Docs",
               "type": "article",
-              "url": "https://docs.github.com",
+              "url": "https://docs.github.com/en",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۲ ساعت",
+              "duration": "2 hours",
               "language": "en",
-              "description": "مستندات رسمی GitHub برای شروع کار"
+              "description": "مستندات رسمی GitHub."
+            },
+            {
+              "title": "آموزش کار با GitHub - مکتب‌خونه",
+              "type": "video",
+              "url": "https://www.aparat.com/v/8x4j1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1 ساعت",
+              "language": "fa",
+              "description": "مرور فارسی مفاهیم Repo/PR/Issue."
             }
           ]
         }
@@ -195,14 +325,34 @@
           "description": "یادگیری SQL و دیتابیس‌های رابطه‌ای مثل PostgreSQL و MySQL",
           "resources": [
             {
-              "title": "آموزش PostgreSQL",
-              "type": "course",
-              "url": "https://youtube.com",
+              "title": "PostgreSQL Tutorial",
+              "type": "article",
+              "url": "https://www.postgresqltutorial.com/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۸ ساعت",
+              "duration": "5 hours",
+              "language": "en",
+              "description": "آموزش SQL و PostgreSQL با مثال."
+            },
+            {
+              "title": "SQL Full Course - freeCodeCamp",
+              "type": "course",
+              "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4 hours",
+              "language": "en",
+              "description": "دوره کامل SQL."
+            },
+            {
+              "title": "آموزش SQL مقدماتی - فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/fvdb9604-sql-server-programming",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "6 ساعت",
               "language": "fa",
-              "description": "دوره آموزش PostgreSQL از مبتدی تا پیشرفته"
+              "description": "یادگیری SQL به زبان فارسی."
             }
           ]
         },
@@ -212,14 +362,34 @@
           "description": "آشنایی با MongoDB، Redis و سایر دیتابیس‌های غیررابطه‌ای",
           "resources": [
             {
-              "title": "آموزش MongoDB",
+              "title": "MongoDB University",
               "type": "course",
-              "url": "https://university.mongodb.com",
+              "url": "https://learn.mongodb.com/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۶ ساعت",
+              "duration": "6 hours",
               "language": "en",
-              "description": "دوره رسمی MongoDB University"
+              "description": "دوره‌های رسمی MongoDB."
+            },
+            {
+              "title": "Redis Crash Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=jgpVdJB2sKQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "1 hour",
+              "language": "en",
+              "description": "شروع سریع Redis."
+            },
+            {
+              "title": "NoSQL چیست؟ - همیار آکادمی",
+              "type": "article",
+              "url": "https://hamyarcourse.com/nosql/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10 دقیقه",
+              "language": "fa",
+              "description": "مرور فارسی NoSQL و کاربردها."
             }
           ]
         },
@@ -229,14 +399,34 @@
           "description": "استفاده از ORM ها مثل Prisma، SQLAlchemy و Sequelize",
           "resources": [
             {
-              "title": "آموزش Prisma ORM",
+              "title": "Prisma Documentation",
               "type": "article",
-              "url": "https://prisma.io/docs",
+              "url": "https://www.prisma.io/docs",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۴ ساعت",
+              "duration": "3 hours",
               "language": "en",
-              "description": "مستندات رسمی Prisma برای شروع کار"
+              "description": "مستندات رسمی Prisma."
+            },
+            {
+              "title": "SQLAlchemy Unified Tutorial",
+              "type": "article",
+              "url": "https://docs.sqlalchemy.org/en/20/tutorial/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "3 hours",
+              "language": "en",
+              "description": "آموزش ORM در پایتون."
+            },
+            {
+              "title": "Sequelize Tutorial",
+              "type": "article",
+              "url": "https://sequelize.org/docs/v6/getting-started/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "2 hours",
+              "language": "en",
+              "description": "شروع Sequelize در Node.js."
             }
           ]
         }
@@ -254,14 +444,34 @@
           "description": "طراحی و پیاده‌سازی API های RESTful با رعایت بهترین شیوه‌ها",
           "resources": [
             {
-              "title": "طراحی REST API - بهترین شیوه‌ها",
+              "title": "REST API Tutorial",
               "type": "article",
-              "url": "https://restfulapi.net",
+              "url": "https://restfulapi.net/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱ ساعت",
+              "duration": "1 hour",
               "language": "en",
-              "description": "راهنمای جامع طراحی REST API"
+              "description": "راهنمای اصول طراحی REST."
+            },
+            {
+              "title": "Build a REST API with Node.js",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=l8WPWK9mS5M",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "2 hours",
+              "language": "en",
+              "description": "پیاده‌سازی عملی REST API."
+            },
+            {
+              "title": "طراحی API چیست؟ - ویرگول",
+              "type": "article",
+              "url": "https://vrgl.ir/U6pNn",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10 دقیقه",
+              "language": "fa",
+              "description": "مرور فارسی اصول API Design."
             }
           ]
         },
@@ -271,14 +481,34 @@
           "description": "آشنایی با GraphQL به عنوان جایگزین REST",
           "resources": [
             {
-              "title": "آموزش GraphQL",
+              "title": "How to GraphQL",
               "type": "course",
-              "url": "https://graphql.org/learn",
+              "url": "https://www.howtographql.com/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۵ ساعت",
+              "duration": "5 hours",
               "language": "en",
-              "description": "آموزش رسمی GraphQL"
+              "description": "آموزش GraphQL پروژه‌محور."
+            },
+            {
+              "title": "GraphQL Full Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ed8SzALpx1Q",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "2 hours",
+              "language": "en",
+              "description": "ویدیوی آموزشی GraphQL."
+            },
+            {
+              "title": "آموزش GraphQL - راکت",
+              "type": "playlist",
+              "url": "https://www.aparat.com/v/9F2iG",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "2 ساعت",
+              "language": "fa",
+              "description": "آموزش GraphQL به فارسی."
             }
           ]
         }
@@ -296,14 +526,34 @@
           "description": "احراز هویت مبتنی بر توکن با JSON Web Token",
           "resources": [
             {
-              "title": "JWT به زبان ساده",
+              "title": "JWT Introduction",
               "type": "article",
               "url": "https://jwt.io/introduction",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۳۰ دقیقه",
+              "duration": "20 min",
               "language": "en",
-              "description": "مقدمه‌ای بر JWT"
+              "description": "مقدمه رسمی JWT."
+            },
+            {
+              "title": "Authentication vs Authorization",
+              "type": "article",
+              "url": "https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "15 min",
+              "language": "en",
+              "description": "تفاوت AuthN و AuthZ."
+            },
+            {
+              "title": "JWT چیست؟ - سون‌لرن",
+              "type": "article",
+              "url": "https://7learn.com/blog/what-is-jwt",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10 دقیقه",
+              "language": "fa",
+              "description": "توضیح فارسی JWT."
             }
           ]
         },
@@ -313,14 +563,34 @@
           "description": "پیاده‌سازی OAuth برای ورود با سرویس‌های دیگر",
           "resources": [
             {
-              "title": "آموزش OAuth 2.0",
-              "type": "video",
-              "url": "https://youtube.com",
+              "title": "OAuth 2.0 Simplified",
+              "type": "article",
+              "url": "https://www.oauth.com/oauth2-servers/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۱ ساعت",
+              "duration": "1 hour",
               "language": "en",
-              "description": "ویدیو آموزشی OAuth 2.0"
+              "description": "راهنمای کامل OAuth2."
+            },
+            {
+              "title": "OAuth 2.0 in 10 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=996OiexHze0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "10 min",
+              "language": "en",
+              "description": "مرور سریع مفاهیم OAuth."
+            },
+            {
+              "title": "آموزش OAuth - ویرگول",
+              "type": "article",
+              "url": "https://vrgl.ir/oAuth2",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "8 دقیقه",
+              "language": "fa",
+              "description": "راهنمای فارسی OAuth2."
             }
           ]
         }
@@ -333,24 +603,34 @@
       "order": 7,
       "resources": [
         {
-          "title": "آموزش Redis",
-          "type": "course",
-          "url": "https://redis.io/docs",
-          "price": "free",
-          "priceAmount": 0,
-          "duration": "۴ ساعت",
-          "language": "en",
-          "description": "مستندات رسمی Redis"
-        },
-        {
-          "title": "استراتژی‌های کشینگ",
+          "title": "Caching Strategies",
           "type": "article",
           "url": "https://aws.amazon.com/caching/",
           "price": "free",
           "priceAmount": 0,
-          "duration": "۳۰ دقیقه",
+          "duration": "30 min",
           "language": "en",
-          "description": "راهنمای جامع AWS درباره استراتژی‌های مختلف کشینگ"
+          "description": "انواع استراتژی کشینگ."
+        },
+        {
+          "title": "Redis Documentation",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "2 hours",
+          "language": "en",
+          "description": "مرجع رسمی Redis."
+        },
+        {
+          "title": "آموزش Redis فارسی - آپارات",
+          "type": "playlist",
+          "url": "https://www.aparat.com/v/gD3Q4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "3 ساعت",
+          "language": "fa",
+          "description": "پلی‌لیست فارسی Redis."
         }
       ]
     },
@@ -366,14 +646,34 @@
           "description": "نوشتن تست‌های واحد برای اطمینان از صحت عملکرد کد",
           "resources": [
             {
-              "title": "آموزش تست نویسی",
-              "type": "course",
-              "url": "https://youtube.com",
+              "title": "Software Testing Full Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7r4xVDI2vho",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۵ ساعت",
+              "duration": "3 hours",
+              "language": "en",
+              "description": "مرور تست‌نویسی از پایه."
+            },
+            {
+              "title": "Jest Documentation",
+              "type": "article",
+              "url": "https://jestjs.io/docs/getting-started",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "2 hours",
+              "language": "en",
+              "description": "تست واحد در JavaScript."
+            },
+            {
+              "title": "آموزش تست‌نویسی در جاوااسکریپت - یوتیوب فارسی",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PLfJ4CXfjFYl78H9P9Y8k9emxwY8Lq8un9",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "4 ساعت",
               "language": "fa",
-              "description": "دوره آموزش تست نویسی به زبان فارسی"
+              "description": "پلی‌لیست فارسی Unit Testing."
             }
           ]
         }
@@ -391,14 +691,34 @@
           "description": "یادگیری مفاهیم پایه Docker شامل Image، Container، Volume و Network",
           "resources": [
             {
-              "title": "آموزش Docker - فارسی",
-              "type": "playlist",
-              "url": "https://youtube.com",
+              "title": "Docker for Beginners",
+              "type": "course",
+              "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۸ ساعت",
+              "duration": "3 hours",
+              "language": "en",
+              "description": "دوره کامل Docker."
+            },
+            {
+              "title": "Play with Docker",
+              "type": "article",
+              "url": "https://labs.play-with-docker.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "2 hours",
+              "language": "en",
+              "description": "تمرین عملی Docker در مرورگر."
+            },
+            {
+              "title": "آموزش Docker فارسی - فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/fvdkr9609-docker-containerization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "5 ساعت",
               "language": "fa",
-              "description": "پلی‌لیست آموزش Docker به زبان فارسی"
+              "description": "آموزش Docker به فارسی."
             }
           ]
         },
@@ -408,14 +728,24 @@
           "description": "مدیریت چند کانتینر با Docker Compose",
           "resources": [
             {
-              "title": "مستندات Docker Compose",
+              "title": "Docker Compose Docs",
               "type": "article",
               "url": "https://docs.docker.com/compose/",
               "price": "free",
               "priceAmount": 0,
-              "duration": "۲ ساعت",
+              "duration": "2 hours",
               "language": "en",
-              "description": "مستندات رسمی Docker Compose"
+              "description": "مستندات رسمی Compose."
+            },
+            {
+              "title": "Docker Compose Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=HG6yIjZapSA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "35 min",
+              "language": "en",
+              "description": "آموزش سریع Compose."
             }
           ]
         }
@@ -428,24 +758,34 @@
       "order": 10,
       "resources": [
         {
-          "title": "آموزش GitHub Actions",
+          "title": "GitHub Actions Documentation",
           "type": "article",
           "url": "https://docs.github.com/en/actions",
           "price": "free",
           "priceAmount": 0,
-          "duration": "۳ ساعت",
+          "duration": "3 hours",
           "language": "en",
-          "description": "مستندات رسمی GitHub Actions"
+          "description": "مرجع رسمی CI/CD با GitHub Actions."
         },
         {
-          "title": "آموزش CI/CD - فارسی",
+          "title": "CI/CD Explained",
           "type": "video",
-          "url": "https://youtube.com",
+          "url": "https://www.youtube.com/watch?v=scEDHsr3APg",
           "price": "free",
           "priceAmount": 0,
-          "duration": "۲ ساعت",
+          "duration": "20 min",
+          "language": "en",
+          "description": "توضیح مفهومی CI/CD."
+        },
+        {
+          "title": "آموزش GitHub Actions فارسی",
+          "type": "video",
+          "url": "https://www.aparat.com/v/h6w2u",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "1 ساعت",
           "language": "fa",
-          "description": "ویدیو آموزشی CI/CD به زبان فارسی"
+          "description": "پیاده‌سازی Pipeline ساده به زبان فارسی."
         }
       ]
     }

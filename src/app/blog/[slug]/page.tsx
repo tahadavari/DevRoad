@@ -9,7 +9,7 @@ import { compileMDX } from "next-mdx-remote/rsc";
 import { BlogRef } from "@/components/blog/mdx-components";
 import { BlogPostActions } from "@/components/blog/blog-post-actions";
 import { BlogComments } from "@/components/blog/blog-comments";
-import { Clock, Mail } from "lucide-react";
+import { Clock, Mail, Tag } from "lucide-react";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -62,6 +62,19 @@ export default async function BlogPostPage({ params }: Props) {
             <span>{new Date(post.date).toLocaleDateString("fa-IR")}</span>
           )}
         </div>
+        {post.tags.length > 0 && (
+          <div className="mt-3 flex flex-wrap gap-2">
+            {post.tags.map((tag) => (
+              <span
+                key={tag}
+                className="inline-flex items-center gap-1 rounded-full border px-2 py-1 text-xs text-muted-foreground"
+              >
+                <Tag className="h-3 w-3" />
+                {tag}
+              </span>
+            ))}
+          </div>
+        )}
         <BlogPostActions blogSlug={slug} />
       </header>
 
