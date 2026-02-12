@@ -6,12 +6,34 @@ import { Textarea } from "@/components/ui/textarea";
 import { useAuthStore } from "@/lib/store";
 import { MessageSquare, Send } from "lucide-react";
 
+type CommentStatus = "PENDING" | "APPROVED" | "REJECTED";
+
 interface Comment {
   id: string;
   content: string;
   createdAt: string;
+  status: CommentStatus;
+  isOwner: boolean;
   user: { firstName: string; lastName: string };
 }
+
+const statusMap: Record<
+  CommentStatus,
+  { label: string; className: string }
+> = {
+  PENDING: {
+    label: "در انتظار تایید",
+    className: "bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-300",
+  },
+  APPROVED: {
+    label: "منتشر شده",
+    className: "bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300",
+  },
+  REJECTED: {
+    label: "رد شده",
+    className: "bg-rose-100 text-rose-800 dark:bg-rose-900/40 dark:text-rose-300",
+  },
+};
 
 export function BlogComments({ blogSlug }: { blogSlug: string }) {
   const { user } = useAuthStore();
@@ -84,20 +106,29 @@ export function BlogComments({ blogSlug }: { blogSlug: string }) {
         <p className="text-muted-foreground">هنوز نظری ثبت نشده.</p>
       ) : (
         <ul className="space-y-4">
-          {comments.map((c) => (
-            <li
-              key={c.id}
-              className="rounded-lg border bg-muted/30 p-4"
-            >
-              <p className="text-sm font-medium">
-                {c.user.firstName} {c.user.lastName}
-              </p>
-              <p className="mt-1 text-sm text-muted-foreground">
-                {new Date(c.createdAt).toLocaleDateString("fa-IR")}
-              </p>
-              <p className="mt-2">{c.content}</p>
-            </li>
-          ))}
+          {comments.map((c) => {
+            const status = statusMap[c.status];
+            return (
+              <li key={c.id} className="rounded-lg border bg-muted/30 p-4">
+                <div className="flex items-center justify-between gap-3">
+                  <p className="text-sm font-medium">
+                    {c.user.firstName} {c.user.lastName}
+                  </p>
+                  {c.isOwner && (
+                    <span
+                      className={`rounded-full px-2 py-1 text-xs font-medium ${status.className}`}
+                    >
+                      {status.label}
+                    </span>
+                  )}
+                </div>
+                <p className="mt-1 text-sm text-muted-foreground">
+                  {new Date(c.createdAt).toLocaleDateString("fa-IR")}
+                </p>
+                <p className="mt-2">{c.content}</p>
+              </li>
+            );
+          })}
         </ul>
       )}
     </section>

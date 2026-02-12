@@ -101,10 +101,17 @@ model BlogComment {
   blogSlug  String
   userId    String
   content   String
+  status    CommentStatus @default(PENDING)
   createdAt DateTime @default(now())
   user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@map("blog_comments")
+}
+
+enum CommentStatus {
+  PENDING
+  APPROVED
+  REJECTED
 }
 
 model BlogBookmark {

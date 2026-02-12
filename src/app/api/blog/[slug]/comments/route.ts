@@ -8,8 +8,15 @@ export async function GET(
 ) {
   try {
     const { slug } = await params;
+    const user = await getCurrentUser();
+
     const comments = await prisma.blogComment.findMany({
-      where: { blogSlug: slug },
+      where: {
+        blogSlug: slug,
+        OR: user
+          ? [{ status: "APPROVED" }, { userId: user.id }]
+          : [{ status: "APPROVED" }],
+      },
       orderBy: { createdAt: "desc" },
       include: {
         user: {
@@ -17,12 +24,16 @@ export async function GET(
         },
       },
     });
+
     const data = comments.map((c) => ({
       id: c.id,
       content: c.content,
       createdAt: c.createdAt,
+      status: c.status,
+      isOwner: user ? c.userId === user.id : false,
       user: c.user,
     }));
+
     return NextResponse.json({ success: true, data });
   } catch (error) {
     console.error("Blog comments list error:", error);
@@ -62,6 +73,7 @@ export async function POST(
         blogSlug: slug,
         userId: user.id,
         content,
+        status: "PENDING",
       },
       include: {
         user: {
@@ -76,6 +88,8 @@ export async function POST(
         id: comment.id,
         content: comment.content,
         createdAt: comment.createdAt,
+        status: comment.status,
+        isOwner: true,
         user: comment.user,
       },
     });
