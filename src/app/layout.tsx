@@ -4,7 +4,7 @@ import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 
 export const metadata: Metadata = {
-  title: "دوراه - مسیر یادگیری برنامه‌نویسی",
+  title: "DevRoad - مسیر یادگیری برنامه‌نویسی",
   description:
     "مسیر یادگیری برنامه‌نویسی به زبان فارسی. رودمپ‌های یادگیری، پروژه‌های عملی، فوروم و منتورشیپ.",
 };
@@ -21,7 +21,8 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: `
               try {
-                if (localStorage.getItem('theme') === 'dark' || (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                const savedTheme = localStorage.getItem('theme');
+                if (savedTheme !== 'light') {
                   document.documentElement.classList.add('dark');
                 }
               } catch(e) {}

@@ -21,9 +21,9 @@ export default function AboutPage() {
     <div className="container mx-auto px-4 py-10 max-w-4xl">
       {/* Hero */}
       <div className="text-center mb-12">
-        <h1 className="text-4xl font-bold mb-4">درباره دوراه</h1>
+        <h1 className="text-4xl font-bold mb-4">درباره DevRoad</h1>
         <p className="text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto">
-          دوراه یک پلتفرم اوپن‌سورس برای یادگیری برنامه‌نویسی به زبان فارسی
+          DevRoad یک پلتفرم اوپن‌سورس برای یادگیری برنامه‌نویسی به زبان فارسی
           است. هدف ما ایجاد یک منبع جامع و رایگان برای جامعه توسعه‌دهندگان
           ایرانی است.
         </p>

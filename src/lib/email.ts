@@ -17,11 +17,11 @@ export async function sendVerificationEmail(
   const mailOptions = {
     from: process.env.SMTP_FROM || "DevRoad <noreply@devroad.ir>",
     to: email,
-    subject: "کد تایید ایمیل - دوراه",
+    subject: "کد تایید ایمیل - DevRoad",
     html: `
       <div dir="rtl" style="font-family: Tahoma, Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">
         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 10px 10px 0 0; text-align: center;">
-          <h1 style="color: white; margin: 0; font-size: 28px;">دوراه</h1>
+          <h1 style="color: white; margin: 0; font-size: 28px;">DevRoad</h1>
           <p style="color: rgba(255,255,255,0.9); margin-top: 8px;">مسیر یادگیری برنامه‌نویسی</p>
         </div>
         <div style="background: #ffffff; padding: 30px; border: 1px solid #e5e7eb; border-radius: 0 0 10px 10px;">

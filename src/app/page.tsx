@@ -39,7 +39,7 @@ export default function HomePage() {
               <span className="text-primary">برنامه‌نویسی</span>
             </h1>
             <p className="mt-6 text-lg text-muted-foreground leading-relaxed">
-              با دوراه، مسیر یادگیری خود را در دنیای برنامه‌نویسی پیدا کنید.
+              با DevRoad، مسیر یادگیری خود را در دنیای برنامه‌نویسی پیدا کنید.
               رودمپ‌های جامع، پروژه‌های عملی، منتورینگ و فوروم‌های تخصصی
               همگی در یک مکان.
             </p>
@@ -64,7 +64,7 @@ export default function HomePage() {
       {/* Features */}
       <section className="container mx-auto px-4 py-16">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold">چرا دوراه؟</h2>
+          <h2 className="text-3xl font-bold">چرا DevRoad؟</h2>
           <p className="mt-3 text-muted-foreground">
             همه‌چیز برای شروع و پیشرفت در مسیر برنامه‌نویسی
           </p>

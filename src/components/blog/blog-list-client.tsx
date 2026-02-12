@@ -109,7 +109,7 @@ export function BlogListClient({ initialPosts }: { initialPosts: BlogMeta[] }) {
           href="/blog/blog-writing-guide"
           className="text-sm text-primary hover:underline"
         >
-          راهنمای نوشتن بلاگ در دوراه
+          راهنمای نوشتن بلاگ در DevRoad
         </Link>
       </div>
     </div>

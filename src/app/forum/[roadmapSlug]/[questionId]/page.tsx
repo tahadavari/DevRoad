@@ -22,6 +22,8 @@ import {
   Loader2,
   Send,
   Clock,
+  Mic,
+  AudioLines,
 } from "lucide-react";
 
 interface Answer {
@@ -303,6 +305,37 @@ export default function QuestionPage() {
       </div>
 
       <Separator className="my-6" />
+
+      <Card className="mb-6 overflow-hidden border-primary/20 bg-gradient-to-br from-primary/5 via-background to-background shadow-sm">
+        <CardContent className="p-5">
+          <div className="flex items-center justify-between gap-3 flex-wrap">
+            <div className="flex items-center gap-3">
+              <div className="flex h-11 w-11 items-center justify-center rounded-full bg-primary/15 text-primary">
+                <Mic className="h-5 w-5" />
+              </div>
+              <div>
+                <p className="font-medium">کامپوننت وویس</p>
+                <p className="text-xs text-muted-foreground">
+                  رابط کاربری ضبط وویس با طراحی جدید و مدرن
+                </p>
+              </div>
+            </div>
+            <div className="flex items-center gap-2 rounded-full border border-primary/30 bg-background px-3 py-1.5 text-xs text-primary">
+              <AudioLines className="h-4 w-4" />
+              به‌زودی فعال می‌شود
+            </div>
+          </div>
+          <div className="mt-4 flex items-center gap-1.5">
+            {[60, 35, 50, 28, 55, 40, 62, 30, 46].map((h, i) => (
+              <span
+                key={i}
+                className="w-1.5 rounded-full bg-primary/60"
+                style={{ height: `${h / 4}px` }}
+              />
+            ))}
+          </div>
+        </CardContent>
+      </Card>
 
       {/* New Answer Form */}
       <Card>
