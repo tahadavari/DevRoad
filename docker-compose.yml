@@ -1,18 +1,18 @@
 services:
   db:
     image: postgres:16-alpine
-    container_name: cyver-db
+    container_name: devroad-db
     restart: unless-stopped
     environment:
-      POSTGRES_USER: cyver
-      POSTGRES_PASSWORD: cyver
-      POSTGRES_DB: cyver
+      POSTGRES_USER: devroad
+      POSTGRES_PASSWORD: devroad
+      POSTGRES_DB: devroad
     ports:
       - "5432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U cyver"]
+      test: ["CMD-SHELL", "pg_isready -U devroad"]
       interval: 10s
       timeout: 5s
       retries: 5
@@ -21,18 +21,18 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: cyver-app
+    container_name: devroad-app
     restart: unless-stopped
     ports:
       - "3000:3000"
     environment:
-      DATABASE_URL: "postgresql://cyver:cyver@db:5432/cyver?schema=public"
+      DATABASE_URL: "postgresql://devroad:devroad@db:5432/devroad?schema=public"
       JWT_SECRET: "${JWT_SECRET:-your-super-secret-jwt-key-change-this}"
       SMTP_HOST: "${SMTP_HOST:-smtp.gmail.com}"
       SMTP_PORT: "${SMTP_PORT:-587}"
       SMTP_USER: "${SMTP_USER:-}"
       SMTP_PASS: "${SMTP_PASS:-}"
-      SMTP_FROM: "${SMTP_FROM:-Cyver <noreply@cyver.ir>}"
+      SMTP_FROM: "${SMTP_FROM:-DevRoad <noreply@devroad.ir>}"
       NEXT_PUBLIC_APP_URL: "${NEXT_PUBLIC_APP_URL:-http://localhost:3000}"
     depends_on:
       db:

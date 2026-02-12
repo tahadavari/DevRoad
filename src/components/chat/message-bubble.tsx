@@ -94,9 +94,111 @@ function VideoMessageBubble({ fileUrl, isOwn }: { fileUrl: string; isOwn: boolea
   );
 }
 
-export function MessageBubble({ message, isOwn, onReply }: MessageBubbleProps) {
-  const hasMedia = ["IMAGE", "VOICE", "VIDEO"].includes(message.type);
+function VoiceMessageBubble({ fileUrl, isOwn }: { fileUrl: string; isOwn: boolean }) {
+  const audioRef = useRef<HTMLAudioElement>(null);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [duration, setDuration] = useState(0);
+  const [currentTime, setCurrentTime] = useState(0);
 
+  useEffect(() => {
+    const audio = audioRef.current;
+    if (!audio) return;
+
+    const onLoaded = () => setDuration(audio.duration || 0);
+    const onTimeUpdate = () => setCurrentTime(audio.currentTime || 0);
+    const onEnded = () => {
+      setIsPlaying(false);
+      setCurrentTime(0);
+    };
+
+    audio.addEventListener("loadedmetadata", onLoaded);
+    audio.addEventListener("timeupdate", onTimeUpdate);
+    audio.addEventListener("ended", onEnded);
+
+    return () => {
+      audio.removeEventListener("loadedmetadata", onLoaded);
+      audio.removeEventListener("timeupdate", onTimeUpdate);
+      audio.removeEventListener("ended", onEnded);
+    };
+  }, [fileUrl]);
+
+  const togglePlay = () => {
+    const audio = audioRef.current;
+    if (!audio) return;
+
+    if (audio.paused) {
+      audio.play();
+      setIsPlaying(true);
+      return;
+    }
+
+    audio.pause();
+    setIsPlaying(false);
+  };
+
+  const formatDuration = (seconds: number) => {
+    if (!Number.isFinite(seconds) || seconds < 0) return "0:00";
+    const m = Math.floor(seconds / 60);
+    const s = Math.floor(seconds % 60)
+      .toString()
+      .padStart(2, "0");
+    return `${m}:${s}`;
+  };
+
+  const progressPercent = duration > 0 ? Math.min((currentTime / duration) * 100, 100) : 0;
+  const bars = [8, 14, 10, 18, 11, 20, 15, 8, 17, 22, 14, 10, 16, 12, 21, 9, 14, 18, 11, 16, 7, 13, 19, 10, 15, 22, 12, 9, 14, 17];
+  const activeBars = Math.round((progressPercent / 100) * bars.length);
+
+  return (
+    <div
+      className={cn(
+        "min-w-[220px] rounded-2xl px-3 py-2.5 shadow-sm",
+        isOwn
+          ? "rounded-tr-sm bg-primary/15 dark:bg-primary/25"
+          : "rounded-tl-sm bg-muted/80 dark:bg-muted/40"
+      )}
+    >
+      <audio ref={audioRef} src={fileUrl} preload="metadata" />
+
+      <div className={cn("flex items-center gap-2.5", isOwn && "flex-row-reverse")}>
+        <button
+          type="button"
+          onClick={togglePlay}
+          className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-md transition hover:shadow-lg"
+          aria-label={isPlaying ? "توقف" : "پخش"}
+        >
+          {isPlaying ? (
+            <Pause className="h-4 w-4" />
+          ) : (
+            <Play className="h-4 w-4 translate-x-[1px]" />
+          )}
+        </button>
+
+        <div className="flex-1 min-w-0">
+          <div className={cn("flex items-end gap-[2px] h-7", isOwn && "justify-end")}>
+            {bars.map((h, i) => (
+              <span
+                key={i}
+                className={cn(
+                  "w-[3px] rounded-full shrink-0 transition-all",
+                  i < activeBars ? "bg-primary" : "bg-primary/25"
+                )}
+                style={{ height: `${h}px` }}
+              />
+            ))}
+          </div>
+
+          <div className={cn("mt-1.5 flex items-center justify-between text-[10px] font-mono text-muted-foreground", isOwn && "flex-row-reverse")}>
+            <span>{formatDuration(currentTime)}</span>
+            <span>{formatDuration(duration)}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export function MessageBubble({ message, isOwn, onReply }: MessageBubbleProps) {
   return (
     <div
       className={cn(
@@ -130,7 +232,7 @@ export function MessageBubble({ message, isOwn, onReply }: MessageBubbleProps) {
         )}
         {message.type === "VOICE" && message.fileUrl && (
           <div className="space-y-1">
-            <audio controls className="w-full max-w-[240px] h-9" src={message.fileUrl} />
+            <VoiceMessageBubble fileUrl={message.fileUrl} isOwn={isOwn} />
             {message.content && message.content !== "رسانه" && (
               <p className="text-sm">{message.content}</p>
             )}
