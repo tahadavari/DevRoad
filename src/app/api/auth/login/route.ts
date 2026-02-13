@@ -35,7 +35,12 @@ export async function POST(request: NextRequest) {
 
     if (!user.emailVerified) {
       return NextResponse.json(
-        { success: false, error: "ابتدا ایمیل خود را تایید کنید" },
+        {
+          success: false,
+          error: "ابتدا ایمیل خود را تایید کنید",
+          errorCode: "EMAIL_NOT_VERIFIED",
+          email: user.email,
+        },
         { status: 403 }
       );
     }
@@ -60,7 +65,7 @@ export async function POST(request: NextRequest) {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
       sameSite: "lax",
-      maxAge: 7 * 24 * 60 * 60, // 7 days
+      maxAge: 7 * 24 * 60 * 60,
       path: "/",
     });
 

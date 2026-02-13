@@ -14,6 +14,8 @@ import {
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Progress } from "@/components/ui/progress";
+import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
 import {
   Map,
   ArrowLeft,
@@ -46,6 +48,12 @@ export default function DashboardPage() {
   const [roadmaps, setRoadmaps] = useState<RoadmapProgress[]>([]);
   const [bookmarks, setBookmarks] = useState<BlogBookmarkItem[]>([]);
   const [loading, setLoading] = useState(true);
+  const [currentPassword, setCurrentPassword] = useState("");
+  const [newPassword, setNewPassword] = useState("");
+  const [confirmPassword, setConfirmPassword] = useState("");
+  const [passwordMessage, setPasswordMessage] = useState("");
+  const [passwordError, setPasswordError] = useState("");
+  const [passwordLoading, setPasswordLoading] = useState(false);
 
   useEffect(() => {
     if (!isLoading && !user) {
@@ -78,6 +86,46 @@ export default function DashboardPage() {
       </div>
     );
   }
+
+  const handlePasswordChange = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setPasswordError("");
+    setPasswordMessage("");
+
+    if (newPassword !== confirmPassword) {
+      setPasswordError("تکرار رمز عبور مطابقت ندارد");
+      return;
+    }
+
+    if (newPassword.length < 8) {
+      setPasswordError("رمز عبور باید حداقل ۸ کاراکتر باشد");
+      return;
+    }
+
+    setPasswordLoading(true);
+    try {
+      const res = await fetch("/api/auth/change-password", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ currentPassword, newPassword }),
+      });
+      const data = await res.json();
+
+      if (!res.ok) {
+        setPasswordError(data.error || "تغییر رمز عبور ناموفق بود");
+        return;
+      }
+
+      setPasswordMessage("رمز عبور با موفقیت تغییر کرد");
+      setCurrentPassword("");
+      setNewPassword("");
+      setConfirmPassword("");
+    } catch {
+      setPasswordError("خطا در ارتباط با سرور");
+    } finally {
+      setPasswordLoading(false);
+    }
+  };
 
   return (
     <div className="container mx-auto px-4 py-10">
@@ -156,6 +204,36 @@ export default function DashboardPage() {
           </CardContent>
         </Card>
       </div>
+
+      <Card className="mb-8">
+        <CardHeader>
+          <CardTitle className="text-lg">تغییر رمز عبور</CardTitle>
+          <CardDescription>برای امنیت حساب خود، رمز عبور را به‌روزرسانی کنید</CardDescription>
+        </CardHeader>
+        <CardContent>
+          <form onSubmit={handlePasswordChange} className="grid grid-cols-1 md:grid-cols-3 gap-3">
+            <div className="space-y-1.5">
+              <Label htmlFor="currentPassword">رمز فعلی</Label>
+              <Input id="currentPassword" type="password" dir="ltr" value={currentPassword} onChange={(e) => setCurrentPassword(e.target.value)} required />
+            </div>
+            <div className="space-y-1.5">
+              <Label htmlFor="newPassword">رمز جدید</Label>
+              <Input id="newPassword" type="password" dir="ltr" value={newPassword} onChange={(e) => setNewPassword(e.target.value)} required />
+            </div>
+            <div className="space-y-1.5">
+              <Label htmlFor="confirmPassword">تکرار رمز جدید</Label>
+              <Input id="confirmPassword" type="password" dir="ltr" value={confirmPassword} onChange={(e) => setConfirmPassword(e.target.value)} required />
+            </div>
+            <div className="md:col-span-3 flex flex-col gap-2">
+              {passwordError && <p className="text-sm text-destructive">{passwordError}</p>}
+              {passwordMessage && <p className="text-sm text-green-600 dark:text-green-400">{passwordMessage}</p>}
+              <Button type="submit" className="w-full md:w-auto" disabled={passwordLoading}>
+                {passwordLoading ? <Loader2 className="h-4 w-4 animate-spin" /> : "ثبت تغییرات"}
+              </Button>
+            </div>
+          </form>
+        </CardContent>
+      </Card>
 
       {/* Bookmarked Blogs */}
       {bookmarks.length > 0 && (
