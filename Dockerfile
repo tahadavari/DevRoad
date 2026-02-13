@@ -8,6 +8,7 @@ COPY package.json package-lock.json ./
 RUN npm ci
 
 FROM base AS builder
+RUN apk add --no-cache openssl openssl-dev
 WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
@@ -23,7 +24,7 @@ ENV NEXT_TELEMETRY_DISABLED=1
 ENV PORT=3000
 ENV HOSTNAME=0.0.0.0
 
-RUN apk add --no-cache libc6-compat && \
+RUN apk add --no-cache libc6-compat openssl openssl-dev && \
     addgroup --system --gid 1001 nodejs && \
     adduser --system --uid 1001 nextjs
 

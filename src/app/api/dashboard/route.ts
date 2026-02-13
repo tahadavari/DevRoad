@@ -21,7 +21,7 @@ export async function GET() {
     // Get progress for each
     const index = getRoadmapIndex();
     const roadmapData = await Promise.all(
-      userRoadmaps.map(async (ur) => {
+      userRoadmaps.map(async (ur: (typeof userRoadmaps)[number]) => {
         const roadmap = getRoadmap(ur.roadmapSlug);
         const summary = index.roadmaps.find((r) => r.slug === ur.roadmapSlug);
         const progress = await prisma.userProgress.findMany({

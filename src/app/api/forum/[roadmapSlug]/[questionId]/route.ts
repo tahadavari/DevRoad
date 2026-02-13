@@ -57,10 +57,10 @@ export async function GET(
     });
 
     const processedAnswers = answers.map((answer: (typeof answers)[number]) => {
-      const likes = answer.votes.filter((v) => v.type === "LIKE").length;
-      const dislikes = answer.votes.filter((v) => v.type === "DISLIKE").length;
+      const likes = answer.votes.filter((v: (typeof answer.votes)[number]) => v.type === "LIKE").length;
+      const dislikes = answer.votes.filter((v: (typeof answer.votes)[number]) => v.type === "DISLIKE").length;
       const userVote = user
-        ? answer.votes.find((v) => v.userId === user.id)?.type || null
+        ? answer.votes.find((v: (typeof answer.votes)[number]) => v.userId === user.id)?.type || null
         : null;
 
       return {

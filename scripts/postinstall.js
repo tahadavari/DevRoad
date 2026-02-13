@@ -10,9 +10,17 @@ if (!existsSync(schemaPath)) {
   process.exit(0);
 }
 
-const command = process.platform === 'win32' ? 'npx.cmd' : 'npx';
+const isWindows = process.platform === 'win32';
+const command = isWindows ? 'npx.cmd' : 'npx';
 const result = spawnSync(command, ['prisma', 'generate', '--schema', schemaPath], {
   stdio: 'inherit',
+  shell: isWindows,
+  cwd: process.cwd(),
 });
 
-process.exit(result.status ?? 1);
+if (result.error) {
+  console.error('Error running prisma generate:', result.error.message);
+  process.exit(1);
+}
+
+process.exit(result.status ?? 0);

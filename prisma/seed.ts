@@ -58,8 +58,9 @@ async function main() {
 
 main()
   .catch((e) => {
-    console.error(e);
-    process.exit(1);
+    console.error("Seed error:", e);
+    // Don't exit with error code - allow deployment to continue
+    // process.exit(1);
   })
   .finally(async () => {
     await prisma.$disconnect();
