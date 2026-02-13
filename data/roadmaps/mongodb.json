@@ -1,0 +1,1370 @@
+{
+  "slug": "mongodb",
+  "title": "MongoDB",
+  "description": "Step by step guide to learning MongoDB in 2026",
+  "steps": [
+    {
+      "id": "mongodb-basics",
+      "title": "MongoDB Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «MongoDB Basics».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-mongodb",
+          "title": "What is MongoDB?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is MongoDB?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "MongoDB - The Modern No SQL Database",
+              "type": "article",
+              "url": "https://www.mongodb.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoDB Documentation",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Atlas?",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/atlas/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sql-vs-nosql",
+          "title": "SQL vs NoSQL",
+          "description": "مباحث و تمرین‌های مرتبط با «SQL vs NoSQL».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "SQL vs NoSQL: What's the Difference?",
+              "type": "article",
+              "url": "https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is NoSQL? - MongoDB",
+              "type": "article",
+              "url": "https://www.mongodb.com/resources/basics/databases/nosql-explained",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is SQL? - Microsoft",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL vs NoSQL: When to Use What and Why",
+              "type": "article",
+              "url": "https://medium.com/data-science-collective/sql-vs-nosql-when-to-use-what-and-why-from-someone-whos-used-both-at-scale-2547382758f5",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "when-to-use-mongodb",
+          "title": "When to use MongoDB?",
+          "description": "مباحث و تمرین‌های مرتبط با «When to use MongoDB?».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "MongoDB - The Modern No SQL Database",
+              "type": "article",
+              "url": "https://www.mongodb.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoDB Documentation",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why Use MongoDB and When to Use It?",
+              "type": "article",
+              "url": "https://www.mongodb.com/resources/products/fundamentals/why-use-mongodb",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-mongodb-atlas",
+          "title": "What is MongoDB Atlas?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is MongoDB Atlas?».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Atlas Essentials Course | MongoDB University",
+              "type": "course",
+              "url": "https://learn.mongodb.com/learning-paths/atlas-essentials",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoDB Atlas | The Modern, Multi-Cloud Database",
+              "type": "article",
+              "url": "https://www.mongodb.com/atlas",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Atlas?",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/atlas/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "mongodb-terminology",
+          "title": "MongoDB Terminology",
+          "description": "مباحث و تمرین‌های مرتبط با «MongoDB Terminology».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "MongoDB Security",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/security/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoDB Database Documentation",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/glossary/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoDB Basics: Basic Terminology of Mongo",
+              "type": "article",
+              "url": "https://medium.com/@gurbar.sidhu/mongodb-basics-1f111004e5d3",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "MongoDB",
+          "type": "article",
+          "url": "https://www.mongodb.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is MongoDB?",
+          "type": "article",
+          "url": "https://www.mongodb.com/company/what-is-mongodb",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MongoDB Database Documentation",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-model-data-types",
+      "title": "Data Model & Data Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Model & Data Types».",
+      "order": 2,
+      "children": [
+        {
+          "id": "data-model-data-types-item",
+          "title": "Data Model & Data Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Model & Data Types».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Model",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/data-modeling/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Types",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/mongodb-shell/reference/data-types/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Comprehensive Guide to Data Modeling in MongoDB",
+          "type": "article",
+          "url": "https://medium.com/@skhans/a-comprehensive-guide-to-data-modeling-in-mongodb-b63b2df9d9dd",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "collections-methods",
+      "title": "Collections & Methods",
+      "description": "مباحث و تمرین‌های مرتبط با «Collections & Methods».",
+      "order": 3,
+      "children": [
+        {
+          "id": "update-and-relevant",
+          "title": "update() and relevant",
+          "description": "مباحث و تمرین‌های مرتبط با «update() and relevant».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Update Operations",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/operator/update/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Collection Update Methods",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.update/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Update Data in Mongodb in 2025?",
+              "type": "article",
+              "url": "https://dev.to/cristianalex_17/how-to-update-data-in-mongodb-in-2025-3b0a",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "find-and-relevant",
+          "title": "find() and relevant",
+          "description": "مباحث و تمرین‌های مرتبط با «find() and relevant».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Query Documents",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/tutorial/query-documents/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "find()",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.find/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cursors",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/method/js-cursor/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "findOneAndUpdate()",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.findoneandupdate/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Complete Guide to MongoDB Queries with Examples",
+              "type": "article",
+              "url": "https://dev.to/rajrathod/a-complete-guide-to-mongodb-queries-with-examples-ik4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "delete-and-relevant",
+          "title": "delete() and relevant",
+          "description": "مباحث و تمرین‌های مرتبط با «delete() and relevant».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Delete Operations",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/command/delete/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoDB Delete Documents",
+              "type": "article",
+              "url": "https://boxoflearn.com/mongodb-delete-documents/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "insert-and-relevant",
+          "title": "insert() and relevant",
+          "description": "مباحث و تمرین‌های مرتبط با «insert() and relevant».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Insert Commands",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/command/insert/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoDB CRUD Operations: Insert and Find Documents",
+              "type": "article",
+              "url": "https://learn.mongodb.com/courses/mongodb-crud-operations-insert-and-find-documents",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Comprehensive Guide to MongoDB Methods",
+              "type": "article",
+              "url": "https://medium.com/@coderwithtools/a-comprehensive-guide-to-mongodb-methods-syntax-and-examples-feee0ac07599",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bulkwrite-and-relevant",
+          "title": "bulkWrite() and relevant",
+          "description": "مباحث و تمرین‌های مرتبط با «bulkWrite() and relevant».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "db.collection.bulkWrite()",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.bulkwrite/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoDB: InsertMany vs BulkWrite",
+              "type": "article",
+              "url": "https://medium.com/@msbytedev/mongodb-insertmany-vs-bulkwrite-2f9da91b544c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "counting-documents",
+          "title": "Counting Documents",
+          "description": "مباحث و تمرین‌های مرتبط با «Counting Documents».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Counting Documents",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.countdocuments/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "estimatedDocumentCount",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.estimateddocumentcount/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "validate",
+          "title": "validate()",
+          "description": "مباحث و تمرین‌های مرتبط با «validate()».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Validate",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/command/validate/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Real-World Example: MongoDB Data Validation and Sanitization",
+              "type": "article",
+              "url": "https://codezup.com/mongodb-data-validation-sanitization-example/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Collection Methods",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/reference/method/js-collection/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "createIndex",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.createindex/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "count",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.count/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "distinct",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.distinct/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Comprehensive Guide to MongoDB Methods",
+          "type": "article",
+          "url": "https://medium.com/@coderwithtools/a-comprehensive-guide-to-mongodb-methods-syntax-and-examples-feee0ac07599",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "query-operators",
+      "title": "Query Operators",
+      "description": "مباحث و تمرین‌های مرتبط با «Query Operators».",
+      "order": 4,
+      "children": [
+        {
+          "id": "query-operators-item",
+          "title": "Query Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Query Operators».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Query and Projection Operators",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/reference/operator/query/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "$project",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Aggregation Operators",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/reference/operator/aggregation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "creating-indexes",
+      "title": "Creating Indexes",
+      "description": "مباحث و تمرین‌های مرتبط با «Creating Indexes».",
+      "order": 5,
+      "children": [
+        {
+          "id": "creating-indexes-item",
+          "title": "Creating Indexes",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating Indexes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "createIndex",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/reference/method/db.collection.createindex/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Geospatial Queries",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/geospatial-queries/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Single vs Compound Mongodb Index",
+          "type": "article",
+          "url": "https://medium.com/@rakeebnazar/single-vs-compound-mongodb-index-in-depth-analysis-5319cfdd2ce",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "performance-optimization",
+      "title": "Performance Optimization",
+      "description": "مباحث و تمرین‌های مرتبط با «Performance Optimization».",
+      "order": 6,
+      "children": [
+        {
+          "id": "atlas-search-indexes",
+          "title": "Atlas Search Indexes",
+          "description": "مباحث و تمرین‌های مرتبط با «Atlas Search Indexes».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Atlas Search Indexes",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/atlas/atlas-search/manage-indexes/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Atlas Search Made Easy: A Summary Guide for Developers",
+              "type": "article",
+              "url": "https://medium.com/@sumitkessar/atlas-search-made-easy-a-summary-guide-for-developers-883c27886987",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Comprehensive Guide to Optimising MongoDB Performance",
+          "type": "article",
+          "url": "https://www.mongodb.com/developer/products/mongodb/guide-to-optimizing-mongodb-performance/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Optimize MongoDB Performance & Security",
+          "type": "article",
+          "url": "https://medium.com/@noel.benji/how-to-optimize-mongodb-performance-security-6fd3ba1304c1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "aggregation",
+      "title": "Aggregation",
+      "description": "مباحث و تمرین‌های مرتبط با «Aggregation».",
+      "order": 7,
+      "children": [
+        {
+          "id": "pipelines-stages-and-operators",
+          "title": "Pipelines, Stages and Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Pipelines, Stages and Operators».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Aggregation Pipeline",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/core/aggregation-pipeline/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Aggregation Stages",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/operator/aggregation-pipeline/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "$project",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "$group",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/reference/operator/aggregation/group/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Aggregation Operations",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/aggregation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MongoDB Aggregation Operators",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/reference/operator/aggregation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Use Aggregations in MongoDB",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-use-aggregations-in-mongodb",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "transactions",
+      "title": "Transactions",
+      "description": "مباحث و تمرین‌های مرتبط با «Transactions».",
+      "order": 8,
+      "children": [
+        {
+          "id": "transactions-item",
+          "title": "Transactions",
+          "description": "مباحث و تمرین‌های مرتبط با «Transactions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Transactions",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/core/transactions/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Transactions in MongoDB Basics and Example",
+          "type": "article",
+          "url": "https://medium.com/@vikramgyawali57/transactions-in-mongodb-basics-and-example-4c2d8aab55eb",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "developer-tools",
+      "title": "Developer Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Developer Tools».",
+      "order": 9,
+      "children": [
+        {
+          "id": "developer-tools-item",
+          "title": "Developer Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Developer Tools».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "MongoDB Compass",
+          "type": "article",
+          "url": "https://www.mongodb.com/try/download/compass",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MongoDB Shell",
+          "type": "article",
+          "url": "https://www.mongodb.com/products/tools/shell",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MongoDB Developer Tools",
+          "type": "article",
+          "url": "https://www.mongodb.com/products/tools",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "scaling-mongodb",
+      "title": "Scaling MongoDB",
+      "description": "مباحث و تمرین‌های مرتبط با «Scaling MongoDB».",
+      "order": 10,
+      "children": [
+        {
+          "id": "replicasets",
+          "title": "Replicasets",
+          "description": "مباحث و تمرین‌های مرتبط با «Replicasets».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Replication",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/replication/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Replication in MongoDB",
+              "type": "article",
+              "url": "https://learn.mongodb.com/learn/course/replication-in-mongodb/lesson-5-read-and-write-concerns-with-mongodb-deployments/learn?client=customer&page=2",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Replica Sets and Shards in MongoDB: Architecture and Benefits",
+              "type": "article",
+              "url": "https://dev-aditya.medium.com/replica-sets-and-shards-in-mongodb-architecture-and-benefits-a3c83f39e4f0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sharded-clusters",
+          "title": "Sharded Clusters",
+          "description": "مباحث و تمرین‌های مرتبط با «Sharded Clusters».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Deploy a Self-Managed Sharded Cluster",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/tutorial/deploy-shard-cluster/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Sharding",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/sharding/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoDB Sharding: A Step by Step Guide to Setup A MongoDB Shard Cluster",
+              "type": "article",
+              "url": "https://medium.com/@sanklecha.harsh/mongodb-sharding-a-step-by-step-guide-to-setup-a-mongodb-shard-cluster-98668f53a078",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "tuning-configuration",
+          "title": "Tuning Configuration",
+          "description": "مباحث و تمرین‌های مرتبط با «Tuning Configuration».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Comprehensive Guide to Optimising MongoDB Performance",
+              "type": "article",
+              "url": "https://www.mongodb.com/developer/products/mongodb/guide-to-optimizing-mongodb-performance/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Optimizing Performance in MongoDB",
+              "type": "article",
+              "url": "https://medium.com/@halimebardakci/optimizing-performance-in-mongodb-tips-and-tricks-b1d635220eec",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Optimize MongoDB Performance & Security",
+              "type": "article",
+              "url": "https://medium.com/@noel.benji/how-to-optimize-mongodb-performance-security-6fd3ba1304c1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "indexing",
+          "title": "Indexing",
+          "description": "مباحث و تمرین‌های مرتبط با «Indexing».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Indexing",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/indexes/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Use Indexes in MongoDB",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mongodb",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "query-optimization",
+          "title": "Query Optimization",
+          "description": "مباحث و تمرین‌های مرتبط با «Query Optimization».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Optimize Query Performance",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/tutorial/optimize-query-performance-with-indexes-and-projections/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Query Optimization",
+              "type": "article",
+              "url": "https://learn.mongodb.com/courses/query-optimization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Scaling",
+          "type": "article",
+          "url": "https://www.mongodb.com/resources/basics/scaling",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Scalability With MongoDB Atlas",
+          "type": "article",
+          "url": "https://www.mongodb.com/resources/products/capabilities/scalability-with-mongodb-atlas",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Scaling MongoDB for Larger Datasets",
+          "type": "article",
+          "url": "https://medium.com/mongodb-tutorial/scaling-mongodb-for-larger-datasets-strategies-and-technical-considerations-b9d35243ff49",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "mongodb-security",
+      "title": "MongoDB Security",
+      "description": "مباحث و تمرین‌های مرتبط با «MongoDB Security».",
+      "order": 11,
+      "children": [
+        {
+          "id": "kerberos-authentication",
+          "title": "Kerberos Authentication",
+          "description": "مباحث و تمرین‌های مرتبط با «Kerberos Authentication».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Kerberos Authentication on Self-Managed Deployments",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/core/kerberos/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Configure MongoDB with Kerberos Authentication",
+              "type": "article",
+              "url": "https://hackernoon.com/mongodb-kerberos-a3dfdf322d1c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ldap-proxy-auth",
+          "title": "LDAP Proxy Auth",
+          "description": "مباحث و تمرین‌های مرتبط با «LDAP Proxy Auth».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Self-Managed LDAP Proxy Authentication",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/core/security-ldap/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "LDAP Authorization — MongoDB Manual",
+              "type": "article",
+              "url": "https://www.xuchao.org/docs/mongodb/core/security-ldap-external.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "tls-ssl-encryption",
+          "title": "TLS / SSL Encryption",
+          "description": "مباحث و تمرین‌های مرتبط با «TLS / SSL Encryption».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "TLS / SSL Encryption",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/core/security-transport-encryption/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Configure mongod and mongos for TLS/SSL",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/tutorial/configure-ssl/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Enable TLS/SSL on MongoDB",
+              "type": "article",
+              "url": "https://medium.com/mongoaudit/how-to-enable-tls-ssl-on-mongodb-d973a92cefa6",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "x-509-certificate-auth",
+          "title": "X.509 Certificate Auth",
+          "description": "مباحث و تمرین‌های مرتبط با «X.509 Certificate Auth».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Use X.509 Certificates to Authenticate Clients",
+              "type": "article",
+              "url": "https://www.mongodb.com/docs/manual/tutorial/configure-x509-client-authentication/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Secure MongoDB with X.509 TLS/SSL certificates",
+              "type": "article",
+              "url": "https://medium.com/@studio3t/secure-mongodb-with-x-509-tls-ssl-certificates-42ff4290d9f3",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "role-based-access-control",
+          "title": "Role-based Access Control",
+          "description": "مباحث و تمرین‌های مرتبط با «Role-based Access Control».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Role-Based Access Control",
+              "type": "article",
+              "url": "http://www.mongodb.com/docs/manual/core/authorization/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding MongoDB Role-based Access Control",
+              "type": "article",
+              "url": "https://medium.com/mongodb/understanding-mongodb-role-based-access-control-rbac-in-action-a-step-by-step-guide-8c679241f8b6",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "MongoDB Security",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/manual/security/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MongoDB Database Documentation",
+          "type": "article",
+          "url": "https://www.mongodb.com/docs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MongoDB Security: Best Practices to Keep Your Data Safe",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorial-series/mongodb-security-best-practices-to-keep-your-data-safe",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

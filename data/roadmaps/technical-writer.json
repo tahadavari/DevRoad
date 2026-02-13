@@ -1,0 +1,625 @@
+{
+  "slug": "technical-writer",
+  "title": "Technical Writer",
+  "description": "Roadmap for anyone looking for a career in technical writing",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "who-is-a-technical-writer",
+          "title": "Who is a Technical Writer?",
+          "description": "مباحث و تمرین‌های مرتبط با «Who is a Technical Writer?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What Is a Technical Writer?",
+              "type": "article",
+              "url": "https://boffin.education/introduction-to-technical-writing/#2-what-is-a-technical-writer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Day in the Life of a Technical Writer",
+              "type": "article",
+              "url": "https://boffin.education/technical-writing-roles-and-responsibilities/#4-a-day-in-the-life-of-a-technical-writer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Glossary of Technical Writing Terms: \"Technical Writer\"",
+              "type": "article",
+              "url": "https://boffin.education/glossary-of-technical-writing-terms/#technical-writer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-technical-writing",
+          "title": "What is Technical Writing?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Technical Writing?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Indeed: What Is Technical Writing?",
+              "type": "article",
+              "url": "https://www.indeed.com/career-advice/career-development/technical-writing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TechWhirl: What Is Technical Writing?",
+              "type": "article",
+              "url": "https://techwhirl.com/what-is-technical-writing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Amruta Ranade: What do Technical Writers do?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=biocrCx5T_k",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Technical Writer HQ: What is Technical Writing?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=KEI5JzBp2Io",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "role-of-technical-writers-inorganizations",
+          "title": "Role of Technical Writers inOrganizations",
+          "description": "مباحث و تمرین‌های مرتبط با «Role of Technical Writers inOrganizations».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "forms-of-technical-writing",
+          "title": "Forms of Technical Writing",
+          "description": "مباحث و تمرین‌های مرتبط با «Forms of Technical Writing».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "growth-as-a-technical-writer",
+          "title": "Growth as a Technical Writer",
+          "description": "مباحث و تمرین‌های مرتبط با «Growth as a Technical Writer».",
+          "order": 5,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "required-skills",
+      "title": "Required Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Required Skills».",
+      "order": 2,
+      "children": [
+        {
+          "id": "written-communication-proficiency",
+          "title": "Written Communication Proficiency",
+          "description": "مباحث و تمرین‌های مرتبط با «Written Communication Proficiency».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Formal, permanent, clear business communication through writing",
+              "type": "article",
+              "url": "https://www.scribd.com/document/546030656/Unit-3-Written-Communication",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "tooling",
+      "title": "Tooling",
+      "description": "مباحث و تمرین‌های مرتبط با «Tooling».",
+      "order": 3,
+      "children": [
+        {
+          "id": "publishing-tools",
+          "title": "Publishing Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Publishing Tools».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "plagiarism-checker",
+          "title": "Plagiarism Checker",
+          "description": "مباحث و تمرین‌های مرتبط با «Plagiarism Checker».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "git-version-control",
+          "title": "Git / Version Control",
+          "description": "مباحث و تمرین‌های مرتبط با «Git / Version Control».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "research-tools",
+          "title": "Research Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Research Tools».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "best-practices",
+      "title": "Best Practices",
+      "description": "مباحث و تمرین‌های مرتبط با «Best Practices».",
+      "order": 4,
+      "children": [
+        {
+          "id": "story-telling",
+          "title": "Story Telling",
+          "description": "مباحث و تمرین‌های مرتبط با «Story Telling».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "subtle-selling",
+          "title": "Subtle Selling",
+          "description": "مباحث و تمرین‌های مرتبط با «Subtle Selling».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "content-structure",
+          "title": "Content Structure",
+          "description": "مباحث و تمرین‌های مرتبط با «Content Structure».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "call-to-actions",
+          "title": "Call to Actions",
+          "description": "مباحث و تمرین‌های مرتبط با «Call to Actions».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "references",
+          "title": "References",
+          "description": "مباحث و تمرین‌های مرتبط با «References».",
+          "order": 5,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "crafting-great-titles",
+          "title": "Crafting Great Titles",
+          "description": "مباحث و تمرین‌های مرتبط با «Crafting Great Titles».",
+          "order": 6,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "content-objectives-intent",
+          "title": "Content Objectives & Intent",
+          "description": "مباحث و تمرین‌های مرتبط با «Content Objectives & Intent».",
+          "order": 7,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "user-persona",
+          "title": "User Persona",
+          "description": "مباحث و تمرین‌های مرتبط با «User Persona».",
+          "order": 8,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "writing-style-guides",
+          "title": "Writing Style Guides",
+          "description": "مباحث و تمرین‌های مرتبط با «Writing Style Guides».",
+          "order": 9,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "content-research",
+      "title": "Content Research",
+      "description": "مباحث و تمرین‌های مرتبط با «Content Research».",
+      "order": 5,
+      "children": [
+        {
+          "id": "content-research-item",
+          "title": "Content Research",
+          "description": "مباحث و تمرین‌های مرتبط با «Content Research».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "types-of-technical-content",
+      "title": "Types of Technical Content",
+      "description": "مباحث و تمرین‌های مرتبط با «Types of Technical Content».",
+      "order": 6,
+      "children": [
+        {
+          "id": "how-to-guides",
+          "title": "How-to Guides",
+          "description": "مباحث و تمرین‌های مرتبط با «How-to Guides».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "topic-score",
+          "title": "Topic Score",
+          "description": "مباحث و تمرین‌های مرتبط با «Topic Score».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "developer-docs",
+      "title": "Developer Docs",
+      "description": "مباحث و تمرین‌های مرتبط با «Developer Docs».",
+      "order": 7,
+      "children": [
+        {
+          "id": "developer-docs-item",
+          "title": "Developer Docs",
+          "description": "مباحث و تمرین‌های مرتبط با «Developer Docs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "api-reference",
+      "title": "API Reference",
+      "description": "مباحث و تمرین‌های مرتبط با «API Reference».",
+      "order": 8,
+      "children": [
+        {
+          "id": "api-reference-item",
+          "title": "API Reference",
+          "description": "مباحث و تمرین‌های مرتبط با «API Reference».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "help-content",
+      "title": "Help Content",
+      "description": "مباحث و تمرین‌های مرتبط با «Help Content».",
+      "order": 9,
+      "children": [
+        {
+          "id": "help-content-item",
+          "title": "Help Content",
+          "description": "مباحث و تمرین‌های مرتبط با «Help Content».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "technical-content-marketing",
+      "title": "Technical Content Marketing",
+      "description": "مباحث و تمرین‌های مرتبط با «Technical Content Marketing».",
+      "order": 10,
+      "children": [
+        {
+          "id": "technical-content-marketing-item",
+          "title": "Technical Content Marketing",
+          "description": "مباحث و تمرین‌های مرتبط با «Technical Content Marketing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "content-seo",
+      "title": "Content SEO",
+      "description": "مباحث و تمرین‌های مرتبط با «Content SEO».",
+      "order": 11,
+      "children": [
+        {
+          "id": "content-seo-item",
+          "title": "Content SEO",
+          "description": "مباحث و تمرین‌های مرتبط با «Content SEO».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "top-funnel-content",
+      "title": "Top-funnel Content",
+      "description": "مباحث و تمرین‌های مرتبط با «Top-funnel Content».",
+      "order": 12,
+      "children": [
+        {
+          "id": "pillar-content",
+          "title": "Pillar Content",
+          "description": "مباحث و تمرین‌های مرتبط با «Pillar Content».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "mid-funnel-content",
+      "title": "Mid-funnel Content",
+      "description": "مباحث و تمرین‌های مرتبط با «Mid-funnel Content».",
+      "order": 13,
+      "children": [
+        {
+          "id": "generic-gated-content",
+          "title": "Generic Gated Content",
+          "description": "مباحث و تمرین‌های مرتبط با «Generic Gated Content».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "bottom-funnel-content",
+      "title": "Bottom-funnel Content",
+      "description": "مباحث و تمرین‌های مرتبط با «Bottom-funnel Content».",
+      "order": 14,
+      "children": [
+        {
+          "id": "bottom-funnel-content-item",
+          "title": "Bottom-funnel Content",
+          "description": "مباحث و تمرین‌های مرتبط با «Bottom-funnel Content».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "release-notes-product-announcements",
+      "title": "Release Notes / Product Announcements",
+      "description": "مباحث و تمرین‌های مرتبط با «Release Notes / Product Announcements».",
+      "order": 15,
+      "children": [
+        {
+          "id": "release-notes-product-announcements-item",
+          "title": "Release Notes / Product Announcements",
+          "description": "مباحث و تمرین‌های مرتبط با «Release Notes / Product Announcements».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "customer-case-studies",
+      "title": "Customer Case-Studies",
+      "description": "مباحث و تمرین‌های مرتبط با «Customer Case-Studies».",
+      "order": 16,
+      "children": [
+        {
+          "id": "customer-case-studies-item",
+          "title": "Customer Case-Studies",
+          "description": "مباحث و تمرین‌های مرتبط با «Customer Case-Studies».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "technical-website-copy",
+      "title": "Technical Website Copy",
+      "description": "مباحث و تمرین‌های مرتبط با «Technical Website Copy».",
+      "order": 17,
+      "children": [
+        {
+          "id": "technical-website-copy-item",
+          "title": "Technical Website Copy",
+          "description": "مباحث و تمرین‌های مرتبط با «Technical Website Copy».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "content-optimization",
+      "title": "Content Optimization",
+      "description": "مباحث و تمرین‌های مرتبط با «Content Optimization».",
+      "order": 18,
+      "children": [
+        {
+          "id": "content-optimization-item",
+          "title": "Content Optimization",
+          "description": "مباحث و تمرین‌های مرتبط با «Content Optimization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "content-analysis",
+      "title": "Content Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Content Analysis».",
+      "order": 19,
+      "children": [
+        {
+          "id": "content-aging-timelines",
+          "title": "Content Aging & Timelines",
+          "description": "مباحث و تمرین‌های مرتبط با «Content Aging & Timelines».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "frequently-asked-questions",
+      "title": "Frequently Asked Questions",
+      "description": "مباحث و تمرین‌های مرتبط با «Frequently Asked Questions».",
+      "order": 20,
+      "children": [
+        {
+          "id": "frequently-asked-questions-item",
+          "title": "Frequently Asked Questions",
+          "description": "مباحث و تمرین‌های مرتبط با «Frequently Asked Questions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "content-distribution",
+      "title": "Content Distribution",
+      "description": "مباحث و تمرین‌های مرتبط با «Content Distribution».",
+      "order": 21,
+      "children": [
+        {
+          "id": "canonical-link",
+          "title": "Canonical Link",
+          "description": "مباحث و تمرین‌های مرتبط با «Canonical Link».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "content-distribution-channels",
+          "title": "Content Distribution Channels",
+          "description": "مباحث و تمرین‌های مرتبط با «Content Distribution Channels».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "content-distribution-amplification-strategies",
+          "title": "Content Distribution Amplification Strategies",
+          "description": "مباحث و تمرین‌های مرتبط با «Content Distribution Amplification Strategies».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,1811 @@
+{
+  "slug": "angular",
+  "title": "Angular",
+  "description": "Everything that is there to learn about Angular and the ecosystem in 2026.",
+  "steps": [
+    {
+      "id": "introduction-to-angular",
+      "title": "Introduction to Angular",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction to Angular».",
+      "order": 1,
+      "children": [
+        {
+          "id": "setting-up-a-new-project",
+          "title": "Setting up a New Project",
+          "description": "مباحث و تمرین‌های مرتبط با «Setting up a New Project».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Installation",
+              "type": "article",
+              "url": "https://angular.dev/installation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Setting up the local environment and workspace",
+              "type": "article",
+              "url": "https://angular.dev/tools/cli/setup-local",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Build your first Angular app",
+              "type": "article",
+              "url": "https://angular.dev/tutorials/first-app",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "angular-and-history",
+          "title": "Angular and History",
+          "description": "مباحث و تمرین‌های مرتبط با «Angular and History».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is Angular?",
+              "type": "article",
+              "url": "https://angular.dev/overview",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Angular",
+              "type": "article",
+              "url": "https://angular.io/guide/understanding-angular-overview",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Angular",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Angular_getting_started",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "angular-and-history-2",
+          "title": "Angular and History",
+          "description": "مباحث و تمرین‌های مرتبط با «Angular and History».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is Angular?",
+              "type": "article",
+              "url": "https://angular.dev/overview",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Angular",
+              "type": "article",
+              "url": "https://angular.io/guide/understanding-angular-overview",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Angular",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Angular_getting_started",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Angular",
+          "type": "article",
+          "url": "https://angular.dev/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular Documentation",
+          "type": "article",
+          "url": "https://angular.dev/overview",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular Playground",
+          "type": "article",
+          "url": "https://angular.dev/playground",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular API Reference",
+          "type": "article",
+          "url": "https://angular.dev/api",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "components",
+      "title": "Components",
+      "description": "مباحث و تمرین‌های مرتبط با «Components».",
+      "order": 2,
+      "children": [
+        {
+          "id": "components-item",
+          "title": "Components",
+          "description": "مباحث و تمرین‌های مرتبط با «Components».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Anatomy of a Component",
+          "type": "article",
+          "url": "https://angular.dev/guide/components",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Composing with Components in Angular",
+          "type": "article",
+          "url": "https://angular.dev/essentials/components",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Standalone Components in Angular",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=x5PZwb4XurU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Angular",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/angular?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "communication",
+      "title": "Communication",
+      "description": "مباحث و تمرین‌های مرتبط با «Communication».",
+      "order": 3,
+      "children": [
+        {
+          "id": "communication-item",
+          "title": "Communication",
+          "description": "مباحث و تمرین‌های مرتبط با «Communication».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Inputs",
+          "type": "article",
+          "url": "https://angular.dev/guide/components/inputs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Outputs",
+          "type": "article",
+          "url": "https://angular.dev/guide/components/outputs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Model Inputs",
+          "type": "article",
+          "url": "https://angular.dev/guide/signals/model",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Non-Related Component Communication | Angular Component & Directives",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=aIkGXMJFTzM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "modules",
+      "title": "Modules",
+      "description": "مباحث و تمرین‌های مرتبط با «Modules».",
+      "order": 4,
+      "children": [
+        {
+          "id": "modules-item",
+          "title": "Modules",
+          "description": "مباحث و تمرین‌های مرتبط با «Modules».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Importing and Using Components",
+          "type": "article",
+          "url": "https://angular.dev/guide/components/importing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Modules",
+          "type": "article",
+          "url": "https://angular.dev/guide/ngmodules",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Angular",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/angular?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "understand-binding",
+      "title": "Understand Binding",
+      "description": "مباحث و تمرین‌های مرتبط با «Understand Binding».",
+      "order": 5,
+      "children": [
+        {
+          "id": "understand-binding-item",
+          "title": "Understand Binding",
+          "description": "مباحث و تمرین‌های مرتبط با «Understand Binding».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Binding",
+          "type": "article",
+          "url": "https://angular.dev/guide/templates/binding",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "templates",
+      "title": "Templates",
+      "description": "مباحث و تمرین‌های مرتبط با «Templates».",
+      "order": 6,
+      "children": [
+        {
+          "id": "templates-item",
+          "title": "Templates",
+          "description": "مباحث و تمرین‌های مرتبط با «Templates».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Template Syntax",
+          "type": "article",
+          "url": "https://angular.dev/guide/templates",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Angular",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/angular?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "template-syntax",
+      "title": "Template Syntax",
+      "description": "مباحث و تمرین‌های مرتبط با «Template Syntax».",
+      "order": 7,
+      "children": [
+        {
+          "id": "template-syntax-item",
+          "title": "Template Syntax",
+          "description": "مباحث و تمرین‌های مرتبط با «Template Syntax».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Template Syntax",
+          "type": "article",
+          "url": "https://angular.dev/guide/templates",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An Introduction to Angular Template Syntax",
+          "type": "article",
+          "url": "https://angularstart.com/modules/basic-angular-concepts/3/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Craft Dynamic Templates with Angular's Template Syntax",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=uSnUTcf8adI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pipes",
+      "title": "Pipes",
+      "description": "مباحث و تمرین‌های مرتبط با «Pipes».",
+      "order": 8,
+      "children": [
+        {
+          "id": "pipes-item",
+          "title": "Pipes",
+          "description": "مباحث و تمرین‌های مرتبط با «Pipes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding Pipes",
+          "type": "article",
+          "url": "https://angular.dev/tutorials/learn-angular/22-pipes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "BuiltIn Pipes - examples",
+          "type": "article",
+          "url": "https://codecraft.tv/courses/angular/pipes/built-in-pipes/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "directives",
+      "title": "Directives",
+      "description": "مباحث و تمرین‌های مرتبط با «Directives».",
+      "order": 9,
+      "children": [
+        {
+          "id": "directives-item",
+          "title": "Directives",
+          "description": "مباحث و تمرین‌های مرتبط با «Directives».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Built-in directives",
+          "type": "article",
+          "url": "https://angular.dev/guide/directives/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "BuiltIn Directives Types",
+          "type": "article",
+          "url": "https://thinkster.io/tutorials/angular-2-directives",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "routing",
+      "title": "Routing",
+      "description": "مباحث و تمرین‌های مرتبط با «Routing».",
+      "order": 10,
+      "children": [
+        {
+          "id": "routing-item",
+          "title": "Routing",
+          "description": "مباحث و تمرین‌های مرتبط با «Routing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Angular Routing",
+          "type": "article",
+          "url": "https://angular.dev/guide/routing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Common Routing Tasks",
+          "type": "article",
+          "url": "https://angular.dev/guide/routing/common-router-tasks",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "services-remote-data",
+      "title": "Services  & Remote Data",
+      "description": "مباحث و تمرین‌های مرتبط با «Services  & Remote Data».",
+      "order": 11,
+      "children": [
+        {
+          "id": "services-remote-data-item",
+          "title": "Services  & Remote Data",
+          "description": "مباحث و تمرین‌های مرتبط با «Services  & Remote Data».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Creating an Injectable Service",
+          "type": "article",
+          "url": "https://angular.dev/guide/di/creating-injectable-service",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Service for API Calls",
+          "type": "article",
+          "url": "https://www.knowledgehut.com/blog/web-development/make-api-calls-angular",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "forms",
+      "title": "Forms",
+      "description": "مباحث و تمرین‌های مرتبط با «Forms».",
+      "order": 12,
+      "children": [
+        {
+          "id": "dependency-injection",
+          "title": "Dependency Injection",
+          "description": "مباحث و تمرین‌های مرتبط با «Dependency Injection».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Understanding Dependency Injection",
+              "type": "article",
+              "url": "https://angular.dev/guide/di/dependency-injection",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DI in Action",
+              "type": "article",
+              "url": "https://angular.dev/guide/di/di-in-action",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Dependency Injection",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/dependency-injection?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Forms in Angular",
+          "type": "article",
+          "url": "https://angular.dev/guide/forms",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular Forms Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-bGgjgx3fGs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building Forms in Angular Apps",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=hAaoPOx_oIw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "http-client",
+      "title": "HTTP Client",
+      "description": "مباحث و تمرین‌های مرتبط با «HTTP Client».",
+      "order": 13,
+      "children": [
+        {
+          "id": "http-client-item",
+          "title": "HTTP Client",
+          "description": "مباحث و تمرین‌های مرتبط با «HTTP Client».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "HTTP Client",
+          "type": "article",
+          "url": "https://angular.dev/guide/http",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular HTTP Client - Quickstart Guide",
+          "type": "article",
+          "url": "https://blog.angular-university.io/angular-http/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Using HTTP Client in modern Angular applications",
+          "type": "article",
+          "url": "https://www.thisdot.co/blog/using-httpclient-in-modern-angular-applications",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "rxjs-basics",
+      "title": "RxJS Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «RxJS Basics».",
+      "order": 14,
+      "children": [
+        {
+          "id": "setting-up-the-client",
+          "title": "Setting Up the Client",
+          "description": "مباحث و تمرین‌های مرتبط با «Setting Up the Client».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Setting up HttpClient",
+              "type": "article",
+              "url": "https://angular.dev/guide/http/setup",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Setting up HttpClient in Angular (NgModule)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=hBFtim1vO3M",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "observable-pattern",
+          "title": "Observable Pattern",
+          "description": "مباحث و تمرین‌های مرتبط با «Observable Pattern».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Angular and Observable",
+              "type": "article",
+              "url": "https://medium.com/fuzzycloud/angular-and-observable-4bf890b2a282",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Learn RxJS",
+          "type": "article",
+          "url": "https://www.learnrxjs.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "RxJs and Observables for Beginners: A Beginner Friendly Introduction",
+          "type": "article",
+          "url": "https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Beginner's RxJS Tutorial: Dive Deep with RxJS Crash Course!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=yJdh1_FbtjU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "signals",
+      "title": "Signals",
+      "description": "مباحث و تمرین‌های مرتبط با «Signals».",
+      "order": 15,
+      "children": [
+        {
+          "id": "signals-item",
+          "title": "Signals",
+          "description": "مباحث و تمرین‌های مرتبط با «Signals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Signals",
+          "type": "article",
+          "url": "https://angular.dev/guide/signals",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular Signals Complete Guide",
+          "type": "article",
+          "url": "https://blog.angular-university.io/angular-signals/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Signals Unleashed: The Full Guide",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=6W6gycuhiN0&t=169s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "state-management",
+      "title": "State Management",
+      "description": "مباحث و تمرین‌های مرتبط با «State Management».",
+      "order": 16,
+      "children": [
+        {
+          "id": "state-management-item",
+          "title": "State Management",
+          "description": "مباحث و تمرین‌های مرتبط با «State Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is State Management?",
+          "type": "article",
+          "url": "https://www.techtarget.com/searchapparchitecture/definition/state-management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular state management made simple with NgRx",
+          "type": "article",
+          "url": "https://blog.logrocket.com/angular-state-management-made-simple-with-ngrx/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular State Management with NgRx",
+          "type": "article",
+          "url": "https://www.syncfusion.com/blogs/post/angular-state-management-with-ngrx.aspx",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "State Management and the Facade pattern in Angular",
+          "type": "article",
+          "url": "https://thefullstack.engineer/full-stack-development-series-part-10-state-management-and-the-facade-pattern-in-angular",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "zones",
+      "title": "Zones",
+      "description": "مباحث و تمرین‌های مرتبط با «Zones».",
+      "order": 17,
+      "children": [
+        {
+          "id": "zones-item",
+          "title": "Zones",
+          "description": "مباحث و تمرین‌های مرتبط با «Zones».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Resolving Zone Pollution",
+          "type": "article",
+          "url": "https://angular.dev/best-practices/zone-pollution",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular without ZoneJS (Zoneless)",
+          "type": "article",
+          "url": "https://angular.dev/guide/experimental/zoneless",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NgZone - API",
+          "type": "article",
+          "url": "https://angular.dev/api/core/NgZone",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WTF is \"Zone.js\" and is it making your app slow?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lmrf_gPIOZU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "developer-tools",
+      "title": "Developer Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Developer Tools».",
+      "order": 18,
+      "children": [
+        {
+          "id": "developer-tools-item",
+          "title": "Developer Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Developer Tools».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Angular Devtools",
+          "type": "article",
+          "url": "https://angular.dev/tools/devtools",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular CLI",
+          "type": "article",
+          "url": "https://angular.dev/tools/cli",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Language Service Docs",
+          "type": "article",
+          "url": "https://angular.dev/tools/language-service",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "VS Code NG Language Service",
+          "type": "article",
+          "url": "https://github.com/angular/vscode-ng-language-service",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ssr",
+      "title": "SSR",
+      "description": "مباحث و تمرین‌های مرتبط با «SSR».",
+      "order": 19,
+      "children": [
+        {
+          "id": "devtools",
+          "title": "DevTools",
+          "description": "مباحث و تمرین‌های مرتبط با «DevTools».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Angular Devtools",
+              "type": "article",
+              "url": "https://angular.dev/tools/devtools",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Chrome Web Store",
+              "type": "article",
+              "url": "https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Firefox Add-ons",
+              "type": "article",
+              "url": "https://addons.mozilla.org/en-US/firefox/addon/angular-devtools/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Did you try the LATEST Angular developer tools?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tAfe33fVW4w",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Server-side Rendering",
+          "type": "article",
+          "url": "https://angular.dev/guide/ssr",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rendering on the Web",
+          "type": "article",
+          "url": "https://web.dev/rendering-on-the-web/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Angular",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/angular?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ssg",
+      "title": "SSG",
+      "description": "مباحث و تمرین‌های مرتبط با «SSG».",
+      "order": 20,
+      "children": [
+        {
+          "id": "analogjs",
+          "title": "AnalogJS",
+          "description": "مباحث و تمرین‌های مرتبط با «AnalogJS».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "AnalogJS",
+              "type": "article",
+              "url": "https://analogjs.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AnalogJS Documentation",
+              "type": "article",
+              "url": "https://analogjs.org/docs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "analogjs/analog",
+              "type": "article",
+              "url": "https://github.com/analogjs/analog",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Robin Goetz - AnalogJS - The Vite powered Angular meta-framework",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=BSgpvP4eAGk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Full-stack Angular (SSR, file-based routing, + more) with AnalogJS",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=VSCXOTCJpiI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Is AnalogJS good enough for my blog site?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=xTzEDQULo6s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Angular Air with Alyssa Nicoll - SSR, SSG, ISR, & SOS",
+          "type": "article",
+          "url": "https://www.youtube.com/watch?v=b0pUU7RJbBQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Prerendering (SSG)",
+          "type": "article",
+          "url": "https://angular.dev/guide/prerendering",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular 16 Pre Rendering Static Pages - Static Site Generation SSG",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=vmOWJvm3apA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Security».",
+      "order": 21,
+      "children": [
+        {
+          "id": "security-item",
+          "title": "Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Security",
+          "type": "article",
+          "url": "https://angular.dev/best-practices/security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Open Web Application Security Project (OWASP)",
+          "type": "article",
+          "url": "https://owasp.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "accessibility",
+      "title": "Accessibility",
+      "description": "مباحث و تمرین‌های مرتبط با «Accessibility».",
+      "order": 22,
+      "children": [
+        {
+          "id": "attributes",
+          "title": "Attributes",
+          "description": "مباحث و تمرین‌های مرتبط با «Attributes».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Accessibility Attributes",
+              "type": "article",
+              "url": "https://angular.dev/best-practices/a11y#accessibility-attributes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ARIA HTML",
+              "type": "article",
+              "url": "https://web.dev/learn/accessibility/aria-html/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Comprehensive accessibility strategies for Angular apps leveraging aria-label for dynamic content",
+              "type": "article",
+              "url": "https://yasikahivin.medium.com/comprehensive-accessibility-strategies-for-angular-apps-leveraging-aria-label-for-dynamic-content-fdf114834317",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ui-components",
+          "title": "UI Components",
+          "description": "مباحث و تمرین‌های مرتبط با «UI Components».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "UI Components",
+              "type": "article",
+              "url": "https://angular.dev/best-practices/a11y#angular-ui-components",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Angular a11y overview",
+              "type": "article",
+              "url": "https://material.angular.io/cdk/a11y/overview",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "containers",
+          "title": "Containers",
+          "description": "مباحث و تمرین‌های مرتبط با «Containers».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Using Containers for Native Elements",
+              "type": "article",
+              "url": "https://angular.dev/best-practices/a11y#using-containers-for-native-elements",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "routing-2",
+          "title": "Routing",
+          "description": "مباحث و تمرین‌های مرتبط با «Routing».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "a11y routing",
+              "type": "article",
+              "url": "https://angular.dev/best-practices/a11y#routing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Accessibility - Focus",
+              "type": "article",
+              "url": "https://web.dev/learn/accessibility/focus/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Router events in Angular",
+              "type": "article",
+              "url": "https://medium.com/@gurunadhpukkalla/router-events-in-angular-3112a3968660",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "link-identification",
+          "title": "Link Identification",
+          "description": "مباحث و تمرین‌های مرتبط با «Link Identification».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Accessibility - Active links identification",
+              "type": "article",
+              "url": "https://angular.dev/best-practices/a11y#active-links-identification",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ARIA Current",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-current",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Accessibility",
+          "type": "article",
+          "url": "https://angular.dev/best-practices/a11y",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Accessibility",
+          "type": "article",
+          "url": "https://web.dev/learn/accessibility/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular a11y: 11 tips on how to make your apps more accessible",
+          "type": "article",
+          "url": "https://angularindepth.com/posts/1152/angular-a11y-11-tips-on-how-to-make-your-apps-more-accessible",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "performance",
+      "title": "Performance",
+      "description": "مباحث و تمرین‌های مرتبط با «Performance».",
+      "order": 23,
+      "children": [
+        {
+          "id": "performance-item",
+          "title": "Performance",
+          "description": "مباحث و تمرین‌های مرتبط با «Performance».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Performance Overview",
+          "type": "article",
+          "url": "https://angular.dev/best-practices/runtime-performance",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Complete Angular Performance Guide",
+          "type": "article",
+          "url": "https://danielk.tech/home/complete-angular-performance-guide",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "From Good to Great: Optimizing Angular Performance",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=tMxrY7IL-Ac",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 24,
+      "children": [
+        {
+          "id": "testing-item",
+          "title": "Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Testing Angular Apps",
+          "type": "article",
+          "url": "https://angular.dev/guide/testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Jasmine Docs",
+          "type": "article",
+          "url": "https://jasmine.github.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Karma Docs",
+          "type": "article",
+          "url": "https://karma-runner.github.io/latest/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing Angular - A Guide to Robust Angular Applications",
+          "type": "article",
+          "url": "https://testing-angular.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction | Angular Unit Testing Made Easy: A Comprehensive Introduction",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=emnwsVy8wRs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "internationalization",
+      "title": "Internationalization",
+      "description": "مباحث و تمرین‌های مرتبط با «Internationalization».",
+      "order": 25,
+      "children": [
+        {
+          "id": "multiple-locales",
+          "title": "Multiple Locales",
+          "description": "مباحث و تمرین‌های مرتبط با «Multiple Locales».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Deploy Multiple Locales",
+              "type": "article",
+              "url": "https://angular.dev/guide/i18n/deploy",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Make Multi-Language Angular Websites - Full Guidance On Angular Localization",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=vSwYuyH4kMA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Internationalization",
+          "type": "article",
+          "url": "https://angular.dev/guide/i18n",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Transloco",
+          "type": "article",
+          "url": "https://github.com/jsverse/transloco",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ngx Translate",
+          "type": "article",
+          "url": "https://github.com/ngx-translate/core",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular i18n",
+          "type": "article",
+          "url": "https://lokalise.com/blog/angular-i18n/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular 18 Multi-Language Support",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=hIz0OglmT0Q",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "animation",
+      "title": "Animation",
+      "description": "مباحث و تمرین‌های مرتبط با «Animation».",
+      "order": 26,
+      "children": [
+        {
+          "id": "route-transitions",
+          "title": "Route Transitions",
+          "description": "مباحث و تمرین‌های مرتبط با «Route Transitions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Route transition animations",
+              "type": "article",
+              "url": "https://angular.dev/guide/animations/route-animations",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Add Router Animation Transitions for navigation in Angular 17",
+              "type": "article",
+              "url": "https://dev.to/this-is-angular/add-router-animation-transitions-for-navigation-in-angular-17-2m5a",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Angular Animations: Router transitions",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7d8UDEKT1pU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Animation",
+          "type": "article",
+          "url": "https://angular.dev/guide/animations",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular Animations Explorer",
+          "type": "article",
+          "url": "https://github.com/williamjuan027/angular-animations-explorer",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Angular Animations - A Beginner's Guide",
+          "type": "article",
+          "url": "https://www.angularminds.com/blog/angular-animations-a-beginners-guide",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "In-Depth guide into animations in Angular",
+          "type": "article",
+          "url": "https://angularindepth.com/posts/1285/in-depth-guide-into-animations-in-angular",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

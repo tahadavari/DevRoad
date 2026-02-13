@@ -1,0 +1,1738 @@
+{
+  "slug": "rust",
+  "title": "Rust",
+  "description": "Step by step guide to becoming a Rust developer in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "introduction-item",
+          "title": "Introduction",
+          "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Rust Programming Language",
+          "type": "article",
+          "url": "https://www.rust-lang.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust by Example",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/stable/rust-by-example/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust Book",
+          "type": "article",
+          "url": "https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust Book Interactive",
+          "type": "article",
+          "url": "https://rust-book.cs.brown.edu/experiment-intro.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "language-basics",
+      "title": "Language Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Language Basics».",
+      "order": 2,
+      "children": [
+        {
+          "id": "language-basics-item",
+          "title": "Language Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Language Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction - Rust By Example",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/stable/rust-by-example/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Learn Rust in 2025: A Complete Beginner's Guide",
+          "type": "article",
+          "url": "https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Rust",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/rust?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "error-handling",
+      "title": "Error Handling",
+      "description": "مباحث و تمرین‌های مرتبط با «Error Handling».",
+      "order": 3,
+      "children": [
+        {
+          "id": "propagating-errors-and-operator",
+          "title": "Propagating Errors and `?` Operator",
+          "description": "مباحث و تمرین‌های مرتبط با «Propagating Errors and `?` Operator».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Recoverable Errors with Result",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Result, Option, and '?' Operators in Rust",
+              "type": "article",
+              "url": "https://howtorust.com/understanding-result-option-and-operators-in-rust/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "custom-error-types-and-traits",
+          "title": "Custom Error Types and Traits",
+          "description": "مباحث و تمرین‌های مرتبط با «Custom Error Types and Traits».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Defining an Error Type",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/rust-by-example/error/multiple_error_types/define_error_type.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "option-and-result-enumerations",
+          "title": "Option and Result Enumerations",
+          "description": "مباحث و تمرین‌های مرتبط با «Option and Result Enumerations».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Option & unwrap",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/rust-by-example/error/option_unwrap.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Result",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/rust-by-example/error/result.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Error Handling in Rust - Andrew Gallant's Blog",
+              "type": "article",
+              "url": "https://burntsushi.net/rust-error-handling",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using unwrap() in Rust is Okay - Andrew Gallant's Blog",
+              "type": "article",
+              "url": "https://burntsushi.net/unwrap/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Error Handling",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/book/ch09-00-error-handling.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Handle Errors in Rust",
+          "type": "article",
+          "url": "https://dev.to/nathan20/how-to-handle-errors-in-rust-a-comprehensive-guide-1cco",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "modules-crates",
+      "title": "Modules & Crates",
+      "description": "مباحث و تمرین‌های مرتبط با «Modules & Crates».",
+      "order": 4,
+      "children": [
+        {
+          "id": "dependency-management-with-cargo",
+          "title": "Dependency Management with Cargo",
+          "description": "مباحث و تمرین‌های مرتبط با «Dependency Management with Cargo».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Dependencies",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/rust-by-example/cargo/deps.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cargo",
+              "type": "article",
+              "url": "https://blog.rust-lang.org/2016/05/05/cargo-pillars.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "code-organization-namespacing",
+          "title": "Code Organization & Namespacing",
+          "description": "مباحث و تمرین‌های مرتبط با «Code Organization & Namespacing».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Modules",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/rust-by-example/mod.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Namespaces",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/reference/names/namespaces.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about General Programming",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/general-programming?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "publishing-on-crates-io",
+          "title": "Publishing on Crates.io",
+          "description": "مباحث و تمرین‌های مرتبط با «Publishing on Crates.io».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "The Cargo Book: Publishing",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/cargo/reference/publishing.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "From Zero to Hero: Your First Rust Crate",
+              "type": "article",
+              "url": "https://medium.com/rust-programming-language/from-zero-to-hero-your-first-rust-crate-6f2c084df464",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Crates",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/rust-by-example/crates.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Managing Growing Projects with Packages, Crates, and Modules",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How It Works: Rust's Module System Finally Explained",
+          "type": "article",
+          "url": "https://confidence.sh/blog/rust-module-system-explained/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 5,
+      "children": [
+        {
+          "id": "testing-item",
+          "title": "Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Writing Automated Tests",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/book/ch11-01-writing-tests.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing in Rust: A Quick Guide to Unit Tests",
+          "type": "article",
+          "url": "https://dev.to/tramposo/testing-in-rust-a-quick-guide-to-unit-tests-integration-tests-and-benchmarks-2bah",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mocking and Testing Rust",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8XaVlL3lObQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Testing",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "concurrency-parallelism",
+      "title": "Concurrency & Parallelism",
+      "description": "مباحث و تمرین‌های مرتبط با «Concurrency & Parallelism».",
+      "order": 6,
+      "children": [
+        {
+          "id": "concurrency-parallelism-item",
+          "title": "Concurrency & Parallelism",
+          "description": "مباحث و تمرین‌های مرتبط با «Concurrency & Parallelism».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fearless Concurrency",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/book/ch16-00-concurrency.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust Concurrency and Parallelism",
+          "type": "article",
+          "url": "https://rustlang.app/article/Rust_concurrency_and_parallelism.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Concurrency and Parallelism in Rust",
+          "type": "article",
+          "url": "https://sterlingcobb.medium.com/concurrency-and-parallelism-in-rust-an-overview-and-examples-bd811f5a5afe",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "traits-generics",
+      "title": "Traits & Generics",
+      "description": "مباحث و تمرین‌های مرتبط با «Traits & Generics».",
+      "order": 7,
+      "children": [
+        {
+          "id": "trait-bounds-and-associated-types",
+          "title": "Trait Bounds and Associated Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Trait Bounds and Associated Types».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Trait and Lifetime Bounds",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/reference/trait-bounds.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Traits and Trait Bounds in Rust",
+              "type": "article",
+              "url": "https://leapcell.medium.com/understanding-traits-and-trait-bounds-in-rust-d575f19dd649",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "trait-definitions-implementations",
+          "title": "Trait Definitions & Implementations",
+          "description": "مباحث و تمرین‌های مرتبط با «Trait Definitions & Implementations».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Traits",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/rust-by-example/trait.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Traits and Trait Bounds in Rust",
+              "type": "article",
+              "url": "https://leapcell.medium.com/understanding-traits-and-trait-bounds-in-rust-d575f19dd649",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "generics-type-level-programming",
+          "title": "Generics & Type-Level Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Generics & Type-Level Programming».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Generic Types, Traits, and Lifetimes",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/book/ch10-00-generics.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Generics",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/rust-by-example/generics.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Generics Data Type",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/book/ch10-01-syntax.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Generic Types, Traits, and Lifetimes",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/book/ch10-00-generics.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "lifetimes-borrow-checker",
+      "title": "Lifetimes & Borrow Checker",
+      "description": "مباحث و تمرین‌های مرتبط با «Lifetimes & Borrow Checker».",
+      "order": 8,
+      "children": [
+        {
+          "id": "lifetimes-borrow-checker-item",
+          "title": "Lifetimes & Borrow Checker",
+          "description": "مباحث و تمرین‌های مرتبط با «Lifetimes & Borrow Checker».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Lifetimes",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/rust-by-example/scope/lifetime.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Lifetimes in Rust: Memory Safety and Borrow Checking",
+          "type": "article",
+          "url": "https://leapcell.medium.com/mastering-lifetimes-in-rust-memory-safety-and-borrow-checking-4a8c082a54ee",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Crust of Rust: Lifetime Annotations",
+          "type": "video",
+          "url": "https://youtu.be/rAl-9HwD858",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "macros-metaprogramming",
+      "title": "Macros & Metaprogramming",
+      "description": "مباحث و تمرین‌های مرتبط با «Macros & Metaprogramming».",
+      "order": 9,
+      "children": [
+        {
+          "id": "domain-specific-languages-dsls",
+          "title": "Domain Specific Languages (DSLs)",
+          "description": "مباحث و تمرین‌های مرتبط با «Domain Specific Languages (DSLs)».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Domain Specific Languages (DSLs)",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/rust-by-example/macros/dsl.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Crafting Expressive Tools: Domain-Specific Languages (DSLs)",
+              "type": "article",
+              "url": "https://medium.com/@murataslan1/crafting-expressive-tools-domain-specific-languages-dsls-in-rust-94394debe12b",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Macros",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/book/ch20-05-macros.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "macro_rules!",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/rust-by-example/macros.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Macros in Rust: A Tutorial with Examples",
+          "type": "article",
+          "url": "https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Metaprogramming Magic in Rust: The Complete Guide",
+          "type": "article",
+          "url": "https://elitedev.in/rust/metaprogramming-magic-in-rust-the-complete-guide-/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "web-development",
+      "title": "Web Development",
+      "description": "مباحث و تمرین‌های مرتبط با «Web Development».",
+      "order": 10,
+      "children": [
+        {
+          "id": "leptos",
+          "title": "Leptos",
+          "description": "مباحث و تمرین‌های مرتبط با «Leptos».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Home - Leptos",
+              "type": "article",
+              "url": "https://www.leptos.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction - Leptos Documentation",
+              "type": "article",
+              "url": "https://book.leptos.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "leptos-rs/leptos: Build fast web applications with Rust",
+              "type": "article",
+              "url": "https://github.com/leptos-rs/leptos",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "axum",
+          "title": "Axum",
+          "description": "مباحث و تمرین‌های مرتبط با «Axum».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Axum Documentation",
+              "type": "article",
+              "url": "https://docs.rs/axum/latest/axum/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Axum - Rust's Most Popular Web Framework",
+              "type": "article",
+              "url": "https://www.shuttle.dev/blog/2023/12/06/using-axum-rust",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "rocket",
+          "title": "Rocket",
+          "description": "مباحث و تمرین‌های مرتبط با «Rocket».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Rocket - Simple, Fast, Type-Safe Web Framework for Rust",
+              "type": "article",
+              "url": "https://rocket.rs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Rocket in Rust",
+              "type": "article",
+              "url": "https://www.shuttle.dev/blog/2023/12/13/using-rocket-rust",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Rocket - Simple, Fast, Type-Safe Web Framework for Rust",
+          "type": "article",
+          "url": "https://rocket.rs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust for Web Development: A Beginner's Guide",
+          "type": "article",
+          "url": "https://medium.com/@enravishjeni411/rust-for-web-development-a-beginners-guide-fcc994e5c090",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Write Your First Rust Web App with Rocket and RustRover",
+          "type": "article",
+          "url": "https://blog.jetbrains.com/rust/2024/02/28/how-to-write-your-first-rust-web-app-with-rocket-and-rustrover/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "asynchronous-programming",
+      "title": "Asynchronous Programming",
+      "description": "مباحث و تمرین‌های مرتبط با «Asynchronous Programming».",
+      "order": 11,
+      "children": [
+        {
+          "id": "asynchronous-programming-item",
+          "title": "Asynchronous Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Asynchronous Programming».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fundamentals of Asynchronous Programming",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/book/ch17-00-async-await.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "async-std",
+          "type": "article",
+          "url": "https://docs.rs/async-std/latest/async_std/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Demystifying Async Programming in Rust",
+          "type": "article",
+          "url": "https://medium.com/@trek007/demystifying-async-programming-in-rust-a-complete-guide-with-real-world-examples-147079950f8b",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust Async Programming: Tokio & Async-std",
+          "type": "article",
+          "url": "https://medium.com/@AlexanderObregon/async-programming-in-rust-exploring-tokio-and-async-std-97d4b524cef0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking",
+      "title": "Networking",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+      "order": 12,
+      "children": [
+        {
+          "id": "networking-item",
+          "title": "Networking",
+          "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "std::net",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/std/net/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "TcpListener",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/std/net/struct.TcpListener.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "UdpSocket",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/std/net/struct.UdpSocket.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "TcpStream",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/std/net/struct.TcpStream.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Networking Fundamentals in Rust",
+          "type": "article",
+          "url": "https://medium.com/@murataslan1/networking-fundamentals-in-rust-525dcfbd5058",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "serialization-deserialization",
+      "title": "Serialization / Deserialization",
+      "description": "مباحث و تمرین‌های مرتبط با «Serialization / Deserialization».",
+      "order": 13,
+      "children": [
+        {
+          "id": "serialization-deserialization-item",
+          "title": "Serialization / Deserialization",
+          "description": "مباحث و تمرین‌های مرتبط با «Serialization / Deserialization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Serde Documentation",
+          "type": "article",
+          "url": "https://docs.rs/serde/latest/serde/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Serialization and Deserialization in Rust: A Comprehensive Guide",
+          "type": "article",
+          "url": "https://rustmeup.com/serialization-in-rust-with-serde",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust Serialization: Easy Beginner's Guide with Examples",
+          "type": "article",
+          "url": "https://boxoflearn.com/rust-serialization-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "database-and-orm",
+      "title": "Database and ORM",
+      "description": "مباحث و تمرین‌های مرتبط با «Database and ORM».",
+      "order": 14,
+      "children": [
+        {
+          "id": "database-and-orm-item",
+          "title": "Database and ORM",
+          "description": "مباحث و تمرین‌های مرتبط با «Database and ORM».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
+          "type": "article",
+          "url": "https://diesel.rs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Choosing the Right ORM for Rust: A Comparative Analysis",
+          "type": "article",
+          "url": "https://medium.com/@wiederinchristoph/rusts-ecosystem-offers-a-variety-of-object-relational-mapping-orm-libraries-and-database-ce4690a97a61",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cryptography",
+      "title": "Cryptography",
+      "description": "مباحث و تمرین‌های مرتبط با «Cryptography».",
+      "order": 15,
+      "children": [
+        {
+          "id": "cryptography-item",
+          "title": "Cryptography",
+          "description": "مباحث و تمرین‌های مرتبط با «Cryptography».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cryptography — list of Rust libraries/crates",
+          "type": "article",
+          "url": "https://lib.rs/cryptography",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Awesome Rust Cryptography",
+          "type": "article",
+          "url": "https://cryptography.rs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cli-utilities",
+      "title": "CLI Utilities",
+      "description": "مباحث و تمرین‌های مرتبط با «CLI Utilities».",
+      "order": 16,
+      "children": [
+        {
+          "id": "cli-utilities-item",
+          "title": "CLI Utilities",
+          "description": "مباحث و تمرین‌های مرتبط با «CLI Utilities».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "structopt",
+          "type": "article",
+          "url": "https://docs.rs/structopt/latest/structopt/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "clap",
+          "type": "article",
+          "url": "https://docs.rs/clap/latest/clap/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Command-line Apps",
+          "type": "article",
+          "url": "https://www.rust-lang.org/what/cli/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust CLI Utilities - GitHub",
+          "type": "article",
+          "url": "https://github.com/baldwin-sudo/rusty-utils",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "game-development",
+      "title": "Game Development",
+      "description": "مباحث و تمرین‌های مرتبط با «Game Development».",
+      "order": 17,
+      "children": [
+        {
+          "id": "game-development-item",
+          "title": "Game Development",
+          "description": "مباحث و تمرین‌های مرتبط با «Game Development».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fyrox - A feature-rich game engine built in Rust",
+          "type": "article",
+          "url": "https://fyrox.rs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "5 Rust Game Engines to Consider for your Next Project",
+          "type": "article",
+          "url": "https://blog.logrocket.com/5-rust-game-engines-consider-next-project/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Game Development with Fyrox and Rust",
+          "type": "article",
+          "url": "https://bocksdincoding.com/blog/game-development-with-fyrox-and-rust-pt-1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "gui-development",
+      "title": "GUI Development",
+      "description": "مباحث و تمرین‌های مرتبط با «GUI Development».",
+      "order": 18,
+      "children": [
+        {
+          "id": "gui-development-item",
+          "title": "GUI Development",
+          "description": "مباحث و تمرین‌های مرتبط با «GUI Development».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Rust and GUI Development - Comprehensive Guide",
+          "type": "article",
+          "url": "https://rustmeup.com/rust-and-gui-development",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The state of Rust GUI libraries",
+          "type": "article",
+          "url": "https://blog.logrocket.com/state-rust-gui-libraries/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building Beautiful and Intuitive GUIs with Rust and egui",
+          "type": "article",
+          "url": "https://triophore.com/blogs/content/rust-egui-gui-development/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "embedded-and-systems",
+      "title": "Embedded and Systems",
+      "description": "مباحث و تمرین‌های مرتبط با «Embedded and Systems».",
+      "order": 19,
+      "children": [
+        {
+          "id": "embedded-and-systems-item",
+          "title": "Embedded and Systems",
+          "description": "مباحث و تمرین‌های مرتبط با «Embedded and Systems».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Embedded Devices",
+          "type": "article",
+          "url": "https://www.rust-lang.org/what/embedded",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust for Embedded Systems",
+          "type": "article",
+          "url": "https://medium.com/@enravishjeni411/rust-for-embedded-systems-a-beginner-friendly-guide-e8c171cfb359",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust Embedded Systems: Beginner's Guide with Example",
+          "type": "article",
+          "url": "https://boxoflearn.com/rust-embedded-systems-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "webassembly-wasm",
+      "title": "WebAssembly (WASM)",
+      "description": "مباحث و تمرین‌های مرتبط با «WebAssembly (WASM)».",
+      "order": 20,
+      "children": [
+        {
+          "id": "wasmer",
+          "title": "wasmer",
+          "description": "مباحث و تمرین‌های مرتبط با «wasmer».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Embedding WebAssembly in your Rust Application",
+              "type": "article",
+              "url": "https://blog.wasmer.io/executing-webassembly-in-your-rust-application-d5cd32e8ce46",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "wasmerio/wasmer",
+              "type": "article",
+              "url": "https://github.com/wasmerio/wasmer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Wasmer — WebAssembly in Rust",
+              "type": "article",
+              "url": "https://lib.rs/crates/wasmer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Writing & Compiling WASM in Rust",
+              "type": "article",
+              "url": "https://www.shuttle.dev/blog/2024/03/06/writing-wasm-rust",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Compiling from Rust to WebAssembly",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "wasm-pack",
+          "title": "wasm-pack",
+          "description": "مباحث و تمرین‌های مرتبط با «wasm-pack».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "wasm-pack",
+              "type": "article",
+              "url": "https://lib.rs/crates/wasm-pack",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "rustwasm/wasm-pack",
+              "type": "article",
+              "url": "https://github.com/rustwasm/wasm-pack",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Writing & Compiling WASM in Rust",
+              "type": "article",
+              "url": "https://www.shuttle.dev/blog/2024/03/06/writing-wasm-rust",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Compiling from Rust to WebAssembly",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "wasm-bindgen",
+          "title": "wasm-bindgen",
+          "description": "مباحث و تمرین‌های مرتبط با «wasm-bindgen».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "wasm-bindgen",
+              "type": "article",
+              "url": "https://docs.rs/wasm-bindgen/latest/wasm_bindgen/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "rustwasm/wasm-bindgen",
+              "type": "article",
+              "url": "https://github.com/rustwasm/wasm-bindgen",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Compiling from Rust to WebAssembly",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Embedding WebAssembly in your Rust Application",
+          "type": "article",
+          "url": "https://blog.wasmer.io/executing-webassembly-in-your-rust-application-d5cd32e8ce46",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "wasm-pack",
+          "type": "article",
+          "url": "https://lib.rs/crates/wasm-pack",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "wasm-bindgen",
+          "type": "article",
+          "url": "https://docs.rs/wasm-bindgen/latest/wasm_bindgen/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Writing & Compiling WASM in Rust",
+          "type": "article",
+          "url": "https://www.shuttle.dev/blog/2024/03/06/writing-wasm-rust",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Compiling from Rust to WebAssembly",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "debugging",
+      "title": "Debugging",
+      "description": "مباحث و تمرین‌های مرتبط با «Debugging».",
+      "order": 21,
+      "children": [
+        {
+          "id": "debugging-item",
+          "title": "Debugging",
+          "description": "مباحث و تمرین‌های مرتبط با «Debugging».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Debugging Rust apps with GDB",
+          "type": "article",
+          "url": "https://blog.logrocket.com/debugging-rust-apps-with-gdb/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rust Debugging: Easy Guide with Practical Examples",
+          "type": "article",
+          "url": "https://boxoflearn.com/rust-debugging-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing and Debugging in Rust",
+          "type": "article",
+          "url": "https://rustmeup.com/testing-and-debugging-in-rust",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Rust Debugging: Tips & Tools",
+          "type": "article",
+          "url": "https://medium.com/@AlexanderObregon/rust-debugging-strategies-tools-and-best-practices-b18b92e0a921",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "documenting-with-rustdoc",
+      "title": "Documenting with `rustdoc`",
+      "description": "مباحث و تمرین‌های مرتبط با «Documenting with `rustdoc`».",
+      "order": 22,
+      "children": [
+        {
+          "id": "documenting-with-rustdoc-item",
+          "title": "Documenting with `rustdoc`",
+          "description": "مباحث و تمرین‌های مرتبط با «Documenting with `rustdoc`».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Write Documentation",
+          "type": "article",
+          "url": "https://doc.rust-lang.org/rustdoc/how-to-write-documentation.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Writing Rust Documentation",
+          "type": "article",
+          "url": "https://dev.to/gritmax/writing-rust-documentation-5hn5",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "performance-and-profiling",
+      "title": "Performance and Profiling",
+      "description": "مباحث و تمرین‌های مرتبط با «Performance and Profiling».",
+      "order": 23,
+      "children": [
+        {
+          "id": "criterion-rs",
+          "title": "Criterion.rs",
+          "description": "مباحث و تمرین‌های مرتبط با «Criterion.rs».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Criterion",
+              "type": "article",
+              "url": "https://docs.rs/criterion/latest/criterion/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rust Benchmarking with Criterion.rs",
+              "type": "article",
+              "url": "https://www.rustfinity.com/blog/rust-benchmarking-with-criterion",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Benchmarking Rust Functions Using Criterion",
+              "type": "article",
+              "url": "https://www.slingacademy.com/article/benchmarking-rust-functions-using-criterion/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Profiling - The Rust Performance Book",
+          "type": "article",
+          "url": "https://nnethercote.github.io/perf-book/profiling.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to benchmark Rust code with Criterion",
+          "type": "article",
+          "url": "https://bencher.dev/learn/benchmarking/rust/criterion/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Optimizing Rust Application Performance with Profiling",
+          "type": "article",
+          "url": "https://hemaks.org/posts/optimizing-rust-application-performance-with-profiling/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

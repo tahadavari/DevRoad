@@ -1,0 +1,1519 @@
+{
+  "slug": "kubernetes",
+  "title": "Kubernetes",
+  "description": "Step by step guide to learning Kubernetes in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "overview-of-kubernetes",
+          "title": "Overview of Kubernetes",
+          "description": "مباحث و تمرین‌های مرتبط با «Overview of Kubernetes».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Overview of Kubernetes",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/concepts/overview/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Kubernetes?",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/containers/what-is-kubernetes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Overview & Essential Reading",
+              "type": "article",
+              "url": "https://thenewstack.io/kubernetes/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - Kubernetes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=VnvRFRk_51k&t=1sn",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Kubernetes",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/kubernetes?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-use-kubernetes",
+          "title": "Why use Kubernetes?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why use Kubernetes?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Why you need Kubernetes and what it can do",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/concepts/overview/#why-you-need-kubernetes-and-what-can-it-do",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care",
+              "type": "article",
+              "url": "https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Kubernetes",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/kubernetes?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "key-concepts-and-terminologies",
+          "title": "Key Concepts and Terminologies",
+          "description": "مباحث و تمرین‌های مرتبط با «Key Concepts and Terminologies».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Concepts of Kubernetes",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/concepts/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understand Kubernetes terminology",
+              "type": "article",
+              "url": "https://about.gitlab.com/blog/2020/07/30/kubernetes-terminology/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Kubernetes?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=QJ4fODH6DXI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Explained by Experts in 2 Minutes",
+              "type": "video",
+              "url": "https://youtu.be/XfBrtNZ2OCw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "kubernetes-alternatives",
+          "title": "Kubernetes Alternatives",
+          "description": "مباحث و تمرین‌های مرتبط با «Kubernetes Alternatives».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Compare Apache Mesos vs. Kubernetes",
+              "type": "article",
+              "url": "https://www.techtarget.com/searchitoperations/tip/Compare-container-orchestrators-Apache-Mesos-vs-Kubernetes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Swarm, a User-Friendly Alternative to Kubernetes",
+              "type": "article",
+              "url": "https://thenewstack.io/docker-swarm-a-user-friendly-alternative-to-kubernetes/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Can You Live without Kubernetes?",
+              "type": "article",
+              "url": "https://thenewstack.io/can-you-live-without-kubernetes/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Kubernetes",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/kubernetes?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kubernetes Documentation",
+          "type": "article",
+          "url": "https://kubernetes.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction of Kubernetes",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes Tutorial for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Kubernetes",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/kubernetes?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "containers",
+      "title": "Containers",
+      "description": "مباحث و تمرین‌های مرتبط با «Containers».",
+      "order": 2,
+      "children": [
+        {
+          "id": "containers-item",
+          "title": "Containers",
+          "description": "مباحث و تمرین‌های مرتبط با «Containers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Official Docker Tutorial",
+          "type": "article",
+          "url": "https://www.docker.com/101-tutorial/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Curriculum",
+          "type": "article",
+          "url": "https://docker-curriculum.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker in 100 Seconds (video)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Gjnup-PuquQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Free 3 Hour Video Course on Docker for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Containers",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/containers?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "setting-up-kubernetes",
+      "title": "Setting up Kubernetes",
+      "description": "مباحث و تمرین‌های مرتبط با «Setting up Kubernetes».",
+      "order": 3,
+      "children": [
+        {
+          "id": "deploying-your-first-application",
+          "title": "Deploying your First Application",
+          "description": "مباحث و تمرین‌های مرتبط با «Deploying your First Application».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Kubernetes Deployment Hands-on Lab",
+              "type": "course",
+              "url": "https://kodekloud.com/studio/labs/kubernetes/deployments-stable",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using kubectl to Create a Deployment",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Deploying An Application On Kubernetes From A to Z",
+              "type": "article",
+              "url": "https://web.archive.org/web/20230326150953/https://www.weave.works/blog/deploying-an-application-on-kubernetes-from-a-to-z",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes 101: Deploy Your First Application with MicroK8s",
+              "type": "article",
+              "url": "https://thenewstack.io/kubernetes-101-deploy-your-first-application-with-microk8s/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Tutorial | Your First Kubernetes Application",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Vj6EFnav5Mg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes 101: Deploying Your First Application",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=XltFOyGanYE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "choosing-a-managed-provider",
+          "title": "Choosing a Managed Provider",
+          "description": "مباحث و تمرین‌های مرتبط با «Choosing a Managed Provider».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Choosing a Managed Kubernetes Provider",
+              "type": "article",
+              "url": "https://containerjournal.com/features/choosing-a-managed-kubernetes-provider/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Amazon Web Services Gears Elastic Kubernetes Service for Batch Work",
+              "type": "article",
+              "url": "https://thenewstack.io/amazon-web-services-gears-elastic-kubernetes-service-for-batch-jobs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Build The Right Platform for Kubernetes",
+              "type": "article",
+              "url": "https://thenewstack.io/kubernetes/kubernetes-infrastructure-architecture/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "installing-a-local-cluster",
+          "title": "Installing a Local Cluster",
+          "description": "مباحث و تمرین‌های مرتبط با «Installing a Local Cluster».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "How to Install a Kubernetes Cluster on CentOS 7",
+              "type": "article",
+              "url": "https://www.tecmint.com/install-kubernetes-cluster-on-centos-7/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Create a Kubernetes Cluster Using on Ubuntu",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-20-04",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Deploy a Kubernetes Cluster on Ubuntu Server with Microk8s",
+              "type": "article",
+              "url": "https://thenewstack.io/deploy-a-kubernetes-cluster-on-ubuntu-server-with-microk8s/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Using kubectl to Create a Deployment",
+          "type": "article",
+          "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Deploying An Application On Kubernetes From A to Z",
+          "type": "article",
+          "url": "https://web.archive.org/web/20230326150953/https://www.weave.works/blog/deploying-an-application-on-kubernetes-from-a-to-z",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes 101: Deploy Your First Application with MicroK8s",
+          "type": "article",
+          "url": "https://thenewstack.io/kubernetes-101-deploy-your-first-application-with-microk8s/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes Tutorial | Your First Kubernetes Application",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Vj6EFnav5Mg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes 101: Deploying Your First Application",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=XltFOyGanYE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "running-applications",
+      "title": "Running Applications",
+      "description": "مباحث و تمرین‌های مرتبط با «Running Applications».",
+      "order": 4,
+      "children": [
+        {
+          "id": "deployments",
+          "title": "Deployments",
+          "description": "مباحث و تمرین‌های مرتبط با «Deployments».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Deployments Documentation",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Deployment: From Basic Strategies to Progressive Delivery\n",
+              "type": "article",
+              "url": "https://codefresh.io/learn/kubernetes-deployment/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Deployments | Deployment Strategies",
+              "type": "video",
+              "url": "https://youtu.be/lxc4EXZOOvE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pods",
+          "title": "Pods",
+          "description": "مباحث و تمرین‌های مرتبط با «Pods».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Pods Documentation",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/concepts/workloads/pods/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Kubernetes Way: Pods and Services",
+              "type": "article",
+              "url": "https://thenewstack.io/kubernetes-way-part-one/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "5 Best Practices for Configuring Kubernetes Pods Running in Production",
+              "type": "article",
+              "url": "https://thenewstack.io/5-best-practices-for-configuring-kubernetes-pods-running-in-production/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Pod in kubernetes ? Why do you need it ?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=k0fzMZgpp14",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "jobs",
+          "title": "Jobs",
+          "description": "مباحث و تمرین‌های مرتبط با «Jobs».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Jobs Documentation",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/concepts/workloads/controllers/job/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Kubernetes Is Transforming into a Universal Scheduler",
+              "type": "article",
+              "url": "https://thenewstack.io/how-kubernetes-is-transforming-into-a-universal-scheduler/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial | Jobs in Kubernetes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=j1EnBbxSz64",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Run Applications",
+          "type": "article",
+          "url": "https://kubernetes.io/docs/tasks/run-application/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Deploying an Application on Kubernetes: A Complete Guide!",
+          "type": "article",
+          "url": "https://dev.to/pavanbelagatti/deploying-an-application-on-kubernetes-a-complete-guide-1cj6",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How Do Applications Run on Kubernetes?",
+          "type": "article",
+          "url": "https://thenewstack.io/how-do-applications-run-on-kubernetes/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes 101: Deploying Your First Application!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=XltFOyGanYE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "services-and-networking",
+      "title": "Services and Networking",
+      "description": "مباحث و تمرین‌های مرتبط با «Services and Networking».",
+      "order": 5,
+      "children": [
+        {
+          "id": "external-access-to-services",
+          "title": "External Access to Services",
+          "description": "مباحث و تمرین‌های مرتبط با «External Access to Services».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Ingress - Documentation",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/concepts/services-networking/ingress/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Ingress for Beginners",
+              "type": "article",
+              "url": "https://thenewstack.io/kubernetes-ingress-for-beginners/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How do I provide external access to Kubernetes services",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=iBYTFpoXx24",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cluster Networking - Documentation",
+          "type": "article",
+          "url": "https://kubernetes.io/docs/concepts/cluster-administration/networking/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Job with Pod-to-Pod Communication",
+          "type": "article",
+          "url": "https://kubernetes.io/docs/tasks/job/job-with-pod-to-pod-communication/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How Kubernetes Provides Networking and Storage to Applications",
+          "type": "article",
+          "url": "https://thenewstack.io/how-kubernetes-provides-networking-and-storage-to-applications/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Networking",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/networking?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "configuration-management",
+      "title": "Configuration Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Configuration Management».",
+      "order": 6,
+      "children": [
+        {
+          "id": "using-secrets-for-sensitive-data",
+          "title": "Using Secrets for Sensitive Data",
+          "description": "مباحث و تمرین‌های مرتبط با «Using Secrets for Sensitive Data».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Documentation - Secrets",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/concepts/configuration/secret/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Secrets Management: 3 Approaches, 9 Best Practices",
+              "type": "article",
+              "url": "https://thenewstack.io/kubernetes-secrets-management-3-approaches-9-best-practices/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Secrets in 5 Minutes!",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cQAEK9PBY8U",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Documentation - Secrets",
+          "type": "article",
+          "url": "https://kubernetes.io/docs/concepts/configuration/secret/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes Secrets Management: 3 Approaches, 9 Best Practices",
+          "type": "article",
+          "url": "https://thenewstack.io/kubernetes-secrets-management-3-approaches-9-best-practices/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes Secrets in 5 Minutes!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cQAEK9PBY8U",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "resource-management",
+      "title": "Resource Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Resource Management».",
+      "order": 7,
+      "children": [
+        {
+          "id": "resource-management-item",
+          "title": "Resource Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Resource Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Tools for Monitoring Resources - Documentation",
+          "type": "article",
+          "url": "https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-usage-monitoring/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes Resource Optimization: Just The Basics",
+          "type": "article",
+          "url": "https://sequoia.makes.software/kubernetes-resource-optimization-just-the-basics/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Choose the Right Kubernetes Monitoring Tool ",
+          "type": "article",
+          "url": "https://thenewstack.io/how-to-choose-the-right-kubernetes-monitoring-tool/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Monitoring",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Security».",
+      "order": 8,
+      "children": [
+        {
+          "id": "container-and-pod-security",
+          "title": "Container and Pod Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Container and Pod Security».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Configure a Security Context for a Pod or Container",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/tasks/configure-pod-container/security-context/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial: Create a Kubernetes Pod Security Policy",
+              "type": "article",
+              "url": "https://thenewstack.io/tutorial-create-a-kubernetes-pod-security-policy/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "6 Overlooked Yet Important Kubernetes Features to Secure",
+              "type": "article",
+              "url": "https://thenewstack.io/6-overlooked-yet-important-kubernetes-features-to-secure/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Security - Security Context for a Pod or Container",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=i8wfvoVf2xs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Security",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/security?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "8+ open-source Kubernetes vulnerability scanners",
+          "type": "article",
+          "url": "https://techbeacon.com/security/8-open-source-kubernetes-vulnerability-scanners-consider",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "7 Kubernetes Security Scanners",
+          "type": "article",
+          "url": "https://thechief.io/c/editorial/7-kubernetes-security-scanners-to-use-in-your-devsecops-pipeline/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Improve Security With Automated Image Scanning Through CI/CD",
+          "type": "article",
+          "url": "https://thenewstack.io/improve-security-with-automated-image-scanning-through-ci-cd/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Starboard: Putting all the Kubernetes Security Pieces into One Place",
+          "type": "article",
+          "url": "https://thenewstack.io/starboard-putting-all-the-kubernetes-security-pieces-into-one-place/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Security",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/security?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "monitoring-and-logging",
+      "title": "Monitoring and Logging",
+      "description": "مباحث و تمرین‌های مرتبط با «Monitoring and Logging».",
+      "order": 9,
+      "children": [
+        {
+          "id": "resource-health",
+          "title": "Resource Health",
+          "description": "مباحث و تمرین‌های مرتبط با «Resource Health».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Dashboards with Grafana and Prometheus",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fzny5uUaAeY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Monitor a Kubernetes Cluster with Prometheus & Grafana",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=YDtuwlNTzRc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "observability-engines",
+          "title": "Observability Engines",
+          "description": "مباحث و تمرین‌های مرتبط با «Observability Engines».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "K8sGPT - AI scanner for Kubernetes problems",
+              "type": "article",
+              "url": "https://github.com/k8sgpt-ai/k8sgpt",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HolmesGPT - AIOps Platform for investigating Kubernetes problems and Prometheus alerts",
+              "type": "article",
+              "url": "https://github.com/robusta-dev/holmesgpt/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Observability 101: Tools, Best Practices, And More",
+              "type": "article",
+              "url": "https://www.cloudzero.com/blog/kubernetes-observability",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Observability in KubeSphere",
+              "type": "article",
+              "url": "https://kubesphere.io/observability/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Observability",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/observability?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "observability-engines-2",
+          "title": "Observability Engines",
+          "description": "مباحث و تمرین‌های مرتبط با «Observability Engines».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "K8sGPT - AI scanner for Kubernetes problems",
+              "type": "article",
+              "url": "https://github.com/k8sgpt-ai/k8sgpt",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HolmesGPT - AIOps Platform for investigating Kubernetes problems and Prometheus alerts",
+              "type": "article",
+              "url": "https://github.com/robusta-dev/holmesgpt/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Observability 101: Tools, Best Practices, And More",
+              "type": "article",
+              "url": "https://www.cloudzero.com/blog/kubernetes-observability",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Observability in KubeSphere",
+              "type": "article",
+              "url": "https://kubesphere.io/observability/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Observability",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/observability?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "K8sGPT - AI scanner for Kubernetes problems",
+          "type": "article",
+          "url": "https://github.com/k8sgpt-ai/k8sgpt",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HolmesGPT - AIOps Platform for investigating Kubernetes problems and Prometheus alerts",
+          "type": "article",
+          "url": "https://github.com/robusta-dev/holmesgpt/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes Observability 101: Tools, Best Practices, And More",
+          "type": "article",
+          "url": "https://www.cloudzero.com/blog/kubernetes-observability",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes Observability in KubeSphere",
+          "type": "article",
+          "url": "https://kubesphere.io/observability/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Observability",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/observability?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "autoscaling",
+      "title": "Autoscaling",
+      "description": "مباحث و تمرین‌های مرتبط با «Autoscaling».",
+      "order": 10,
+      "children": [
+        {
+          "id": "horizontal-pod-autoscaler-hpa",
+          "title": "Horizontal Pod Autoscaler (HPA)",
+          "description": "مباحث و تمرین‌های مرتبط با «Horizontal Pod Autoscaler (HPA)».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Horizontal Pod Autoscaling - Documentation",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Autoscaling in Kubernetes",
+          "type": "article",
+          "url": "https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes cluster autoscaling for beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jM36M39MA3I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "scheduling",
+      "title": "Scheduling",
+      "description": "مباحث و تمرین‌های مرتبط با «Scheduling».",
+      "order": 11,
+      "children": [
+        {
+          "id": "basics",
+          "title": "Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Basics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Kubernetes Scheduler",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Scheduling in Kubernetes Works",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=0FvQR-0tK54",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kubernetes Scheduler",
+          "type": "article",
+          "url": "https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Scheduling Framework",
+          "type": "article",
+          "url": "https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "storage-and-volumes",
+      "title": "Storage and Volumes",
+      "description": "مباحث و تمرین‌های مرتبط با «Storage and Volumes».",
+      "order": 12,
+      "children": [
+        {
+          "id": "storage-and-volumes-item",
+          "title": "Storage and Volumes",
+          "description": "مباحث و تمرین‌های مرتبط با «Storage and Volumes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Container Storage Interface (CSI) for Kubernetes",
+          "type": "article",
+          "url": "https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSI in Kubernetes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=brXPQ1Qwjl4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deployment-patterns",
+      "title": "Deployment Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Deployment Patterns».",
+      "order": 13,
+      "children": [
+        {
+          "id": "deployment-patterns-item",
+          "title": "Deployment Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Deployment Patterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Create a Kubernetes Blue Green Deployment",
+          "type": "article",
+          "url": "https://developer.harness.io/docs/continuous-delivery/cd-execution/kubernetes-executions/create-a-kubernetes-blue-green-deployment/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes - Blue/Green Deployments",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jxhpTGQ484Y",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "advanced-topics",
+      "title": "Advanced Topics",
+      "description": "مباحث و تمرین‌های مرتبط با «Advanced Topics».",
+      "order": 14,
+      "children": [
+        {
+          "id": "advanced-topics-item",
+          "title": "Advanced Topics",
+          "description": "مباحث و تمرین‌های مرتبط با «Advanced Topics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kubernetes Production Best Practices",
+          "type": "article",
+          "url": "https://kubernetes.io/docs/setup/production-environment/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Top Kubernetes design patterns",
+          "type": "article",
+          "url": "https://www.wallarm.com/what/top-kubernetes-design-patterns",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Role of Kubernetes in DevOps",
+          "type": "article",
+          "url": "https://spacelift.io/blog/kubernetes-devops",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes for Docker Users",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=keNQ6V_W4VE&ab_channel=Rancher",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

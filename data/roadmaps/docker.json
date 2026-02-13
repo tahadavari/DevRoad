@@ -1,0 +1,1227 @@
+{
+  "slug": "docker",
+  "title": "Docker",
+  "description": "Step by step guide to learning Docker in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-are-containers",
+          "title": "What are Containers?",
+          "description": "مباحث و تمرین‌های مرتبط با «What are Containers?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Introduction to Containers - AWS Skill Builder",
+              "type": "course",
+              "url": "https://explore.skillbuilder.aws/learn/course/106/introduction-to-containers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Container?",
+              "type": "article",
+              "url": "https://www.docker.com/resources/what-container/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Containers",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/containers?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-do-we-need-containers",
+          "title": "Why do we need Containers?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why do we need Containers?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Need for Containers",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/containers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bare-metal-vs-vms-vs-containers",
+          "title": "Bare Metal vs VMs vs Containers",
+          "description": "مباحث و تمرین‌های مرتبط با «Bare Metal vs VMs vs Containers».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "History of Virtualization",
+              "type": "article",
+              "url": "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/01-history-and-motivation/03-history-of-virtualization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bare Metal Machine",
+              "type": "article",
+              "url": "https://glossary.cncf.io/bare-metal-machine/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Virtual Machine?",
+              "type": "article",
+              "url": "https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-a-virtual-machine",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "docker-and-oci",
+          "title": "Docker and OCI",
+          "description": "مباحث و تمرین‌های مرتبط با «Docker and OCI».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Open Container Initiative",
+              "type": "article",
+              "url": "https://opencontainers.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OCI - Wikipedia",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Open_Container_Initiative",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker",
+          "type": "article",
+          "url": "https://www.docker.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Docs",
+          "type": "article",
+          "url": "https://docs.docker.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "underlying-technologies",
+      "title": "Underlying Technologies",
+      "description": "مباحث و تمرین‌های مرتبط با «Underlying Technologies».",
+      "order": 2,
+      "children": [
+        {
+          "id": "union-filesystems",
+          "title": "Union Filesystems",
+          "description": "مباحث و تمرین‌های مرتبط با «Union Filesystems».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "AUFS (Advanced Multi-Layered Unification Filesystem)",
+              "type": "article",
+              "url": "http://aufs.sourceforge.net/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OverlayFS (Overlay Filesystem)",
+              "type": "article",
+              "url": "https://www.kernel.org/doc/html/latest/filesystems/overlayfs.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Btrfs (B-Tree Filesystem)",
+              "type": "article",
+              "url": "https://btrfs.readthedocs.io/en/stable/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ZFS (Z File System)",
+              "type": "article",
+              "url": "https://zfsonlinux.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "namespaces",
+          "title": "Namespaces",
+          "description": "مباحث و تمرین‌های مرتبط با «Namespaces».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Docker Namespaces",
+              "type": "article",
+              "url": "https://docs.docker.com/engine/security/userns-remap/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux Namespaces",
+              "type": "article",
+              "url": "https://man7.org/linux/man-pages/man7/namespaces.7.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Underlying Technologies",
+          "type": "article",
+          "url": "https://www.docker.com/resources/what-container/#underlying-technologies",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Underlying Technologies - Medium",
+          "type": "article",
+          "url": "https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Containers - Namespaces, Cgroups and Overlay Filesystem",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=wJdDWc6zO4U",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "installation-setup",
+      "title": "Installation / Setup",
+      "description": "مباحث و تمرین‌های مرتبط با «Installation / Setup».",
+      "order": 3,
+      "children": [
+        {
+          "id": "docker-desktop-win-mac-linux",
+          "title": "Docker Desktop (Win/Mac/Linux)",
+          "description": "مباحث و تمرین‌های مرتبط با «Docker Desktop (Win/Mac/Linux)».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Docker Desktop Documentation",
+              "type": "article",
+              "url": "https://docs.docker.com/desktop/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Get Started Guide",
+              "type": "article",
+              "url": "https://docs.docker.com/get-started/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Hub",
+              "type": "article",
+              "url": "https://hub.docker.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Docker",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/docker?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "docker-engine-linux",
+          "title": "Docker Engine ( Linux )",
+          "description": "مباحث و تمرین‌های مرتبط با «Docker Engine ( Linux )».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Docker Engine Installation Guide",
+              "type": "article",
+              "url": "https://docs.docker.com/engine/install/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Engine - Docker Documentation",
+              "type": "article",
+              "url": "https://docs.docker.com/engine/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Engine for Linux Servers Setup and Tips",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=YeF7ObTnDwc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Docker",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/docker?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker Desktop website",
+          "type": "article",
+          "url": "https://www.docker.com/products/docker-desktop",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Engine",
+          "type": "article",
+          "url": "https://docs.docker.com/engine/install/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basics-of-docker",
+      "title": "Basics of Docker",
+      "description": "مباحث و تمرین‌های مرتبط با «Basics of Docker».",
+      "order": 4,
+      "children": [
+        {
+          "id": "basics-of-docker-item",
+          "title": "Basics of Docker",
+          "description": "مباحث و تمرین‌های مرتبط با «Basics of Docker».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-persistence",
+      "title": "Data Persistence",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Persistence».",
+      "order": 5,
+      "children": [
+        {
+          "id": "ephemeral-container-filesystem",
+          "title": "Ephemeral Container Filesystem",
+          "description": "مباحث و تمرین‌های مرتبط با «Ephemeral Container Filesystem».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Data Persistence - Docker Documentation",
+              "type": "article",
+              "url": "https://docs.docker.com/get-started/docker-concepts/running-containers/persisting-container-data/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Concepts - Persisting container data",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=10_2BjqB_Ls",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "volume-mounts",
+          "title": "Volume Mounts",
+          "description": "مباحث و تمرین‌های مرتبط با «Volume Mounts».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Docker Volumes",
+              "type": "article",
+              "url": "https://docs.docker.com/storage/volumes/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Volume Flags",
+              "type": "article",
+              "url": "https://docs.docker.com/storage/bind-mounts/#choose-the--v-or---mount-flag",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Volumes explained in 6 minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=p2PH_YPCsis",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Persistence - Docker Documentation",
+          "type": "article",
+          "url": "https://docs.docker.com/get-started/docker-concepts/running-containers/persisting-container-data/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "using-3rd-party-container-images",
+      "title": "Using 3rd Party Container Images",
+      "description": "مباحث و تمرین‌های مرتبط با «Using 3rd Party Container Images».",
+      "order": 6,
+      "children": [
+        {
+          "id": "using-3rd-party-container-images-item",
+          "title": "Using 3rd Party Container Images",
+          "description": "مباحث و تمرین‌های مرتبط با «Using 3rd Party Container Images».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker Hub Registry",
+          "type": "article",
+          "url": "https://hub.docker.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "container-registries",
+      "title": "Container Registries",
+      "description": "مباحث و تمرین‌های مرتبط با «Container Registries».",
+      "order": 7,
+      "children": [
+        {
+          "id": "dockerhub",
+          "title": "Dockerhub",
+          "description": "مباحث و تمرین‌های مرتبط با «Dockerhub».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "DockerHub",
+              "type": "article",
+              "url": "https://hub.docker.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DockerHub Repositories",
+              "type": "article",
+              "url": "https://docs.docker.com/docker-hub/repos/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DockerHub Webhooks",
+              "type": "article",
+              "url": "https://docs.docker.com/docker-hub/webhooks/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker Registry",
+          "type": "article",
+          "url": "https://docs.docker.com/registry/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Hub",
+          "type": "article",
+          "url": "https://hub.docker.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Artifact Registry",
+          "type": "article",
+          "url": "https://cloud.google.com/artifact-registry",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Amazon ECR",
+          "type": "article",
+          "url": "https://aws.amazon.com/ecr/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Azure Container Registry",
+          "type": "article",
+          "url": "https://azure.microsoft.com/en-in/products/container-registry",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "running-containers",
+      "title": "Running Containers",
+      "description": "مباحث و تمرین‌های مرتبط با «Running Containers».",
+      "order": 8,
+      "children": [
+        {
+          "id": "running-containers-item",
+          "title": "Running Containers",
+          "description": "مباحث و تمرین‌های مرتبط با «Running Containers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker Run",
+          "type": "article",
+          "url": "https://docs.docker.com/engine/reference/commandline/run/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Containers",
+          "type": "article",
+          "url": "https://docs.docker.com/engine/reference/commandline/container/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Exec",
+          "type": "article",
+          "url": "https://docs.docker.com/engine/reference/commandline/exec/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Stop",
+          "type": "article",
+          "url": "https://docs.docker.com/engine/reference/commandline/stop/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "building-container-images",
+      "title": "Building Container Images",
+      "description": "مباحث و تمرین‌های مرتبط با «Building Container Images».",
+      "order": 9,
+      "children": [
+        {
+          "id": "building-container-images-item",
+          "title": "Building Container Images",
+          "description": "مباحث و تمرین‌های مرتبط با «Building Container Images».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker Build Overview",
+          "type": "article",
+          "url": "https://docs.docker.com/build/concepts/overview",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Image Builder",
+          "type": "article",
+          "url": "https://docs.docker.com/reference/cli/docker/buildx/build/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dockerfile Reference",
+          "type": "article",
+          "url": "https://docs.docker.com/engine/reference/builder/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dockerfile Examples",
+          "type": "article",
+          "url": "https://github.com/dockersamples",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "container-security",
+      "title": "Container Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Container Security».",
+      "order": 10,
+      "children": [
+        {
+          "id": "container-security-item",
+          "title": "Container Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Container Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker Security",
+          "type": "article",
+          "url": "https://docs.docker.com/engine/security/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes Security Best Practices",
+          "type": "article",
+          "url": "https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "docker-cli",
+      "title": "Docker CLI",
+      "description": "مباحث و تمرین‌های مرتبط با «Docker CLI».",
+      "order": 11,
+      "children": [
+        {
+          "id": "containers",
+          "title": "Containers",
+          "description": "مباحث و تمرین‌های مرتبط با «Containers».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Docker CLI Commands",
+              "type": "article",
+              "url": "https://docs.docker.com/engine/reference/commandline/cli/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker CLI Commands Cheat Sheet",
+              "type": "article",
+              "url": "https://docs.docker.com/get-started/docker_cheatsheet.pdf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "networks",
+          "title": "Networks",
+          "description": "مباحث و تمرین‌های مرتبط با «Networks».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Docker Networks",
+              "type": "article",
+              "url": "https://docs.docker.com/network/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Network Commands",
+              "type": "article",
+              "url": "https://docs.docker.com/engine/reference/commandline/network/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Networking",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=bKFMS5C4CG0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker CLI",
+          "type": "article",
+          "url": "https://docs.docker.com/reference/cli/docker/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Compose",
+          "type": "article",
+          "url": "https://docs.docker.com/compose/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking",
+      "title": "Networking",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+      "order": 12,
+      "children": [
+        {
+          "id": "networking-item",
+          "title": "Networking",
+          "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Networking overview",
+          "type": "article",
+          "url": "https://docs.docker.com/engine/network/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Networking – Basics, Network Types & Examples",
+          "type": "article",
+          "url": "https://spacelift.io/blog/docker-networking",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Networking – Basics, Network Types & Examples",
+          "type": "article",
+          "url": "https://dev.to/tusharops_29/docker-networking-basics-network-types-examples-5ed7",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker networking is CRAZY!! (you NEED to learn it)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=bKFMS5C4CG0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Networking Tutorial, ALL Network Types explained!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5grbXvV_DSk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Networking Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=OU6xOM0SE4o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "developer-experience",
+      "title": "Developer Experience",
+      "description": "مباحث و تمرین‌های مرتبط با «Developer Experience».",
+      "order": 13,
+      "children": [
+        {
+          "id": "hot-reloading",
+          "title": "Hot Reloading",
+          "description": "مباحث و تمرین‌های مرتبط با «Hot Reloading».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Hot Reloading - Docker",
+              "type": "article",
+              "url": "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/01-hot-reloading",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "debuggers",
+          "title": "Debuggers",
+          "description": "مباحث و تمرین‌های مرتبط با «Debuggers».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Docker Buildx Debug",
+              "type": "article",
+              "url": "https://docs.docker.com/reference/cli/docker/buildx/debug/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Debuggers in Docker",
+              "type": "article",
+              "url": "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/02-debug-and-test",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "tests",
+          "title": "Tests",
+          "description": "مباحث و تمرین‌های مرتبط با «Tests».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Running Tests - Docker",
+              "type": "article",
+              "url": "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/03-tests",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Testing",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "continuous-integration",
+          "title": "Continuous Integration",
+          "description": "مباحث و تمرین‌های مرتبط با «Continuous Integration».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Continuous Integration - Docker",
+              "type": "article",
+              "url": "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/04-continuous-integration-github-actions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about CI/CD",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/cicd?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker Developer Experience",
+          "type": "article",
+          "url": "https://www.docker.com/blog/cto-chat-overcoming-the-developer-experience-gap-feat-redmonk-flow-io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Developer Experience Wishlist - Docker",
+          "type": "article",
+          "url": "https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/00-devx-wishlist#key-devx-features",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deploying-containers",
+      "title": "Deploying Containers",
+      "description": "مباحث و تمرین‌های مرتبط با «Deploying Containers».",
+      "order": 14,
+      "children": [
+        {
+          "id": "paas-options",
+          "title": "PaaS Options",
+          "description": "مباحث و تمرین‌های مرتبط با «PaaS Options».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "PaaS Options for Deploying Containers",
+              "type": "article",
+              "url": "https://www.docker.com/resources/what-container/#paas-options",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Azure Container Instances",
+              "type": "article",
+              "url": "https://azure.microsoft.com/en-us/services/container-instances/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Google Cloud Run",
+              "type": "article",
+              "url": "https://cloud.google.com/run",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "IBM Cloud Code Engine",
+              "type": "article",
+              "url": "https://www.ibm.com/cloud/code-engine",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Amazon Elastic Container Service",
+              "type": "article",
+              "url": "https://aws.amazon.com/ecs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker Deployment",
+          "type": "article",
+          "url": "https://docs.docker.com/guides/orchestration/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Compose",
+          "type": "article",
+          "url": "https://docs.docker.com/compose/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Docker Swarm",
+          "type": "article",
+          "url": "https://docs.docker.com/engine/swarm/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

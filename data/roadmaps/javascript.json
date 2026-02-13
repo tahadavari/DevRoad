@@ -1,0 +1,2550 @@
+{
+  "slug": "javascript",
+  "title": "JavaScript",
+  "description": "Step by step guide to learn JavaScript in 2026",
+  "steps": [
+    {
+      "id": "introduction-to-javascript",
+      "title": "Introduction to JavaScript",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction to JavaScript».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-javascript",
+          "title": "What is JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «What is JavaScript».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "JavaScript MDN Docs",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Modern JavaScript Tutorial",
+              "type": "article",
+              "url": "https://javascript.info/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Comprehensive Course on JavaScript with Quizzes and Exercises - CodeGuage",
+              "type": "article",
+              "url": "https://www.codeguage.com/courses/js/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Exploring JS: JavaScript books for programmers",
+              "type": "article",
+              "url": "https://exploringjs.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Crash Course for Beginners",
+              "type": "video",
+              "url": "https://youtu.be/hdI2bqOjy3c?t=2",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Build a Netflix Landing Page Clone with HTML, CSS & JS",
+              "type": "video",
+              "url": "https://youtu.be/P7t13SGytRk?t=22",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn JavaScript - Full Course for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "history-of-javascript",
+          "title": "History of JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «History of JavaScript».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Brief History of JavaScript",
+              "type": "article",
+              "url": "https://roadmap.sh/guides/history-of-javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Weird History of JavaScript",
+              "type": "article",
+              "url": "https://dev.to/codediodeio/the-weird-history-of-javascript-2bnb",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "javascript-versions",
+          "title": "JavaScript Versions",
+          "description": "مباحث و تمرین‌های مرتبط با «JavaScript Versions».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "JavaScript Versions: How JavaScript has changed over the years",
+              "type": "article",
+              "url": "https://www.educative.io/blog/javascript-versions-history",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Brief History of JavaScript",
+              "type": "article",
+              "url": "https://roadmap.sh/guides/history-of-javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "how-to-run-javascript",
+          "title": "How to run JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «How to run JavaScript».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "How To Add JavaScript to HTML",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Write Your First JavaScript Program",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-write-your-first-javascript-program",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Use the JavaScript Developer Console",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-developer-console",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "You Don't Know JS Yet (book series)",
+          "type": "article",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "JavaScript MDN Docs",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Modern JavaScript Tutorial",
+          "type": "article",
+          "url": "https://javascript.info/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Exploring JS: JavaScript books for programmers",
+          "type": "article",
+          "url": "https://exploringjs.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Eloquent JavaScript textbook",
+          "type": "article",
+          "url": "https://eloquentjavascript.net/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "JavaScript Crash Course for Beginners",
+          "type": "video",
+          "url": "https://youtu.be/hdI2bqOjy3c?t=2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Build a Netflix Landing Page Clone with HTML, CSS & JS",
+          "type": "video",
+          "url": "https://youtu.be/P7t13SGytRk?t=22",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "all-about-variables",
+      "title": "All about Variables",
+      "description": "مباحث و تمرین‌های مرتبط با «All about Variables».",
+      "order": 2,
+      "children": [
+        {
+          "id": "variable-scopes",
+          "title": "Variable Scopes",
+          "description": "مباحث و تمرین‌های مرتبط با «Variable Scopes».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Scope",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Glossary/Scope",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Deep dive into Scope Chains and Closures",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/deep-dive-into-scope-chains-and-closures-21ee18b71dd9/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Scope",
+              "type": "article",
+              "url": "https://www.w3schools.com/js/js_scope.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Global Local Function Block Scope",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=_E96W6ivHng",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "variable-naming-rules",
+          "title": "Variable Naming Rules",
+          "description": "مباحث و تمرین‌های مرتبط با «Variable Naming Rules».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "JavaScript Variable Naming Tips - CodeGuage",
+              "type": "article",
+              "url": "https://www.codeguage.com/courses/js/variables#Tips_for_naming_variables",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Variables in JavaScript",
+              "type": "article",
+              "url": "https://www.informit.com/articles/article.aspx?p=131025&seqNum=3",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Naming JavaScript Variables",
+              "type": "article",
+              "url": "https://www.dummies.com/article/technology/programming-web-design/javascript/naming-javascript-variables-142522/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Naming Conventions",
+              "type": "article",
+              "url": "https://www.robinwieruch.de/javascript-naming-conventions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Google JavaScript Style Guide",
+              "type": "article",
+              "url": "https://google.github.io/styleguide/jsguide.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hoisting",
+          "title": "Hoisting",
+          "description": "مباحث و تمرین‌های مرتبط با «Hoisting».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is Hoisting - MDN Docs",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Glossary/Hoisting",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Hoisting",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn JavaScript Hoisting In 5 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=EvfRXyKa_GI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "variable-declarations",
+          "title": "Variable Declarations",
+          "description": "مباحث و تمرین‌های مرتبط با «Variable Declarations».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Storing the information you need — Variables",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Variables - CodeGuage",
+              "type": "article",
+              "url": "https://www.codeguage.com/courses/js/variables",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "JavaScript Variables",
+          "type": "article",
+          "url": "https://javascript.info/variables",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Storing the information you need — Variables",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-types",
+      "title": "Data Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Types».",
+      "order": 3,
+      "children": [
+        {
+          "id": "object",
+          "title": "Object",
+          "description": "مباحث و تمرین‌های مرتبط با «Object».",
+          "order": 1,
+          "children": [
+            {
+              "id": "built-in-objects",
+              "title": "Built-in Objects",
+              "description": "مباحث و تمرین‌های مرتبط با «Built-in Objects».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Objects",
+              "type": "article",
+              "url": "https://javascript.info/object",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Working with Objects",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Destructuring Objects",
+              "type": "article",
+              "url": "https://javascript.info/destructuring-assignment",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "typeof-operator",
+          "title": "typeof operator",
+          "description": "مباحث و تمرین‌های مرتبط با «typeof operator».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "typeof Reference",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "JavaScript Data Types - CodeGuage",
+          "type": "article",
+          "url": "https://www.codeguage.com/courses/js/data-types",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "JavaScript data types and data structures",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "JavaScript Data Types",
+          "type": "article",
+          "url": "https://javascript.info/types",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "type-casting",
+      "title": "Type Casting",
+      "description": "مباحث و تمرین‌های مرتبط با «Type Casting».",
+      "order": 4,
+      "children": [
+        {
+          "id": "type-conversion-vs-coercion",
+          "title": "Type Conversion vs Coercion",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Conversion vs Coercion».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Type Conversion - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Type Coercion - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Type Conversion and Coercion video",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=jfQyMPzPTjY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "implicit-type-casting",
+          "title": "Implicit Type Casting",
+          "description": "مباحث و تمرین‌های مرتبط با «Implicit Type Casting».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "TutorialsPoint - JavaScript Tutorials",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/explain-typecasting-in-javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What you need to know about JavaScript Implicit Coercion",
+              "type": "article",
+              "url": "https://dev.to/promisetochi/what-you-need-to-know-about-javascripts-implicit-coercion-e23",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "explicit-type-casting",
+          "title": "Explicit Type Casting",
+          "description": "مباحث و تمرین‌های مرتبط با «Explicit Type Casting».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Type Conversion",
+              "type": "article",
+              "url": "https://www.c-sharpcorner.com/article/type-conversions-in-javascript/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Type conversion",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is typecasting in JavaScript",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/explain-typecasting-in-javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Data Type Conversion",
+              "type": "video",
+              "url": "https://youtu.be/VQLYiFqetZM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Type Conversions",
+          "type": "article",
+          "url": "https://javascript.info/type-conversions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Type Casting in JavaScript",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/type-casting-in-javascript",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-structures",
+      "title": "Data Structures",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Structures».",
+      "order": 5,
+      "children": [
+        {
+          "id": "keyed-collections",
+          "title": "Keyed Collections",
+          "description": "مباحث و تمرین‌های مرتبط با «Keyed Collections».",
+          "order": 1,
+          "children": [
+            {
+              "id": "map",
+              "title": "Map",
+              "description": "مباحث و تمرین‌های مرتبط با «Map».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "weak-map",
+              "title": "Weak Map",
+              "description": "مباحث و تمرین‌های مرتبط با «Weak Map».",
+              "order": 2,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "set",
+              "title": "Set",
+              "description": "مباحث و تمرین‌های مرتبط با «Set».",
+              "order": 3,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "weak-set",
+              "title": "Weak Set",
+              "description": "مباحث و تمرین‌های مرتبط با «Weak Set».",
+              "order": 4,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Keyed collections",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ES6 keyed collections- Maps and sets",
+              "type": "article",
+              "url": "https://blog.logrocket.com/es6-keyed-collections-maps-and-sets/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating keyed collection",
+              "type": "video",
+              "url": "https://youtu.be/4UqSqF4foy4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "indexed-collections",
+          "title": "Indexed Collections",
+          "description": "مباحث و تمرین‌های مرتبط با «Indexed Collections».",
+          "order": 2,
+          "children": [
+            {
+              "id": "typed-arrays",
+              "title": "Typed Arrays",
+              "description": "مباحث و تمرین‌های مرتبط با «Typed Arrays».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "arrays",
+              "title": "Arrays",
+              "description": "مباحث و تمرین‌های مرتبط با «Arrays».",
+              "order": 2,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "What is Indexed collections?",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Indexed collections in JavaScript",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/indexed-collections-in-javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Javascript Arrays",
+              "type": "video",
+              "url": "https://youtu.be/XYq9QpgAx8g",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to the Stack Data Structure",
+          "type": "video",
+          "url": "https://youtu.be/4F-BnR2XwqU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to the Queue Data Structure",
+          "type": "video",
+          "url": "https://youtu.be/GRA_3Ppl2ZI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Recursion: Anatomy of a Recursive Solution",
+          "type": "video",
+          "url": "https://youtu.be/yBWlPte6FhA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Binary Tree Algorithms for Technical Interviews - Full Course",
+          "type": "video",
+          "url": "https://youtu.be/fAAZixBzIAI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Graph Algorithms for Technical Interviews - Full Course",
+          "type": "video",
+          "url": "https://youtu.be/tWVWeAqZ0WU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges",
+          "type": "video",
+          "url": "https://youtu.be/oBt53YbR9Kk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "equality-comparisons",
+      "title": "Equality Comparisons",
+      "description": "مباحث و تمرین‌های مرتبط با «Equality Comparisons».",
+      "order": 6,
+      "children": [
+        {
+          "id": "equality-comparisons-item",
+          "title": "Equality Comparisons",
+          "description": "مباحث و تمرین‌های مرتبط با «Equality Comparisons».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "JavaScript Equality Operators",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "loops-and-iterations",
+      "title": "Loops and Iterations",
+      "description": "مباحث و تمرین‌های مرتبط با «Loops and Iterations».",
+      "order": 7,
+      "children": [
+        {
+          "id": "loops-and-iterations-item",
+          "title": "Loops and Iterations",
+          "description": "مباحث و تمرین‌های مرتبط با «Loops and Iterations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Loops and iteration",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "control-flow",
+      "title": "Control Flow",
+      "description": "مباحث و تمرین‌های مرتبط با «Control Flow».",
+      "order": 8,
+      "children": [
+        {
+          "id": "conditional-statements",
+          "title": "Conditional Statements",
+          "description": "مباحث و تمرین‌های مرتبط با «Conditional Statements».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Making decisions in your code — conditionals",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Conditional branching: if, ?",
+              "type": "article",
+              "url": "https://javascript.info/ifelse",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "exceptional-handling",
+          "title": "Exceptional Handling",
+          "description": "مباحث و تمرین‌های مرتبط با «Exceptional Handling».",
+          "order": 2,
+          "children": [
+            {
+              "id": "throw-statement",
+              "title": "throw statement",
+              "description": "مباحث و تمرین‌های مرتبط با «throw statement».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Throwing Exceptions in JavaScript",
+              "type": "article",
+              "url": "https://rollbar.com/guides/javascript/how-to-throw-exceptions-in-javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "try, catch, finally, throw (video)",
+              "type": "video",
+              "url": "https://youtu.be/cFTFtuEQ-10",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Control Flow - MDN",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Glossary/Control_flow",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "expressions-operators",
+      "title": "Expressions & Operators",
+      "description": "مباحث و تمرین‌های مرتبط با «Expressions & Operators».",
+      "order": 9,
+      "children": [
+        {
+          "id": "expressions-operators-item",
+          "title": "Expressions & Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Expressions & Operators».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Expressions and operators",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "functions",
+      "title": "Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Functions».",
+      "order": 10,
+      "children": [
+        {
+          "id": "conditional-operators",
+          "title": "Conditional Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Conditional Operators».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "JavaScript MDN Docs",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#conditional_operator",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "comma-operators",
+          "title": "Comma Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Comma Operators».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Comma operator",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "unary-operators",
+          "title": "Unary Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Unary Operators».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Unary Operators in JavaScript",
+              "type": "article",
+              "url": "https://www.educba.com/unary-operators-in-javascript/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unary Operators - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#unary_operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "assignment-operators",
+          "title": "Assignment Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Assignment Operators».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Assignment Operators",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Basic Operators",
+              "type": "article",
+              "url": "https://javascript.info/operators#assignment",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "comparison-operators",
+          "title": "Comparison Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Comparison Operators».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "JavaScript MDN Docs",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "arithmetic-operators",
+          "title": "Arithmetic Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Arithmetic Operators».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Arithmetic Operators - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#arithmetic_operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Arithmetic Operators - JavaScript.info",
+              "type": "article",
+              "url": "https://javascript.info/operators#maths",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bitwise-operators",
+          "title": "Bitwise Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Bitwise Operators».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Bitwise Operators - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bitwise_operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bitwise Operators - JavaScript.info",
+              "type": "article",
+              "url": "https://javascript.info/operators#bitwise-operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "logical-operators",
+          "title": "Logical Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Logical Operators».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Logical Operators - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#binary_logical_operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bigint-operators",
+          "title": "BigInt Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «BigInt Operators».",
+          "order": 9,
+          "resources": [
+            {
+              "title": "BigInt Operators",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bigint_operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "string-operators",
+          "title": "String Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «String Operators».",
+          "order": 10,
+          "resources": [
+            {
+              "title": "JavaScript MDN Tutorials",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#string_operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "String Concatenation - JavaScript.info",
+              "type": "article",
+              "url": "https://javascript.info/operators#string-concatenation-with-binary",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Functions - MDN Docs",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "JavaScript Functions in Detail - CodeGuage",
+          "type": "article",
+          "url": "https://www.codeguage.com/courses/js/functions-basics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dom-apis",
+      "title": "DOM APIs",
+      "description": "مباحث و تمرین‌های مرتبط با «DOM APIs».",
+      "order": 11,
+      "children": [
+        {
+          "id": "dom-apis-item",
+          "title": "DOM APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «DOM APIs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "DOM- MDN Docs",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "strict-mode",
+      "title": "Strict Mode",
+      "description": "مباحث و تمرین‌های مرتبط با «Strict Mode».",
+      "order": 12,
+      "children": [
+        {
+          "id": "function-parameters",
+          "title": "Function Parameters",
+          "description": "مباحث و تمرین‌های مرتبط با «Function Parameters».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Function Parameters",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_parameters",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unlimited function parameters using Rest",
+              "type": "article",
+              "url": "https://www.amitmerchant.com/unlimited-function-parameters-with-using-rest-in-java-script/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "arrow-functions",
+          "title": "Arrow Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Arrow Functions».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "MDN - Arrow Function Expressions",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "iifes",
+          "title": "IIFEs",
+          "description": "مباحث و تمرین‌های مرتبط با «IIFEs».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "IIFE — MDN Docs",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Glossary/IIFE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript in Plain English - IIFE",
+              "type": "article",
+              "url": "https://javascript.plainenglish.io/https-medium-com-javascript-in-plain-english-stop-feeling-iffy-about-using-an-iife-7b0292aba174",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "arguments-object",
+          "title": "arguments object",
+          "description": "مباحث و تمرین‌های مرتبط با «arguments object».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "The arguments object - MDN Docs",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "scope-function-stack",
+          "title": "Scope & Function Stack",
+          "description": "مباحث و تمرین‌های مرتبط با «Scope & Function Stack».",
+          "order": 5,
+          "children": [
+            {
+              "id": "recursion",
+              "title": "Recursion",
+              "description": "مباحث و تمرین‌های مرتبط با «Recursion».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "lexical-scoping",
+              "title": "Lexical Scoping",
+              "description": "مباحث و تمرین‌های مرتبط با «Lexical Scoping».",
+              "order": 2,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "closures",
+              "title": "Closures",
+              "description": "مباحث و تمرین‌های مرتبط با «Closures».",
+              "order": 3,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Function stack (call stack) - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Glossary/Call_stack",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kinds of Scope - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Glossary/Scope",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "built-in-functions",
+          "title": "Built-in Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Built-in Functions».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "JavaScript Built-in Functions",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Built-in Methods in Javascript",
+              "type": "article",
+              "url": "https://dev.to/elpepebenitez/built-in-methods-in-javascript-4bll",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Built-in Functions:",
+              "type": "article",
+              "url": "https://www.tutorialride.com/javascript/javascript-built-in-functions.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Strict mode",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Strict mode in JavaScript",
+          "type": "article",
+          "url": "https://javascript.info/strict-mode",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "using-this-keyword",
+      "title": "Using (this) keyword",
+      "description": "مباحث و تمرین‌های مرتبط با «Using (this) keyword».",
+      "order": 13,
+      "children": [
+        {
+          "id": "in-a-method",
+          "title": "in a method",
+          "description": "مباحث و تمرین‌های مرتبط با «in a method».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "this in methods",
+              "type": "article",
+              "url": "https://javascript.info/object-methods#this-in-methods",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "in-a-function",
+          "title": "in a function",
+          "description": "مباحث و تمرین‌های مرتبط با «in a function».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "using-it-alone",
+          "title": "using it alone",
+          "description": "مباحث و تمرین‌های مرتبط با «using it alone».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "in-event-handlers",
+          "title": "in event handlers",
+          "description": "مباحث و تمرین‌های مرتبط با «in event handlers».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "in-arrow-functions",
+          "title": "in arrow functions",
+          "description": "مباحث و تمرین‌های مرتبط با «in arrow functions».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "this keyword and arrow function",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/66518020/javascript-this-keyword-and-arrow-function",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "This Keyword",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "asynchronous-javascript",
+      "title": "Asynchronous JavaScript",
+      "description": "مباحث و تمرین‌های مرتبط با «Asynchronous JavaScript».",
+      "order": 14,
+      "children": [
+        {
+          "id": "asynchronous-javascript-item",
+          "title": "Asynchronous JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «Asynchronous JavaScript».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Asynchronous JavaScript - MDN",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What The Hack is Event Loop and Asynchronous JavaScript - JSConf",
+          "type": "video",
+          "url": "https://youtu.be/8aGhZQkoFbQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Asynchronous JavaScript - JavaScript Visualized",
+          "type": "video",
+          "url": "https://youtu.be/eiC58R16hb8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "working-with-apis",
+      "title": "Working with APIs",
+      "description": "مباحث و تمرین‌های مرتبط با «Working with APIs».",
+      "order": 15,
+      "children": [
+        {
+          "id": "callbacks",
+          "title": "Callbacks",
+          "description": "مباحث و تمرین‌های مرتبط با «Callbacks».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Callbacks in JavaScript",
+              "type": "article",
+              "url": "https://javascript.info/callbacks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Callback Functions",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Glossary/Callback_function",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "promises",
+          "title": "Promises",
+          "description": "مباحث و تمرین‌های مرتبط با «Promises».",
+          "order": 2,
+          "children": [
+            {
+              "id": "async-await",
+              "title": "async/await",
+              "description": "مباحث و تمرین‌های مرتبط با «async/await».",
+              "order": 1,
+              "children": [
+                {
+                  "id": "callbacks-2",
+                  "title": "Callbacks",
+                  "description": "مباحث و تمرین‌های مرتبط با «Callbacks».",
+                  "order": 1,
+                  "resources": [],
+                  "recommendation": ""
+                }
+              ],
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "A Detailed Introduction to Promises",
+              "type": "article",
+              "url": "https://www.codeguage.com/courses/advanced-js/promises-introduction",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Promises - Basics",
+              "type": "article",
+              "url": "https://www.codeguage.com/courses/advanced-js/promises-basics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Promises - Chaining",
+              "type": "article",
+              "url": "https://www.codeguage.com/courses/advanced-js/promises-chaining",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Promises - Error Handling",
+              "type": "article",
+              "url": "https://www.codeguage.com/courses/advanced-js/promises-error-handling",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Promises - Visualized",
+              "type": "video",
+              "url": "https://youtu.be/Xs1EMmBLpn4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fetching data from the server",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "XMLHttpRequest",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Fetch API",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Is fetch API better than XMLHTTPRequest",
+          "type": "article",
+          "url": "https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ajax Battle: XMLHttpRequest vs the Fetch API",
+          "type": "article",
+          "url": "https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-fetch/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "classes",
+      "title": "Classes",
+      "description": "مباحث و تمرین‌های مرتبط با «Classes».",
+      "order": 16,
+      "children": [
+        {
+          "id": "xmlhttprequest",
+          "title": "XMLHTTPRequest",
+          "description": "مباحث و تمرین‌های مرتبط با «XMLHTTPRequest».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Using XMLHttpRequest",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Network request - XMLHttpRequest",
+              "type": "article",
+              "url": "https://javascript.info/xmlhttprequest",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Classes in JavaScript",
+          "type": "article",
+          "url": "https://javascript.info/classes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "JavaScript Classes",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "iterators-and-generators",
+      "title": "Iterators and Generators",
+      "description": "مباحث و تمرین‌های مرتبط با «Iterators and Generators».",
+      "order": 17,
+      "children": [
+        {
+          "id": "iterators-and-generators-item",
+          "title": "Iterators and Generators",
+          "description": "مباحث و تمرین‌های مرتبط با «Iterators and Generators».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Iterators - Advanced JavaScript",
+          "type": "article",
+          "url": "https://www.codeguage.com/courses/advanced-js/iteration-introduction",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Detailed Discussion on Iterators - Advanced JavaScript",
+          "type": "article",
+          "url": "https://www.codeguage.com/courses/advanced-js/iteration-iterators",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Exactly Are Generators? - Advanced JavaScript",
+          "type": "article",
+          "url": "https://www.codeguage.com/courses/advanced-js/iteration-generators",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "modules-in-javascript",
+      "title": "Modules in JavaScript",
+      "description": "مباحث و تمرین‌های مرتبط با «Modules in JavaScript».",
+      "order": 18,
+      "children": [
+        {
+          "id": "modules-in-javascript-item",
+          "title": "Modules in JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «Modules in JavaScript».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Modules, introduction",
+          "type": "article",
+          "url": "https://javascript.info/modules-intro",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Export and Import",
+          "type": "article",
+          "url": "https://javascript.info/import-export",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dynamic imports",
+          "type": "article",
+          "url": "https://javascript.info/modules-dynamic-imports",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "memory-management",
+      "title": "Memory Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Memory Management».",
+      "order": 19,
+      "children": [
+        {
+          "id": "esm",
+          "title": "ESM",
+          "description": "مباحث و تمرین‌های مرتبط با «ESM».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Full ESM module overview from MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Full ESM module overview from js.info",
+              "type": "article",
+              "url": "https://javascript.info/modules",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Node.js documentation for ESModules",
+              "type": "article",
+              "url": "https://nodejs.org/api/esm.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript ES6 Modules Simplified",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cRHQNNcYf6s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "JavaScript Garbage Collection",
+          "type": "article",
+          "url": "https://javascript.info/garbage-collection",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Memory Management in JavaScript",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "using-browser-devtools",
+      "title": "Using Browser DevTools",
+      "description": "مباحث و تمرین‌های مرتبط با «Using Browser DevTools».",
+      "order": 20,
+      "children": [
+        {
+          "id": "memory-lifecycle",
+          "title": "Memory Lifecycle",
+          "description": "مباحث و تمرین‌های مرتبط با «Memory Lifecycle».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "MDN docs - Memory Management",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Lifecycle in Memory Management",
+              "type": "article",
+              "url": "https://medium.com/swlh/the-lifecycle-of-memory-in-javascript-5b5bffc5ff4c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "debugging-issues",
+          "title": "Debugging Issues",
+          "description": "مباحث و تمرین‌های مرتبط با «Debugging Issues».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Debugging JavaScript in the sources panel",
+              "type": "article",
+              "url": "https://developer.chrome.com/docs/devtools/javascript/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "debugging-memory-leaks",
+          "title": "Debugging Memory Leaks",
+          "description": "مباحث و تمرین‌های مرتبط با «Debugging Memory Leaks».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Catching memory leaks with Chrome DevTools",
+              "type": "article",
+              "url": "https://medium.com/coding-blocks/catching-memory-leaks-with-chrome-devtools-57b03acb6bb9",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Effective Javascript Debugging",
+              "type": "article",
+              "url": "https://medium.com/swlh/effective-javascript-debugging-memory-leaks-75059b2436f6",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Debugging JavaScript memory leaks",
+              "type": "article",
+              "url": "https://www.debugbear.com/blog/debugging-javascript-memory-leaks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Debugging Memory Leaks In Production JavaScript Applications",
+              "type": "article",
+              "url": "https://www.jackhoy.com/web-applications/2020/10/21/debugging-memory-leaks-in-nodejs.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Memory Leaks Visualized and How To Fix Them",
+              "type": "video",
+              "url": "https://youtu.be/IkoGmbNJolo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "debugging-performance",
+          "title": "Debugging Performance",
+          "description": "مباحث و تمرین‌های مرتبط با «Debugging Performance».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Analyze runtime performance",
+              "type": "article",
+              "url": "https://developer.chrome.com/docs/devtools/performance",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Official Docs",
+          "type": "article",
+          "url": "https://developer.chrome.com/docs/devtools/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Debug JavaScript with Chrome Dev Tools",
+          "type": "article",
+          "url": "https://developer.chrome.com/docs/devtools/javascript/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

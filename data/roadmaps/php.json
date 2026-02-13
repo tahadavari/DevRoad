@@ -1,0 +1,825 @@
+{
+  "slug": "php",
+  "title": "PHP",
+  "description": "Step by step guide to learning PHP in 2026",
+  "steps": [
+    {
+      "id": "introduction-to-php",
+      "title": "Introduction to PHP",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction to PHP».",
+      "order": 1,
+      "children": [
+        {
+          "id": "introduction-to-php-item",
+          "title": "Introduction to PHP",
+          "description": "مباحث و تمرین‌های مرتبط با «Introduction to PHP».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "PHP",
+          "type": "article",
+          "url": "https://www.php.net/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "PHP Documentation",
+          "type": "article",
+          "url": "https://www.php.net/docs.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "PHP Tutorial",
+          "type": "article",
+          "url": "https://www.phptutorial.net/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn PHP Interactively",
+          "type": "article",
+          "url": "https://www.learn-php.org/about",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to PHP",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=KBT2gmAfav4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "PHP Tutorial - Full Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=OK_JCtrrv-c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "installing-php",
+      "title": "Installing PHP",
+      "description": "مباحث و تمرین‌های مرتبط با «Installing PHP».",
+      "order": 2,
+      "children": [
+        {
+          "id": "what-is-php",
+          "title": "What is PHP?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is PHP?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is PHP?",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/introduction.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to PHP",
+              "type": "article",
+              "url": "https://www.phptutorial.net/php-tutorial/what-is-php/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "evolution-and-history",
+          "title": "Evolution and History",
+          "description": "مباحث و تمرین‌های مرتبط با «Evolution and History».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "History of PHP",
+              "type": "article",
+              "url": "https://www.php.net/history",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "php-versions-and-features",
+          "title": "PHP Versions and Features",
+          "description": "مباحث و تمرین‌های مرتبط با «PHP Versions and Features».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Versions and Features",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/history.php.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Installation Guide",
+          "type": "article",
+          "url": "https://www.php.net/manual/en/install.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "arrays",
+      "title": "Arrays",
+      "description": "مباحث و تمرین‌های مرتبط با «Arrays».",
+      "order": 3,
+      "children": [
+        {
+          "id": "arrays-item",
+          "title": "Arrays",
+          "description": "مباحث و تمرین‌های مرتبط با «Arrays».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Arrays",
+          "type": "article",
+          "url": "https://www.php.net/manual/en/language.types.array.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "conditionals",
+      "title": "Conditionals",
+      "description": "مباحث و تمرین‌های مرتبط با «Conditionals».",
+      "order": 4,
+      "children": [
+        {
+          "id": "null-safe-operator",
+          "title": "Null Safe Operator",
+          "description": "مباحث و تمرین‌های مرتبط با «Null Safe Operator».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "The Basics - Manual",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/language.oop5.basic.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PHP RFC: Nullsafe operator",
+              "type": "article",
+              "url": "https://wiki.php.net/rfc/nullsafe_operator",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Control Structures",
+          "type": "article",
+          "url": "https://www.php.net/manual/en/language.control-structures.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "loops",
+      "title": "Loops",
+      "description": "مباحث و تمرین‌های مرتبط با «Loops».",
+      "order": 5,
+      "children": [
+        {
+          "id": "loops-item",
+          "title": "Loops",
+          "description": "مباحث و تمرین‌های مرتبط با «Loops».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Loops",
+          "type": "article",
+          "url": "https://www.php.net/manual/en/language.control-structures.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "functions",
+      "title": "Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Functions».",
+      "order": 6,
+      "children": [
+        {
+          "id": "indexed-arrays",
+          "title": "Indexed Arrays",
+          "description": "مباحث و تمرین‌های مرتبط با «Indexed Arrays».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Indexed Arrays",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/language.types.array.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "function-declaration",
+          "title": "Function Declaration",
+          "description": "مباحث و تمرین‌های مرتبط با «Function Declaration».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "User Defined Functions",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/functions.user-defined.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "parameters-return-values",
+          "title": "Parameters / Return Values",
+          "description": "مباحث و تمرین‌های مرتبط با «Parameters / Return Values».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Parameters / Return Values",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/functions.arguments.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "default-optional-params",
+          "title": "Default / Optional Params",
+          "description": "مباحث و تمرین‌های مرتبط با «Default / Optional Params».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Default Parameters",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/functions.arguments.php#functions.arguments.default",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "named-arguments",
+          "title": "Named Arguments",
+          "description": "مباحث و تمرین‌های مرتبط با «Named Arguments».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Named Arguments",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/functions.arguments.php#functions.named-arguments",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "anonymous-functions",
+          "title": "Anonymous Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Anonymous Functions».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Anonymous Functions",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/functions.anonymous.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Functions",
+          "type": "article",
+          "url": "https://www.php.net/manual/en/language.functions.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "http-methods",
+      "title": "HTTP Methods",
+      "description": "مباحث و تمرین‌های مرتبط با «HTTP Methods».",
+      "order": 7,
+      "children": [
+        {
+          "id": "http-methods-item",
+          "title": "HTTP Methods",
+          "description": "مباحث و تمرین‌های مرتبط با «HTTP Methods».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "HTTP Methods",
+          "type": "article",
+          "url": "https://www.php.net/manual/en/reserved.variables.server.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "form-processing",
+      "title": "Form Processing",
+      "description": "مباحث و تمرین‌های مرتبط با «Form Processing».",
+      "order": 8,
+      "children": [
+        {
+          "id": "form-processing-item",
+          "title": "Form Processing",
+          "description": "مباحث و تمرین‌های مرتبط با «Form Processing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "HTML Form Processing",
+          "type": "article",
+          "url": "https://www.php.net/manual/en/tutorial.forms.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "state-management",
+      "title": "State Management",
+      "description": "مباحث و تمرین‌های مرتبط با «State Management».",
+      "order": 9,
+      "children": [
+        {
+          "id": "cookies",
+          "title": "Cookies",
+          "description": "مباحث و تمرین‌های مرتبط با «Cookies».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Cookies",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/features.cookies.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sessions",
+          "title": "Sessions",
+          "description": "مباحث و تمرین‌های مرتبط با «Sessions».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Sessions",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/book.session.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "setcookie",
+          "type": "article",
+          "url": "https://php.net/manual/en/function.setcookie.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "file-uploads",
+      "title": "File Uploads",
+      "description": "مباحث و تمرین‌های مرتبط با «File Uploads».",
+      "order": 10,
+      "children": [
+        {
+          "id": "file-uploads-item",
+          "title": "File Uploads",
+          "description": "مباحث و تمرین‌های مرتبط با «File Uploads».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "File Uploads",
+          "type": "article",
+          "url": "https://www.php.net/manual/en/features.file-upload.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "oop-fundamentals",
+      "title": "OOP Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «OOP Fundamentals».",
+      "order": 11,
+      "children": [
+        {
+          "id": "classes-and-objects",
+          "title": "Classes and Objects",
+          "description": "مباحث و تمرین‌های مرتبط با «Classes and Objects».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Classes",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/language.oop5.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "constructor-destructor",
+          "title": "Constructor / Destructor",
+          "description": "مباحث و تمرین‌های مرتبط با «Constructor / Destructor».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "PHP Constructors and Destructors",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/language.oop5.decon.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "properties-and-methods",
+          "title": "Properties and Methods",
+          "description": "مباحث و تمرین‌های مرتبط با «Properties and Methods».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Properties and Methods",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/language.oop5.properties.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "access-specifiers",
+          "title": "Access Specifiers",
+          "description": "مباحث و تمرین‌های مرتبط با «Access Specifiers».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Access Specifiers & Visibility",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/language.oop5.visibility.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "static-methods-and-properties",
+          "title": "Static Methods and Properties",
+          "description": "مباحث و تمرین‌های مرتبط با «Static Methods and Properties».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Static Methods and Properties",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/language.oop5.static.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "inheritance",
+          "title": "Inheritance",
+          "description": "مباحث و تمرین‌های مرتبط با «Inheritance».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Inheritance",
+              "type": "article",
+              "url": "https://www.php.net/manual/en/language.oop5.inheritance.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OOP",
+          "type": "article",
+          "url": "https://php.net/manual/en/language.oop5.basic.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "php-fig",
+      "title": "PHP-FIG",
+      "description": "مباحث و تمرین‌های مرتبط با «PHP-FIG».",
+      "order": 12,
+      "children": [
+        {
+          "id": "psr-standards",
+          "title": "PSR Standards",
+          "description": "مباحث و تمرین‌های مرتبط با «PSR Standards».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "PSR Standards",
+              "type": "article",
+              "url": "https://www.php-fig.org/psr/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "PHP FIG",
+          "type": "article",
+          "url": "https://www.php-fig.org/psr/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "style-tools",
+      "title": "Style Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Style Tools».",
+      "order": 13,
+      "children": [
+        {
+          "id": "style-tools-item",
+          "title": "Style Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Style Tools».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Style Tools",
+          "type": "article",
+          "url": "https://www.php.net/manual/en/refs.basic.php.cs.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "static-analysis",
+      "title": "Static Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Static Analysis».",
+      "order": 14,
+      "children": [
+        {
+          "id": "phpstan",
+          "title": "PHPStan",
+          "description": "مباحث و تمرین‌های مرتبط با «PHPStan».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "PHP Stan",
+              "type": "article",
+              "url": "https://phpstan.org/user-guide/getting-started",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "PHP Stan",
+          "type": "article",
+          "url": "https://phpstan.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "PHP Stan - Getting Started",
+          "type": "article",
+          "url": "https://phpstan.org/user-guide/getting-started",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

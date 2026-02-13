@@ -1,0 +1,1685 @@
+{
+  "slug": "qa",
+  "title": "QA",
+  "description": "Steps to follow in order to become a modern QA Engineer in 2026",
+  "steps": [
+    {
+      "id": "learn-the-fundamentals",
+      "title": "Learn the Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn the Fundamentals».",
+      "order": 1,
+      "children": [
+        {
+          "id": "test-oracles",
+          "title": "Test Oracles",
+          "description": "مباحث و تمرین‌های مرتبط با «Test Oracles».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What are Test Oracles",
+              "type": "article",
+              "url": "https://ecomputernotes.com/software-engineering/what-are-test-oracles",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Test Oracle in Software Testing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=DR22zNNetp0&t=1s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "test-prioritization",
+          "title": "Test Prioritization",
+          "description": "مباحث و تمرین‌های مرتبط با «Test Prioritization».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "A Tour of what is Test Prioritization?",
+              "type": "article",
+              "url": "https://www.browserstack.com/guide/test-case-prioritization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Test Prioritization",
+              "type": "article",
+              "url": "https://www.professionalqa.com/test-prioritization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Test Prioritization fundamentals!",
+              "type": "article",
+              "url": "https://testomat.io/features/test-case-priorities/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-quality-assurance",
+          "title": "What is Quality Assurance?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Quality Assurance?».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is Quality Assurance(QA)? Process, Methods, Examples",
+              "type": "article",
+              "url": "https://www.guru99.com/all-about-quality-assurance.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Do Software Testers Do?",
+              "type": "article",
+              "url": "https://www.ministryoftesting.com/articles/what-do-software-testers-do",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about QA",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/qa?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "qa-mindset",
+          "title": "QA Mindset",
+          "description": "مباحث و تمرین‌های مرتبط با «QA Mindset».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "The Software Tester’s Mindset",
+              "type": "article",
+              "url": "https://softwaretester.careers/the-software-testers-mindset/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Skills QA needs",
+              "type": "article",
+              "url": "https://theqalead.com/careers/quality-assurance-skills/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Think Like a Tester",
+              "type": "article",
+              "url": "https://medium.com/@blakenorrish/how-to-think-like-a-tester-7a174ff6aeaf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ISTQB® Foundation Level Syllabus 2024 - v4.0",
+              "type": "article",
+              "url": "https://astqb.org/assets/documents/ISTQB_CTFL_Syllabus-v4.0.pdf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "testing-approaches",
+          "title": "Testing Approaches",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing Approaches».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Functional Testing Approaches and Agile Considerations",
+              "type": "article",
+              "url": "https://www.qualitylogic.com/knowledge-center/functional-testing-approaches-agile-considerations/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Testing",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "sdlc-delivery-model",
+      "title": "SDLC Delivery Model",
+      "description": "مباحث و تمرین‌های مرتبط با «SDLC Delivery Model».",
+      "order": 2,
+      "children": [
+        {
+          "id": "agile-model",
+          "title": "Agile Model",
+          "description": "مباحث و تمرین‌های مرتبط با «Agile Model».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Agile Methodology: What is Agile Model in Software Testing?",
+              "type": "article",
+              "url": "https://www.guru99.com/agile-scrum-extreme-testing.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Manifesto for Agile Software Development",
+              "type": "article",
+              "url": "https://agilemanifesto.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Agile",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/agile?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "QA Role In SDLC: Why Is Quality Assurance Important In IT",
+          "type": "article",
+          "url": "https://cadabra.studio/blog/why-is-quality-assurance-important-qa-role-in-sdlc/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SDLC Overview",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/sdlc/sdlc_overview.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about QA",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/qa?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing-methodologies",
+      "title": "Testing Methodologies",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing Methodologies».",
+      "order": 3,
+      "children": [
+        {
+          "id": "testing-methodologies-item",
+          "title": "Testing Methodologies",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing Methodologies».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "manual-testing",
+      "title": "Manual Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Manual Testing».",
+      "order": 4,
+      "children": [
+        {
+          "id": "test-planning",
+          "title": "Test Planning",
+          "description": "مباحث و تمرین‌های مرتبط با «Test Planning».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Test Plan: What is, How to Create (with Example)",
+              "type": "article",
+              "url": "https://www.guru99.com/what-everybody-ought-to-know-about-test-planing.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "test-cases-and-scenarios",
+          "title": "Test Cases and Scenarios",
+          "description": "مباحث و تمرین‌های مرتبط با «Test Cases and Scenarios».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Test Case vs Test Scenario – Difference Between Them",
+              "type": "article",
+              "url": "https://www.guru99.com/test-case-vs-test-scenario.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Write Test Cases in Software Testing with Examples",
+              "type": "article",
+              "url": "https://www.guru99.com/test-case.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "compatibility",
+          "title": "Compatibility",
+          "description": "مباحث و تمرین‌های مرتبط با «Compatibility».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is Compatibility Testing? Forward & Backward Example",
+              "type": "article",
+              "url": "https://www.guru99.com/compatibility-testing.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "verification-and-validation",
+          "title": "Verification and Validation",
+          "description": "مباحث و تمرین‌های مرتبط با «Verification and Validation».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Differences Between Verification and Validation",
+              "type": "article",
+              "url": "https://www.guru99.com/verification-v-s-validation-in-a-software-testing.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Design Verification & Validation Process",
+              "type": "article",
+              "url": "https://www.guru99.com/design-verification-process.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Manual Testing Tutorial: What is, Types, Concepts",
+          "type": "article",
+          "url": "https://www.guru99.com/manual-testing.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about QA",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/qa?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "frontend-automation",
+      "title": "Frontend Automation",
+      "description": "مباحث و تمرین‌های مرتبط با «Frontend Automation».",
+      "order": 5,
+      "children": [
+        {
+          "id": "frontend-automation-item",
+          "title": "Frontend Automation",
+          "description": "مباحث و تمرین‌های مرتبط با «Frontend Automation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How We do Automated Testing on our Frontend",
+          "type": "article",
+          "url": "https://dev.to/davidz/how-we-do-automated-testing-on-our-frontend-b10",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Automation",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/automation?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "backend-automation",
+      "title": "Backend Automation",
+      "description": "مباحث و تمرین‌های مرتبط با «Backend Automation».",
+      "order": 6,
+      "children": [
+        {
+          "id": "backend-automation-item",
+          "title": "Backend Automation",
+          "description": "مباحث و تمرین‌های مرتبط با «Backend Automation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Backend Testing Tutorial",
+          "type": "article",
+          "url": "https://www.guru99.com/what-is-backend-testing.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Automation",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/automation?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "accessibility-tests",
+      "title": "Accessibility Tests",
+      "description": "مباحث و تمرین‌های مرتبط با «Accessibility Tests».",
+      "order": 7,
+      "children": [
+        {
+          "id": "accessibility-tests-item",
+          "title": "Accessibility Tests",
+          "description": "مباحث و تمرین‌های مرتبط با «Accessibility Tests».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Explore top posts about Accessibility",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/accessibility?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "mobile-automation",
+      "title": "Mobile Automation",
+      "description": "مباحث و تمرین‌های مرتبط با «Mobile Automation».",
+      "order": 8,
+      "children": [
+        {
+          "id": "mobile-automation-item",
+          "title": "Mobile Automation",
+          "description": "مباحث و تمرین‌های مرتبط با «Mobile Automation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Mobile Automation Testing Steps and Process",
+          "type": "article",
+          "url": "https://u-tor.com/topic/mobile-automation-steps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Automation",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/automation?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "load-performance-testing",
+      "title": "Load & Performance Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Load & Performance Testing».",
+      "order": 9,
+      "children": [
+        {
+          "id": "load-performance-testing-item",
+          "title": "Load & Performance Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Load & Performance Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "security-testing",
+      "title": "Security Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Security Testing».",
+      "order": 10,
+      "children": [
+        {
+          "id": "security-testing-item",
+          "title": "Security Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Security Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Security Testing Wiki",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Security_testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Security",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/security?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "email-testing",
+      "title": "Email Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Email Testing».",
+      "order": 11,
+      "children": [
+        {
+          "id": "mailinator",
+          "title": "Mailinator",
+          "description": "مباحث و تمرین‌های مرتبط با «Mailinator».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Mailinator",
+              "type": "article",
+              "url": "https://www.mailinator.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mailinator Official Docs",
+              "type": "article",
+              "url": "https://www.mailinator.com/docs/index.html#mailinator",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "About Email Testing",
+          "type": "article",
+          "url": "https://www.campaignmonitor.com/blog/email-marketing/how-email-testing-and-rendering-works-and-why-its-important/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Checklist: How to Test and QA an Email",
+          "type": "article",
+          "url": "https://sponge.io/checklist-how-to-test-and-qa-an-email/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about QA",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/qa?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing-data-management",
+      "title": "Testing Data Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing Data Management».",
+      "order": 12,
+      "children": [
+        {
+          "id": "delphix",
+          "title": "Delphix",
+          "description": "مباحث و تمرین‌های مرتبط با «Delphix».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Test Data Management Solutions",
+              "type": "article",
+              "url": "https://www.perforce.com/solutions/test-data-management",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Test Data Management?",
+          "type": "article",
+          "url": "https://www.perforce.com/blog/pdx/test-data-management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Test Data Management? Definition, Tools, Best Practices",
+          "type": "article",
+          "url": "https://katalon.com/resources-center/blog/what-is-test-data-management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "reporting",
+      "title": "Reporting",
+      "description": "مباحث و تمرین‌های مرتبط با «Reporting».",
+      "order": 13,
+      "children": [
+        {
+          "id": "allure",
+          "title": "Allure",
+          "description": "مباحث و تمرین‌های مرتبط با «Allure».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Allure",
+              "type": "article",
+              "url": "https://qameta.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Allure Docs",
+              "type": "article",
+              "url": "https://docs.qameta.io/allure-report/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "testrail",
+          "title": "TestRail",
+          "description": "مباحث و تمرین‌های مرتبط با «TestRail».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Testrail",
+              "type": "article",
+              "url": "https://www.gurock.com/testrail/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Testrail Official Docs",
+              "type": "article",
+              "url": "https://support.gurock.com/hc/en-us/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Testrail Tutorial Docs",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/testrail/testrail_introduction.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "junit",
+          "title": "jUnit",
+          "description": "مباحث و تمرین‌های مرتبط با «jUnit».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is JUnit?",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/junit/junit_test_framework.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How do you write a QA report?",
+          "type": "article",
+          "url": "https://www.netguru.com/blog/how-to-write-qa-report",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Write QA Test Summary Report? [13 Easy Steps]",
+          "type": "article",
+          "url": "https://www.qatouch.com/blog/how-to-write-qa-test-summary-report/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about QA",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/qa?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "monitoring-logs",
+      "title": "Monitoring & Logs",
+      "description": "مباحث و تمرین‌های مرتبط با «Monitoring & Logs».",
+      "order": 14,
+      "children": [
+        {
+          "id": "new-relic",
+          "title": "New Relic",
+          "description": "مباحث و تمرین‌های مرتبط با «New Relic».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "New Relic",
+              "type": "article",
+              "url": "https://newrelic.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn New Relic",
+              "type": "article",
+              "url": "https://learn.newrelic.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about DevOps",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/devops?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "runscope",
+          "title": "RunScope",
+          "description": "مباحث و تمرین‌های مرتبط با «RunScope».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Runscope",
+              "type": "article",
+              "url": "https://www.runscope.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "kibana",
+          "title": "Kibana",
+          "description": "مباحث و تمرین‌های مرتبط با «Kibana».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Elastic Kibana",
+              "type": "article",
+              "url": "https://www.elastic.co/kibana/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Kibana",
+              "type": "article",
+              "url": "https://www.elastic.co/training/free",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about ELK",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/elk?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "datadog",
+          "title": "Datadog",
+          "description": "مباحث و تمرین‌های مرتبط با «Datadog».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Datadog",
+              "type": "article",
+              "url": "https://www.datadoghq.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Datadog Documentation",
+              "type": "article",
+              "url": "https://docs.datadoghq.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pager-duty",
+          "title": "Pager Duty",
+          "description": "مباحث و تمرین‌های مرتبط با «Pager Duty».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "PagerDuty Website",
+              "type": "article",
+              "url": "https://www.pagerduty.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn PagerDuty",
+              "type": "article",
+              "url": "https://university.pagerduty.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "grafana",
+          "title": "Grafana",
+          "description": "مباحث و تمرین‌های مرتبط با «Grafana».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Grafana",
+              "type": "article",
+              "url": "https://grafana.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Grafana Documentation",
+              "type": "article",
+              "url": "https://grafana.com/docs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Grafana Webinars and Videos",
+              "type": "article",
+              "url": "https://grafana.com/videos/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Grafana Community",
+              "type": "article",
+              "url": "https://community.grafana.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Grafana",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/grafana?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sentry",
+          "title": "Sentry",
+          "description": "مباحث و تمرین‌های مرتبط با «Sentry».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Sentry",
+              "type": "article",
+              "url": "https://sentry.io",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Sentry Documentation",
+              "type": "article",
+              "url": "https://docs.sentry.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Two Pillars of Modern QA - Errors and Logs",
+          "type": "article",
+          "url": "https://medium.com/@mohsenny/the-two-pillars-of-modern-qa-from-error-prevention-to-post-release-monitoring-4c11cc99fe14",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "version-control-system",
+      "title": "Version Control System",
+      "description": "مباحث و تمرین‌های مرتبط با «Version Control System».",
+      "order": 15,
+      "children": [
+        {
+          "id": "git",
+          "title": "Git",
+          "description": "مباحث و تمرین‌های مرتبط با «Git».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Git",
+              "type": "article",
+              "url": "https://git-scm.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Git with Tutorials, News and Tips - Atlassian",
+              "type": "article",
+              "url": "https://www.atlassian.com/git",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Cheat Sheet",
+              "type": "article",
+              "url": "https://cs.fyi/guide/git-cheatsheet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git & GitHub Crash Course For Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Complete Git and GitHub Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=apGV9Kg7ics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Git",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/git?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git",
+          "type": "article",
+          "url": "https://git-scm.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mercurial",
+          "type": "article",
+          "url": "https://www.mercurial-scm.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Version Control?",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/what-is-version-control",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about QA",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/qa?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "repo-hosting-services",
+      "title": "Repo Hosting Services",
+      "description": "مباحث و تمرین‌های مرتبط با «Repo Hosting Services».",
+      "order": 16,
+      "children": [
+        {
+          "id": "repo-hosting-services-item",
+          "title": "Repo Hosting Services",
+          "description": "مباحث و تمرین‌های مرتبط با «Repo Hosting Services».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "repo-hosting-services-2",
+      "title": "Repo Hosting Services",
+      "description": "مباحث و تمرین‌های مرتبط با «Repo Hosting Services».",
+      "order": 17,
+      "children": [
+        {
+          "id": "zombie-js",
+          "title": "Zombie.js",
+          "description": "مباحث و تمرین‌های مرتبط با «Zombie.js».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Zombie.js",
+              "type": "article",
+              "url": "http://zombie.js.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Zombie.js",
+              "type": "article",
+              "url": "https://www.packt.com/getting-started-zombiejs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cypress",
+          "title": "Cypress",
+          "description": "مباحث و تمرین‌های مرتبط با «Cypress».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Cypress",
+              "type": "article",
+              "url": "https://www.cypress.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cypress Documentation",
+              "type": "article",
+              "url": "https://docs.cypress.io/guides/overview/why-cypress#Other",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How it Works",
+              "type": "article",
+              "url": "https://www.cypress.io/how-it-works",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cypress - End to End Testing Framework",
+              "type": "article",
+              "url": "https://dev.to/bushraalam/cypress-end-to-end-testing-framework-3naa",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cypress End-to-End Testing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7N63cMKosIE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cypress Tips & Tricks",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=PZ2OsLBts1E&list=PLP9o9QNnQuAYYRpJzDNWpeuOVTwxmIxcI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Cypress",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/cypress?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "headless-chrome",
+          "title": "Headless Chrome",
+          "description": "مباحث و تمرین‌های مرتبط با «Headless Chrome».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Headless Chromium",
+              "type": "article",
+              "url": "https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Google Chrome",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/google-chrome?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "headless-fox",
+          "title": "Headless Fox",
+          "description": "مباحث و تمرین‌های مرتبط با «Headless Fox».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Using Headless Mode in Firefox",
+              "type": "article",
+              "url": "https://hacks.mozilla.org/2017/12/using-headless-mode-in-firefox/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "html-unit",
+          "title": "HTML Unit",
+          "description": "مباحث و تمرین‌های مرتبط با «HTML Unit».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "HtmlUnit",
+              "type": "article",
+              "url": "https://htmlunit.sourceforge.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to HtmlUnit",
+              "type": "article",
+              "url": "https://www.baeldung.com/htmlunit",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about HTML",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/html?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GitHub: Where the world builds software",
+          "type": "article",
+          "url": "https://github.com",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitLab: Iterate faster, innovate together",
+          "type": "article",
+          "url": "https://gitlab.com",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "BitBucket: The Git solution for professional teams",
+          "type": "article",
+          "url": "https://bitbucket.com",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about QA",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/qa?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ci-cd",
+      "title": "CI / CD",
+      "description": "مباحث و تمرین‌های مرتبط با «CI / CD».",
+      "order": 18,
+      "children": [
+        {
+          "id": "teamcity",
+          "title": "TeamCity",
+          "description": "مباحث و تمرین‌های مرتبط با «TeamCity».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "TeamCity",
+              "type": "article",
+              "url": "https://www.jetbrains.com/teamcity/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TeamCity Documentation ",
+              "type": "article",
+              "url": "https://www.jetbrains.com/help/teamcity/teamcity-documentation.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TeamCity Tutorials",
+              "type": "article",
+              "url": "https://www.jetbrains.com/teamcity/tutorials/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TeamCity Learning Portal",
+              "type": "article",
+              "url": "https://www.jetbrains.com/teamcity/learn/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is CI/CD? Continuous Integration and Continuous Delivery",
+          "type": "article",
+          "url": "https://www.guru99.com/continuous-integration.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Continuous Integration vs Delivery vs Deployment",
+          "type": "article",
+          "url": "https://www.guru99.com/continuous-integration-vs-delivery-vs-deployment.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CI/CD Pipeline: Learn with Example",
+          "type": "article",
+          "url": "https://www.guru99.com/ci-cd-pipeline.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about QA",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/qa?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "headless-testing",
+      "title": "Headless Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Headless Testing».",
+      "order": 19,
+      "children": [
+        {
+          "id": "headless-testing-item",
+          "title": "Headless Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Headless Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Headless Browser Testing and Why is it Important?",
+          "type": "article",
+          "url": "https://www.browserstack.com/guide/what-is-headless-browser-testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about QA",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/qa?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

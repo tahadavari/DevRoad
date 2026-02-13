@@ -1,0 +1,1499 @@
+{
+  "slug": "spring-boot",
+  "title": "Spring Boot",
+  "description": "Step by step guide to becoming a Spring Boot developer in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "spring-aop",
+          "title": "Spring AOP",
+          "description": "مباحث و تمرین‌های مرتبط با «Spring AOP».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Spring AOP Tutorial",
+              "type": "article",
+              "url": "https://www.simplilearn.com/tutorials/spring-tutorial/spring-aop-aspect-oriented-programming",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AOP with Spring Framework",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/spring/aop_with_spring.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring AOP Tutorial",
+              "type": "article",
+              "url": "https://howtodoinjava.com/spring-aop-tutorial/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Spring Framework",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "spring-mvc",
+          "title": "Spring MVC",
+          "description": "مباحث و تمرین‌های مرتبط با «Spring MVC».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Web MVC framework",
+              "type": "article",
+              "url": "https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring - MVC Framework",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/spring/spring_web_mvc_framework.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Spring Framework",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "spring-ioc",
+          "title": "Spring IOC",
+          "description": "مباحث و تمرین‌های مرتبط با «Spring IOC».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Spring IoC, Spring Bean Example Tutorial",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/spring-ioc-bean-example-tutorial",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Intro to Inversion of Control with Spring",
+              "type": "article",
+              "url": "https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Spring Framework",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "dependency-injection",
+          "title": "Dependency Injection",
+          "description": "مباحث و تمرین‌های مرتبط با «Dependency Injection».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Spring Dependency Injection",
+              "type": "article",
+              "url": "https://www.baeldung.com/spring-dependency-injection",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Dependency Injection Using Spring Boot",
+              "type": "article",
+              "url": "https://medium.com/edureka/what-is-dependency-injection-5006b53af782",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Dependency Injection",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=GB8k2-Egfv0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Dependency Injection",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/dependency-injection?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "configuration",
+          "title": "Configuration",
+          "description": "مباحث و تمرین‌های مرتبط با «Configuration».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Spring Framework Documentation",
+              "type": "article",
+              "url": "https://docs.spring.io/spring/docs/current/spring-framework-reference/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "\"Spring Configuration\" tutorial",
+              "type": "article",
+              "url": "https://www.baeldung.com/project-configuration-with-spring",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "\"Spring Framework\" tutorial",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/spring/index.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Configuration | Spring Tutorial For Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fLs_yULL10g",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "annotations",
+          "title": "Annotations",
+          "description": "مباحث و تمرین‌های مرتبط با «Annotations».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Spring Annotations",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/spring-annotations",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Annotations in Spring",
+              "type": "article",
+              "url": "https://www.techferry.com/articles/spring-annotations.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "spring-bean-scope",
+          "title": "Spring Bean Scope",
+          "description": "مباحث و تمرین‌های مرتبط با «Spring Bean Scope».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Spring - Bean Scopes",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/spring/spring_bean_scopes.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Quick Guide to Spring Bean Scopes",
+              "type": "article",
+              "url": "https://www.baeldung.com/spring-bean-scopes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Bean Scopes",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/spring-bean-scopes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Spring Framework",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-use-spring",
+          "title": "Why use Spring?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why use Spring?».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Why Spring?",
+              "type": "article",
+              "url": "https://spring.io/why-spring",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring vs Spring Boot: Know The Difference",
+              "type": "article",
+              "url": "https://www.interviewbit.com/blog/spring-vs-spring-boot",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Comparison Between Spring and Spring Boot",
+              "type": "article",
+              "url": "https://www.baeldung.com/spring-vs-spring-boot",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Advantages of Spring Boot",
+              "type": "article",
+              "url": "https://www.adservio.fr/post/advantages-of-spring-boot",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Spring Framework",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "architecture",
+          "title": "Architecture",
+          "description": "مباحث و تمرین‌های مرتبط با «Architecture».",
+          "order": 9,
+          "resources": [
+            {
+              "title": "Spring Boot Architecture – Detailed Explanation",
+              "type": "article",
+              "url": "https://www.interviewbit.com/blog/spring-boot-architecture",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Architecture",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/architecture?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "terminology",
+          "title": "Terminology",
+          "description": "مباحث و تمرین‌های مرتبط با «Terminology».",
+          "order": 10,
+          "resources": [
+            {
+              "title": "Spring Boot",
+              "type": "article",
+              "url": "https://spring.io/projects/spring-boot",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Boot - Starter Guide",
+              "type": "article",
+              "url": "https://spring.io/quickstart",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Spring Boot Course",
+          "type": "course",
+          "url": "https://spring.academy/courses/spring-boot",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Spring Boot",
+          "type": "article",
+          "url": "https://spring.io/projects/spring-boot",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Spring Boot - Introduction",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/spring_boot/spring_boot_introduction.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Spring Boot",
+          "type": "article",
+          "url": "https://medium.com/adessoturkey/introduction-to-spring-boot-458cb814ec14",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What-is-Spring-Boot?",
+          "type": "article",
+          "url": "https://www.ibm.com/topics/java-spring-boot",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "spring-security",
+      "title": "Spring Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Spring Security».",
+      "order": 2,
+      "children": [
+        {
+          "id": "authentication",
+          "title": "Authentication",
+          "description": "مباحث و تمرین‌های مرتبط با «Authentication».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Spring Authentication",
+              "type": "article",
+              "url": "https://docs.spring.io/spring-security/reference/features/authentication/index.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Security Authentication",
+              "type": "article",
+              "url": "https://spring.io/projects/spring-security",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Security Basic Authentication",
+              "type": "article",
+              "url": "https://www.baeldung.com/spring-security-basic-authentication",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Authentication",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/authentication?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "authorization",
+          "title": "Authorization",
+          "description": "مباحث و تمرین‌های مرتبط با «Authorization».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Spring Authorization",
+              "type": "article",
+              "url": "https://docs.spring.io/spring-security/reference/servlet/authorization/index.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Advanced authorization in Spring",
+              "type": "article",
+              "url": "https://docs.spring.io/spring-security/site/docs/5.2.11.RELEASE/reference/html/authorization.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Security: Authentication and Authorization In-Depth",
+              "type": "article",
+              "url": "https://www.marcobehler.com/guides/spring-security",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Authorization",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/authorization?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "oauth2",
+          "title": "OAuth2",
+          "description": "مباحث و تمرین‌های مرتبط با «OAuth2».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Securing a REST API with OAuth 2.0",
+              "type": "course",
+              "url": "https://spring.academy/courses/spring-academy-secure-rest-api-oauth2",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OAuth 2 using Spring Boot",
+              "type": "article",
+              "url": "https://medium.com/@bubu.tripathy/oauth-2-using-spring-boot-99c17292f228",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Boot - OAuth2 with JWT",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/spring_boot/spring_boot_oauth2_with_jwt.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Security",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/spring_security/spring_security_with_oauth2.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OAuth2 Login Made Easy in Java: A Spring Boot & Spring Security Walkthrough",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=us0VjFiHogo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "jwt-authentication",
+          "title": "JWT Authentication",
+          "description": "مباحث و تمرین‌های مرتبط با «JWT Authentication».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "JWT Token Authentication in Spring",
+              "type": "article",
+              "url": "https://springframework.guru/jwt-authentication-in-spring-microservices-jwt-token/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Security with JWT for REST API",
+              "type": "article",
+              "url": "https://www.toptal.com/spring/spring-security-tutorial",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Security - JWT",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/spring_security/spring_security_with_jwt.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Authentication",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/authentication?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Spring Security",
+          "type": "article",
+          "url": "https://spring.io/projects/spring-security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Spring security",
+          "type": "article",
+          "url": "https://www.javadevjournal.com/spring/what-is-spring-security/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Spring Security: Authentication and Authorization In-Depth",
+          "type": "article",
+          "url": "https://www.marcobehler.com/guides/spring-security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Security",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/security?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "spring-boot-starters",
+      "title": "Spring Boot Starters",
+      "description": "مباحث و تمرین‌های مرتبط با «Spring Boot Starters».",
+      "order": 3,
+      "children": [
+        {
+          "id": "spring-boot-starters-item",
+          "title": "Spring Boot Starters",
+          "description": "مباحث و تمرین‌های مرتبط با «Spring Boot Starters».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Intro to Spring Boot Starters",
+          "type": "article",
+          "url": "https://www.baeldung.com/spring-boot-starters",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Spring Framework",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "autoconfiguration",
+      "title": "Autoconfiguration",
+      "description": "مباحث و تمرین‌های مرتبط با «Autoconfiguration».",
+      "order": 4,
+      "children": [
+        {
+          "id": "autoconfiguration-item",
+          "title": "Autoconfiguration",
+          "description": "مباحث و تمرین‌های مرتبط با «Autoconfiguration».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Auto-configuration using Spring Boot",
+          "type": "article",
+          "url": "https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/using-boot-auto-configuration.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "actuators",
+      "title": "Actuators",
+      "description": "مباحث و تمرین‌های مرتبط با «Actuators».",
+      "order": 5,
+      "children": [
+        {
+          "id": "actuators-item",
+          "title": "Actuators",
+          "description": "مباحث و تمرین‌های مرتبط با «Actuators».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Building a RESTful Web Service with Spring Boot Actuator",
+          "type": "article",
+          "url": "https://spring.io/guides/gs/actuator-service/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Spring Boot Actuator",
+          "type": "article",
+          "url": "https://www.baeldung.com/spring-boot-actuators",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Spring Framework",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "embedded-server",
+      "title": "Embedded Server",
+      "description": "مباحث و تمرین‌های مرتبط با «Embedded Server».",
+      "order": 6,
+      "children": [
+        {
+          "id": "embedded-server-item",
+          "title": "Embedded Server",
+          "description": "مباحث و تمرین‌های مرتبط با «Embedded Server».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Embedded Web Servers ‘How-to’ guides",
+          "type": "article",
+          "url": "https://docs.spring.io/spring-boot/docs/2.1.9.RELEASE/reference/html/howto-embedded-web-servers.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Embedded Servers in Spring",
+          "type": "article",
+          "url": "https://subscription.packtpub.com/book/application-development/9781789132588/3/ch03lvl1sec24/embedded-servers",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is an Embedded Server? (Spring Boot)",
+          "type": "article",
+          "url": "https://www.springboottutorial.com/java-programmer-essentials-what-is-an-embedded-server",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Embedded Systems",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/embedded?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "hibernate",
+      "title": "Hibernate",
+      "description": "مباحث و تمرین‌های مرتبط با «Hibernate».",
+      "order": 7,
+      "children": [
+        {
+          "id": "entity-lifecycle",
+          "title": "Entity Lifecycle",
+          "description": "مباحث و تمرین‌های مرتبط با «Entity Lifecycle».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Hibernate Entity Lifecycle & and its state",
+              "type": "article",
+              "url": "https://www.baeldung.com/hibernate-entity-lifecycle",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Difference Between Spring vs Hibernate",
+          "type": "article",
+          "url": "https://www.educba.com/spring-vs-hibernate/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Spring Hibernate Integration Example",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/spring-hibernate-integration-example-tutorial",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "spring-data",
+      "title": "Spring Data",
+      "description": "مباحث و تمرین‌های مرتبط با «Spring Data».",
+      "order": 8,
+      "children": [
+        {
+          "id": "spring-data-jpa",
+          "title": "Spring Data JPA",
+          "description": "مباحث و تمرین‌های مرتبط با «Spring Data JPA».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Spring Data JPA",
+              "type": "article",
+              "url": "https://spring.io/projects/spring-data-jpa",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to Spring Data JPA",
+              "type": "article",
+              "url": "https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Spring Framework",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Spring Data",
+          "type": "article",
+          "url": "https://spring.io/projects/spring-data",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Spring Data – One API To Rule Them All?",
+          "type": "article",
+          "url": "https://www.infoq.com/articles/spring-data-intro/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is JPA, Spring Data and Spring Data JPA",
+          "type": "article",
+          "url": "https://www.amitph.com/jpa-and-spring-data-jpa/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Spring Framework",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "microservices",
+      "title": "Microservices",
+      "description": "مباحث و تمرین‌های مرتبط با «Microservices».",
+      "order": 9,
+      "children": [
+        {
+          "id": "spring-cloud",
+          "title": "Spring Cloud",
+          "description": "مباحث و تمرین‌های مرتبط با «Spring Cloud».",
+          "order": 1,
+          "children": [
+            {
+              "id": "spring-cloud-circuit-breaker",
+              "title": "Spring Cloud Circuit Breaker",
+              "description": "مباحث و تمرین‌های مرتبط با «Spring Cloud Circuit Breaker».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "spring-cloud-open-feign",
+              "title": "Spring Cloud Open Feign",
+              "description": "مباحث و تمرین‌های مرتبط با «Spring Cloud Open Feign».",
+              "order": 2,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Spring Cloud",
+              "type": "article",
+              "url": "https://spring.io/projects/spring-cloud",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Cloud – Bootstrapping",
+              "type": "article",
+              "url": "https://www.baeldung.com/spring-cloud-bootstrapping",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Cloud",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/cloud?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Microservices with Spring",
+          "type": "article",
+          "url": "https://spring.io/microservices",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Microservices with Spring Boot ",
+          "type": "article",
+          "url": "https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-intro-to-microservices-part-1-c0d24cd422c3",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Microservices",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/microservices?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "spring-mvc-2",
+      "title": "Spring MVC",
+      "description": "مباحث و تمرین‌های مرتبط با «Spring MVC».",
+      "order": 10,
+      "children": [
+        {
+          "id": "servlet",
+          "title": "Servlet",
+          "description": "مباحث و تمرین‌های مرتبط با «Servlet».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "The DispatcherServlet",
+              "type": "article",
+              "url": "https://docs.spring.io/spring-framework/docs/3.0.0.M4/spring-framework-reference/html/ch15s02.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DispatcherServlet and web.xml in Spring Boot",
+              "type": "article",
+              "url": "https://www.baeldung.com/spring-boot-dispatcherservlet-web-xml",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "jsp-files",
+          "title": "JSP Files",
+          "description": "مباحث و تمرین‌های مرتبط با «JSP Files».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Spring MVC: from JSP and Tiles to Thymeleaf",
+              "type": "article",
+              "url": "https://spring.io/blog/2012/10/30/spring-mvc-from-jsp-and-tiles-to-thymeleaf/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Boot With JavaServer Pages (JSP)",
+              "type": "article",
+              "url": "https://www.baeldung.com/spring-boot-jsp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "architecture-2",
+          "title": "Architecture",
+          "description": "مباحث و تمرین‌های مرتبط با «Architecture».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Overview of Spring MVC Architecture",
+              "type": "article",
+              "url": "https://terasolunaorg.github.io/guideline/1.0.1.RELEASE/en/Overview/SpringMVCOverview.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Architecture",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/architecture?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "mockbean-annotation",
+          "title": "@MockBean Annotation",
+          "description": "مباحث و تمرین‌های مرتبط با «@MockBean Annotation».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Annotation Interface MockBean",
+              "type": "article",
+              "url": "https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/test/mock/mockito/MockBean.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mockito.mock() vs @Mock vs @MockBean",
+              "type": "article",
+              "url": "https://www.baeldung.com/java-spring-mockito-mock-mockbean",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Boot @MockBean Example",
+              "type": "article",
+              "url": "https://howtodoinjava.com/spring-boot2/testing/spring-mockbean-annotation/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Spring - MVC Framework",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/spring/spring_web_mvc_framework.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Spring MVC Tutorial – Everything You Need To Know",
+          "type": "article",
+          "url": "https://www.edureka.co/blog/spring-mvc-tutorial/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Spring Framework",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 11,
+      "children": [
+        {
+          "id": "mock-mvc",
+          "title": "Mock MVC",
+          "description": "مباحث و تمرین‌های مرتبط با «Mock MVC».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Spring MockMVC tutorial",
+              "type": "article",
+              "url": "https://zetcode.com/spring/mockmvc/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Boot MockMVC Example",
+              "type": "article",
+              "url": "https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockmvc-example/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Integration Testing in Spring",
+              "type": "article",
+              "url": "https://baeldung.com/integration-testing-in-spring",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "springboottest-annotation",
+          "title": "@SpringBootTest Annotation",
+          "description": "مباحث و تمرین‌های مرتبط با «@SpringBootTest Annotation».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Annotation Interface SpringBootTest",
+              "type": "article",
+              "url": "https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/test/context/SpringBootTest.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Testing with Spring Boot and @SpringBootTest",
+              "type": "article",
+              "url": "https://reflectoring.io/spring-boot-test/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Testing in Spring Boot",
+              "type": "article",
+              "url": "https://www.baeldung.com/spring-boot-testing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Spring Framework",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "mockbean-annotation-2",
+          "title": "@MockBean Annotation",
+          "description": "مباحث و تمرین‌های مرتبط با «@MockBean Annotation».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Annotation Interface MockBean",
+              "type": "article",
+              "url": "https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/test/mock/mockito/MockBean.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mockito.mock() vs @Mock vs @MockBean",
+              "type": "article",
+              "url": "https://www.baeldung.com/java-spring-mockito-mock-mockbean",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Boot @MockBean Example",
+              "type": "article",
+              "url": "https://howtodoinjava.com/spring-boot2/testing/spring-mockbean-annotation/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Spring Testing?",
+          "type": "article",
+          "url": "https://www.developer.com/design/what-is-spring-testing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Complete Guide To Spring Testing",
+          "type": "article",
+          "url": "https://www.lambdatest.com/blog/spring-testing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Testing",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

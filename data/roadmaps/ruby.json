@@ -1,0 +1,2275 @@
+{
+  "slug": "ruby",
+  "title": "Ruby",
+  "description": "Step by step guide to becoming a Ruby developer in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "introduction-item",
+          "title": "Introduction",
+          "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Ruby Programming Language",
+          "type": "article",
+          "url": "https://github.com/maniramakumar/the-best-ruby-books/blob/master/books/The%20Ruby%20Programming%20Language.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby",
+          "type": "article",
+          "url": "https://www.ruby-lang.org/en/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Documentation",
+          "type": "article",
+          "url": "https://www.ruby-lang.org/en/documentation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby in Twenty Minutes",
+          "type": "article",
+          "url": "https://www.ruby-lang.org/en/documentation/quickstart/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Tutorial",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/ruby/index.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Ruby Online",
+          "type": "article",
+          "url": "https://www.learnrubyonline.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Programming Language - Full Course",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Masterclass | Ruby Programming in 1 video | Beginners Ruby HandsOn Crash Course Interview FAQs |",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=xyDoP5a_dvo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Ruby",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/ruby?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "setting-things-up",
+      "title": "Setting things Up",
+      "description": "مباحث و تمرین‌های مرتبط با «Setting things Up».",
+      "order": 2,
+      "children": [
+        {
+          "id": "managers",
+          "title": "Managers",
+          "description": "مباحث و تمرین‌های مرتبط با «Managers».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Managers - Ruby Docs",
+              "type": "article",
+              "url": "https://www.ruby-lang.org/en/documentation/installation/#managers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "installers",
+          "title": "Installers",
+          "description": "مباحث و تمرین‌های مرتبط با «Installers».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Installers - Ruby Docs",
+              "type": "article",
+              "url": "https://www.ruby-lang.org/en/documentation/installation/#installers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "RubyInstaller (Windows)",
+              "type": "article",
+              "url": "https://rubyinstaller.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ruby Stack",
+              "type": "article",
+              "url": "https://bitnami.com/stack/ruby/installer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ruby-build (macOS, Linux, UNIX OS)",
+              "type": "article",
+              "url": "https://github.com/rbenv/ruby-build#readme",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ruby-install (macOS, Linux, UNIX OS)",
+              "type": "article",
+              "url": "https://github.com/postmodern/ruby-install#readme",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "package-managers",
+          "title": "Package Managers",
+          "description": "مباحث و تمرین‌های مرتبط با «Package Managers».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Package Management Systems",
+              "type": "article",
+              "url": "https://www.ruby-lang.org/en/documentation/installation/#package-management-systems",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Installing Ruby",
+          "type": "article",
+          "url": "https://www.ruby-lang.org/en/documentation/installation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Installing Ruby",
+          "type": "article",
+          "url": "https://www.theodinproject.com/lessons/ruby-installing-ruby",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Install Ruby on Windows, macOS, and Linux",
+          "type": "article",
+          "url": "https://dev.to/luigi_ichi/how-to-install-ruby-on-windows-macos-and-linux-35o3",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Setting up Ruby on WSL2 using Rbenv",
+          "type": "article",
+          "url": "https://codex.org/2022/08/19/setting-up-ruby-wsl2.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Beginner Tutorial 2 | How To Install Ruby On Windows",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=XC1ccTyhLPI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Beginner Tutorial 3 | How To Install Ruby On MacOS",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=2pycF6hMy0s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "constants-variables",
+      "title": "Constants & Variables",
+      "description": "مباحث و تمرین‌های مرتبط با «Constants & Variables».",
+      "order": 3,
+      "children": [
+        {
+          "id": "constants-variables-item",
+          "title": "Constants & Variables",
+          "description": "مباحث و تمرین‌های مرتبط با «Constants & Variables».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Variables",
+          "type": "article",
+          "url": "https://ruby-for-beginners.rubymonstas.org/variables.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Variables",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/ruby/ruby_variables.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Everything You Need to Know About Ruby Constants",
+          "type": "article",
+          "url": "https://www.rubyguides.com/2017/07/ruby-constants/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started with Ruby Variables: A Beginner’s Guide",
+          "type": "article",
+          "url": "https://medium.com/@sz.soczewka/getting-started-with-ruby-variables-a-beginners-guide-d90a53eb5139",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Variables | Ruby | Tutorial 6",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4mWc6Q9shcQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Programming Tutorial - 20 - Constants",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qAqGIMKIMcA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "puts-print-p",
+      "title": "puts, print, p",
+      "description": "مباحث و تمرین‌های مرتبط با «puts, print, p».",
+      "order": 4,
+      "children": [
+        {
+          "id": "puts-print-p-item",
+          "title": "puts, print, p",
+          "description": "مباحث و تمرین‌های مرتبط با «puts, print, p».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding The Differences Between Puts, Print & P",
+          "type": "article",
+          "url": "https://www.rubyguides.com/2018/10/puts-vs-print/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "puts vs print vs p in Ruby",
+          "type": "article",
+          "url": "https://flexiple.com/ruby-on-rails/puts-vs-p-vs-print-ruby",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Differences Between Print, Puts & P in Ruby",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9jSwVvyjAKE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "comments",
+      "title": "Comments",
+      "description": "مباحث و تمرین‌های مرتبط با «Comments».",
+      "order": 5,
+      "children": [
+        {
+          "id": "comments-item",
+          "title": "Comments",
+          "description": "مباحث و تمرین‌های مرتبط با «Comments».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Code Comments",
+          "type": "article",
+          "url": "https://docs.ruby-lang.org/en/master/syntax/comments_rdoc.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Use Comments in Ruby",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-use-comments-in-ruby",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Comments | Ruby | Tutorial 25",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7wbX3OMgqn0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "naming-conventions",
+      "title": "Naming conventions",
+      "description": "مباحث و تمرین‌های مرتبط با «Naming conventions».",
+      "order": 6,
+      "children": [
+        {
+          "id": "naming-conventions-item",
+          "title": "Naming conventions",
+          "description": "مباحث و تمرین‌های مرتبط با «Naming conventions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ruby Naming Convention",
+          "type": "article",
+          "url": "https://namingconvention.org/ruby/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Naming conventions in Ruby language",
+          "type": "article",
+          "url": "https://dhanusir.com/ruby/section-two/naming-conventions/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-types",
+      "title": "Data Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Types».",
+      "order": 7,
+      "children": [
+        {
+          "id": "integers",
+          "title": "Integers",
+          "description": "مباحث و تمرین‌های مرتبط با «Integers».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "class Integer",
+              "type": "article",
+              "url": "https://docs.ruby-lang.org/en/master/Integer.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Numbers",
+              "type": "article",
+              "url": "https://ruby-for-beginners.rubymonstas.org/built_in_classes/numbers.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Numbers - Odin Project",
+              "type": "article",
+              "url": "https://www.theodinproject.com/lessons/ruby-basic-data-types#numbers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "strings",
+          "title": "Strings",
+          "description": "مباحث و تمرین‌های مرتبط با «Strings».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "class String",
+              "type": "article",
+              "url": "https://docs.ruby-lang.org/en/master/String.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Strings",
+              "type": "article",
+              "url": "https://ruby-for-beginners.rubymonstas.org/built_in_classes/strings.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Strings - Odin Project",
+              "type": "article",
+              "url": "https://www.theodinproject.com/lessons/ruby-basic-data-types#strings",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Working With Strings | Ruby | Tutorial 8",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=9HB4iIAxuh0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Strings and Variables in Ruby for Beginners 2",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cSwq_lcCs78",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "arrays",
+          "title": "Arrays",
+          "description": "مباحث و تمرین‌های مرتبط با «Arrays».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "class Array",
+              "type": "article",
+              "url": "https://docs.ruby-lang.org/en/master/Array.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Arrays",
+              "type": "article",
+              "url": "https://launchschool.com/books/ruby/read/arrays#whatisanarray",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Arrays - Odin Project",
+              "type": "article",
+              "url": "https://www.theodinproject.com/lessons/ruby-arrays",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Arrrays",
+              "type": "article",
+              "url": "https://ruby-for-beginners.rubymonstas.org/built_in_classes/arrays.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Arrays are Easy in Ruby for Beginners 9",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=PeyodDIfLeE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Arrays | Ruby | Tutorial 13",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SP3Vf2KcYeU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "symbols",
+          "title": "Symbols",
+          "description": "مباحث و تمرین‌های مرتبط با «Symbols».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "class Symbol",
+              "type": "article",
+              "url": "https://docs.ruby-lang.org/en/master/Symbol.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Symbols",
+              "type": "article",
+              "url": "https://ruby-for-beginners.rubymonstas.org/built_in_classes/symbols.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Are Ruby Symbols & How Do They Work?",
+              "type": "article",
+              "url": "https://www.rubyguides.com/2018/02/ruby-symbols/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ruby's Symbols Explained",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=mBXGBbEbXZY&t=16s&pp=ygUMc3ltbm9scyBydWJ5",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ruby Naming Convention",
+          "type": "article",
+          "url": "https://namingconvention.org/ruby/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Naming conventions in Ruby language",
+          "type": "article",
+          "url": "https://dhanusir.com/ruby/section-two/naming-conventions/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "type-casting",
+      "title": "Type Casting",
+      "description": "مباحث و تمرین‌های مرتبط با «Type Casting».",
+      "order": 8,
+      "children": [
+        {
+          "id": "type-casting-item",
+          "title": "Type Casting",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Casting».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ruby type conversion",
+          "type": "article",
+          "url": "https://kddnewton.com/2021/09/09/ruby-type-conversion.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Convert Data Types in Ruby",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-convert-data-types-in-ruby",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Confident Code - Ruby Implicit and Explicit Type Converters",
+          "type": "article",
+          "url": "https://whatapalaver.co.uk/ruby-implicit-explicit-type-conversion",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "operators",
+      "title": "Operators",
+      "description": "مباحث و تمرین‌های مرتبط با «Operators».",
+      "order": 9,
+      "children": [
+        {
+          "id": "searching-filtering",
+          "title": "Searching & Filtering",
+          "description": "مباحث و تمرین‌های مرتبط با «Searching & Filtering».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "module Enumerable",
+              "type": "article",
+              "url": "https://ruby-doc.org/3.4.1/Enumerable.html#top",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting to know Ruby's Enumerable Module",
+              "type": "article",
+              "url": "https://www.rafaelmontas.com/getting-to-know-ruby-enumerable-module/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Ruby - Enumerable - Searching and Filtering",
+              "type": "article",
+              "url": "https://dev.to/baweaver/understanding-ruby-enumerable-searching-and-filtering-23o7",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "iterating",
+          "title": "Iterating",
+          "description": "مباحث و تمرین‌های مرتبط با «Iterating».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "module Enumerable",
+              "type": "article",
+              "url": "https://ruby-doc.org/3.4.1/Enumerable.html#top",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Programación Iterating in Ruby: Enumerable and Enumerators",
+              "type": "article",
+              "url": "https://libreim.github.io/blog/2015/08/24/ruby-enumerators/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Ruby - Enumerable - Iterating and Taking",
+              "type": "article",
+              "url": "https://dev.to/baweaver/understanding-ruby-enumerable-iterating-and-taking-1fga",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ranges",
+          "title": "Ranges",
+          "description": "مباحث و تمرین‌های مرتبط با «Ranges».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Range operators",
+              "type": "article",
+              "url": "https://kddnewton.com/2023/07/20/ruby-operators.html#range-operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ruby - Operators",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/ruby/ruby_operators.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "fetching",
+          "title": "Fetching",
+          "description": "مباحث و تمرین‌های مرتبط با «Fetching».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "https://ruby-doc.org/3.4.1/Enumerable.html#top",
+              "type": "article",
+              "url": "https://ruby-doc.org/3.4.1/Enumerable.html#top",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting to know Ruby's Enumerable Module",
+              "type": "article",
+              "url": "https://www.rafaelmontas.com/getting-to-know-ruby-enumerable-module/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Simple Yet Powerful Ruby Enumerable Module",
+              "type": "article",
+              "url": "https://www.cloudbees.com/blog/the-enumerable-module",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "querying",
+          "title": "Querying",
+          "description": "مباحث و تمرین‌های مرتبط با «Querying».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Methods for Querying",
+              "type": "article",
+              "url": "https://ruby-doc.org/3.4.1/Enumerable.html#module-Enumerable-label-Methods+for+Querying",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting to know Ruby's Enumerable Module",
+              "type": "article",
+              "url": "https://www.rafaelmontas.com/getting-to-know-ruby-enumerable-module/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Operators",
+          "type": "article",
+          "url": "https://docs.ruby-lang.org/en/3.4/syntax/operators_rdoc.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Everything You Need to Know About Ruby Operators",
+          "type": "article",
+          "url": "https://www.rubyguides.com/2018/07/ruby-operators/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby - Operators",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/ruby/ruby_operators.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "conditional-statements",
+      "title": "Conditional Statements",
+      "description": "مباحث و تمرین‌های مرتبط با «Conditional Statements».",
+      "order": 10,
+      "children": [
+        {
+          "id": "if-elsif-else",
+          "title": "if, elsif, else",
+          "description": "مباحث و تمرین‌های مرتبط با «if, elsif, else».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Conditionals",
+              "type": "article",
+              "url": "https://ruby-for-beginners.rubymonstas.org/conditionals.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Beginner's Guide to Ruby If & Else Statements",
+              "type": "article",
+              "url": "https://www.rubyguides.com/ruby-tutorial/ruby-if-else/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Conditional logic",
+              "type": "article",
+              "url": "https://www.theodinproject.com/lessons/ruby-conditional-logic",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "If Statements | Ruby | Tutorial 17",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Ss-IHmrSTow",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "unless",
+          "title": "unless",
+          "description": "مباحث و تمرین‌های مرتبط با «unless».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Unless statements",
+              "type": "article",
+              "url": "https://www.theodinproject.com/lessons/ruby-conditional-logic#unless-statements",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Read This Post 'Unless' You're Not A Ruby Developer",
+              "type": "article",
+              "url": "https://jesseduffield.com/Unless/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ruby Programming Tutorial - 16 - unless",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=2iysMciUQpw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Conditional Logic",
+          "type": "article",
+          "url": "https://www.theodinproject.com/lessons/ruby-conditional-logic#case-statements",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Conditionals",
+          "type": "article",
+          "url": "https://launchschool.com/books/ruby/read/flow_control#conditionals",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Explained: Conditionals and Flow Control",
+          "type": "article",
+          "url": "https://eriktrautman.com/posts/ruby-explained-conditionals-and-flow-control",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "loops-enumerations",
+      "title": "Loops & Enumerations",
+      "description": "مباحث و تمرین‌های مرتبط با «Loops & Enumerations».",
+      "order": 11,
+      "children": [
+        {
+          "id": "while",
+          "title": "while",
+          "description": "مباحث و تمرین‌های مرتبط با «while».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "While Loops",
+              "type": "article",
+              "url": "https://www.theodinproject.com/lessons/ruby-loops#while-loop",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ruby while Loop",
+              "type": "article",
+              "url": "https://www.programiz.com/ruby/while-loop",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "While Loops | Ruby | Tutorial 21",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=3bXd6h8Zsfk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "for",
+          "title": "for",
+          "description": "مباحث و تمرین‌های مرتبط با «for».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "For Loops",
+              "type": "article",
+              "url": "https://launchschool.com/books/ruby/read/loops_iterators#forloops",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "For loop",
+              "type": "article",
+              "url": "https://www.theodinproject.com/lessons/ruby-loops#for-loop",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ruby For Beginners #5 - Loops | For, While, Do, Do While",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Q_zP40toAMY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "break",
+          "title": "break",
+          "description": "مباحث و تمرین‌های مرتبط با «break».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Understanding The Ruby Next & Break Keywords",
+              "type": "article",
+              "url": "https://www.rubyguides.com/2019/09/ruby-next-break-keywords/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Controlling Loop Execution",
+              "type": "article",
+              "url": "https://launchschool.com/books/ruby/read/loops_iterators#controllloop",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ruby Explained: Iteration",
+              "type": "article",
+              "url": "https://eriktrautman.com/posts/ruby-explained-iteration",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Loops and Iterators",
+          "type": "article",
+          "url": "https://launchschool.com/books/ruby/read/loops_iterators#simpleloop",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Loops",
+          "type": "article",
+          "url": "https://www.theodinproject.com/lessons/ruby-loops",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Loops: Repeating Something Many Times",
+          "type": "article",
+          "url": "https://www.rubyguides.com/ruby-tutorial/loops/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby - Loops",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/ruby/ruby_loops.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "enumerable",
+      "title": "Enumerable",
+      "description": "مباحث و تمرین‌های مرتبط با «Enumerable».",
+      "order": 12,
+      "children": [
+        {
+          "id": "fetching-2",
+          "title": "Fetching",
+          "description": "مباحث و تمرین‌های مرتبط با «Fetching».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "https://ruby-doc.org/3.4.1/Enumerable.html#top",
+              "type": "article",
+              "url": "https://ruby-doc.org/3.4.1/Enumerable.html#top",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting to know Ruby's Enumerable Module",
+              "type": "article",
+              "url": "https://www.rafaelmontas.com/getting-to-know-ruby-enumerable-module/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Simple Yet Powerful Ruby Enumerable Module",
+              "type": "article",
+              "url": "https://www.cloudbees.com/blog/the-enumerable-module",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "searching-filtering-2",
+          "title": "Searching & Filtering",
+          "description": "مباحث و تمرین‌های مرتبط با «Searching & Filtering».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "module Enumerable",
+              "type": "article",
+              "url": "https://ruby-doc.org/3.4.1/Enumerable.html#top",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting to know Ruby's Enumerable Module",
+              "type": "article",
+              "url": "https://www.rafaelmontas.com/getting-to-know-ruby-enumerable-module/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Ruby - Enumerable - Searching and Filtering",
+              "type": "article",
+              "url": "https://dev.to/baweaver/understanding-ruby-enumerable-searching-and-filtering-23o7",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sorting",
+          "title": "Sorting",
+          "description": "مباحث و تمرین‌های مرتبط با «Sorting».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "module Enumerable",
+              "type": "article",
+              "url": "https://ruby-doc.org/3.4.1/Enumerable.html#top",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Ruby - Enumerable - Sorting and Comparing",
+              "type": "article",
+              "url": "https://dev.to/baweaver/understanding-ruby-enumerable-sorting-and-comparing-fff",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Sorting short sequences with Enumerable#sort_by",
+              "type": "article",
+              "url": "https://silvercat.com/blog/sort-by-unexpected-ordering",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "iterating-2",
+          "title": "Iterating",
+          "description": "مباحث و تمرین‌های مرتبط با «Iterating».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "module Enumerable",
+              "type": "article",
+              "url": "https://ruby-doc.org/3.4.1/Enumerable.html#top",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Programación Iterating in Ruby: Enumerable and Enumerators",
+              "type": "article",
+              "url": "https://libreim.github.io/blog/2015/08/24/ruby-enumerators/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Ruby - Enumerable - Iterating and Taking",
+              "type": "article",
+              "url": "https://dev.to/baweaver/understanding-ruby-enumerable-iterating-and-taking-1fga",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "querying-2",
+          "title": "Querying",
+          "description": "مباحث و تمرین‌های مرتبط با «Querying».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Methods for Querying",
+              "type": "article",
+              "url": "https://ruby-doc.org/3.4.1/Enumerable.html#module-Enumerable-label-Methods+for+Querying",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting to know Ruby's Enumerable Module",
+              "type": "article",
+              "url": "https://www.rafaelmontas.com/getting-to-know-ruby-enumerable-module/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Conditional Logic",
+          "type": "article",
+          "url": "https://www.theodinproject.com/lessons/ruby-conditional-logic",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Beginner's Guide to Ruby If & Else Statements",
+          "type": "article",
+          "url": "http://rubyguides.com/ruby-tutorial/ruby-if-else/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby - if...else, case, unless",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/ruby/ruby_if_else.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "handling-exceptions",
+      "title": "Handling exceptions",
+      "description": "مباحث و تمرین‌های مرتبط با «Handling exceptions».",
+      "order": 13,
+      "children": [
+        {
+          "id": "begin-rescue-ensure",
+          "title": "begin, rescue, ensure",
+          "description": "مباحث و تمرین‌های مرتبط با «begin, rescue, ensure».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How to Use The “Begin” & “Rescue” Keywords in Ruby",
+              "type": "article",
+              "url": "https://www.rubyguides.com/2019/06/ruby-rescue-exceptions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Ruby Error Handling",
+              "type": "article",
+              "url": "https://betterstack.com/community/guides/scaling-ruby/ruby-error-handling/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unlocking Ruby Keywords: Begin, End, Ensure, Rescue",
+              "type": "article",
+              "url": "https://vaidehijoshi.github.io/blog/2015/08/25/unlocking-ruby-keywords-begin-end-ensure-rescue/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Handling Errors | Ruby | Tutorial 28",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=J7R94i2bhlI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Exceptions",
+          "type": "article",
+          "url": "https://docs.ruby-lang.org/en/master/language/exceptions_md.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Exception Handling",
+          "type": "article",
+          "url": "https://docs.ruby-lang.org/en/3.4/syntax/exceptions_rdoc.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Handling Exceptions in Ruby (begin/rescue)",
+          "type": "article",
+          "url": "https://medium.com/@alexfarmer/handling-exceptions-in-ruby-b4ba93caf538",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Ruby Error Handling",
+          "type": "article",
+          "url": "https://betterstack.com/community/guides/scaling-ruby/ruby-error-handling/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Handling Errors | Ruby | Tutorial 28",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=J7R94i2bhlI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "interactive-ruby-irb",
+      "title": "Interactive Ruby (irb)",
+      "description": "مباحث و تمرین‌های مرتبط با «Interactive Ruby (irb)».",
+      "order": 14,
+      "children": [
+        {
+          "id": "interactive-ruby-irb-item",
+          "title": "Interactive Ruby (irb)",
+          "description": "مباحث و تمرین‌های مرتبط با «Interactive Ruby (irb)».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How To Use IRB to Explore Ruby",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-use-irb-to-explore-ruby",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Interactive Ruby",
+          "type": "article",
+          "url": "https://ruby-for-beginners.rubymonstas.org/your_tools/irb.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Interactive Ruby",
+          "type": "article",
+          "url": "https://ruby-doc.org/docs/ruby-doc-bundle/Tutorial/part_01/first_steps.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Interactive Ruby (irb) | Ruby | Tutorial 35",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9pKLGhh5mrM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "date-time",
+      "title": "Date & Time",
+      "description": "مباحث و تمرین‌های مرتبط با «Date & Time».",
+      "order": 15,
+      "children": [
+        {
+          "id": "date-time-item",
+          "title": "Date & Time",
+          "description": "مباحث و تمرین‌های مرتبط با «Date & Time».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "class Date",
+          "type": "article",
+          "url": "https://docs.ruby-lang.org/en/master/Date.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "class Time",
+          "type": "article",
+          "url": "https://docs.ruby-lang.org/en/master/Time.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Use Ruby Time & Date Classes",
+          "type": "article",
+          "url": "https://www.rubyguides.com/2015/12/ruby-time/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby - Date & Time",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/ruby/ruby_date_time.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Tutorial For Beginners - Date and Time in Ruby",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=noUaGvexdok",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "#62 Ruby Tutorial : Date and DateTime Class Part - 3",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=htxjcfvGmu4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "regex",
+      "title": "Regex",
+      "description": "مباحث و تمرین‌های مرتبط با «Regex».",
+      "order": 16,
+      "children": [
+        {
+          "id": "regex-item",
+          "title": "Regex",
+          "description": "مباحث و تمرین‌های مرتبط با «Regex».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "class Regexp",
+          "type": "article",
+          "url": "https://docs.ruby-lang.org/en/master/Regexp.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Ruby Regular Expressions",
+          "type": "article",
+          "url": "https://www.rubyguides.com/2015/06/ruby-regex/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Regular Expressions",
+          "type": "article",
+          "url": "https://ruby-for-beginners.rubymonstas.org/advanced/regular_expressions.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cool Ruby regex tricks",
+          "type": "article",
+          "url": "https://www.honeybadger.io/blog/ruby-regex-tricks/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby for Newbies: Regular Expressions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=hy6KUoU34_w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Programming Tutorial - 23 - Beginning Regular Expressions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=q70q-QyIios",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "file-i-o",
+      "title": "File I/O",
+      "description": "مباحث و تمرین‌های مرتبط با «File I/O».",
+      "order": 17,
+      "children": [
+        {
+          "id": "file-i-o-item",
+          "title": "File I/O",
+          "description": "مباحث و تمرین‌های مرتبط با «File I/O».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "class IO",
+          "type": "article",
+          "url": "https://docs.ruby-lang.org/en/master/IO.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Input & Output (IO) In Ruby: The Definitive Guide",
+          "type": "article",
+          "url": "https://www.rubyguides.com/2019/02/ruby-io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby - FIlei/o",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/ruby/ruby_input_output.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Reading Files | Ruby | Tutorial 26",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=92li0A8d4io",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Writing Files | Ruby | Tutorial 27",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=FW9hDsMY1is",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "metaprogramming",
+      "title": "Metaprogramming",
+      "description": "مباحث و تمرین‌های مرتبط با «Metaprogramming».",
+      "order": 18,
+      "children": [
+        {
+          "id": "ruby-dsl",
+          "title": "Ruby DSL",
+          "description": "مباحث و تمرین‌های مرتبط با «Ruby DSL».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Creating a Ruby DSL: A Guide to Advanced Metaprogramming",
+              "type": "article",
+              "url": "https://www.toptal.com/developers/ruby/ruby-dsl-metaprogramming-guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Writing a Domain-Specific Language in Ruby",
+              "type": "article",
+              "url": "https://thoughtbot.com/blog/writing-a-domain-specific-language-in-ruby",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Crafting a Ruby configuration DSL: Lessons learned",
+              "type": "article",
+              "url": "https://vaisakhvm.medium.com/crafting-a-ruby-configuration-dsl-lessons-learned-8bbb0958c670",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "test-unit",
+          "title": " Test::Unit",
+          "description": "مباحث و تمرین‌های مرتبط با « Test::Unit».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Test::Unit",
+              "type": "article",
+              "url": "https://ruby-doc.org/stdlib-3.1.0/libdoc/test-unit/rdoc/Test/Unit.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TestUnit - Writing Test Code In Ruby (1/3)",
+              "type": "article",
+              "url": "https://dev.to/exampro/testunit-writing-test-code-in-ruby-part-1-of-3-44m2",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "rspec",
+          "title": "RSpec",
+          "description": "مباحث و تمرین‌های مرتبط با «RSpec».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "RSpec",
+              "type": "article",
+              "url": "https://rspec.info/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with RSpec",
+              "type": "article",
+              "url": "https://semaphore.io/community/tutorials/getting-started-with-rspec",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to RSpec",
+              "type": "article",
+              "url": "https://www.theodinproject.com/lessons/ruby-introduction-to-rspec",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "RSpec Ruby Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=FgGOa7Mxoxg&list=PL_noPv5wmuO9Z3h_Nq4aEPfzGqrJzhthb",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Test Your Ruby Code With RSpec",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LdutLs5-ObI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "send",
+          "title": "send",
+          "description": "مباحث و تمرین‌های مرتبط با «send».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Metaprogramming with the send Method in Ruby",
+              "type": "article",
+              "url": "https://medium.com/nyc-ruby-on-rails/meta-programming-with-the-send-method-in-ruby-e88d568f868",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "send in ruby",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cY-wxg5z5bA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Metaprogramming Ruby.pdf",
+          "type": "article",
+          "url": "https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/Metaprogramming%20Ruby.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Metaprogramming: How to Write Dynamic Code",
+          "type": "article",
+          "url": "https://betterstack.com/community/guides/scaling-ruby/metaprogramming/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An Introduction to Metaprogramming in Ruby",
+          "type": "article",
+          "url": "https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Metaprogramming: Real-World Examples",
+          "type": "article",
+          "url": "https://www.rubyguides.com/2016/04/metaprogramming-in-the-wild/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby Metaprogramming Secrets",
+          "type": "article",
+          "url": "https://www.rubyguides.com/guides/metaprogramming-guide.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "RubyConf 2022: In Defense of Ruby Metaprogramming By Noel Rappin",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=D_ZRaZucjm4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "concurrency",
+      "title": "Concurrency",
+      "description": "مباحث و تمرین‌های مرتبط با «Concurrency».",
+      "order": 19,
+      "children": [
+        {
+          "id": "threads",
+          "title": " Threads",
+          "description": "مباحث و تمرین‌های مرتبط با « Threads».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Thread",
+              "type": "article",
+              "url": "https://docs.ruby-lang.org/en/master/Thread.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use Ruby Threads: An Easy To Understand Tutorial",
+              "type": "article",
+              "url": "https://www.rubyguides.com/2015/07/ruby-threads/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Untangling Ruby Threads",
+              "type": "article",
+              "url": "https://thoughtbot.com/blog/untangling-ruby-threads",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Magesh, \"Concurrency in Ruby: Threads, Fibers, and Ractors Demystified\"",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LVHiq_SbQOE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ractors",
+          "title": "Ractors",
+          "description": "مباحث و تمرین‌های مرتبط با «Ractors».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "ractors-2",
+          "title": "Ractors",
+          "description": "مباحث و تمرین‌های مرتبط با «Ractors».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ruby Concurrency and Parallelism: A Practical Tutorial",
+          "type": "article",
+          "url": "http://toptal.com/developers/ruby/ruby-concurrency-and-parallelism-a-practical-primer",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Parallelism and concurrency in Ruby",
+          "type": "article",
+          "url": "https://msuliq.medium.com/concurrency-and-parallin-ruby-91d10045d2fe",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "RailsConf 2016 - Introduction to Concurrency in Ruby by Thijs Cadier",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5AxtY4dfuwc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,815 @@
+{
+  "slug": "data-analyst",
+  "title": "Data Analyst",
+  "description": "Step by step guide to becoming an Data Analyst in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-data-analytics",
+          "title": "What is Data Analytics",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Data Analytics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Introduction to Data Analytics",
+              "type": "course",
+              "url": "https://www.coursera.org/learn/introduction-to-data-analytics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "key-concepts-of-data",
+          "title": "Key Concepts of Data",
+          "description": "مباحث و تمرین‌های مرتبط با «Key Concepts of Data».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "types-of-data-analytics",
+      "title": "Types of Data Analytics",
+      "description": "مباحث و تمرین‌های مرتبط با «Types of Data Analytics».",
+      "order": 2,
+      "children": [
+        {
+          "id": "descriptive-analytics",
+          "title": "Descriptive Analytics",
+          "description": "مباحث و تمرین‌های مرتبط با «Descriptive Analytics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Descriptive Analytics: What They Are and Related Terms",
+              "type": "article",
+              "url": "https://www.investopedia.com/terms/d/descriptive-analytics.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Descriptive Analytics?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=DlFqQy10aCs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The 4 Types of Data Analysis: Ultimate Guide",
+          "type": "article",
+          "url": "https://careerfoundry.com/en/blog/data-analytics/different-types-of-data-analysis/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Descriptive vs Diagnostic vs Predictive vs Prescriptive Analytics: What's the Difference?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QoEpC7jUb9k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Types of Data Analytics",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lsZnSgxMwBA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "analysis-reporting-with-excel",
+      "title": "Analysis / Reporting with Excel",
+      "description": "مباحث و تمرین‌های مرتبط با «Analysis / Reporting with Excel».",
+      "order": 3,
+      "children": [
+        {
+          "id": "analysis-reporting-with-excel-item",
+          "title": "Analysis / Reporting with Excel",
+          "description": "مباحث و تمرین‌های مرتبط با «Analysis / Reporting with Excel».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Microsoft Excel Course",
+          "type": "course",
+          "url": "https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "learn-a-programming-lang",
+      "title": "Learn a Programming Lang.",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn a Programming Lang.».",
+      "order": 4,
+      "children": [
+        {
+          "id": "learn-a-programming-lang-item",
+          "title": "Learn a Programming Lang.",
+          "description": "مباحث و تمرین‌های مرتبط با «Learn a Programming Lang.».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Python Data Science Handbook",
+          "type": "article",
+          "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-manipulation-libraries",
+      "title": "Data Manipulation Libraries",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Manipulation Libraries».",
+      "order": 5,
+      "children": [
+        {
+          "id": "data-manipulation-libraries-item",
+          "title": "Data Manipulation Libraries",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Manipulation Libraries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pandas",
+          "type": "article",
+          "url": "https://pandas.pydata.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NumPy",
+          "type": "article",
+          "url": "https://numpy.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Top Python Libraries for Data Science",
+          "type": "article",
+          "url": "https://www.simplilearn.com/top-python-libraries-for-data-science-article",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-visualisation-libraries",
+      "title": "Data Visualisation Libraries",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Visualisation Libraries».",
+      "order": 6,
+      "children": [
+        {
+          "id": "data-visualisation-libraries-item",
+          "title": "Data Visualisation Libraries",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Visualisation Libraries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-collection",
+      "title": "Data Collection",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Collection».",
+      "order": 7,
+      "children": [
+        {
+          "id": "databases",
+          "title": "Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «Databases».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit Dedicated SQL Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Visit Dedicated PostgreSQL Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/postgresql-dba",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "csv-files",
+          "title": "CSV Files",
+          "description": "مباحث و تمرین‌های مرتبط با «CSV Files».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is a CSV file: A comprehensive guide",
+              "type": "article",
+              "url": "https://flatfile.com/blog/what-is-a-csv-file-guide-to-uses-and-benefits/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding CSV Files",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=UofTplCVkYI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "apis",
+          "title": "APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «APIs».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is an API?",
+              "type": "article",
+              "url": "https://aws.amazon.com/what-is/api/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Beginner's Guide to APIs",
+              "type": "article",
+              "url": "https://www.postman.com/what-is-an-api/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "web-scraping",
+          "title": "Web Scraping",
+          "description": "مباحث و تمرین‌های مرتبط با «Web Scraping».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What is Web Scraping & What is it used for?",
+              "type": "article",
+              "url": "https://www.parsehub.com/blog/what-is-web-scraping/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Web Scraping?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=dlj_QL-ENJM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Collection",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Data_collection",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-cleanup",
+      "title": "Data Cleanup",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Cleanup».",
+      "order": 8,
+      "children": [
+        {
+          "id": "removing-duplicates",
+          "title": "Removing Duplicates",
+          "description": "مباحث و تمرین‌های مرتبط با «Removing Duplicates».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Handling Duplicate Values and Outliers in a dataset",
+              "type": "article",
+              "url": "https://medium.com/@ayushmandurgapal/handling-duplicate-values-and-outliers-in-a-dataset-b00ce130818e",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Remove Duplicates in a Dataset and Find Unique Values",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=KBzYrvjUsps",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "handling-missing-data",
+          "title": "Handling Missing Data",
+          "description": "مباحث و تمرین‌های مرتبط با «Handling Missing Data».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "How to Handle Missing Data Values While Data Cleaning",
+              "type": "article",
+              "url": "https://insightsoftware.com/blog/how-to-handle-missing-data-values-while-data-cleaning/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Handling Missing Data in Data Preprocessing and Cleaning",
+              "type": "article",
+              "url": "https://medium.com/@yennhi95zz/handling-missing-data-in-data-preprocessing-and-cleaning-methods-and-examples-19a893336b2a",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "finding-outliers",
+          "title": "Finding Outliers",
+          "description": "مباحث و تمرین‌های مرتبط با «Finding Outliers».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Outliers",
+              "type": "article",
+              "url": "https://www.mathsisfun.com/data/outliers.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-transformation",
+          "title": "Data Transformation",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Transformation».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What is data transformation?",
+              "type": "article",
+              "url": "https://www.qlik.com/us/data-management/data-transformation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Data Analysis",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/data-analysis?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Cleaning",
+          "type": "article",
+          "url": "https://www.tableau.com/learn/articles/what-is-data-cleaning#:~:text=tools%20and%20software-,What%20is%20data%20cleaning%3F,to%20be%20duplicated%20or%20mislabeled.",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "descriptive-analysis",
+      "title": "Descriptive Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Descriptive Analysis».",
+      "order": 9,
+      "children": [
+        {
+          "id": "visualizing-distributions",
+          "title": "Visualizing Distributions",
+          "description": "مباحث و تمرین‌های مرتبط با «Visualizing Distributions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Data Visualizations that Capture Distributions",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/data-demystified-data-visualizations-that-capture-distributions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Visualising Distributions in Power BI",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rOemr3sz2vw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Descriptive Analytics: What They Are and Related Terms",
+          "type": "article",
+          "url": "https://www.investopedia.com/terms/d/descriptive-analytics.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Descriptive Analytics?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=DlFqQy10aCs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-visualisation",
+      "title": "Data Visualisation",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Visualisation».",
+      "order": 10,
+      "children": [
+        {
+          "id": "data-visualisation-item",
+          "title": "Data Visualisation",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Visualisation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Data Visualization?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/data-visualization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "statistical-analysis",
+      "title": "Statistical Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Statistical Analysis».",
+      "order": 11,
+      "children": [
+        {
+          "id": "decision-trees",
+          "title": "Decision Trees",
+          "description": "مباحث و تمرین‌های مرتبط با «Decision Trees».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is machine learning for analytics?",
+              "type": "article",
+              "url": "https://www.oracle.com/business-analytics/what-is-machine-learning-for-analytics/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Role of Machine Learning in Data Analysis",
+              "type": "article",
+              "url": "https://www.ironhack.com/gb/blog/the-role-of-machine-learning-in-data-analysis",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "knn",
+          "title": "KNN",
+          "description": "مباحث و تمرین‌های مرتبط با «KNN».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is the k-nearest neighbors (KNN) algorithm?",
+              "type": "article",
+              "url": "https://www.ibm.com/topics/knn#:~:text=The%20k%2Dnearest%20neighbors%20KNN,used%20in%20machine%20learning%20today.",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Nearest Neighbors",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/neighbors.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "parallel-processing",
+          "title": "Parallel Processing",
+          "description": "مباحث و تمرین‌های مرتبط با «Parallel Processing».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What Is Parallel Processing?",
+              "type": "article",
+              "url": "https://www.spiceworks.com/tech/iot/articles/what-is-parallel-processing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Parallel Computing Works",
+              "type": "article",
+              "url": "https://computer.howstuffworks.com/parallel-processing.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding Statistical Analysis",
+          "type": "article",
+          "url": "https://www.simplilearn.com/what-is-statistical-analysis-article",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Statistical Analysis",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=XjMBZE1DuBY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "machine-learning",
+      "title": "Machine Learning",
+      "description": "مباحث و تمرین‌های مرتبط با «Machine Learning».",
+      "order": 12,
+      "children": [
+        {
+          "id": "machine-learning-item",
+          "title": "Machine Learning",
+          "description": "مباحث و تمرین‌های مرتبط با «Machine Learning».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "big-data-technologies",
+      "title": "Big Data Technologies",
+      "description": "مباحث و تمرین‌های مرتبط با «Big Data Technologies».",
+      "order": 13,
+      "children": [
+        {
+          "id": "big-data-concepts",
+          "title": "Big Data Concepts",
+          "description": "مباحث و تمرین‌های مرتبط با «Big Data Concepts».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "An Introduction to Big Data Concepts and Terminology",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "An Introduction to Big Data Concepts",
+              "type": "article",
+              "url": "https://www.suse.com/c/rancher_blog/an-introduction-to-big-data-concepts/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Big Data Analytics",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/big-data-analytics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deep-learning-optional",
+      "title": "Deep Learning (Optional)",
+      "description": "مباحث و تمرین‌های مرتبط با «Deep Learning (Optional)».",
+      "order": 14,
+      "children": [
+        {
+          "id": "deep-learning-optional-item",
+          "title": "Deep Learning (Optional)",
+          "description": "مباحث و تمرین‌های مرتبط با «Deep Learning (Optional)».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Deep Learning for Data Analysis",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/deep-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,3064 @@
+{
+  "slug": "laravel",
+  "title": "Laravel",
+  "description": "Step by step guide to mastering Laravel in 2026",
+  "steps": [
+    {
+      "id": "installing-laravel",
+      "title": "Installing Laravel",
+      "description": "مباحث و تمرین‌های مرتبط با «Installing Laravel».",
+      "order": 1,
+      "children": [
+        {
+          "id": "laravel-herd",
+          "title": "Laravel Herd",
+          "description": "مباحث و تمرین‌های مرتبط با «Laravel Herd».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Laravel herd",
+              "type": "article",
+              "url": "https://herd.laravel.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Installation Using Herd",
+              "type": "article",
+              "url": "https://laravel.com/docs/installation#installation-using-herd",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Laravel Development using Herd",
+              "type": "article",
+              "url": "https://medium.com/@Ashleecooper/laravel-development-using-herd-1da0932b9888",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Install Laravel on Windows with Laravel Herd and MySQL, phpMyAdmin for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Io0GZLAc5WI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Installation",
+          "type": "article",
+          "url": "https://laravel.com/docs/installation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Install Laravel on Windows, macOS, and Linux",
+          "type": "article",
+          "url": "https://kinsta.com/blog/install-laravel/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Easily Install Laravel | Laravel for Complete Beginners | Laravel Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=iBaM5LYgyPk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-laravel",
+      "title": "What is Laravel?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Laravel?».",
+      "order": 2,
+      "children": [
+        {
+          "id": "why-web-frameworks",
+          "title": "Why Web Frameworks?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why Web Frameworks?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Why Laravel",
+              "type": "article",
+              "url": "https://laravel.com/docs/master#why-laravel",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Web Frameworks: All You Should Know About",
+              "type": "article",
+              "url": "https://www.browserstack.com/guide/web-development-frameworks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is a Framework in Programming? | Why Is It Useful?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=BfhSoFARn6w",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "laravel-for-full-stack",
+          "title": "Laravel for Full Stack",
+          "description": "مباحث و تمرین‌های مرتبط با «Laravel for Full Stack».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Livewire",
+              "type": "article",
+              "url": "https://laravel-livewire.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vue + Laravel API Full Stack App - Build and Deploy",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qVi3vv9K8Fk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "laravel-for-frontend",
+          "title": "Laravel for Frontend",
+          "description": "مباحث و تمرین‌های مرتبط با «Laravel for Frontend».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Laravel for Frontend",
+              "type": "article",
+              "url": "https://laravel.com/docs/frontend",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Integrating Laravel with Popular Frontend Frameworks: A Developer's Guide",
+              "type": "article",
+              "url": "https://dev.to/elisaray/integrating-laravel-with-popular-frontend-frameworks-a-developers-guide-4625",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Learn Laravel - Free Video Courses",
+          "type": "course",
+          "url": "https://laravel.com/learn",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "[FREE] Laravel 11 For Beginners: Your First Project",
+          "type": "course",
+          "url": "https://laraveldaily.com/course/laravel-beginners",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel",
+          "type": "article",
+          "url": "https://laravel.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Docs",
+          "type": "article",
+          "url": "https://laravel.com/docs/master",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Laravel: core features, use cases, and advantages of the PHP framework",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/what-is-laravel",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel 12 in 11 hours - Laravel for Beginners Full Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0M84Nk7iWkA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Laravel from Scratch [FULL BOOTCAMP COURSE]",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MOLZOXqaomM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "create-a-new-project",
+      "title": "Create a new project",
+      "description": "مباحث و تمرین‌های مرتبط با «Create a new project».",
+      "order": 3,
+      "children": [
+        {
+          "id": "create-a-new-project-item",
+          "title": "Create a new project",
+          "description": "مباحث و تمرین‌های مرتبط با «Create a new project».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Creating a Laravel Application",
+          "type": "article",
+          "url": "https://laravel.com/docs/installation#creating-a-laravel-project",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Setting up your Laravel project",
+          "type": "article",
+          "url": "https://laravel.com/learn/getting-started-with-laravel/setting-up-your-laravel-project",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Beginner’s Guide to Setting Up a Project in Laravel",
+          "type": "article",
+          "url": "https://www.sitepoint.com/laravel-project-setup-beginners-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Project Setup & Getting Started | Laravel for Complete Beginners | Laravel Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=52WpfAQfgXs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "starter-kits",
+      "title": "Starter Kits",
+      "description": "مباحث و تمرین‌های مرتبط با «Starter Kits».",
+      "order": 4,
+      "children": [
+        {
+          "id": "starter-kits-item",
+          "title": "Starter Kits",
+          "description": "مباحث و تمرین‌های مرتبط با «Starter Kits».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Starter Kits",
+          "type": "article",
+          "url": "https://laravel.com/docs/starter-kits#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Starter Kits List: Official and Community",
+          "type": "article",
+          "url": "https://nabilhassen.com/laravel-starter-kits-list-official-and-community",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "10 Best Laravel Starter Kits for 2025",
+          "type": "article",
+          "url": "https://saasykit.com/blog/10-best-laravel-starter-kits-for-2025",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "request-response-flow",
+      "title": "Request–Response Flow",
+      "description": "مباحث و تمرین‌های مرتبط با «Request–Response Flow».",
+      "order": 5,
+      "children": [
+        {
+          "id": "request-response-flow-item",
+          "title": "Request–Response Flow",
+          "description": "مباحث و تمرین‌های مرتبط با «Request–Response Flow».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Request Lifecycle",
+          "type": "article",
+          "url": "https://laravel.com/docs/lifecycle",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding the Laravel Request/Response Lifecycle: A Simple Guide for Developers",
+          "type": "article",
+          "url": "https://chandankshaw.medium.com/understanding-the-laravel-request-response-lifecycle-a-simple-guide-for-developers-e6afdf887a6d",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Requests and Responses",
+          "type": "article",
+          "url": "https://www.fastcomet.com/tutorials/laravel/requests-and-responses",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-routes",
+      "title": "Basic Routes",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Routes».",
+      "order": 6,
+      "children": [
+        {
+          "id": "basic-routes-item",
+          "title": "Basic Routes",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Routes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Basic Routes",
+          "type": "article",
+          "url": "https://laravel.com/docs/routing#basic-routing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Routing Guide – How to Create Route to Call a View",
+          "type": "article",
+          "url": "http://cloudways.com/blog/routing-in-laravel/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel - Routing",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/laravel/laravel_routing.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Basics of Routing in Laravel | Learn Laravel The Right Way",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=pP4g0xPq0TQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "view-routes",
+      "title": "View Routes",
+      "description": "مباحث و تمرین‌های مرتبط با «View Routes».",
+      "order": 7,
+      "children": [
+        {
+          "id": "view-routes-item",
+          "title": "View Routes",
+          "description": "مباحث و تمرین‌های مرتبط با «View Routes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "View Routes",
+          "type": "article",
+          "url": "https://laravel.com/docs/routing#view-routes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Basic routing & views",
+          "type": "article",
+          "url": "https://itf-laravel-11.netlify.app/laravel/basicRouting",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Tutorial for Beginners #2 - Routes & Views",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=RT0DZYYE3wc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "redirect-routes",
+      "title": "Redirect Routes",
+      "description": "مباحث و تمرین‌های مرتبط با «Redirect Routes».",
+      "order": 8,
+      "children": [
+        {
+          "id": "redirect-routes-item",
+          "title": "Redirect Routes",
+          "description": "مباحث و تمرین‌های مرتبط با «Redirect Routes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redirect Routes",
+          "type": "article",
+          "url": "https://laravel.com/docs/routing#redirect-routes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Route Redirect in Laravel: The Complete Guide",
+          "type": "article",
+          "url": "https://larafast.com/blog/route-redirect-in-laravel-the-complete-guide",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "route-parameters",
+      "title": "Route parameters",
+      "description": "مباحث و تمرین‌های مرتبط با «Route parameters».",
+      "order": 9,
+      "children": [
+        {
+          "id": "route-parameters-item",
+          "title": "Route parameters",
+          "description": "مباحث و تمرین‌های مرتبط با «Route parameters».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Route parameters",
+          "type": "article",
+          "url": "https://laravel.com/docs/routing#route-parameters",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Route Parameters and Route Model Binding",
+          "type": "article",
+          "url": "https://laraveldaily.com/lesson/laravel-beginners/route-parameters-route-model-binding",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Get Laravel Route Parameters in Middleware",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/get-laravel-route-parameters-in-middleware",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Working with Route Parameters in Laravel | Learn Laravel The Right Way",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=DgQEDXBcyZw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "named-routes",
+      "title": "Named routes",
+      "description": "مباحث و تمرین‌های مرتبط با «Named routes».",
+      "order": 10,
+      "children": [
+        {
+          "id": "named-routes-item",
+          "title": "Named routes",
+          "description": "مباحث و تمرین‌های مرتبط با «Named routes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Names Routes",
+          "type": "article",
+          "url": "https://laravel.com/docs/routing#named-routes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Named Routes in Laravel?",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/what-are-named-routes-in-laravel",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Tutorial for Beginners #14 - Named Routes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=awStsyqYcbc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "route-groups",
+      "title": "Route groups",
+      "description": "مباحث و تمرین‌های مرتبط با «Route groups».",
+      "order": 11,
+      "children": [
+        {
+          "id": "route-groups-item",
+          "title": "Route groups",
+          "description": "مباحث و تمرین‌های مرتبط با «Route groups».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Route Groupes",
+          "type": "article",
+          "url": "https://laravel.com/docs/routing#route-groups",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How Laravel Route Groups Can Simplify and Organize Your Code",
+          "type": "article",
+          "url": "https://redberry.international/laravel-route-group-organize-your-code/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "6 Tips To Organize Your Routes",
+          "type": "article",
+          "url": "https://laravel-news.com/laravel-route-organization-tips",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel 12 Route Grouping & Naming – Organize Your Routes Like a Pro",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qXulJqduM4I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-controllers",
+      "title": "Basic controllers",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic controllers».",
+      "order": 12,
+      "children": [
+        {
+          "id": "basic-controllers-item",
+          "title": "Basic controllers",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic controllers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Basic Controllers",
+          "type": "article",
+          "url": "https://laravel.com/docs/controllers#basic-controllers",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Controllers",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/laravel/laravel_controllers.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Use Controllers in Laravel",
+          "type": "article",
+          "url": "https://www.inmotionhosting.com/support/edu/laravel/how-to-use-controllers-in-laravel/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Controllers in Laravel: Detailed explanation for beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=DZmkzV9SJEI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "resource-controllers",
+      "title": "Resource controllers",
+      "description": "مباحث و تمرین‌های مرتبط با «Resource controllers».",
+      "order": 13,
+      "children": [
+        {
+          "id": "resource-controllers-item",
+          "title": "Resource controllers",
+          "description": "مباحث و تمرین‌های مرتبط با «Resource controllers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Resource controllers",
+          "type": "article",
+          "url": "https://laravel.com/docs/controllers#resource-controllers",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Resource Controller in Laravel, and what are its Actions?",
+          "type": "article",
+          "url": "http://webdew.com/blog/what-is-a-resource-controller-in-laravel?srsltid=AfmBOor4QIQckQzQ4o6EeD_bsn-wsRR87DetunjF-bB6j4rt7QLJaida",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Simple Laravel CRUD with Resource Controllers",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/simple-laravel-crud-with-resource-controllers",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "11 | Laravel Controller Resource Methods Step-by-Step (CRUD Example)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=XAwQUUr1obM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "single-action-controllers",
+      "title": "Single-action controllers",
+      "description": "مباحث و تمرین‌های مرتبط با «Single-action controllers».",
+      "order": 14,
+      "children": [
+        {
+          "id": "single-action-controllers-item",
+          "title": "Single-action controllers",
+          "description": "مباحث و تمرین‌های مرتبط با «Single-action controllers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Single Action Controllers",
+          "type": "article",
+          "url": "https://laravel.com/docs/controllers#single-action-controllers",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Single Action Controllers: One Job, Done Right",
+          "type": "article",
+          "url": "https://laracasts.com/series/jeremys-larabits/episodes/22",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Beauty of Single Action Controllers",
+          "type": "article",
+          "url": "http://driesvints.com/blog/the-beauty-of-single-action-controllers/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Using single action controllers in Laravel",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lLj8UYrqLuU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "middleware",
+      "title": "Middleware",
+      "description": "مباحث و تمرین‌های مرتبط با «Middleware».",
+      "order": 15,
+      "children": [
+        {
+          "id": "global-vs-route",
+          "title": "Global vs Route",
+          "description": "مباحث و تمرین‌های مرتبط با «Global vs Route».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Global Middelware",
+              "type": "article",
+              "url": "https://laravel.com/docs/middleware#global-middleware",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to define global middleware in Laravel 11",
+              "type": "article",
+              "url": "https://codecourse.com/articles/how-to-define-global-middleware-in-laravel-11",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Configuring Middleware in Laravel",
+              "type": "article",
+              "url": "https://laravel-news.com/configuring-middleware-in-laravel",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Laravel Routes and Middlewares: An In-depth Guide",
+              "type": "article",
+              "url": "https://medium.com/@dev.muhammadazeem/laravel-routes-and-middlewares-an-in-depth-guide-ccd8c0593aa3",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Middleware",
+          "type": "article",
+          "url": "https://laravel.com/docs/middleware#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Configuring Middleware in Laravel",
+          "type": "article",
+          "url": "https://laravel-news.com/configuring-middleware-in-laravel",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Middleware",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/laravel/laravel_middleware.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Middleware in Laravel: Main Things to Know",
+          "type": "article",
+          "url": "https://laraveldaily.com/post/middleware-laravel-main-things-to-know",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Middleware ? How to use Middleware in Laravel with Example",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=DYTJFqALX7o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "LARAVEL 11 Crash Course for Beginners 2024 | #11 Middleware (Web Developer Path)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=FRi9bbQZLkQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dependency-injection",
+      "title": "Dependency injection",
+      "description": "مباحث و تمرین‌های مرتبط با «Dependency injection».",
+      "order": 16,
+      "children": [
+        {
+          "id": "dependency-injection-item",
+          "title": "Dependency injection",
+          "description": "مباحث و تمرین‌های مرتبط با «Dependency injection».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Dependency Injection",
+          "type": "article",
+          "url": "https://laravel.com/docs/routing#dependency-injection",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn all about Laravel's dependency injection container",
+          "type": "article",
+          "url": "https://laravel-news.com/leaning-on-the-container",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dependency Injection and Service Container in Laravel",
+          "type": "article",
+          "url": "https://www.codemag.com/Article/2212041/Dependency-Injection-and-Service-Container-in-Laravel",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Power of Dependency Injection in Laravel: Best Practices for Developers💻",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=xOxTdXicWd0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Why the Laravel Service Container is the Key to Better Dependency Management",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8HBQ2-_39VE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "blade-templating",
+      "title": "Blade Templating",
+      "description": "مباحث و تمرین‌های مرتبط با «Blade Templating».",
+      "order": 17,
+      "children": [
+        {
+          "id": "blade-templating-item",
+          "title": "Blade Templating",
+          "description": "مباحث و تمرین‌های مرتبط با «Blade Templating».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Blade Templating",
+          "type": "article",
+          "url": "https://laravel.com/docs/blade#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel - Blade Templates",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/laravel/laravel_blade_templates.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Blade Template Engine: A Beginner's Guide",
+          "type": "article",
+          "url": "https://dev.to/icornea/laravel-blade-template-engine-a-beginners-guide-54bi",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Blade Basics",
+          "type": "article",
+          "url": "https://www.inmotionhosting.com/support/edu/laravel/laravel-blade-basics/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel 12 – Creating Layouts with Blade for Reusable Templates",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=gZkpUNVFiYE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Blade templates & Layouts | Laravel 10 Tutorial #7",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=3UhgEsLxmG8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "displaying-data",
+      "title": "Displaying data",
+      "description": "مباحث و تمرین‌های مرتبط با «Displaying data».",
+      "order": 18,
+      "children": [
+        {
+          "id": "displaying-data-item",
+          "title": "Displaying data",
+          "description": "مباحث و تمرین‌های مرتبط با «Displaying data».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Displaying data",
+          "type": "article",
+          "url": "https://laravel.com/docs/blade#displaying-data",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel | Working with Blade Template Engine",
+          "type": "article",
+          "url": "https://magecomp.com/blog/laravel-working-with-blade-template-engine/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "blade-directives",
+      "title": "Blade Directives",
+      "description": "مباحث و تمرین‌های مرتبط با «Blade Directives».",
+      "order": 19,
+      "children": [
+        {
+          "id": "loops",
+          "title": "loops",
+          "description": "مباحث و تمرین‌های مرتبط با «loops».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Loops",
+              "type": "article",
+              "url": "https://laravel.com/docs/blade#loops",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Laravel Advanced: Know the sneaky $loop.",
+              "type": "article",
+              "url": "https://backpackforlaravel.com/articles/tips-and-tricks/laravel-advanced-know-the-sneaky-loop",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using the $loop variable in Laravel",
+              "type": "article",
+              "url": "https://medium.com/afrivelle-engineering/using-the-loop-variable-in-laravel-9d22f07eb00b",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Loops in Blade | Blade Template Basics | Laravel Basics | Laravel",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=m1BPK6lMvNg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Loops & Loop Directives in Laravel | Laravel For Beginners | Learn Laravel",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=6qlty4eJDgc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Blade Directives",
+          "type": "article",
+          "url": "https://laravel.com/docs/blade#blade-directives",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are blade directives?",
+          "type": "article",
+          "url": "https://www.educative.io/answers/what-are-blade-directives",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Useful Blade Directives",
+          "type": "article",
+          "url": "https://laracasts.com/discuss/channels/laravel/useful-blade-directives",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Tutorial for Beginners #4 - Blade Directives",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cNE0HIRpeiU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "components",
+      "title": "Components",
+      "description": "مباحث و تمرین‌های مرتبط با «Components».",
+      "order": 20,
+      "children": [
+        {
+          "id": "components-item",
+          "title": "Components",
+          "description": "مباحث و تمرین‌های مرتبط با «Components».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Components",
+          "type": "article",
+          "url": "https://laravel.com/docs/blade#components",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Fundamentals: Components",
+          "type": "article",
+          "url": "https://medium.com/@darshitabaldha2001/laravel-fundamentals-components-f03e8c2874b7",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel: Blade Components 101",
+          "type": "article",
+          "url": "http://dev.to/ericchapman/laravel-blade-components-5c9c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Become a PRO at Using Components in Laravel",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7E76PPoIVW4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Tutorial for Beginners #6 - Components, Attributes & Props",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=giMnl4gpZ_I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "eloquent-orm",
+      "title": "Eloquent ORM",
+      "description": "مباحث و تمرین‌های مرتبط با «Eloquent ORM».",
+      "order": 21,
+      "children": [
+        {
+          "id": "eloquent-orm-item",
+          "title": "Eloquent ORM",
+          "description": "مباحث و تمرین‌های مرتبط با «Eloquent ORM».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Eloquent: Getting Started",
+          "type": "article",
+          "url": "https://laravel.com/docs/eloquent",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Eloquent ORM: A Beginner's Guide to Laravel's Magic 🚀",
+          "type": "article",
+          "url": "https://dev.to/icornea/mastering-eloquent-orm-a-beginners-guide-to-laravels-magic-2pj3",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Eloquent Queries - From beginner to advanced techniques",
+          "type": "article",
+          "url": "https://laravel-news.com/effective-eloquent",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Tutorial for Beginners #9 - Eloquent Models",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0LCAS5WXnL4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "layouts",
+      "title": "Layouts",
+      "description": "مباحث و تمرین‌های مرتبط با «Layouts».",
+      "order": 22,
+      "children": [
+        {
+          "id": "layouts-item",
+          "title": "Layouts",
+          "description": "مباحث و تمرین‌های مرتبط با «Layouts».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Building Layouts",
+          "type": "article",
+          "url": "https://laravel.com/docs/blade#building-layouts",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Create Layouts Using Laravel Blade Templating Engine (Step-by-Step for Beginners)",
+          "type": "article",
+          "url": "https://www.cloudways.com/blog/create-laravel-blade-layout/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "https://www.youtube.com/watch?v=3UhgEsLxmG8",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=mI7GW7xuO-I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Blade templates & Layouts | Laravel 10 Tutorial #7",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=3UhgEsLxmG8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "blade-livewire",
+      "title": "Blade + Livewire",
+      "description": "مباحث و تمرین‌های مرتبط با «Blade + Livewire».",
+      "order": 23,
+      "children": [
+        {
+          "id": "blade-livewire-item",
+          "title": "Blade + Livewire",
+          "description": "مباحث و تمرین‌های مرتبط با «Blade + Livewire».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Supercharging Blade With Livewire",
+          "type": "article",
+          "url": "https://laravel.com/docs/blade#supercharging-blade-with-livewire",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Livewire",
+          "type": "article",
+          "url": "https://livewire.laravel.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "configuration",
+      "title": "Configuration",
+      "description": "مباحث و تمرین‌های مرتبط با «Configuration».",
+      "order": 24,
+      "children": [
+        {
+          "id": "configuration-item",
+          "title": "Configuration",
+          "description": "مباحث و تمرین‌های مرتبط با «Configuration».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Configuration",
+          "type": "article",
+          "url": "https://laravel.com/docs/configuration#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "query-builder",
+      "title": "Query Builder",
+      "description": "مباحث و تمرین‌های مرتبط با «Query Builder».",
+      "order": 25,
+      "children": [
+        {
+          "id": "query-builder-item",
+          "title": "Query Builder",
+          "description": "مباحث و تمرین‌های مرتبط با «Query Builder».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Database: Query Builder",
+          "type": "article",
+          "url": "https://laravel.com/docs/queries#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Query Builder: Detailed Guide with Code Examples + Screenshots",
+          "type": "article",
+          "url": "https://www.cloudways.com/blog/laravel-query-builder/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Query Builder",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5R0tVpkuQ1M&list=PLkyrdyGDWthC-yd9n8R3CEauJC4sFl-kj",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "migrations-seeders",
+      "title": "Migrations, seeders",
+      "description": "مباحث و تمرین‌های مرتبط با «Migrations, seeders».",
+      "order": 26,
+      "children": [
+        {
+          "id": "migrations-seeders-item",
+          "title": "Migrations, seeders",
+          "description": "مباحث و تمرین‌های مرتبط با «Migrations, seeders».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Migrations",
+          "type": "article",
+          "url": "https://laravel.com/docs/migrations#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Seeding",
+          "type": "article",
+          "url": "https://laravel.com/docs/seeding#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Comprehensive Guide to Laravel Migrations: From Basics to Advanced",
+          "type": "article",
+          "url": "https://medium.com/@jaswanth_270602/a-comprehensive-guide-to-laravel-migrations-from-basics-to-advanced-727ead0a18f1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Seeder Generator",
+          "type": "article",
+          "url": "https://laravel-news.com/laravel-seeder-generator",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Tutorial for Beginners #8 - Database Migrations",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=PgeP3vsWbTc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Tutorial for Beginners #11 - Seeders",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=tV9Hb0A-lzc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "retrieving-data-files",
+      "title": "Retrieving data & files",
+      "description": "مباحث و تمرین‌های مرتبط با «Retrieving data & files».",
+      "order": 27,
+      "children": [
+        {
+          "id": "retrieving-data-files-item",
+          "title": "Retrieving data & files",
+          "description": "مباحث و تمرین‌های مرتبط با «Retrieving data & files».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Retrieving Files",
+          "type": "article",
+          "url": "https://laravel.com/docs/filesystem#retrieving-files",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTTP Requests",
+          "type": "article",
+          "url": "https://laravel.com/docs/requests",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel and External APIs: Get Data with HTTP Client",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=oEDDZsmMLc0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "File Upload in Laravel: Main Things You Need To Know",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=xN-CF7dzeyM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pagination",
+      "title": "Pagination",
+      "description": "مباحث و تمرین‌های مرتبط با «Pagination».",
+      "order": 28,
+      "children": [
+        {
+          "id": "pagination-item",
+          "title": "Pagination",
+          "description": "مباحث و تمرین‌های مرتبط با «Pagination».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pagination",
+          "type": "article",
+          "url": "https://laravel.com/docs/pagination#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Guide to Pagination in Laravel",
+          "type": "article",
+          "url": "https://laravel-news.com/laravel-pagination",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use Pagination in Laravel?",
+          "type": "article",
+          "url": "https://bagisto.com/en/how-to-use-pagination-in-laravel/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Tutorial for Beginners #15 - Pagination",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=tPhp3PunmuU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "creating-responses",
+      "title": "Creating Responses",
+      "description": "مباحث و تمرین‌های مرتبط با «Creating Responses».",
+      "order": 29,
+      "children": [
+        {
+          "id": "views",
+          "title": "Views",
+          "description": "مباحث و تمرین‌های مرتبط با «Views».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "View Responses",
+              "type": "article",
+              "url": "https://laravel.com/docs/12.x/responses#view-responses",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Laravel Response",
+              "type": "article",
+              "url": "https://www.w3schools.in/laravel/response",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "redirects",
+          "title": "Redirects",
+          "description": "مباحث و تمرین‌های مرتبط با «Redirects».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Redirects Response",
+              "type": "article",
+              "url": "https://laravel.com/docs/responses#redirects",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "streamed-responses",
+          "title": "Streamed Responses",
+          "description": "مباحث و تمرین‌های مرتبط با «Streamed Responses».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Streamed Responses",
+              "type": "article",
+              "url": "https://laravel.com/docs/responses#streamed-responses",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Optimizing Large Data Delivery with Laravel Streaming Responses",
+              "type": "article",
+              "url": "https://laravel-news.com/streaming-responses",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Streaming Responses in Laravel: A Guide to Efficient Data Delivery",
+              "type": "article",
+              "url": "https://medium.com/@harrisrafto/streaming-responses-in-laravel-a-guide-to-efficient-data-delivery-bac37aa76c03",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Welcome the New Stream Hooks for React & Vue",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=mSssWRUkmXAv",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "HTTP Responses",
+          "type": "article",
+          "url": "https://laravel.com/docs/responses",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Response Classes",
+          "type": "article",
+          "url": "https://laravel-news.com/laravel-response-classes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Response",
+          "type": "article",
+          "url": "https://www.w3schools.in/laravel/response",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Return Types in API Controller: Five Options?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=xC2QzRzefVg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authentication",
+      "title": "Authentication",
+      "description": "مباحث و تمرین‌های مرتبط با «Authentication».",
+      "order": 30,
+      "children": [
+        {
+          "id": "with-starter-kits",
+          "title": "With Starter Kits",
+          "description": "مباحث و تمرین‌های مرتبط با «With Starter Kits».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Authentication with Starter Kits",
+              "type": "article",
+              "url": "https://laravel.com/docs/authentication#starter-kits",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Starter Kits and Using Laravel Breeze",
+              "type": "article",
+              "url": "https://laraveldaily.com/lesson/laravel-from-scratch/starter-kits-breeze",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Laravel 12 Starter Kits: THREE Layouts for Auth",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=hSzSMrRFvtk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Two-Factor Authentication Now Available in Laravel Starter Kits",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=4osPfTw-FB0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Authentication",
+          "type": "article",
+          "url": "https://laravel.com/docs//authentication#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Authentication: Getting Started and HTTP Auth Tutorial",
+          "type": "article",
+          "url": "https://frontegg.com/blog/laravel-authentication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Laravel Authentication: Best Practices and Tips",
+          "type": "article",
+          "url": "http://medium.com/@aiman.asfia/understanding-laravel-authentication-best-practices-and-tips-cf00bcb894a4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Authentication Tutorial #1 - Intro & Setup",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=3JBmbQsR0ag",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Build Laravel Login & Registration from Scratch",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QtKZxNNPT_U",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authorization",
+      "title": "Authorization",
+      "description": "مباحث و تمرین‌های مرتبط با «Authorization».",
+      "order": 31,
+      "children": [
+        {
+          "id": "authorization-item",
+          "title": "Authorization",
+          "description": "مباحث و تمرین‌های مرتبط با «Authorization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Authorization",
+          "type": "article",
+          "url": "https://laravel.com/docs/authorization#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Laravel Policies: A Complete Guide to Authorization in Laravel",
+          "type": "article",
+          "url": "https://medium.com/@zulfikarditya/mastering-laravel-policies-a-complete-guide-to-authorization-in-laravel-991bbdcc6756",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Authorization in Laravel: Can You Do That?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NXt5XqyaaNE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "06 - User Authorization in Laravel",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=v7TgKS8BobI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "encryption-hashing",
+      "title": "Encryption & Hashing",
+      "description": "مباحث و تمرین‌های مرتبط با «Encryption & Hashing».",
+      "order": 32,
+      "children": [
+        {
+          "id": "encryption-hashing-item",
+          "title": "Encryption & Hashing",
+          "description": "مباحث و تمرین‌های مرتبط با «Encryption & Hashing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Encryption",
+          "type": "article",
+          "url": "https://laravel.com/docs/encryption",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Hashing",
+          "type": "article",
+          "url": "https://laravel.com/docs/hashing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Encrypt and Decrypt Messages in Laravel",
+          "type": "article",
+          "url": "https://www.twilio.com/en-us/blog/developers/community/encrypt-decrypt-messages-laravel",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel - Encryption",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/laravel/laravel_encryption.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel - Hashing",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/laravel/laravel_hashing.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Encrypt Database Fields in Laravel?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=a6V5Cxk03rk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Re-hashed Passwords, Improved Enum Support & Context",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8fq6dzLi-2A",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "logging-basics",
+      "title": "Logging Basics ",
+      "description": "مباحث و تمرین‌های مرتبط با «Logging Basics ».",
+      "order": 33,
+      "children": [
+        {
+          "id": "logging-basics-item",
+          "title": "Logging Basics ",
+          "description": "مباحث و تمرین‌های مرتبط با «Logging Basics ».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Logging",
+          "type": "article",
+          "url": "https://laravel.com/docs/logging#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How Logging Works in Laravel Applications",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/laravel-logging/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Logging: Everything You Need To Know",
+          "type": "article",
+          "url": "https://kinsta.com/blog/laravel-logging/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Configuring (and viewing!) logs in Laravel",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MGASWCQ6TJ0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel.log: 8 Tips to Find Things There",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=OYx7r8BEaUI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "debugging-basics",
+      "title": "Debugging basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Debugging basics».",
+      "order": 34,
+      "children": [
+        {
+          "id": "debugging-basics-item",
+          "title": "Debugging basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Debugging basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to debug Laravel apps",
+          "type": "article",
+          "url": "https://madewithlaravel.com/blog/debugging-in-laravel",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel 11 Debugging: The Ultimate Guide to Using the Dumpable Trait",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4y40zvSifQg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "log-stacks-messages",
+      "title": "Log Stacks & Messages",
+      "description": "مباحث و تمرین‌های مرتبط با «Log Stacks & Messages».",
+      "order": 35,
+      "children": [
+        {
+          "id": "log-stacks-messages-item",
+          "title": "Log Stacks & Messages",
+          "description": "مباحث و تمرین‌های مرتبط با «Log Stacks & Messages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Building Log Stacks",
+          "type": "article",
+          "url": "https://laravel.com/docs/logging#building-log-stacks",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Logging: Channels and Stacks Explained",
+          "type": "article",
+          "url": "https://inspector.dev/laravel-logging-channels-and-stacks-explained/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Get Started with Logging in Laravel",
+          "type": "article",
+          "url": "https://betterstack.com/community/guides/logging/how-to-start-logging-with-laravel/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Configuring (and viewing!) logs in Laravel",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MGASWCQ6TJ0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "unit-feature-tests",
+      "title": "Unit & Feature tests",
+      "description": "مباحث و تمرین‌های مرتبط با «Unit & Feature tests».",
+      "order": 36,
+      "children": [
+        {
+          "id": "unit-feature-tests-item",
+          "title": "Unit & Feature tests",
+          "description": "مباحث و تمرین‌های مرتبط با «Unit & Feature tests».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Testing: Getting Started",
+          "type": "article",
+          "url": "https://laravel.com/docs/12.x/testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Unit TestHow to Get Started with Unit Testing in Laravel",
+          "type": "article",
+          "url": "https://betterstack.com/community/guides/testing/laravel-unit-testing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Unit Testing in Laravel: A Practical Approach for Developers",
+          "type": "article",
+          "url": "https://dev.to/arafatweb/unit-testing-in-laravel-a-practical-approach-for-developers-7oa",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Testing 01/24: Why Test Your Code Automatically?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=BuDger5Ytbc&list=PLdXLsjL7A9k0esh2qNCtUMsGPLUWdLjHp&index=1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Feature or Unit Tests: The Difference",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0bVlUy2L9tM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "queues-jobs",
+      "title": "Queues & Jobs",
+      "description": "مباحث و تمرین‌های مرتبط با «Queues & Jobs».",
+      "order": 37,
+      "children": [
+        {
+          "id": "queues-jobs-item",
+          "title": "Queues & Jobs",
+          "description": "مباحث و تمرین‌های مرتبط با «Queues & Jobs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Queues",
+          "type": "article",
+          "url": "https://laravel.com/docs/queues",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Creating Jobs",
+          "type": "article",
+          "url": "https://laravel.com/docs/queues#creating-jobs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Use Queueing in Laravel",
+          "type": "article",
+          "url": "https://www.twilio.com/en-us/blog/queueing-in-laravel",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Queue Jobs",
+          "type": "article",
+          "url": "https://medium.com/@hossamsoliuman/laravel-queue-jobs-4dec9ccf0ae7",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Queues in Laravel: Main Things You Need to Know (Two Examples)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=D5tr7r2_i7E",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "events-listeners",
+      "title": "Events & Listeners",
+      "description": "مباحث و تمرین‌های مرتبط با «Events & Listeners».",
+      "order": 38,
+      "children": [
+        {
+          "id": "events-listeners-item",
+          "title": "Events & Listeners",
+          "description": "مباحث و تمرین‌های مرتبط با «Events & Listeners».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Events",
+          "type": "article",
+          "url": "https://laravel.com/docs/events",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Events, Listeners and Observers Complete Guide",
+          "type": "article",
+          "url": "https://muwangaxyz.medium.com/laravel-events-listeners-and-observers-complete-guide-06196203b2a8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started with Laravel Events and Listeners",
+          "type": "article",
+          "url": "https://neon.com/guides/laravel-events-and-listeners",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Let's talk about Events and Listeners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_8Rrq_RtaB0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "09 - Events & Listeners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=K66ulWMj_O0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "notifications",
+      "title": "Notifications",
+      "description": "مباحث و تمرین‌های مرتبط با «Notifications».",
+      "order": 39,
+      "children": [
+        {
+          "id": "notifications-item",
+          "title": "Notifications",
+          "description": "مباحث و تمرین‌های مرتبط با «Notifications».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Notifications",
+          "type": "article",
+          "url": "https://laravel.com/docs/notifications",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Notifications: dynamic channels, priority, and delayed sending",
+          "type": "article",
+          "url": "https://crnkovic.me/laravel-notifications-on-steroids",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to create notifications in Laravel",
+          "type": "article",
+          "url": "https://www.honeybadger.io/blog/php-laravel-notifications/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Should You Use a Notification or a Mailable?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=GGZF9E9mM_E",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Notifications: \"Database\" Driver - Demo Project",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5DREuAvFnps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "task-schedulling",
+      "title": "Task Schedulling",
+      "description": "مباحث و تمرین‌های مرتبط با «Task Schedulling».",
+      "order": 40,
+      "children": [
+        {
+          "id": "task-schedulling-item",
+          "title": "Task Schedulling",
+          "description": "مباحث و تمرین‌های مرتبط با «Task Schedulling».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Task Schedulling",
+          "type": "article",
+          "url": "https://laravel.com/docs/12.x/scheduling",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Streamlining Application Automation with Laravel's Task Scheduler",
+          "type": "article",
+          "url": "https://laravel-news.com/task-scheduler",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Complete Guide to Task Scheduling in Laravel",
+          "type": "article",
+          "url": "http://betterstack.com/community/guides/scaling-php/laravel-task-scheduling/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Task Scheduling: Run Artisan Command Hourly",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=r-KrsQ0dN80",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Scheduler: 5 \"Tricks\" You May Not Know",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=KBAIWP8wfyQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "file-storage",
+      "title": "File Storage",
+      "description": "مباحث و تمرین‌های مرتبط با «File Storage».",
+      "order": 41,
+      "children": [
+        {
+          "id": "file-storage-item",
+          "title": "File Storage",
+          "description": "مباحث و تمرین‌های مرتبط با «File Storage».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "File Storage",
+          "type": "article",
+          "url": "https://laravel.com/docs/12.x/filesystem",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Master Laravel File Storage Retrieval in Minutes",
+          "type": "article",
+          "url": "https://dev.to/dosenngoding/master-laravel-file-storage-retrieval-in-minutes-4n3g",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel 12 File Storage",
+          "type": "article",
+          "url": "https://kritimyantra.com/blogs/laravel-12-file-storage",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "File Upload in Laravel: Main Things You Need To Know",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=xN-CF7dzeyM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Storage | let's learn storage by creating a simple file explorer simulator",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=m9CSLR8EGzM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "localization",
+      "title": "Localization",
+      "description": "مباحث و تمرین‌های مرتبط با «Localization».",
+      "order": 42,
+      "children": [
+        {
+          "id": "localization-item",
+          "title": "Localization",
+          "description": "مباحث و تمرین‌های مرتبط با «Localization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Localization",
+          "type": "article",
+          "url": "https://laravel.com/docs/localization#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel localization: A step-by-step guide with examples",
+          "type": "article",
+          "url": "https://lokalise.com/blog/laravel-localization-step-by-step/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Localization Tutorial: Step-by-Step Guide for Multi-Language Apps | Laravel i18n & l10n",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SOvHYMN-rw8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro - Laravel Multi-Language Tutorial ep-01",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=zhkvXc7wJZE&list=PL6tf8fRbavl0RUNYSOMfl09lXCs5EPmj5&index=1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "facades",
+      "title": "Facades",
+      "description": "مباحث و تمرین‌های مرتبط با «Facades».",
+      "order": 43,
+      "children": [
+        {
+          "id": "facades-item",
+          "title": "Facades",
+          "description": "مباحث و تمرین‌های مرتبط با «Facades».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Facades",
+          "type": "article",
+          "url": "http://laravel.com/docs/facades#main-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn how to create custom Facades in Laravel",
+          "type": "article",
+          "url": "https://laravel-news.com/laravel-facades",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel - Facades",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/laravel/laravel_facades.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What in the world is a Facade?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=gpn_4tWz1w8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Are Laravel Facades and How Do They Work? | Learn Laravel The Right Way",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5LtSVmKx25s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "package-management",
+      "title": "Package Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Package Management».",
+      "order": 44,
+      "children": [
+        {
+          "id": "package-management-item",
+          "title": "Package Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Package Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Package Development",
+          "type": "article",
+          "url": "https://laravel.com/docs/packages",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Step by Step Guide to Custom Laravel Package Development",
+          "type": "article",
+          "url": "https://www.monocubed.com/blog/laravel-package-development/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Laravel Package Management: Bundling & Distribution Simplified",
+          "type": "article",
+          "url": "https://homeville.tech/laravel-package-management-bundling-distribution-simplified-b2326fa24d39",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Build a Laravel Package 📦",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QsA5mdzKXLA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Create Laravel Package: 4 Free Lessons From the Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=gqYIxv7PXxQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

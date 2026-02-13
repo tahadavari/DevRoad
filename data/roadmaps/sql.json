@@ -1,0 +1,1001 @@
+{
+  "slug": "sql",
+  "title": "SQL",
+  "description": "Step by step guide to learning SQL in 2026",
+  "steps": [
+    {
+      "id": "learn-the-basics",
+      "title": "Learn the Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn the Basics».",
+      "order": 1,
+      "children": [
+        {
+          "id": "sql-vs-nosql-databases",
+          "title": "SQL vs NoSQL Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «SQL vs NoSQL Databases».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Understanding SQL vs NoSQL Databases",
+              "type": "article",
+              "url": "https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL vs NoSQL Databases in 4 mins",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=_Ss42Vb1SU4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-are-relational-databases",
+          "title": "What are Relational Databases?",
+          "description": "مباحث و تمرین‌های مرتبط با «What are Relational Databases?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is a relational database - AWS",
+              "type": "article",
+              "url": "https://aws.amazon.com/relational-database/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a relational database?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=OqjJjpjDRLc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "rdbms-benefits-and-limitations",
+          "title": "RDBMS Benefits and Limitations",
+          "description": "مباحث و تمرین‌های مرتبط با «RDBMS Benefits and Limitations».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Advantages and Disadvantages of DBMS",
+              "type": "article",
+              "url": "https://cloud.google.com/learn/what-is-a-relational-database",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "SQL Tutorial - Mode",
+          "type": "article",
+          "url": "https://mode.com/sql-tutorial/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SQL Tutorial",
+          "type": "article",
+          "url": "https://www.sqltutorial.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-sql-syntax",
+      "title": "Basic SQL Syntax",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic SQL Syntax».",
+      "order": 2,
+      "children": [
+        {
+          "id": "sql-keywords",
+          "title": "SQL Keywords",
+          "description": "مباحث و تمرین‌های مرتبط با «SQL Keywords».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "SQL Keywords, Operators and Statements",
+              "type": "article",
+              "url": "https://blog.hubspot.com/website/sql-keywords-operators-statements",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-types",
+          "title": "Data Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Types».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "SQL Data Types",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/sql-data-types",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MySQL 101 - Data Types",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=vAiBa69YCnk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "operators",
+          "title": "Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Operators».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "SQL Operators: 6 Different Types",
+              "type": "article",
+              "url": "https://dataengineeracademy.com/blog/sql-operators-6-different-types-code-examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "SQL Tutorial - Mode",
+          "type": "article",
+          "url": "https://mode.com/sql-tutorial/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SQL Tutorial",
+          "type": "article",
+          "url": "https://www.sqltutorial.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-definition-language-ddl",
+      "title": "Data Definition Language (DDL)",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Definition Language (DDL)».",
+      "order": 3,
+      "children": [
+        {
+          "id": "data-definition-language-ddl-item",
+          "title": "Data Definition Language (DDL)",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Definition Language (DDL)».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Definition Language (DDL)",
+          "type": "article",
+          "url": "https://docs.getdbt.com/terms/ddl",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Definitive Guide on Data Definition Language",
+          "type": "article",
+          "url": "https://www.dbvis.com/thetable/sql-ddl-the-definitive-guide-on-data-definition-language/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-manipulation-language-dml",
+      "title": "Data Manipulation Language (DML)",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Manipulation Language (DML)».",
+      "order": 4,
+      "children": [
+        {
+          "id": "data-manipulation-language-dml-item",
+          "title": "Data Manipulation Language (DML)",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Manipulation Language (DML)».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is DML?",
+          "type": "article",
+          "url": "https://satoricyber.com/glossary/dml-data-manipulation-language",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is DML?(Wiki)",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Data_manipulation_language",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Difference Between DMS & DML",
+          "type": "article",
+          "url": "https://appmaster.io/blog/difference-between-ddl-and-dml",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "aggregate-queries",
+      "title": "Aggregate Queries",
+      "description": "مباحث و تمرین‌های مرتبط با «Aggregate Queries».",
+      "order": 5,
+      "children": [
+        {
+          "id": "min",
+          "title": "MIN",
+          "description": "مباحث و تمرین‌های مرتبط با «MIN».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "SQL MAX & MIN",
+              "type": "article",
+              "url": "https://www.programiz.com/sql/min-and-max",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "COUNT, SUM, AVG, MIN, MAX (SQL) - Aggregating Data",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=muwEdPsx534",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "count",
+          "title": "COUNT",
+          "description": "مباحث و تمرین‌های مرتبط با «COUNT».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "COUNT SQL Function",
+              "type": "article",
+              "url": "https://www.datacamp.com/tutorial/count-sql-function",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "max",
+          "title": "MAX",
+          "description": "مباحث و تمرین‌های مرتبط با «MAX».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "MAX",
+              "type": "article",
+              "url": "https://www.techonthenet.com/sql/max.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Basic Aggregate Functions",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=jcoJuc5e3RE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "group-by",
+          "title": "GROUP BY",
+          "description": "مباحث و تمرین‌های مرتبط با «GROUP BY».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "SQL GROUP BY",
+              "type": "article",
+              "url": "https://www.programiz.com/sql/group-by",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Advanced Aggregate Functions in SQL",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=nNrgRVIzeHg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "having",
+          "title": "HAVING",
+          "description": "مباحث و تمرین‌های مرتبط با «HAVING».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "SQL HAVING Clause",
+              "type": "article",
+              "url": "https://www.programiz.com/sql/having",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HAVING Clause",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tYBOMw7Ob8E",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-constraints",
+      "title": "Data Constraints",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Constraints».",
+      "order": 6,
+      "children": [
+        {
+          "id": "data-constraints-item",
+          "title": "Data Constraints",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Constraints».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "SQL Constraints",
+          "type": "article",
+          "url": "https://www.programiz.com/sql/constraints",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "join-queries",
+      "title": "JOIN Queries",
+      "description": "مباحث و تمرین‌های مرتبط با «JOIN Queries».",
+      "order": 7,
+      "children": [
+        {
+          "id": "join-queries-item",
+          "title": "JOIN Queries",
+          "description": "مباحث و تمرین‌های مرتبط با «JOIN Queries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "7 SQL JOIN Examples With Detailed Explanations",
+          "type": "article",
+          "url": "https://learnsql.com/blog/sql-join-examples-with-explanations/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Joins are easy",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=G3lJAxg1cy8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "subqueries",
+      "title": "Subqueries",
+      "description": "مباحث و تمرین‌های مرتبط با «Subqueries».",
+      "order": 8,
+      "children": [
+        {
+          "id": "nested-subqueries",
+          "title": "Nested Subqueries",
+          "description": "مباحث و تمرین‌های مرتبط با «Nested Subqueries».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Nested Subqueries",
+              "type": "article",
+              "url": "https://www.studysmarter.co.uk/explanations/computer-science/databases/nested-subqueries-in-sql/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MySQL Subqueries",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=i5acg3Hvu6g",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "correlated-subqueries",
+          "title": "Correlated Subqueries",
+          "description": "مباحث و تمرین‌های مرتبط با «Correlated Subqueries».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Correlated Subqueries",
+              "type": "article",
+              "url": "https://dev.mysql.com/doc/refman/8.4/en/correlated-subqueries.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Intro To Subqueries",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=TUxadt94L0M",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "SQL Sub Queries",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/sql/sql-sub-queries.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Advanced SQL Tutorial | Subqueries",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=m1KcNV-Zhmc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "advanced-functions",
+      "title": "Advanced Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Advanced Functions».",
+      "order": 9,
+      "children": [
+        {
+          "id": "advanced-functions-item",
+          "title": "Advanced Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Advanced Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "views",
+      "title": "Views",
+      "description": "مباحث و تمرین‌های مرتبط با «Views».",
+      "order": 10,
+      "children": [
+        {
+          "id": "views-item",
+          "title": "Views",
+          "description": "مباحث و تمرین‌های مرتبط با «Views».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Views in SQL",
+          "type": "article",
+          "url": "https://www.datacamp.com/tutorial/views-in-sql",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SQL Views Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cLSxasHg9WY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "indexes",
+      "title": "Indexes",
+      "description": "مباحث و تمرین‌های مرتبط با «Indexes».",
+      "order": 11,
+      "children": [
+        {
+          "id": "indexes-item",
+          "title": "Indexes",
+          "description": "مباحث و تمرین‌های مرتبط با «Indexes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "SQL Indexing Best Practices",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=BIlFTFrEFOI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "transactions",
+      "title": "Transactions",
+      "description": "مباحث و تمرین‌های مرتبط با «Transactions».",
+      "order": 12,
+      "children": [
+        {
+          "id": "transactions-item",
+          "title": "Transactions",
+          "description": "مباحث و تمرین‌های مرتبط با «Transactions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Transactions",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/sql/sql-transactions.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Guide to ACID Properties in Database Management Systems",
+          "type": "article",
+          "url": "https://www.mongodb.com/resources/basics/databases/acid-transactions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-integrity-security",
+      "title": "Data Integrity & Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Integrity & Security».",
+      "order": 13,
+      "children": [
+        {
+          "id": "data-integrity-security-item",
+          "title": "Data Integrity & Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Integrity & Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "stored-procedures-functions",
+      "title": "Stored Procedures & Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Stored Procedures & Functions».",
+      "order": 14,
+      "children": [
+        {
+          "id": "stored-procedures-functions-item",
+          "title": "Stored Procedures & Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Stored Procedures & Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Stored Procedure vs Functions",
+          "type": "article",
+          "url": "https://www.shiksha.com/online-courses/articles/stored-procedure-vs-function-what-are-the-differences/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "performance-optimization",
+      "title": "Performance Optimization",
+      "description": "مباحث و تمرین‌های مرتبط با «Performance Optimization».",
+      "order": 15,
+      "children": [
+        {
+          "id": "query-analysis-techniques",
+          "title": "Query Analysis Techniques",
+          "description": "مباحث و تمرین‌های مرتبط با «Query Analysis Techniques».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "EXPLAIN",
+              "type": "article",
+              "url": "https://docs.snowflake.com/en/sql-reference/sql/explain",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "EXPLAIN PLAN",
+              "type": "article",
+              "url": "https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/EXPLAIN-PLAN.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Performance Tuning SQL Queries",
+          "type": "article",
+          "url": "https://mode.com/sql-tutorial/sql-performance-tuning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SQL performance tuning",
+          "type": "article",
+          "url": "https://stackify.com/performance-tuning-in-sql-server-find-slow-queries/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "advanced-sql",
+      "title": "Advanced SQL",
+      "description": "مباحث و تمرین‌های مرتبط با «Advanced SQL».",
+      "order": 16,
+      "children": [
+        {
+          "id": "window-functions",
+          "title": "Window Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Window Functions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "SQL Window Functions",
+              "type": "article",
+              "url": "https://mode.com/sql-tutorial/sql-window-functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL Window Functions in 10 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=y1KCM8vbYe4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pivot-unpivot-operations",
+          "title": "Pivot / Unpivot Operations",
+          "description": "مباحث و تمرین‌های مرتبط با «Pivot / Unpivot Operations».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "SQL PIVOT",
+              "type": "article",
+              "url": "https://builtin.com/articles/sql-pivot",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL UNPIVOT",
+              "type": "article",
+              "url": "https://duckdb.org/docs/sql/statements/unpivot.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "recursive-queries",
+          "title": "Recursive Queries",
+          "description": "مباحث و تمرین‌های مرتبط با «Recursive Queries».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Recursive Queries in SQL",
+              "type": "article",
+              "url": "https://codedamn.com/news/sql/recursive-queries-in-sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Recursive SQL Expression Visually Explained",
+              "type": "article",
+              "url": "https://builtin.com/data-science/recursive-sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "common-table-expressions",
+          "title": "Common Table Expressions",
+          "description": "مباحث و تمرین‌های مرتبط با «Common Table Expressions».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Common Table Expressions (CTEs)",
+              "type": "article",
+              "url": "https://hightouch.com/sql-dictionary/sql-common-table-expression-cte",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Common Table Expression?",
+              "type": "article",
+              "url": "https://learnsql.com/blog/what-is-common-table-expression/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "dynamic-sql",
+          "title": "Dynamic SQL",
+          "description": "مباحث و تمرین‌های مرتبط با «Dynamic SQL».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Dynamic SQL in SQL Server",
+              "type": "article",
+              "url": "https://www.sqlshack.com/dynamic-sql-in-sql-server/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Dynamic SQL",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=01LZMCotcpY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,1746 @@
+{
+  "slug": "system-design",
+  "title": "System Design",
+  "description": "Everything you need to know about designing large scale systems.",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-system-design",
+          "title": "What is System Design?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is System Design?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "System Design: Complete Guide with Patterns, Examples, and Techniques",
+              "type": "article",
+              "url": "https://swimm.io/learn/system-design/system-design-complete-guide-with-patterns-examples-and-techniques",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A comprehensive guide to system design",
+              "type": "article",
+              "url": "https://www.crio.do/blog/a-comprehensive-guide-to-system-design/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "how-to-approach-system-design",
+          "title": "How to approach System Design?",
+          "description": "مباحث و تمرین‌های مرتبط با «How to approach System Design?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "How to approach System Design?",
+              "type": "article",
+              "url": "https://github.com/donnemartin/system-design-primer#how-to-approach-a-system-design-interview-question",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are system design questions?",
+              "type": "article",
+              "url": "https://www.hiredintech.com/system-design",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "My System Design Template",
+              "type": "article",
+              "url": "https://leetcode.com/discuss/career/229177/My-System-Design-Template",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Intro to Architecture and Systems Design Interviews",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ZgdS0EUmn70",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "performance-vs-scalability",
+      "title": "Performance vs Scalability",
+      "description": "مباحث و تمرین‌های مرتبط با «Performance vs Scalability».",
+      "order": 2,
+      "children": [
+        {
+          "id": "performance-vs-scalability-item",
+          "title": "Performance vs Scalability",
+          "description": "مباحث و تمرین‌های مرتبط با «Performance vs Scalability».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Scalability, Availability & Stability Patterns",
+          "type": "article",
+          "url": "https://www.slideshare.net/jboner/scalability-availability-stability-patterns/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Word on Scalability",
+          "type": "article",
+          "url": "https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Performance vs Scalability",
+          "type": "article",
+          "url": "https://blog.professorbeekums.com/performance-vs-scalability/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Performance",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/performance?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "latency-vs-throughput",
+      "title": "Latency vs Throughput",
+      "description": "مباحث و تمرین‌های مرتبط با «Latency vs Throughput».",
+      "order": 3,
+      "children": [
+        {
+          "id": "latency-vs-throughput-item",
+          "title": "Latency vs Throughput",
+          "description": "مباحث و تمرین‌های مرتبط با «Latency vs Throughput».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "System Design: Latency vs Throughput",
+          "type": "article",
+          "url": "https://cs.fyi/guide/latency-vs-throughput/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Latency versus Throughput",
+          "type": "article",
+          "url": "https://community.cadence.com/cadence_blogs_8/b/fv/posts/understanding-latency-vs-throughput",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Latency and Throughput - MIT",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=3HIV4MnLGCw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "availability-vs-consistency",
+      "title": "Availability vs Consistency",
+      "description": "مباحث و تمرین‌های مرتبط با «Availability vs Consistency».",
+      "order": 4,
+      "children": [
+        {
+          "id": "availability-vs-consistency-item",
+          "title": "Availability vs Consistency",
+          "description": "مباحث و تمرین‌های مرتبط با «Availability vs Consistency».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CAP FAQ",
+          "type": "article",
+          "url": "https://github.com/henryr/cap-faq",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CAP Theorem Revisited",
+          "type": "article",
+          "url": "https://robertgreiner.com/cap-theorem-revisited/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A plain english introduction to CAP Theorem",
+          "type": "article",
+          "url": "http://ksat.me/a-plain-english-introduction-to-cap-theorem",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CAP Theorem",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_RbsFXWRZ10&t=1s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "consistency-patterns",
+      "title": "Consistency Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Consistency Patterns».",
+      "order": 5,
+      "children": [
+        {
+          "id": "eventual-consistency",
+          "title": "Eventual Consistency",
+          "description": "مباحث و تمرین‌های مرتبط با «Eventual Consistency».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Consistency Patterns in Distributed Systems",
+              "type": "article",
+              "url": "https://cs.fyi/guide/consistency-patterns-week-strong-eventual/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "weak-consistency",
+          "title": "Weak Consistency",
+          "description": "مباحث و تمرین‌های مرتبط با «Weak Consistency».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Consistency Patterns in Distributed Systems",
+              "type": "article",
+              "url": "https://cs.fyi/guide/consistency-patterns-week-strong-eventual/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "strong-consistency",
+          "title": "Strong Consistency",
+          "description": "مباحث و تمرین‌های مرتبط با «Strong Consistency».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Consistency Patterns in Distributed Systems",
+              "type": "article",
+              "url": "https://cs.fyi/guide/consistency-patterns-week-strong-eventual/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Consistency Patterns in Distributed Systems",
+          "type": "article",
+          "url": "https://cs.fyi/guide/consistency-patterns-week-strong-eventual/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "availability-patterns",
+      "title": "Availability Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Availability Patterns».",
+      "order": 6,
+      "children": [
+        {
+          "id": "availability-patterns-item",
+          "title": "Availability Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Availability Patterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "High Availability in System Design – 15 Strategies for Always-On Systems",
+          "type": "article",
+          "url": "https://www.designgurus.io/blog/high-availability-system-design-basics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "System Design: Availability Patterns",
+          "type": "article",
+          "url": "https://dev.to/decoders_lord/system-design-availability-patterns-104i",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Design Patterns for High Availability: What gets you 99.999% uptime?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=LdvduBxZRLs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "background-jobs",
+      "title": "Background Jobs",
+      "description": "مباحث و تمرین‌های مرتبط با «Background Jobs».",
+      "order": 7,
+      "children": [
+        {
+          "id": "event-driven",
+          "title": "Event-Driven",
+          "description": "مباحث و تمرین‌های مرتبط با «Event-Driven».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Background Jobs - Event Driven Triggers",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#event-driven-triggers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "schedule-driven",
+          "title": "Schedule Driven",
+          "description": "مباحث و تمرین‌های مرتبط با «Schedule Driven».",
+          "order": 2,
+          "children": [
+            {
+              "id": "returning-results",
+              "title": "Returning Results",
+              "description": "مباحث و تمرین‌های مرتبط با «Returning Results».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Schedule Driven - Background Jobs",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#schedule-driven-triggers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Background Jobs - Best Practices",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "domain-name-system",
+      "title": "Domain Name System",
+      "description": "مباحث و تمرین‌های مرتبط با «Domain Name System».",
+      "order": 8,
+      "children": [
+        {
+          "id": "domain-name-system-item",
+          "title": "Domain Name System",
+          "description": "مباحث و تمرین‌های مرتبط با «Domain Name System».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Getting started with Domain Name System",
+          "type": "article",
+          "url": "https://github.com/donnemartin/system-design-primer#domain-name-system",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is DNS?",
+          "type": "article",
+          "url": "https://www.cloudflare.com/learning/dns/what-is-dns/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "content-delivery-networks",
+      "title": "Content Delivery Networks",
+      "description": "مباحث و تمرین‌های مرتبط با «Content Delivery Networks».",
+      "order": 9,
+      "children": [
+        {
+          "id": "pull-cdns",
+          "title": "Pull CDNs",
+          "description": "مباحث و تمرین‌های مرتبط با «Pull CDNs».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Introduction to CDNs",
+              "type": "article",
+              "url": "https://github.com/donnemartin/system-design-primer#content-delivery-network",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Differences Between Push And Pull CDNs",
+              "type": "article",
+              "url": "http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "push-cdns",
+          "title": "Push CDNs",
+          "description": "مباحث و تمرین‌های مرتبط با «Push CDNs».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Introduction to CDNs",
+              "type": "article",
+              "url": "https://github.com/donnemartin/system-design-primer#content-delivery-network",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to CDNs",
+          "type": "article",
+          "url": "https://github.com/donnemartin/system-design-primer#content-delivery-network",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Differences Between Push And Pull CDNs",
+          "type": "article",
+          "url": "http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Brief about Content delivery network",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Content_delivery_network",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "load-balancers",
+      "title": "Load Balancers",
+      "description": "مباحث و تمرین‌های مرتبط با «Load Balancers».",
+      "order": 10,
+      "children": [
+        {
+          "id": "lb-vs-reverse-proxy",
+          "title": "LB vs Reverse Proxy",
+          "description": "مباحث و تمرین‌های مرتبط با «LB vs Reverse Proxy».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Reverse Proxy vs Load Balancer",
+              "type": "article",
+              "url": "https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "NGINX Architecture",
+              "type": "article",
+              "url": "https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HAProxy Architecture Guide",
+              "type": "article",
+              "url": "http://www.haproxy.org/download/1.2/doc/architecture.txt",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Reverse Proxy",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Reverse_proxy",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "load-balancing-algorithms",
+          "title": "Load Balancing Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Load Balancing Algorithms».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Types of Load Balancing Algorithms",
+              "type": "article",
+              "url": "https://www.cloudflare.com/learning/performance/types-of-load-balancing-algorithms/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Algorithms",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/algorithms?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "layer-7-load-balancing",
+          "title": "Layer 7 Load Balancing",
+          "description": "مباحث و تمرین‌های مرتبط با «Layer 7 Load Balancing».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "layer-4-load-balancing",
+          "title": "Layer 4 Load Balancing",
+          "description": "مباحث و تمرین‌های مرتبط با «Layer 4 Load Balancing».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Layer 4 Load Balancing",
+              "type": "article",
+              "url": "https://www.f5.com/glossary/layer-4-load-balancing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "horizontal-scaling",
+          "title": "Horizontal Scaling",
+          "description": "مباحث و تمرین‌های مرتبط با «Horizontal Scaling».",
+          "order": 5,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Scalability",
+          "type": "article",
+          "url": "https://cs.fyi/guide/scalability-for-dummies",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NGINX Architecture",
+          "type": "article",
+          "url": "https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HAProxy Architecture Guide",
+          "type": "article",
+          "url": "http://www.haproxy.org/download/1.2/doc/architecture.txt",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "application-layer",
+      "title": "Application Layer",
+      "description": "مباحث و تمرین‌های مرتبط با «Application Layer».",
+      "order": 11,
+      "children": [
+        {
+          "id": "service-discovery",
+          "title": "Service Discovery",
+          "description": "مباحث و تمرین‌های مرتبط با «Service Discovery».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Intro to Service Discovery",
+              "type": "article",
+              "url": "https://github.com/donnemartin/system-design-primer#Service-Discovery",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Service-oriented architecture?",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Service-oriented_architecture",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Architecture",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/architecture?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Intro to architecting systems for scale",
+          "type": "article",
+          "url": "http://lethain.com/introduction-to-architecting-systems-for-scale/#platform_layer",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "databases",
+      "title": "Databases",
+      "description": "مباحث و تمرین‌های مرتبط با «Databases».",
+      "order": 12,
+      "children": [
+        {
+          "id": "sql-vs-nosql",
+          "title": "SQL vs NoSQL",
+          "description": "مباحث و تمرین‌های مرتبط با «SQL vs NoSQL».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "SQL vs NoSQL: The Differences",
+              "type": "article",
+              "url": "https://www.sitepoint.com/sql-vs-nosql-differences/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL vs. NoSQL Databases: What’s the Difference?",
+              "type": "article",
+              "url": "https://www.ibm.com/blog/sql-vs-nosql/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "NoSQL vs. SQL Databases",
+              "type": "article",
+              "url": "https://www.mongodb.com/nosql-explained/nosql-vs-sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about NoSQL",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/nosql?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Scaling up to your first 10 million users",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=kKjm4ehYiMs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Backend Development",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "caching",
+      "title": "Caching",
+      "description": "مباحث و تمرین‌های مرتبط با «Caching».",
+      "order": 13,
+      "children": [
+        {
+          "id": "caching-item",
+          "title": "Caching",
+          "description": "مباحث و تمرین‌های مرتبط با «Caching».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Caching Strategies",
+          "type": "article",
+          "url": "https://medium.com/@mmoshikoo/cache-strategies-996e91c80303",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "asynchronism",
+      "title": "Asynchronism",
+      "description": "مباحث و تمرین‌های مرتبط با «Asynchronism».",
+      "order": 14,
+      "children": [
+        {
+          "id": "task-queues",
+          "title": "Task Queues",
+          "description": "مباحث و تمرین‌های مرتبط با «Task Queues».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Celery - Distributed Task Queue",
+              "type": "article",
+              "url": "https://docs.celeryq.dev/en/stable/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "message-queues",
+          "title": "Message Queues",
+          "description": "مباحث و تمرین‌های مرتبط با «Message Queues».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is Redis?",
+              "type": "article",
+              "url": "https://redis.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "RabbitMQ in Message Queues",
+              "type": "article",
+              "url": "https://www.rabbitmq.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Overview of Amazon SQS",
+              "type": "article",
+              "url": "https://aws.amazon.com/sqs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Apache Kafka",
+              "type": "article",
+              "url": "https://kafka.apache.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "RabbitMQ for beginners",
+              "type": "article",
+              "url": "https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "back-pressure",
+          "title": "Back Pressure",
+          "description": "مباحث و تمرین‌های مرتبط با «Back Pressure».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Patterns for microservices - Sync vs Async",
+          "type": "article",
+          "url": "https://medium.com/inspiredbrilliance/patterns-for-microservices-e57a2d71ff9e",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Applying back pressure when overloaded",
+          "type": "article",
+          "url": "http://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Little's law",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Little%27s_law",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is the difference between a message queue and a task queue?",
+          "type": "article",
+          "url": "https://www.quora.com/What-is-the-difference-between-a-message-queue-and-a-task-queue-Why-would-a-task-queue-require-a-message-broker-like-RabbitMQ-Redis-Celery-or-IronMQ-to-function",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "It's all a numbers game",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1KRYH75wgy4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "communication",
+      "title": "Communication",
+      "description": "مباحث و تمرین‌های مرتبط با «Communication».",
+      "order": 15,
+      "children": [
+        {
+          "id": "udp",
+          "title": "UDP",
+          "description": "مباحث و تمرین‌های مرتبط با «UDP».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Networking for game programming",
+              "type": "article",
+              "url": "http://gafferongames.com/networking-for-game-programmers/udp-vs-tcp/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Key differences between TCP and UDP protocols",
+              "type": "article",
+              "url": "http://www.cyberciti.biz/faq/key-differences-between-tcp-and-udp-protocols/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Difference between TCP and UDP",
+              "type": "article",
+              "url": "http://stackoverflow.com/questions/5970383/difference-between-tcp-and-udp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Transmission control protocol",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Transmission_Control_Protocol",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "User datagram protocol",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/User_Datagram_Protocol",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Scaling memcache at Facebook",
+              "type": "article",
+              "url": "http://www.cs.bu.edu/~jappavoo/jappavoo.github.com/451/papers/memcache-fb.pdf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "idempotent-operations",
+      "title": "Idempotent Operations",
+      "description": "مباحث و تمرین‌های مرتبط با «Idempotent Operations».",
+      "order": 16,
+      "children": [
+        {
+          "id": "idempotent-operations-item",
+          "title": "Idempotent Operations",
+          "description": "مباحث و تمرین‌های مرتبط با «Idempotent Operations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is an idempotent operation?",
+          "type": "article",
+          "url": "https://stackoverflow.com/questions/1077412/what-is-an-idempotent-operation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Overview of Idempotent Operation",
+          "type": "article",
+          "url": "https://www.baeldung.com/cs/idempotent-operations",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "performance-antipatterns",
+      "title": "Performance Antipatterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Performance Antipatterns».",
+      "order": 17,
+      "children": [
+        {
+          "id": "performance-antipatterns-item",
+          "title": "Performance Antipatterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Performance Antipatterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Performance antipatterns for cloud applications",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/antipatterns/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Performance",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/performance?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "monitoring",
+      "title": "Monitoring",
+      "description": "مباحث و تمرین‌های مرتبط با «Monitoring».",
+      "order": 18,
+      "children": [
+        {
+          "id": "security-monitoring",
+          "title": "Security Monitoring",
+          "description": "مباحث و تمرین‌های مرتبط با «Security Monitoring».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Security Monitoring",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#security-monitoring",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Monitoring",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "health-monitoring",
+          "title": "Health Monitoring",
+          "description": "مباحث و تمرین‌های مرتبط با «Health Monitoring».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Health Monitoring of a System",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#health-monitoring",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Monitoring",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "availability-monitoring",
+          "title": "Availability Monitoring",
+          "description": "مباحث و تمرین‌های مرتبط با «Availability Monitoring».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Availability Monitoring",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#availability-monitoring",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Monitoring",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "performance-monitoring",
+          "title": "Performance Monitoring",
+          "description": "مباحث و تمرین‌های مرتبط با «Performance Monitoring».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Performance Monitoring",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#performance-monitoring",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Monitoring",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "usage-monitoring",
+          "title": "Usage Monitoring",
+          "description": "مباحث و تمرین‌های مرتبط با «Usage Monitoring».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Usage Monitoring",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#usage-monitoring",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Monitoring",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "instrumentation",
+          "title": "Instrumentation",
+          "description": "مباحث و تمرین‌های مرتبط با «Instrumentation».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Instrumenting an application",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#instrumenting-an-application",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Instrumenting using Open Telemetry",
+              "type": "article",
+              "url": "https://opentelemetry.io/docs/concepts/what-is-opentelemetry",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "visualization-alerts",
+          "title": "Visualization & Alerts",
+          "description": "مباحث و تمرین‌های مرتبط با «Visualization & Alerts».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Visualize Data and Raise Alerts",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring#visualizing-data-and-raising-alerts",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Monitoring and Diagnostics Guidance",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Monitoring",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cloud-design-patterns",
+      "title": "Cloud Design Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Cloud Design Patterns».",
+      "order": 19,
+      "children": [
+        {
+          "id": "cloud-design-patterns-item",
+          "title": "Cloud Design Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Cloud Design Patterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloud Design Patterns",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Cloud",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/cloud?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "design-implementation",
+      "title": "Design & Implementation",
+      "description": "مباحث و تمرین‌های مرتبط با «Design & Implementation».",
+      "order": 20,
+      "children": [
+        {
+          "id": "design-implementation-item",
+          "title": "Design & Implementation",
+          "description": "مباحث و تمرین‌های مرتبط با «Design & Implementation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Design and implementation patterns",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/category/design-implementation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "messaging",
+      "title": "Messaging",
+      "description": "مباحث و تمرین‌های مرتبط با «Messaging».",
+      "order": 21,
+      "children": [
+        {
+          "id": "messaging-item",
+          "title": "Messaging",
+          "description": "مباحث و تمرین‌های مرتبط با «Messaging».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Messaging Cloud Patterns",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/category/messaging",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-management",
+      "title": "Data Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Management».",
+      "order": 22,
+      "children": [
+        {
+          "id": "data-management-item",
+          "title": "Data Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data management patterns",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/category/data-management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Data Management",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/data-management?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "reliability-patterns",
+      "title": "Reliability Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Reliability Patterns».",
+      "order": 23,
+      "children": [
+        {
+          "id": "reliability-patterns-item",
+          "title": "Reliability Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Reliability Patterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Reliability Patterns",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "availability",
+      "title": "Availability",
+      "description": "مباحث و تمرین‌های مرتبط با «Availability».",
+      "order": 24,
+      "children": [
+        {
+          "id": "availability-item",
+          "title": "Availability",
+          "description": "مباحث و تمرین‌های مرتبط با «Availability».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Availability Patterns",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns#availability",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "high-availability",
+      "title": "High Availability",
+      "description": "مباحث و تمرین‌های مرتبط با «High Availability».",
+      "order": 25,
+      "children": [
+        {
+          "id": "high-availability-item",
+          "title": "High Availability",
+          "description": "مباحث و تمرین‌های مرتبط با «High Availability».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "High availability Patterns",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns#high-availability",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "resiliency",
+      "title": "Resiliency",
+      "description": "مباحث و تمرین‌های مرتبط با «Resiliency».",
+      "order": 26,
+      "children": [
+        {
+          "id": "resiliency-item",
+          "title": "Resiliency",
+          "description": "مباحث و تمرین‌های مرتبط با «Resiliency».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Resiliency Patterns",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns#resiliency",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Security».",
+      "order": 27,
+      "children": [
+        {
+          "id": "security-item",
+          "title": "Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Security patterns",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/architecture/framework/security/security-patterns",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Security",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/security?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

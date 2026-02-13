@@ -1,0 +1,2070 @@
+{
+  "slug": "ruby-on-rails",
+  "title": "Ruby on Rails",
+  "description": "Step-by-step guide to become a Ruby on Rails Developer in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "how-the-web-works",
+          "title": "How the web works",
+          "description": "مباحث و تمرین‌های مرتبط با «How the web works».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "why-web-frameworks",
+          "title": "Why Web Frameworks?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why Web Frameworks?».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "mvc-architecture",
+          "title": "MVC architecture",
+          "description": "مباحث و تمرین‌های مرتبط با «MVC architecture».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "mariadb",
+          "title": "MariaDB",
+          "description": "مباحث و تمرین‌های مرتبط با «MariaDB».",
+          "order": 4,
+          "children": [
+            {
+              "id": "hotwire",
+              "title": "Hotwire",
+              "description": "مباحث و تمرین‌های مرتبط با «Hotwire».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Configuring a MySQL or MariaDB Database",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/configuring.html#configuring-a-mysql-or-mariadb-database",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Connector/Ruby Guide",
+              "type": "article",
+              "url": "https://mariadb.com/docs/connectors/connectors-quickstart-guides/connector-ruby-guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Howto Set Up MariaDB For Rails Development",
+              "type": "article",
+              "url": "https://myrtana.sk/articles/howto-set-up-mariadb-for-rails-development",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "setting-up-ruby-on-rails",
+      "title": "Setting up Ruby on Rails",
+      "description": "مباحث و تمرین‌های مرتبط با «Setting up Ruby on Rails».",
+      "order": 2,
+      "children": [
+        {
+          "id": "setting-up-ruby-on-rails-item",
+          "title": "Setting up Ruby on Rails",
+          "description": "مباحث و تمرین‌های مرتبط با «Setting up Ruby on Rails».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "request-reponse-flow",
+      "title": "Request Reponse Flow",
+      "description": "مباحث و تمرین‌های مرتبط با «Request Reponse Flow».",
+      "order": 3,
+      "children": [
+        {
+          "id": "request-reponse-flow-item",
+          "title": "Request Reponse Flow",
+          "description": "مباحث و تمرین‌های مرتبط با «Request Reponse Flow».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "routing-fundamentals",
+      "title": "Routing Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «Routing Fundamentals».",
+      "order": 4,
+      "children": [
+        {
+          "id": "routing-fundamentals-item",
+          "title": "Routing Fundamentals",
+          "description": "مباحث و تمرین‌های مرتبط با «Routing Fundamentals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "controllers",
+      "title": "Controllers",
+      "description": "مباحث و تمرین‌های مرتبط با «Controllers».",
+      "order": 5,
+      "children": [
+        {
+          "id": "creating-controllers",
+          "title": "Creating Controllers",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating Controllers».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Creating a Controller",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/action_controller_overview.html#creating-a-controller",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to Controllers in Rails",
+              "type": "article",
+              "url": "https://codesignal.com/learn/courses/ruby-on-rails-basics/lessons/controllers-in-rails",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Controllers - Ruby on Rails - The Odin Project",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=2isr-7DdoYE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "controller-actions",
+          "title": "Controller Actions",
+          "description": "مباحث و تمرین‌های مرتبط با «Controller Actions».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Action Controller Overview",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/action_controller_overview.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to Controllers in Rails",
+              "type": "article",
+              "url": "https://codesignal.com/learn/courses/ruby-on-rails-basics/lessons/controllers-in-rails",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "strong-parameters",
+          "title": "(Strong) Parameters",
+          "description": "مباحث و تمرین‌های مرتبط با «(Strong) Parameters».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Parameters",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/action_controller_overview.html#parameters",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Strong Parameters",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/action_controller_overview.html#strong-parameters",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rails Params: Where do they come from?",
+              "type": "article",
+              "url": "https://medium.com/launch-school/params-in-rails-where-do-they-come-from-b172cdb46eb4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How the Rails params hash works",
+              "type": "article",
+              "url": "https://www.honeybadger.io/blog/how-the-rails-params-hash-works/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Rails Params & How to Use Them",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=01xF2U2oA2M",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ruby On Rails - Strong Parameters in Your Controllers",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Z8IrqXK86UM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "controller-callbacks-filters",
+          "title": "Controller Callbacks (filters)",
+          "description": "مباحث و تمرین‌های مرتبط با «Controller Callbacks (filters)».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Controller Callbacks",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/action_controller_overview.html#controller-callbacks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Simple Guide to before_action Callbacks in Ruby on Rails",
+              "type": "article",
+              "url": "https://medium.com/@havanurkara55/a-simple-guide-to-before-action-callbacks-in-ruby-on-rails-fb068fb533d7",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rails \"around_action\" : a less used callback",
+              "type": "article",
+              "url": "https://dev.to/moltenhead/rails-aroundaction-a-less-used-callback-10cf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ActionController callbacks in Rails",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SnRq1_VXVVc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sessions",
+          "title": "Sessions",
+          "description": "مباحث و تمرین‌های مرتبط با «Sessions».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Session",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/action_controller_overview.html#session",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Sessions and Cookies in Rails: A Comprehensive Guide",
+              "type": "article",
+              "url": "https://medium.com/@carriekarft/mastering-sessions-and-cookies-in-rails-a-comprehensive-guide-0446422d7b22",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cookies & Sessions in Rails",
+              "type": "article",
+              "url": "https://dev.to/matthewkohn/cookies-sessions-in-rails-54b8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rails Cookies and Session",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=iOR-9fMMmLM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Action Controller Overview",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/action_controller_overview.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Controllers",
+          "type": "article",
+          "url": "https://www.theodinproject.com/lessons/ruby-on-rails-controllers",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby on Rails Controller Patterns and Anti-patterns",
+          "type": "article",
+          "url": "https://blog.appsignal.com/2021/04/14/ruby-on-rails-controller-patterns-and-anti-patterns.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How I keep my Rails controllers organized",
+          "type": "article",
+          "url": "https://www.codewithjason.com/keep-rails-controllers-organized/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Controllers - Ruby on Rails - The Odin Project",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=2isr-7DdoYE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Fun With The Controller - Ruby On Rails Friend List App #11",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SErZhMh2o30",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "models",
+      "title": "Models",
+      "description": "مباحث و تمرین‌های مرتبط با «Models».",
+      "order": 6,
+      "children": [
+        {
+          "id": "models-item",
+          "title": "Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Models».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Active Record Basics",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/active_record_basics.html#creating-active-record-models",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rails models",
+          "type": "article",
+          "url": "https://www.theodinproject.com/lessons/ruby-on-rails-active-record-basics#rails-models",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ruby on Rails - Models",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/ruby-on-rails/rails-models.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Rails Model Introduction I Wish I Had",
+          "type": "article",
+          "url": "https://www.maxwellantonucci.com/posts/2020/04/07/rails-model-intro-wish-i-had/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rails models cheatsheet",
+          "type": "article",
+          "url": "https://devhints.io/rails-models",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Use Active Record: An Introduction For Beginner Rails Developers",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-zQdVV7D4w8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "active-record",
+      "title": "Active Record",
+      "description": "مباحث و تمرین‌های مرتبط با «Active Record».",
+      "order": 7,
+      "children": [
+        {
+          "id": "active-record-item",
+          "title": "Active Record",
+          "description": "مباحث و تمرین‌های مرتبط با «Active Record».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Active Record Query Interface",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/active_record_querying.html#what-is-the-active-record-query-interface-questionmark",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Active Record Queries",
+          "type": "article",
+          "url": "https://www.theodinproject.com/lessons/ruby-on-rails-active-record-queries",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Advanced Queries in ActiveRecord for Ruby on Rails",
+          "type": "article",
+          "url": "https://blog.appsignal.com/2025/02/26/advanced-queries-in-activerecord-for-ruby-on-rails.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ep 4. Active Record explained | Rails New Tutorial with Typecraft",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=n0TPEsKE9v0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "databases",
+      "title": "Databases",
+      "description": "مباحث و تمرین‌های مرتبط با «Databases».",
+      "order": 8,
+      "children": [
+        {
+          "id": "migrations",
+          "title": "Migrations",
+          "description": "مباحث و تمرین‌های مرتبط با «Migrations».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Active Record Migrations",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/active_record_migrations.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Migrations",
+              "type": "article",
+              "url": "https://www.theodinproject.com/lessons/ruby-on-rails-migrations",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to create Active Record migrations in Ruby on Rails",
+              "type": "article",
+              "url": "https://learnetto.com/tutorials/how-to-create-active-record-migrations-in-ruby-on-rails",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A quick guide on database migrations in Ruby on Rails",
+              "type": "article",
+              "url": "https://dev.to/dumebii/quick-guide-to-migrations-in-ruby-on-rails-for-beginners-4gmb",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use Migrations in Rails (Step-by-Step)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=1DaO6F8-Qdc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "transactions",
+          "title": "Transactions",
+          "description": "مباحث و تمرین‌های مرتبط با «Transactions».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Active Record Transactions",
+              "type": "article",
+              "url": "https://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is A Transaction?",
+              "type": "article",
+              "url": "https://www.honeybadger.io/blog/database-transactions-rails-activerecord/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rails transactions: The Complete Guide",
+              "type": "article",
+              "url": "https://medium.com/@kristenrogers.kr75/rails-transactions-the-complete-guide-7b5c00c604fc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "107.ActiveRecord Transactions in depth",
+              "type": "article",
+              "url": "https://courses.bigbinaryacademy.com/learn-rubyonrails/activerecord-transactions-in-depth/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "5 Tips to Design Ruby on Rails Transactions the Right Way",
+              "type": "article",
+              "url": "https://blog.appsignal.com/2022/03/30/5-tips-to-design-ruby-on-rails-transactions-the-right-way.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "postgresql",
+          "title": "PostgreSQL",
+          "description": "مباحث و تمرین‌های مرتبط با «PostgreSQL».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Visit the Dedicated PostgreSQL Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/postgresql-dba",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Configuring a PostgreSQL Database",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/configuring.html#configuring-a-postgresql-database",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Set Up Ruby on Rails with Postgres",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-set-up-ruby-on-rails-with-postgres",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting started with Ruby on Rails and Postgres on Supabase",
+              "type": "article",
+              "url": "https://supabase.com/blog/ruby-on-rails-postgres",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Use PostgreSQL with Your Ruby on Rails Application",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lLiEiBzEct8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "mariadb-2",
+          "title": "MariaDB",
+          "description": "مباحث و تمرین‌های مرتبط با «MariaDB».",
+          "order": 4,
+          "children": [
+            {
+              "id": "hotwire-2",
+              "title": "Hotwire",
+              "description": "مباحث و تمرین‌های مرتبط با «Hotwire».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Configuring a MySQL or MariaDB Database",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/configuring.html#configuring-a-mysql-or-mariadb-database",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Connector/Ruby Guide",
+              "type": "article",
+              "url": "https://mariadb.com/docs/connectors/connectors-quickstart-guides/connector-ruby-guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Howto Set Up MariaDB For Rails Development",
+              "type": "article",
+              "url": "https://myrtana.sk/articles/howto-set-up-mariadb-for-rails-development",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Configuring a Database",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/configuring.html#configuring-a-database",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Multiple Databases with Active Record",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/active_record_multiple_databases.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Setting Up and Managing Databases in Ruby on Rails",
+          "type": "article",
+          "url": "https://bhartee-tech-ror.medium.com/setting-up-and-managing-databases-in-ruby-on-rails-72885f9f1164",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Rails database.yml File",
+          "type": "article",
+          "url": "https://dev.to/andreimaxim/the-rails-databaseyml-file-4dm9",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Configure Multiple Databases with Rails",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=aOsffm22T8I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "action-views",
+      "title": "Action Views",
+      "description": "مباحث و تمرین‌های مرتبط با «Action Views».",
+      "order": 9,
+      "children": [
+        {
+          "id": "rendering-views",
+          "title": "Rendering Views",
+          "description": "مباحث و تمرین‌های مرتبط با «Rendering Views».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Layouts and Rendering in Rails",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/layouts_and_rendering.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Action View Overview",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/action_view_overview.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Views",
+          "type": "article",
+          "url": "https://www.theodinproject.com/lessons/ruby-on-rails-views#introduction",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rails Views — The V in MVC",
+          "type": "article",
+          "url": "https://medium.com/@tafby88/rails-views-the-v-in-mvc-71e04d017791",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Action View in Rails",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=n2X_75Jja1A",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pagination",
+      "title": "Pagination",
+      "description": "مباحث و تمرین‌های مرتبط با «Pagination».",
+      "order": 10,
+      "children": [
+        {
+          "id": "pagy",
+          "title": "Pagy",
+          "description": "مباحث و تمرین‌های مرتبط با «Pagy».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Pagy",
+              "type": "article",
+              "url": "https://ddnexus.github.io/pagy/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "pagy",
+              "type": "article",
+              "url": "https://github.com/ddnexus/pagy",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A step-by-step guide to paginate your Rails app with Pagy gem",
+              "type": "article",
+              "url": "https://medium.com/@barrosgiovanni1/a-step-by-step-guide-to-paginate-your-rails-app-with-pagy-gem-d177c42a43a6",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Pagy Gem with Turbo for Easy Infinite Scrolling | Ruby on Rails 7 Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=4nrmf5KfD8Y",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pagination in Rails from scratch (no gems)",
+          "type": "article",
+          "url": "https://dev.to/anakbns/pagination-in-rails-from-scratch-no-gems-206f",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "caching",
+      "title": "Caching",
+      "description": "مباحث و تمرین‌های مرتبط با «Caching».",
+      "order": 11,
+      "children": [
+        {
+          "id": "caching-item",
+          "title": "Caching",
+          "description": "مباحث و تمرین‌های مرتبط با «Caching».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Caching with Rails: An Overview",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/caching_with_rails.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An Introduction to HTTP Caching in Ruby On Rails",
+          "type": "article",
+          "url": "https://blog.appsignal.com/2024/08/14/an-introduction-to-http-caching-in-ruby-on-rails.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Low Level Caching in Rails",
+          "type": "article",
+          "url": "https://www.honeybadger.io/blog/rails-low-level-caching/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Types of Caching in Rails",
+          "type": "article",
+          "url": "https://tadhao.medium.com/types-of-caching-in-rails-cba708aae679",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Fragment and Collection Cache in Ruby on Rails 7",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=t4bugdvKEag",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Easy caching with Solid Cache | Rails 8 Unpacked",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=mA6somzKYEg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "assets-pipeline",
+      "title": "Assets Pipeline",
+      "description": "مباحث و تمرین‌های مرتبط با «Assets Pipeline».",
+      "order": 12,
+      "children": [
+        {
+          "id": "advanced-asset-management",
+          "title": "Advanced Asset Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Advanced Asset Management».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Advanced Asset Management",
+              "type": "article",
+              "url": "https://guides.rubyonrails.org/asset_pipeline.html#advanced-asset-management",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Asset Pipeline",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/asset_pipeline.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Asset Pipeline",
+          "type": "article",
+          "url": "https://www.theodinproject.com/lessons/ruby-on-rails-the-asset-pipeline",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rails Asset Pipeline",
+          "type": "article",
+          "url": "https://medium.com/@tali.scheer/rails-asset-pipeline-ab441688616a",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding the Asset Pipeline in Ruby on Rails",
+          "type": "article",
+          "url": "https://webcrunch.com/posts/understanding-asset-pipeline-ruby-on-rails",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Quick and Easy Guide to the Asset Pipeline in Rails 7",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cQQH9sEhnnY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding The Rails Asset Pipeline",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=maTYAac1ESI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authentication",
+      "title": "Authentication",
+      "description": "مباحث و تمرین‌های مرتبط با «Authentication».",
+      "order": 13,
+      "children": [
+        {
+          "id": "devise",
+          "title": "Devise",
+          "description": "مباحث و تمرین‌های مرتبط با «Devise».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "devise",
+              "type": "article",
+              "url": "https://github.com/heartcombo/devise",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "An Introduction to Devise for Ruby on Rails",
+              "type": "article",
+              "url": "https://blog.appsignal.com/2023/07/12/an-introduction-to-devise-for-ruby-on-rails.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Set Up User Authentication with Devise in a Rails 7 Application",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-set-up-user-authentication-with-devise-in-a-rails-7-application",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Build a Blog with Rails Part 10: Authentication with Devise",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=dTpyInyvQ2Y",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "This New Devise API Gem Makes User Auth So Simple! | Ruby On Rails 7 Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=sLcLwVCBU0c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Authentication",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/security.html#authentication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rails Authentication: Gems vs. Recipes vs. Generators",
+          "type": "article",
+          "url": "https://masilotti.com/rails-authentication/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Authentication and Authorization in Ruby on Rails",
+          "type": "article",
+          "url": "https://medium.com/@zachlandis91/authentication-and-authorization-in-ruby-on-rails-c44c1ccea94d",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Securing your app with the default Authentication Generator | Rails 8 Unpacked",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4q1RWZABhKE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Use Authentication in Ruby on Rails 8",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=uGllXLfRx60",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authorization",
+      "title": "Authorization",
+      "description": "مباحث و تمرین‌های مرتبط با «Authorization».",
+      "order": 14,
+      "children": [
+        {
+          "id": "viewcomponent",
+          "title": "ViewComponent",
+          "description": "مباحث و تمرین‌های مرتبط با «ViewComponent».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "ViewComponent",
+              "type": "article",
+              "url": "https://viewcomponent.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "view_component",
+              "type": "article",
+              "url": "https://github.com/ViewComponent/view_component",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building reusable UI components in Rails with ViewComponent",
+              "type": "article",
+              "url": "https://www.honeybadger.io/blog/rails-viewcomponent/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ViewComponent Crash Course with Ruby on Rails",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Mc19pB784Us",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Intro To View Components In Ruby On Rails 7",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=z077hg7Zzyk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Complete Guide To Managing User Permissions In Rails Apps",
+          "type": "article",
+          "url": "https://www.honeybadger.io/blog/complete-guide-to-managing-user-permissions-in-rails-apps/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Implementing Role-Based Access Control (RBAC) in Rails: A Comprehensive Guide",
+          "type": "article",
+          "url": "https://medium.com/@er.sumitsah/implementing-role-based-access-control-rbac-in-rails-a-comprehensive-guide-752194c8bffe",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Authentication and Authorization in Ruby on Rails",
+          "type": "article",
+          "url": "https://www.shakacode.com/blog/mastering-authorization-in-rails-with-pundit/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "logging",
+      "title": "Logging",
+      "description": "مباحث و تمرین‌های مرتبط با «Logging».",
+      "order": 15,
+      "children": [
+        {
+          "id": "logging-item",
+          "title": "Logging",
+          "description": "مباحث و تمرین‌های مرتبط با «Logging».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Start Logging With Ruby on Rails",
+          "type": "article",
+          "url": "https://betterstack.com/community/guides/logging/how-to-start-logging-with-ruby-on-rails/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Making the Most of Your Logs in Rails",
+          "type": "article",
+          "url": "https://blog.appsignal.com/2023/03/01/making-the-most-of-your-logs-in-rails.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Rails Logging Setup That Saved Me From Debugging Hell",
+          "type": "article",
+          "url": "https://bhavyansh001.medium.com/the-rails-logging-setup-that-saved-me-from-debugging-hell-97904592eceb",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Debugging And Logging | Intro To Ruby On Rails 7 Part 24",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9rDK2rbm6DI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Logging Mastery: From Rails Default to Kibana 📈",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=CoHMwJsLiLU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "debugging",
+      "title": "Debugging",
+      "description": "مباحث و تمرین‌های مرتبط با «Debugging».",
+      "order": 16,
+      "children": [
+        {
+          "id": "debugging-item",
+          "title": "Debugging",
+          "description": "مباحث و تمرین‌های مرتبط با «Debugging».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Debugging Rails Applications",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/debugging_rails_applications.html#view-helpers-for-debugging",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 17,
+      "children": [
+        {
+          "id": "testing-item",
+          "title": "Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Testing Rails Applications",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/testing.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A journey towards better Ruby on Rails testing practices",
+          "type": "article",
+          "url": "https://thoughtbot.com/blog/a-journey-towards-better-testing-practices",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are all the Rails testing tools and how do I use them?",
+          "type": "article",
+          "url": "https://www.codewithjason.com/rails-testing-tools/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing in Ruby on Rails Applications (Unit, Integration, & Functional Tests)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eXmA1vWGDfs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing A Rails App That Uses Devise Sessions | Ruby On Rails 7 Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=PtGjHGdJQrQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "plugins-engines",
+      "title": "Plugins & Engines",
+      "description": "مباحث و تمرین‌های مرتبط با «Plugins & Engines».",
+      "order": 18,
+      "children": [
+        {
+          "id": "plugins-engines-item",
+          "title": "Plugins & Engines",
+          "description": "مباحث و تمرین‌های مرتبط با «Plugins & Engines».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "mailbox-mailer",
+      "title": "Mailbox & Mailer",
+      "description": "مباحث و تمرین‌های مرتبط با «Mailbox & Mailer».",
+      "order": 19,
+      "children": [
+        {
+          "id": "mailbox-mailer-item",
+          "title": "Mailbox & Mailer",
+          "description": "مباحث و تمرین‌های مرتبط با «Mailbox & Mailer».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Action Mailbox Basics",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/action_mailbox_basics.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Action Mailer Basics",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/action_mailer_basics.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "In Depth Look At Action Mailbox",
+          "type": "article",
+          "url": "https://www.codynorman.com/ruby/action_mailbox/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rails Mailer Tutorial",
+          "type": "article",
+          "url": "https://medium.com/@ericschwartz7/rails-mailer-tutorial-82700f6737d9",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Writing better Action Mailers: Revisiting a core Rails concept",
+          "type": "article",
+          "url": "https://boringrails.com/articles/writing-better-action-mailers/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Receive and process inbound email with Ruby on Rails",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jOfAV2QWNOw&t=87s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Action Mailer for Beginners | Ruby on Rails 7",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-8Rs1DcMZ9I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Realtime Rails with Hotwire & ActionMailbox | Part 1",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=WSuFaY7-q3g&t=66s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "background-jobs",
+      "title": "Background Jobs",
+      "description": "مباحث و تمرین‌های مرتبط با «Background Jobs».",
+      "order": 20,
+      "children": [
+        {
+          "id": "background-jobs-item",
+          "title": "Background Jobs",
+          "description": "مباحث و تمرین‌های مرتبط با «Background Jobs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Active Job Basics",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/active_job_basics.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rails Background Jobs — Reconstruct Your Application",
+          "type": "article",
+          "url": "https://medium.com/@hasnatraza.dev/rails-background-jobs-reconstruct-your-application-ccaef2860552",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Simple Guide to Background Jobs in Ruby on Rails",
+          "type": "article",
+          "url": "https://www.bluebash.co/blog/simple-guide-to-background-jobs-in-ruby-on-rails/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Manage asynchronous tasks with Solid Queue | Rails 8 Unpacked",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ReyKfb12EVU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing Active Job in Ruby on Rails",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7ieeu0r27ig",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Security».",
+      "order": 21,
+      "children": [
+        {
+          "id": "security-item",
+          "title": "Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Securing Rails Applications",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/security.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Complete Guide to Ruby on Rails Security Measures 🛡️",
+          "type": "article",
+          "url": "https://railsdrop.com/2025/05/11/a-complete-guide-to-ruby-on-rails-security-measures/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The inadequate guide to Rails security",
+          "type": "article",
+          "url": "https://www.honeybadger.io/blog/ruby-security-tutorial-and-rails-security-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Essential Security Best Practices for Ruby on Rails",
+          "type": "article",
+          "url": "https://dev.to/harsh_u115/essential-security-best-practices-for-ruby-on-rails-4d68",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Securing Ruby on Rails Applications: Best Practices",
+          "type": "article",
+          "url": "https://medium.com/@vaishnaviganeshkar15/securing-ruby-on-rails-applications-best-practices-787f2cc03f02",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "storage",
+      "title": "Storage",
+      "description": "مباحث و تمرین‌های مرتبط با «Storage».",
+      "order": 22,
+      "children": [
+        {
+          "id": "storage-item",
+          "title": "Storage",
+          "description": "مباحث و تمرین‌های مرتبط با «Storage».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Active Storage Overview",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/active_storage_overview.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Using Active Storage for Ruby on Rails",
+          "type": "article",
+          "url": "https://medium.com/@bwrosen20/using-active-storage-for-ruby-on-rails-a84991e45d93",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Active Storage For File Uploads | Ruby on Rails 7 Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jjjAJeWJ2xE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Active Storage in Ruby on Rails 5.2",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PL3mtAHT_eRexVRWcjcqgfTvYQD2scoTlk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deployment",
+      "title": "Deployment",
+      "description": "مباحث و تمرین‌های مرتبط با «Deployment».",
+      "order": 23,
+      "children": [
+        {
+          "id": "kamal",
+          "title": "Kamal",
+          "description": "مباحث و تمرین‌های مرتبط با «Kamal».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Kamal",
+              "type": "article",
+              "url": "https://kamal-deploy.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "kamal",
+              "type": "article",
+              "url": "https://github.com/basecamp/kamal",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Deploying a Rails 8 app with Kamal",
+              "type": "article",
+              "url": "https://community.hetzner.com/tutorials/deploy-rails-8-app-on-hetzner-with-kamal",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "https://www.youtube.com/watch?v=sPUk9-1WVXI",
+              "type": "video",
+              "url": "https://www.youhttps//www.youtube.com/watch?v=sPUk9-1WVXItube.com/watch?v=sPUk9-1WVXI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Deploy a Rails App With Kamal",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=9nRY0p2br28",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Absolute Beginners Guide to Deploying Rails 8 to Production (Kamal Tutorial)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tGi3YGGhIGg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Deploying to Production",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/getting_started.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Deploying with Kamal 2.0 | Rails 8 Unpacked",
+          "type": "video",
+          "url": "https://www.youhttps://www.youtube.com/watch?v=sPUk9-1WVXItube.com/watch?v=sPUk9-1WVXI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "rails-internationalization",
+      "title": "Rails Internationalization ",
+      "description": "مباحث و تمرین‌های مرتبط با «Rails Internationalization ».",
+      "order": 24,
+      "children": [
+        {
+          "id": "rails-internationalization-item",
+          "title": "Rails Internationalization ",
+          "description": "مباحث و تمرین‌های مرتبط با «Rails Internationalization ».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Rails Internationalization (I18n) API",
+          "type": "article",
+          "url": "https://guides.rubyonrails.org/i18n.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rails internationalization (I18n): Tutorial on Rails locales & more",
+          "type": "article",
+          "url": "https://lokalise.com/blog/rails-i18n/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Comprehensive Guide to Rails Internationalization (i18n)",
+          "type": "article",
+          "url": "https://www.honeybadger.io/blog/rails-i18n/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "7 Key Best Practices for Rails Internationalization",
+          "type": "article",
+          "url": "https://phrase.com/blog/posts/rails-i18n-best-practices/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro To I18n Localizations With Ruby On Rails 7",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=gkaxM1AqBss",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

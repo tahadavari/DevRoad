@@ -77,7 +77,7 @@ export function StepDialog({ step, open, onClose }: StepDialogProps) {
                           >
                             {getResourceTypeLabel(resource.type)}
                           </Badge>
-                          {resource.price === "free" ? (
+                          {(resource.price ?? "free") === "free" ? (
                             <Badge
                               variant="secondary"
                               className="bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300"
@@ -90,30 +90,36 @@ export function StepDialog({ step, open, onClose }: StepDialogProps) {
                               className="bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-300"
                             >
                               <DollarSign className="h-3 w-3 ml-1" />
-                              {resource.priceAmount > 0
+                              {(resource.priceAmount ?? 0) > 0
                                 ? `$${resource.priceAmount}`
                                 : "پولی"}
                             </Badge>
                           )}
-                          {resource.language && (
+                          {resource.language != null && (
                             <Badge variant="outline" className="text-[10px]">
                               {resource.language === "fa" ? "فارسی" : "انگلیسی"}
                             </Badge>
                           )}
                         </div>
                         <h4 className="font-medium text-sm">{resource.title}</h4>
-                        <p className="text-xs text-muted-foreground mt-1 leading-relaxed">
-                          {resource.description}
-                        </p>
+                        {resource.description != null && resource.description !== "" && (
+                          <p className="text-xs text-muted-foreground mt-1 leading-relaxed">
+                            {resource.description}
+                          </p>
+                        )}
                         <div className="flex items-center gap-4 mt-2 text-xs text-muted-foreground">
-                          <span className="flex items-center gap-1">
-                            <Clock className="h-3 w-3" />
-                            {resource.duration}
-                          </span>
-                          <span className="flex items-center gap-1">
-                            <Globe className="h-3 w-3" />
-                            {resource.language === "fa" ? "فارسی" : "انگلیسی"}
-                          </span>
+                          {resource.duration != null && resource.duration !== "" && (
+                            <span className="flex items-center gap-1">
+                              <Clock className="h-3 w-3" />
+                              {resource.duration}
+                            </span>
+                          )}
+                          {resource.language != null && (
+                            <span className="flex items-center gap-1">
+                              <Globe className="h-3 w-3" />
+                              {resource.language === "fa" ? "فارسی" : "انگلیسی"}
+                            </span>
+                          )}
                         </div>
                       </div>
                       <a

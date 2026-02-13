@@ -1,0 +1,3452 @@
+{
+  "slug": "bi-analyst",
+  "title": "BI Analyst",
+  "description": "Learn to become a Business Intelligence Analyst in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-bi",
+          "title": "What is BI?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is BI?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Business Intelligence Fundamentals",
+              "type": "course",
+              "url": "https://www.simplilearn.com/free-business-intelligence-course-online-skillup",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Business Intelligence - Microsoft",
+              "type": "article",
+              "url": "https://www.microsoft.com/en-us/power-platform/products/power-bi/topics/business-intelligence/what-is-business-intelligence",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Business Intelligence (BI)? - IBM",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/business-intelligence",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-bi-matters",
+          "title": "Why BI Matters?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why BI Matters?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Business Intelligence Fundamentals",
+              "type": "course",
+              "url": "https://www.simplilearn.com/free-business-intelligence-course-online-skillup",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bi-analyst-vs-other-roles",
+          "title": "BI Analyst vs Other Roles",
+          "description": "مباحث و تمرین‌های مرتبط با «BI Analyst vs Other Roles».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "The Types of Data Science Roles Explained",
+              "type": "article",
+              "url": "https://365datascience.com/career-advice/types-of-data-science-roles-explained/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "responsibilities",
+          "title": "Responsibilities",
+          "description": "مباحث و تمرین‌های مرتبط با «Responsibilities».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "So What Do You Actually Do As A BI Analyst?",
+              "type": "article",
+              "url": "https://www.youtube.com/watch?v=TaRuzC8RSZU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "metrics-and-kpis",
+      "title": "Metrics and KPIs",
+      "description": "مباحث و تمرین‌های مرتبط با «Metrics and KPIs».",
+      "order": 2,
+      "children": [
+        {
+          "id": "metrics-and-kpis-item",
+          "title": "Metrics and KPIs",
+          "description": "مباحث و تمرین‌های مرتبط با «Metrics and KPIs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "KPIs vs Metrics: Learn The Difference With Tips & Examples",
+          "type": "article",
+          "url": "https://www.rib-software.com/en/blogs/kpis-vs-metrics-differences",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are KPIs and Metrics? | Data Fundamental for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ItZlTixh6Bs&vl=en",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "stakeholder-identification",
+      "title": "Stakeholder Identification",
+      "description": "مباحث و تمرین‌های مرتبط با «Stakeholder Identification».",
+      "order": 3,
+      "children": [
+        {
+          "id": "stakeholder-identification-item",
+          "title": "Stakeholder Identification",
+          "description": "مباحث و تمرین‌های مرتبط با «Stakeholder Identification».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "4 Most Common Stakeholders in Business Intelligence",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=iPfwEjRhm7w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "types-of-bi-operations",
+      "title": "Types of BI Operations",
+      "description": "مباحث و تمرین‌های مرتبط با «Types of BI Operations».",
+      "order": 4,
+      "children": [
+        {
+          "id": "operational-bi",
+          "title": "Operational BI",
+          "description": "مباحث و تمرین‌های مرتبط با «Operational BI».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "key-business-functions",
+      "title": "Key Business Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Key Business Functions».",
+      "order": 5,
+      "children": [
+        {
+          "id": "key-business-functions-item",
+          "title": "Key Business Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Key Business Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "types-of-data-analysis",
+      "title": "Types of Data Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Types of Data Analysis».",
+      "order": 6,
+      "children": [
+        {
+          "id": "prescriptive-analysis",
+          "title": "Prescriptive Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Prescriptive Analysis».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Prescriptive Analysis?",
+              "type": "article",
+              "url": "https://www.investopedia.com/terms/p/prescriptive-analytics.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Examples of Prescriptive Analysis",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=NOo8Nc9zG20",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "predictive-analysis",
+          "title": "Predictive Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Predictive Analysis».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is Predictive Analytics? - Google",
+              "type": "article",
+              "url": "https://cloud.google.com/learn/what-is-predictive-analytics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "hat is Predictive Analytics?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cVibCHRSxB0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "diagnostic-analysis",
+          "title": "Diagnostic Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Diagnostic Analysis».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "hat is Diagnostic Analytics?",
+              "type": "article",
+              "url": "https://amplitude.com/explore/analytics/what-diagnostic-analytics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Diagnostic Analytics? | Understanding Data-Driven Decision Making",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ikZjeAC1yJ0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "descriptive-analysis",
+          "title": "Descriptive Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Descriptive Analysis».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Descriptive Analytics: What They Are and Related Terms",
+              "type": "article",
+              "url": "https://www.investopedia.com/terms/d/descriptive-analytics.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Descriptive Analytics?",
+              "type": "article",
+              "url": "https://www.youtube.com/watch?v=DlFqQy10aCs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The 4 Types of Data Analysis: Ultimate Guide",
+          "type": "article",
+          "url": "https://careerfoundry.com/en/blog/data-analytics/different-types-of-data-analysis/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Descriptive vs Diagnostic vs Predictive vs Prescriptive Analytics: What's the Difference?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QoEpC7jUb9k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Types of Data Analytics",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lsZnSgxMwBA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "variables-and-data-types",
+      "title": "Variables and Data Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Variables and Data Types».",
+      "order": 7,
+      "children": [
+        {
+          "id": "discrete-vs-continuous",
+          "title": "Discrete vs Continuous",
+          "description": "مباحث و تمرین‌های مرتبط با «Discrete vs Continuous».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Continuous or discrete variable",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Continuous_or_discrete_variable",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Intro to Statistics",
+              "type": "article",
+              "url": "https://www.udacity.com/course/intro-to-statistics--st101",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Variable Data Types Explained",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/variable-data-types-explained/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Statistics",
+          "type": "article",
+          "url": "https://www.udacity.com/course/intro-to-statistics--st101",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "central-tendency",
+      "title": "Central Tendency",
+      "description": "مباحث و تمرین‌های مرتبط با «Central Tendency».",
+      "order": 8,
+      "children": [
+        {
+          "id": "central-tendency-item",
+          "title": "Central Tendency",
+          "description": "مباحث و تمرین‌های مرتبط با «Central Tendency».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Central tendency",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Central_tendency",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "descriptive-statistics",
+      "title": "Descriptive Statistics",
+      "description": "مباحث و تمرین‌های مرتبط با «Descriptive Statistics».",
+      "order": 9,
+      "children": [
+        {
+          "id": "descriptive-statistics-item",
+          "title": "Descriptive Statistics",
+          "description": "مباحث و تمرین‌های مرتبط با «Descriptive Statistics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Descriptive Statistics: Definition, Overview, Types, and Examples",
+          "type": "article",
+          "url": "https://www.investopedia.com/terms/d/descriptive_statistics.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Descriptive statistics",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Descriptive_statistics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Statistics",
+          "type": "article",
+          "url": "https://www.udacity.com/course/intro-to-statistics--st101",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dispersion",
+      "title": "Dispersion",
+      "description": "مباحث و تمرین‌های مرتبط با «Dispersion».",
+      "order": 10,
+      "children": [
+        {
+          "id": "dispersion-item",
+          "title": "Dispersion",
+          "description": "مباحث و تمرین‌های مرتبط با «Dispersion».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is dispersion?",
+          "type": "article",
+          "url": "https://www.investopedia.com/terms/d/dispersion.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Statistics",
+          "type": "article",
+          "url": "https://www.udacity.com/course/intro-to-statistics--st101",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Statistics 101 - Measures of Dispersion",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=goXdWMZxlqM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "inferential-statistics",
+      "title": "Inferential Statistics",
+      "description": "مباحث و تمرین‌های مرتبط با «Inferential Statistics».",
+      "order": 11,
+      "children": [
+        {
+          "id": "inferential-statistics-item",
+          "title": "Inferential Statistics",
+          "description": "مباحث و تمرین‌های مرتبط با «Inferential Statistics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Intro to Inferential Statistics",
+          "type": "course",
+          "url": "https://www.udacity.com/course/intro-to-inferential-statistics--ud201",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Inferential Statistics | An Easy Introduction & Examples",
+          "type": "article",
+          "url": "https://www.scribbr.com/statistics/inferential-statistics/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Statistical inference",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Statistical_inference",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Inferential Statistics FULL Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=6E6pB5JFLgM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "distribution",
+      "title": "Distribution",
+      "description": "مباحث و تمرین‌های مرتبط با «Distribution».",
+      "order": 12,
+      "children": [
+        {
+          "id": "distribution-item",
+          "title": "Distribution",
+          "description": "مباحث و تمرین‌های مرتبط با «Distribution».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding Skewness And Kurtosis And How to Plot Them",
+          "type": "article",
+          "url": "https://www.datacamp.com/tutorial/understanding-skewness-and-kurtosis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Statistics",
+          "type": "article",
+          "url": "https://www.udacity.com/course/intro-to-statistics--st101",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "correlation-analysis",
+      "title": "Correlation Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Correlation Analysis».",
+      "order": 13,
+      "children": [
+        {
+          "id": "correlation-vs-causation",
+          "title": "Correlation vs Causation",
+          "description": "مباحث و تمرین‌های مرتبط با «Correlation vs Causation».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Intro to Inferential Statistics",
+              "type": "course",
+              "url": "http://udacity.com/course/intro-to-inferential-statistics--ud201",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Correlation vs. Causation | Difference, Designs & Examples",
+              "type": "article",
+              "url": "https://www.scribbr.com/methodology/correlation-vs-causation/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Correlation does not imply causation",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Intro to Inferential Statistics",
+          "type": "course",
+          "url": "https://www.udacity.com/course/intro-to-inferential-statistics--ud201",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Correlation Analysis",
+          "type": "article",
+          "url": "https://datatab.net/tutorial/correlation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Correlation",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Correlation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "regression-analysis",
+      "title": "Regression Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Regression Analysis».",
+      "order": 14,
+      "children": [
+        {
+          "id": "window-functions",
+          "title": "Window Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Window Functions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "SQL Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL Window Functions",
+              "type": "article",
+              "url": "https://mode.com/sql-tutorial/sql-window-functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL Window Functions Cheat Sheet",
+              "type": "article",
+              "url": "https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "advanced-queries",
+          "title": "Advanced Queries",
+          "description": "مباحث و تمرین‌های مرتبط با «Advanced Queries».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "SQL Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "25 Advanced SQL Query Examples",
+              "type": "article",
+              "url": "https://learnsql.com/blog/25-advanced-sql-query-examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Intro to Inferential Statistics",
+          "type": "course",
+          "url": "https://www.udacity.com/course/intro-to-inferential-statistics--ud201",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Regression: Definition, Analysis, Calculation, and Example",
+          "type": "article",
+          "url": "https://www.investopedia.com/terms/r/regression.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Refresher on Regression Analysis - Harvard",
+          "type": "article",
+          "url": "https://hbr.org/2015/11/a-refresher-on-regression-analysis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "hypothesis-testing",
+      "title": "Hypothesis Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Hypothesis Testing».",
+      "order": 15,
+      "children": [
+        {
+          "id": "hypothesis-testing-item",
+          "title": "Hypothesis Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Hypothesis Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Hypothesis Testing",
+          "type": "article",
+          "url": "https://latrobe.libguides.com/maths/hypothesis-testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Hypothesis Testing - 4 Steps",
+          "type": "article",
+          "url": "https://www.investopedia.com/terms/h/hypothesistesting.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Inferential Statistics",
+          "type": "article",
+          "url": "https://www.udacity.com/course/intro-to-inferential-statistics--ud201",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-data",
+      "title": "What is Data?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Data?».",
+      "order": 16,
+      "children": [
+        {
+          "id": "what-is-data-item",
+          "title": "What is Data?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Data?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "analog-vs-digital-data",
+      "title": "Analog vs Digital Data",
+      "description": "مباحث و تمرین‌های مرتبط با «Analog vs Digital Data».",
+      "order": 17,
+      "children": [
+        {
+          "id": "analog-vs-digital-data-item",
+          "title": "Analog vs Digital Data",
+          "description": "مباحث و تمرین‌های مرتبط با «Analog vs Digital Data».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Analog vs. Digital",
+          "type": "article",
+          "url": "https://www.diffen.com/difference/Analog_vs_Digital",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "types-of-data",
+      "title": "Types of data",
+      "description": "مباحث و تمرین‌های مرتبط با «Types of data».",
+      "order": 18,
+      "children": [
+        {
+          "id": "structured",
+          "title": "Structured",
+          "description": "مباحث و تمرین‌های مرتبط با «Structured».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Basics: Structured, Unstructured, and Semi-structured Data",
+          "type": "article",
+          "url": "https://www.alation.com/blog/structured-unstructured-semi-structured-data/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-sources",
+      "title": "Data Sources",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Sources».",
+      "order": 19,
+      "children": [
+        {
+          "id": "data-sources-item",
+          "title": "Data Sources",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Sources».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-formats",
+      "title": "Data Formats",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Formats».",
+      "order": 20,
+      "children": [
+        {
+          "id": "other-formats",
+          "title": "Other formats",
+          "description": "مباحث و تمرین‌های مرتبط با «Other formats».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "xml",
+          "title": "XML",
+          "description": "مباحث و تمرین‌های مرتبط با «XML».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "XML",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/XML",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "csv",
+          "title": "CSV",
+          "description": "مباحث و تمرین‌های مرتبط با «CSV».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Comma-Separated Values",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Comma-separated_values",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "sql-fundamentals",
+      "title": "SQL Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «SQL Fundamentals».",
+      "order": 21,
+      "children": [
+        {
+          "id": "basic-queries",
+          "title": "Basic Queries",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Queries».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "SQL Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL Basics Cheat Sheet",
+              "type": "article",
+              "url": "https://www.datacamp.com/cheat-sheet/sql-basics-cheat-sheet?utm_cid=19589720821&utm_aid=152984012854&utm_campaign=230119_1-ps-other~dsa~tofu_2-b2c_3-emea_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&utm_loc=20296-&utm_mtd=-c&utm_kw=&utm_source=google&utm_medium=paid_search&utm_content=ps-other~emea-en~dsa~tofu~cheat-sheet-sql&gad_source=1&gad_campaignid=19589720821&gbraid=0AAAAADQ9WsHi-NrpYc5jD1jwOcO6JW2ib&gclid=CjwKCAjwk7DFBhBAEiwAeYbJsaTs85KOpxx2r27-znQYfeTOvKItMJ2YK6xamy5KiqyFRewGTE-AzRoCLXwQAvD_BwE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Basic SQL Commands",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/basic-sql-commands/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "advanced-queries-2",
+          "title": "Advanced Queries",
+          "description": "مباحث و تمرین‌های مرتبط با «Advanced Queries».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "SQL Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "25 Advanced SQL Query Examples",
+              "type": "article",
+              "url": "https://learnsql.com/blog/25-advanced-sql-query-examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "window-functions-2",
+          "title": "Window Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Window Functions».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "SQL Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL Window Functions",
+              "type": "article",
+              "url": "https://mode.com/sql-tutorial/sql-window-functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL Window Functions Cheat Sheet",
+              "type": "article",
+              "url": "https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "performance",
+          "title": "Performance",
+          "description": "مباحث و تمرین‌های مرتبط با «Performance».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "SQL Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL Query Optimization: 15 Techniques for Better Performance",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/sql-query-optimization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Performance Tuning SQL Queries",
+              "type": "article",
+              "url": "https://mode.com/sql-tutorial/sql-performance-tuning",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "SQL Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/sql",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Tutorial - Essential SQL For The Beginners",
+          "type": "article",
+          "url": "https://www.sqltutorial.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "popular-databases",
+      "title": "Popular Databases",
+      "description": "مباحث و تمرین‌های مرتبط با «Popular Databases».",
+      "order": 22,
+      "children": [
+        {
+          "id": "popular-databases-item",
+          "title": "Popular Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «Popular Databases».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "exploratory-data-analysis-eda",
+      "title": "Exploratory Data Analysis (EDA)",
+      "description": "مباحث و تمرین‌های مرتبط با «Exploratory Data Analysis (EDA)».",
+      "order": 23,
+      "children": [
+        {
+          "id": "exploratory-data-analysis-eda-item",
+          "title": "Exploratory Data Analysis (EDA)",
+          "description": "مباحث و تمرین‌های مرتبط با «Exploratory Data Analysis (EDA)».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Exploratory Data Analysis?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/exploratory-data-analysis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Exploratory Data Analysis",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QiqZliDXCCg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-cleaning",
+      "title": "Data Cleaning",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Cleaning».",
+      "order": 24,
+      "children": [
+        {
+          "id": "standardisation",
+          "title": "Standardisation",
+          "description": "مباحث و تمرین‌های مرتبط با «Standardisation».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Data Standardization: How It's Done & Why It's Important",
+              "type": "article",
+              "url": "https://www.simplilearn.com/what-is-data-standardization-article",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Cleaning",
+          "type": "article",
+          "url": "https://www.tableau.com/learn/articles/what-is-data-cleaning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-transformation-techniques",
+      "title": "Data Transformation Techniques",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Transformation Techniques».",
+      "order": 25,
+      "children": [
+        {
+          "id": "data-transformation-techniques-item",
+          "title": "Data Transformation Techniques",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Transformation Techniques».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Transformation",
+          "type": "article",
+          "url": "https://www.qlik.com/us/data-management/data-transformation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Data Transformation? (Types of Data Transformations and Examples!)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=TY0NAPAWR3M",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "visualization-fundamentals",
+      "title": "Visualization Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «Visualization Fundamentals».",
+      "order": 26,
+      "children": [
+        {
+          "id": "visualization-fundamentals-item",
+          "title": "Visualization Fundamentals",
+          "description": "مباحث و تمرین‌های مرتبط با «Visualization Fundamentals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Ultimate Data Visualization Handbook for Designers",
+          "type": "article",
+          "url": "https://uxmag.medium.com/the-ultimate-data-visualization-handbook-for-designers-efa7d6e0b6fe",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Business Intelligence Fundamentals",
+          "type": "course",
+          "url": "https://www.simplilearn.com/free-business-intelligence-course-online-skillup",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is Data Visualization? Definition, Examples, And Learning Resources",
+          "type": "article",
+          "url": "https://www.tableau.com/visualization/what-is-data-visualization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Fundamentals of Data Visualization",
+          "type": "article",
+          "url": "https://clauswilke.com/dataviz/introduction.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "chart-categories",
+      "title": "Chart Categories",
+      "description": "مباحث و تمرین‌های مرتبط با «Chart Categories».",
+      "order": 27,
+      "children": [
+        {
+          "id": "heatmap",
+          "title": "Heatmap",
+          "description": "مباحث و تمرین‌های مرتبط با «Heatmap».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "histogram",
+          "title": "Histogram",
+          "description": "مباحث و تمرین‌های مرتبط با «Histogram».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "barplot",
+          "title": "Barplot",
+          "description": "مباحث و تمرین‌های مرتبط با «Barplot».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Python Graph Gallery",
+          "type": "article",
+          "url": "https://python-graph-gallery.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Data Visualisation Catalogue",
+          "type": "article",
+          "url": "https://datavizcatalogue.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "visualization-best-practices",
+      "title": "Visualization Best Practices",
+      "description": "مباحث و تمرین‌های مرتبط با «Visualization Best Practices».",
+      "order": 28,
+      "children": [
+        {
+          "id": "accessibility",
+          "title": "Accessibility",
+          "description": "مباحث و تمرین‌های مرتبط با «Accessibility».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "10 Guidelines for DataViz Accessibility",
+              "type": "article",
+              "url": "https://www.highcharts.com/blog/tutorials/10-guidelines-for-dataviz-accessibility/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "5 Crucial Tweaks That Will Make Your Charts Accessible to People with Visual Impairments",
+              "type": "article",
+              "url": "https://towardsdatascience.com/5-crucial-tweaks-that-will-make-your-charts-accessible-to-people-with-visual-impairments/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Accessibility in Data Visualisation",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=OOPeS_xWoKQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "design-principles",
+          "title": "Design principles",
+          "description": "مباحث و تمرین‌های مرتبط با «Design principles».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "10 Essential Data Visualization Design Principles for Clearer Insights",
+              "type": "article",
+              "url": "https://www.tenscope.com/post/data-visualization-design-principles-for-clarity",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "misleading-charts",
+          "title": "Misleading charts",
+          "description": "مباحث و تمرین‌های مرتبط با «Misleading charts».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "How To Spot Misleading Charts: Check the Axes",
+              "type": "article",
+              "url": "https://www.tableau.com/blog/how-spot-misleading-charts-check-axes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "https://www.statisticshowto.com/probability-and-statistics/descriptive-statistics/misleading-graphs/",
+              "type": "article",
+              "url": "https://www.statisticshowto.com/probability-and-statistics/descriptive-statistics/misleading-graphs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "mobile-responsiveness",
+          "title": "Mobile-responsiveness",
+          "description": "مباحث و تمرین‌های مرتبط با «Mobile-responsiveness».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "4 Key Tips: Creating Mighty Mobile Data Visualizations",
+              "type": "article",
+              "url": "https://pagely.com/blog/4-key-tips-creating-mighty-mobile-data-visualizations/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "color-theory",
+          "title": "Color theory",
+          "description": "مباحث و تمرین‌های مرتبط با «Color theory».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "How to choose colors for data visualizations",
+              "type": "article",
+              "url": "https://www.atlassian.com/data/charts/how-to-choose-colors-data-visualization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why Colors Matter in Data Visualization? What is Color Theory?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Zs-Rbkr9LVI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Visualization Tips and Best Practices",
+          "type": "article",
+          "url": "https://www.tableau.com/visualization/data-visualization-best-practices",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visual Best Practices",
+          "type": "article",
+          "url": "https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "bi-platforms",
+      "title": "BI Platforms",
+      "description": "مباحث و تمرین‌های مرتبط با «BI Platforms».",
+      "order": 29,
+      "children": [
+        {
+          "id": "bi-platforms-item",
+          "title": "BI Platforms",
+          "description": "مباحث و تمرین‌های مرتبط با «BI Platforms».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Analytics and Business Intelligence Platforms Reviews and Ratings",
+          "type": "article",
+          "url": "https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "excel",
+      "title": "Excel",
+      "description": "مباحث و تمرین‌های مرتبط با «Excel».",
+      "order": 30,
+      "children": [
+        {
+          "id": "excel-item",
+          "title": "Excel",
+          "description": "مباحث و تمرین‌های مرتبط با «Excel».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Microsoft Excel",
+          "type": "article",
+          "url": "https://www.microsoft.com/microsoft-365/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Excel Full Course Tutorial (4+ Hours)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=rro5t8eHXaY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "programming-languages",
+      "title": "Programming Languages",
+      "description": "مباحث و تمرین‌های مرتبط با «Programming Languages».",
+      "order": 31,
+      "children": [
+        {
+          "id": "programming-languages-item",
+          "title": "Programming Languages",
+          "description": "مباحث و تمرین‌های مرتبط با «Programming Languages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "finance",
+      "title": "Finance",
+      "description": "مباحث و تمرین‌های مرتبط با «Finance».",
+      "order": 32,
+      "children": [
+        {
+          "id": "financial-performance",
+          "title": "Financial Performance",
+          "description": "مباحث و تمرین‌های مرتبط با «Financial Performance».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Financial Performance: Definition, How It Works, and Example",
+              "type": "article",
+              "url": "https://www.investopedia.com/terms/f/financialperformance.asp#:~:text=A%20financial%20performance%20analysis%20examines,statements%20used%20in%20performance%20analysis.",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "fraud-detection",
+          "title": "Fraud Detection",
+          "description": "مباحث و تمرین‌های مرتبط با «Fraud Detection».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What Is Fraud Analytics and How to Use Data for Fraud Detection?",
+              "type": "article",
+              "url": "https://www.feedzai.com/blog/fraud-data-analytics/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Data analysis for fraud detection",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Data_analysis_for_fraud_detection",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "compliance-reporting",
+          "title": "Compliance Reporting",
+          "description": "مباحث و تمرین‌های مرتبط با «Compliance Reporting».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Streamlining Financial Compliance with AI-Powered BI",
+              "type": "article",
+              "url": "https://www.strategysoftware.com/blog/streamlining-financial-compliance-with-ai-powered-bi",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "risk-analytics",
+          "title": "Risk Analytics",
+          "description": "مباحث و تمرین‌های مرتبط با «Risk Analytics».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What are financial risk analytics?",
+              "type": "article",
+              "url": "http://stripe.com/en-es/resources/more/what-are-financial-risk-analytics-what-businesses-need-to-know",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Risk Analysis: Definition, Types, Limitations, and Examples",
+              "type": "article",
+              "url": "https://www.investopedia.com/terms/r/risk-analysis.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "retail-e-commerce",
+      "title": "Retail & E-commerce",
+      "description": "مباحث و تمرین‌های مرتبط با «Retail & E-commerce».",
+      "order": 33,
+      "children": [
+        {
+          "id": "supply-chain-analytics",
+          "title": "Supply Chain Analytics",
+          "description": "مباحث و تمرین‌های مرتبط با «Supply Chain Analytics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What Is Supply Chain Analytics?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/supply-chain-analytics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "marketing-campaigns",
+          "title": "Marketing Campaigns",
+          "description": "مباحث و تمرین‌های مرتبط با «Marketing Campaigns».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is campaign analytics?",
+              "type": "article",
+              "url": "https://hightouch.com/blog/campaign-analytics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "inventory-optimization",
+          "title": "Inventory Optimization",
+          "description": "مباحث و تمرین‌های مرتبط با «Inventory Optimization».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "6 effective inventory optimization techniques your team should be using",
+              "type": "article",
+              "url": "https://www.thoughtspot.com/data-trends/analytics/inventory-optimization-techniques",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Inventory Optimization? Benefits and Techniques",
+              "type": "article",
+              "url": "https://www.netsuite.com/portal/resource/articles/inventory-management/inventory-optimization.shtml",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sales-performance",
+          "title": "Sales Performance",
+          "description": "مباحث و تمرین‌های مرتبط با «Sales Performance».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "healthcare",
+      "title": "Healthcare",
+      "description": "مباحث و تمرین‌های مرتبط با «Healthcare».",
+      "order": 34,
+      "children": [
+        {
+          "id": "hospital-efficiency",
+          "title": "Hospital Efficiency",
+          "description": "مباحث و تمرین‌های مرتبط با «Hospital Efficiency».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Improving Hospital Efficiency with Health Data Analytics",
+              "type": "article",
+              "url": "https://futuramo.com/blog/improving-hospital-efficiency-with-health-data-analytics/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "compliance-reporting-2",
+          "title": "Compliance Reporting",
+          "description": "مباحث و تمرین‌های مرتبط با «Compliance Reporting».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "public-health",
+          "title": "Public Health",
+          "description": "مباحث و تمرین‌های مرتبط با «Public Health».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "patient-management",
+          "title": "Patient management",
+          "description": "مباحث و تمرین‌های مرتبط با «Patient management».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Top 8 Use Cases of Healthcare Business Intelligence",
+              "type": "article",
+              "url": "https://kms-healthcare.com/blog/healthcare-business-intelligence/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Health Care Business Intelligence?",
+          "type": "article",
+          "url": "https://www.coursera.org/articles/healthcare-business-intelligence",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "manufacturing",
+      "title": "Manufacturing",
+      "description": "مباحث و تمرین‌های مرتبط با «Manufacturing».",
+      "order": 35,
+      "children": [
+        {
+          "id": "production-efficiency",
+          "title": "Production Efficiency",
+          "description": "مباحث و تمرین‌های مرتبط با «Production Efficiency».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "quality-control",
+          "title": "Quality Control",
+          "description": "مباحث و تمرین‌های مرتبط با «Quality Control».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Quality Control in Manufacturing: Methods, Best Practices, and Implementation",
+              "type": "article",
+              "url": "https://www.starrapid.com/blog/quality-control-in-manufacturing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "supply-chain-optimization",
+          "title": "Supply chain optimization",
+          "description": "مباحث و تمرین‌های مرتبط با «Supply chain optimization».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "How supply chain analytics keeps processes and products moving",
+              "type": "article",
+              "url": "https://www.teradata.com/insights/data-analytics/supply-chain-analytics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Enhance Efficiency: Supply Chain Analytics in Manufacturing",
+              "type": "article",
+              "url": "https://www.scatterpie.io/blogs/supply-chain-analytics-in-manufacturing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "predictive-maintenance",
+          "title": "Predictive Maintenance",
+          "description": "مباحث و تمرین‌های مرتبط با «Predictive Maintenance».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What is Predictive Maintenance?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/predictive-maintenance",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Predictive Maintenance Explained",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=2_o1SDy6__U",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Manufacturing Analytics?",
+          "type": "article",
+          "url": "http://oracle.com/au/scm/manufacturing/manufacturing-analytics/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The future of manufacturing is powered by data and analytics. Here's why",
+          "type": "article",
+          "url": "https://www.weforum.org/stories/2022/09/manufacturing-data-advanced-analytics/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "time-series-analysis",
+      "title": "Time Series Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Time Series Analysis».",
+      "order": 36,
+      "children": [
+        {
+          "id": "time-series-analysis-item",
+          "title": "Time Series Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Time Series Analysis».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Time series",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Time_series",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Time Series Analysis: Definition, Types & Techniques",
+          "type": "article",
+          "url": "https://www.tableau.com/analytics/what-is-time-series-analysis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Time Series Analysis",
+          "type": "article",
+          "url": "https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Time Series Analysis?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=GE3JOFwTWVM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Complete Time Series Analysis and Forecasting with Python",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eKiXtGzEjos",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "a-b-testing",
+      "title": "A/B Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «A/B Testing».",
+      "order": 37,
+      "children": [
+        {
+          "id": "a-b-testing-item",
+          "title": "A/B Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «A/B Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "A/B Testing",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/A/B_testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Refresher on A/B Testing",
+          "type": "article",
+          "url": "https://hbr.org/2017/06/a-refresher-on-ab-testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Do A/B Testing: 15 Steps for the Perfect Split Test",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=vV3g5VuSrIQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cohort-analysis",
+      "title": "Cohort Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Cohort Analysis».",
+      "order": 38,
+      "children": [
+        {
+          "id": "cohort-analysis-item",
+          "title": "Cohort Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Cohort Analysis».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding Cohort Analysis: A Comprehensive Guide 101",
+          "type": "article",
+          "url": "https://hevodata.com/learn/understanding-cohort-analysis-a-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cohort analysis",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Cohort_analysis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-machine-learning",
+      "title": "Basic Machine Learning",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Machine Learning».",
+      "order": 39,
+      "children": [
+        {
+          "id": "supervised-learning",
+          "title": "Supervised Learning",
+          "description": "مباحث و تمرین‌های مرتبط با «Supervised Learning».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Supervised Learning?",
+              "type": "article",
+              "url": "https://cloud.google.com/discover/what-is-supervised-learning",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Supervised Learning",
+              "type": "article",
+              "url": "ttps://www.datacamp.com/blog/supervised-machine-learning",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Supervised Machine Learning Explained For Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Mu3POlNoLdc&pp=0gcJCf8Ao7VqN5tD",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fundamentals of Machine Learning - Microsoft",
+          "type": "course",
+          "url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MLCourse.ai",
+          "type": "course",
+          "url": "https://mlcourse.ai/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is Machine Learning (ML)?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/machine-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "communication-storytelling",
+      "title": "Communication & Storytelling",
+      "description": "مباحث و تمرین‌های مرتبط با «Communication & Storytelling».",
+      "order": 40,
+      "children": [
+        {
+          "id": "writing-executive-summaries",
+          "title": "Writing Executive Summaries",
+          "description": "مباحث و تمرین‌های مرتبط با «Writing Executive Summaries».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How to write an executive summary, with examples",
+              "type": "article",
+              "url": "https://asana.com/resources/executive-summary-examples",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Effective Data Storytelling: How to drive change with data, narrative, and visuals",
+          "type": "article",
+          "url": "https://dl.nemoudar.com/effective-data-storytelling-how-to-drive-change-with-data-narrative-and-visuals-1nbsped-1119615712-9781119615712_compress.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is data storytelling?",
+          "type": "article",
+          "url": "http://microsoft.com/en-us/power-platform/products/power-bi/topics/data-storytelling",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Storytelling: How to Effectively Tell a Story with Data",
+          "type": "article",
+          "url": "https://online.hbs.edu/blog/post/data-storytelling",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Telling Stories with Data in 3 Steps (Quick Study)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=r5_34YnCmMY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "soft-skills",
+      "title": "Soft Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Soft Skills».",
+      "order": 41,
+      "children": [
+        {
+          "id": "project-management",
+          "title": "Project Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Project Management».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "change-management",
+          "title": "Change Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Change Management».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "stakeholder-management",
+          "title": "Stakeholder Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Stakeholder Management».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "critical-thinking",
+          "title": "Critical Thinking",
+          "description": "مباحث و تمرین‌های مرتبط با «Critical Thinking».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "business-acumen",
+          "title": "Business Acumen",
+          "description": "مباحث و تمرین‌های مرتبط با «Business Acumen».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Business acumen",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Business_acumen",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Business Acumen 101",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=JwhPhS26Mos",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Skills You Need to Work in Business Intelligence Analytics",
+          "type": "article",
+          "url": "https://tripleten.com/blog/posts/the-skills-you-need-to-work-in-business-intelligence-analytics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "10 Essential Soft Skills for Data Analysts",
+          "type": "article",
+          "url": "https://bigblue.academy/en/soft-skills-for-data-analysts",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "bias-recognition",
+      "title": "Bias Recognition",
+      "description": "مباحث و تمرین‌های مرتبط با «Bias Recognition».",
+      "order": 42,
+      "children": [
+        {
+          "id": "mitigation-strategies",
+          "title": "Mitigation Strategies",
+          "description": "مباحث و تمرین‌های مرتبط با «Mitigation Strategies».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Addressing AI bias: a human-centric approach to fairness",
+              "type": "article",
+              "url": "https://www.ey.com/en_us/insights/emerging-technologies/addressing-ai-bias-a-human-centric-approach-to-fairness",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "When AI Gets It Wrong: Addressing AI Hallucinations and Bias",
+              "type": "article",
+              "url": "https://mitsloanedtech.mit.edu/ai/basics/addressing-ai-hallucinations-and-bias/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Algorithmic Bias in AI: What It Is and How to Fix It",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=og67qeTZPYs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Data Bias?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/data-bias",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ethical-data-use",
+      "title": "Ethical Data Use",
+      "description": "مباحث و تمرین‌های مرتبط با «Ethical Data Use».",
+      "order": 43,
+      "children": [
+        {
+          "id": "ethical-data-use-item",
+          "title": "Ethical Data Use",
+          "description": "مباحث و تمرین‌های مرتبط با «Ethical Data Use».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "An Introduction to Data Ethics: What is the Ethical Use of Data?",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/introduction-to-data-ethics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "5 Principles of Data Ethics for Business",
+          "type": "article",
+          "url": "https://online.hbs.edu/blog/post/data-ethics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-lineage",
+      "title": "Data Lineage",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Lineage».",
+      "order": 44,
+      "children": [
+        {
+          "id": "data-lineage-item",
+          "title": "Data Lineage",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Lineage».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Data Lineage?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/data-lineage",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Ultimate Guide To Data Lineage",
+          "type": "article",
+          "url": "http://montecarlodata.com/blog-data-lineage/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-quality",
+      "title": "Data Quality",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Quality».",
+      "order": 45,
+      "children": [
+        {
+          "id": "data-quality-item",
+          "title": "Data Quality",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Quality».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Data Quality?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/data-quality",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "privacy",
+      "title": "Privacy",
+      "description": "مباحث و تمرین‌های مرتبط با «Privacy».",
+      "order": 46,
+      "children": [
+        {
+          "id": "privacy-item",
+          "title": "Privacy",
+          "description": "مباحث و تمرین‌های مرتبط با «Privacy».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Data Privacy?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/data-privacy",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-architectures",
+      "title": "Data Architectures",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Architectures».",
+      "order": 47,
+      "children": [
+        {
+          "id": "data-lake",
+          "title": "Data Lake",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Lake».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Data Lake Definition",
+              "type": "article",
+              "url": "https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-a-data-lake",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Data Lake?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LxcH6z8TFpI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Data Lake VS Data Warehouse VS Data Marts",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=w9-WoReNKHk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-warehouse",
+          "title": "Data Warehouse",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Warehouse».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What Is a Data Warehouse?",
+              "type": "article",
+              "url": "https://www.oracle.com/database/what-is-a-data-warehouse/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Data Warehouse?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=k4tK2ttdSDg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Data Lake VS Data Warehouse VS Data Marts",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=w9-WoReNKHk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cloud-bi-ecosystem",
+          "title": "Cloud BI Ecosystem",
+          "description": "مباحث و تمرین‌های مرتبط با «Cloud BI Ecosystem».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is a Data Architecture?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/data-architecture",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-modeling-for-bi",
+      "title": "Data Modeling for BI",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Modeling for BI».",
+      "order": 48,
+      "children": [
+        {
+          "id": "data-modeling-for-bi-item",
+          "title": "Data Modeling for BI",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Modeling for BI».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Data Modeling? | IBM",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/data-modeling",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Modeling Explained: Techniques, Examples, and Best Practices",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/data-modeling",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "normalization-vs-denormalization",
+      "title": "Normalization vs Denormalization",
+      "description": "مباحث و تمرین‌های مرتبط با «Normalization vs Denormalization».",
+      "order": 49,
+      "children": [
+        {
+          "id": "normalization-vs-denormalization-item",
+          "title": "Normalization vs Denormalization",
+          "description": "مباحث و تمرین‌های مرتبط با «Normalization vs Denormalization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Normalization vs. Denormalization in databases",
+          "type": "article",
+          "url": "https://codilime.com/blog/normalization-vs-denormalization-in-databases/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Normalization vs. Denormalization | Events and Event Streaming",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=sDU94hraq8g",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "fact-vs-dimension-tables",
+      "title": "Fact vs Dimension Tables",
+      "description": "مباحث و تمرین‌های مرتبط با «Fact vs Dimension Tables».",
+      "order": 50,
+      "children": [
+        {
+          "id": "fact-vs-dimension-tables-item",
+          "title": "Fact vs Dimension Tables",
+          "description": "مباحث و تمرین‌های مرتبط با «Fact vs Dimension Tables».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fact Table vs Dimension Table: What's the Difference",
+          "type": "article",
+          "url": "https://www.simplilearn.com/fact-table-vs-dimension-table-article",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "star-vs-snowflake-schema",
+      "title": "Star vs Snowflake Schema",
+      "description": "مباحث و تمرین‌های مرتبط با «Star vs Snowflake Schema».",
+      "order": 51,
+      "children": [
+        {
+          "id": "star-vs-snowflake-schema-item",
+          "title": "Star vs Snowflake Schema",
+          "description": "مباحث و تمرین‌های مرتبط با «Star vs Snowflake Schema».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Star Schema vs Snowflake Schema: Differences & Use Cases",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/star-schema-vs-snowflake-schema",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "etl-tools",
+      "title": "ETL Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «ETL Tools».",
+      "order": 52,
+      "children": [
+        {
+          "id": "airflow",
+          "title": "Airflow",
+          "description": "مباحث و تمرین‌های مرتبط با «Airflow».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Airflow",
+              "type": "article",
+              "url": "https://airflow.apache.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Airflow Documentation",
+              "type": "article",
+              "url": "https://airflow.apache.org/docs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Apache Airflow Tutorial for Data Engineers",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=y5rYZLBZ_Fw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Apache Airflow",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/apache-airflow?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "calculated-fields-measures",
+      "title": "Calculated Fields & Measures",
+      "description": "مباحث و تمرین‌های مرتبط با «Calculated Fields & Measures».",
+      "order": 53,
+      "children": [
+        {
+          "id": "calculated-fields-measures-item",
+          "title": "Calculated Fields & Measures",
+          "description": "مباحث و تمرین‌های مرتبط با «Calculated Fields & Measures».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "etl-basics",
+      "title": "ETL basics",
+      "description": "مباحث و تمرین‌های مرتبط با «ETL basics».",
+      "order": 54,
+      "children": [
+        {
+          "id": "etl-basics-item",
+          "title": "ETL basics",
+          "description": "مباحث و تمرین‌های مرتبط با «ETL basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is ETL?",
+          "type": "article",
+          "url": "https://www.snowflake.com/guides/what-etl",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "ETL Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=OW5OgsLpDCQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about ETL",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/etl?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "building-your-portfolio",
+      "title": "Building Your Portfolio",
+      "description": "مباحث و تمرین‌های مرتبط با «Building Your Portfolio».",
+      "order": 55,
+      "children": [
+        {
+          "id": "dashboard-design",
+          "title": "Dashboard Design",
+          "description": "مباحث و تمرین‌های مرتبط با «Dashboard Design».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "ES  Saltar navegación power bi dashboard design project     Crear   Imagen del avatar POWER BI Tutorial From BEGINNER to Pro Level",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=0BKlUySopU4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-pipeline-design",
+          "title": "Data Pipeline Design",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Pipeline Design».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Data Engineering Project: Quickly Build a Complex Data Pipeline",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=IQxhutCbN7A",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "end-to-end-analytics-project",
+          "title": "End-to-end Analytics Project",
+          "description": "مباحث و تمرین‌های مرتبط با «End-to-end Analytics Project».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "20 Data Analytics Projects for All Levels",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/data-analytics-projects-all-levels",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "End to End Data Analytics Project (Python + SQL)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=uL0-6kfiH3g",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Build a Data Analyst Portfolio: Tips for Success",
+          "type": "article",
+          "url": "https://www.coursera.org/articles/how-to-build-a-data-analyst-portfolio",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "professional-development",
+      "title": "Professional Development",
+      "description": "مباحث و تمرین‌های مرتبط با «Professional Development».",
+      "order": 56,
+      "children": [
+        {
+          "id": "professional-development-item",
+          "title": "Professional Development",
+          "description": "مباحث و تمرین‌های مرتبط با «Professional Development».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "certifications",
+      "title": "Certifications",
+      "description": "مباحث و تمرین‌های مرتبط با «Certifications».",
+      "order": 57,
+      "children": [
+        {
+          "id": "certifications-item",
+          "title": "Certifications",
+          "description": "مباحث و تمرین‌های مرتبط با «Certifications».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "16 Top Business Intelligence Certifications for a Successful Career",
+          "type": "article",
+          "url": "https://onlinedegrees.sandiego.edu/business-intelligence-certifications/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "9 Popular Data Analyst Certifications 2025 Guide",
+          "type": "article",
+          "url": "https://www.onlc.com/blog/popular-data-analyst-certifications/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking",
+      "title": "Networking",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+      "order": 58,
+      "children": [
+        {
+          "id": "open-source-projects",
+          "title": "Open-Source Projects",
+          "description": "مباحث و تمرین‌های مرتبط با «Open-Source Projects».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Metabase",
+              "type": "article",
+              "url": "https://github.com/metabase/metabase",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Superset",
+              "type": "article",
+              "url": "https://github.com/apache/superset",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "conferences-webinars",
+          "title": "Conferences & Webinars",
+          "description": "مباحث و تمرین‌های مرتبط با «Conferences & Webinars».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "bi-competitions",
+          "title": "BI Competitions",
+          "description": "مباحث و تمرین‌های مرتبط با «BI Competitions».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Kaggle Competitions",
+              "type": "article",
+              "url": "https://www.kaggle.com/competitions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Microsoft Fabric & AI Learning Hackathon",
+              "type": "article",
+              "url": "https://developer.microsoft.com/en-us/reactor/series/s-1393/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bi-communities",
+          "title": "BI Communities",
+          "description": "مباحث و تمرین‌های مرتبط با «BI Communities».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Tableau Community",
+              "type": "article",
+              "url": "https://community.tableau.com/s/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Power Bi Forums",
+              "type": "article",
+              "url": "https://community.fabric.microsoft.com/t5/Power-BI-forums/ct-p/powerbi",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Data Visualization Society",
+              "type": "article",
+              "url": "https://www.datavisualizationsociety.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "job-preparation",
+      "title": "Job Preparation",
+      "description": "مباحث و تمرین‌های مرتبط با «Job Preparation».",
+      "order": 59,
+      "children": [
+        {
+          "id": "interview-preparation",
+          "title": "Interview preparation",
+          "description": "مباحث و تمرین‌های مرتبط با «Interview preparation».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "BI Analyst Interview Questions and Answers (2025)",
+              "type": "article",
+              "url": "https://365datascience.com/career-advice/job-interview-tips/bi-analyst-interview-questions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "2 Hour Data Analyst Interview Masterclass",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=F5v2dRYU5IA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "portfolio-presentation",
+          "title": "Portfolio presentation",
+          "description": "مباحث و تمرین‌های مرتبط با «Portfolio presentation».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "salary-negotiation-strategies",
+          "title": "Salary negotiation strategies",
+          "description": "مباحث و تمرین‌های مرتبط با «Salary negotiation strategies».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "15 Rules for Negotiating a Job Offer",
+              "type": "article",
+              "url": "https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "resume-optimization",
+          "title": "Resume optimization",
+          "description": "مباحث و تمرین‌های مرتبط با «Resume optimization».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Top 10 AI Tools for Resumes and Job Applications",
+              "type": "article",
+              "url": "https://www.quantumanalyticsco.org/blog/top-10-ai-tools-for-resumes-and-job-applications",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

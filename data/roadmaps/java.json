@@ -1,0 +1,1365 @@
+{
+  "slug": "java",
+  "title": "Java",
+  "description": "Step by step guide to becoming a Java developer in 2026",
+  "steps": [
+    {
+      "id": "learn-the-basics",
+      "title": "Learn the Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn the Basics».",
+      "order": 1,
+      "children": [
+        {
+          "id": "basic-syntax",
+          "title": "Basic Syntax",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Syntax».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Java Language Basics",
+              "type": "article",
+              "url": "https://dev.java/learn/language-basics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Java - Basic Syntax",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=81piDKqPxjQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Java Tutorial for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=RRubcjpTkks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-types",
+          "title": "Data Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Types».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Java Data Types",
+              "type": "article",
+              "url": "https://jenkov.com/tutorials/java/variables.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Data Types & Variables?",
+              "type": "article",
+              "url": "https://jenkov.com/tutorials/java/data-types.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "variables-and-scopes",
+          "title": "Variables and Scopes",
+          "description": "مباحث و تمرین‌های مرتبط با «Variables and Scopes».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Java Variables",
+              "type": "article",
+              "url": "https://jenkov.com/tutorials/java/variables.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Java Variable Scope",
+              "type": "article",
+              "url": "https://www.baeldung.com/java-variable-scope",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "type-casting",
+          "title": "Type Casting",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Casting».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Type Casting in Java: Everything You Need to Know",
+              "type": "article",
+              "url": "https://www.simplilearn.com/tutorials/java-tutorial/type-casting-in-java",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Java Type Casting (With Examples)",
+              "type": "article",
+              "url": "https://www.programiz.com/java-programming/typecasting",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "arrays",
+          "title": "Arrays ",
+          "description": "مباحث و تمرین‌های مرتبط با «Arrays ».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Java Arrays",
+              "type": "article",
+              "url": "https://jenkov.com/tutorials/java/arrays.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Java Arrays Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ei_4Nt7XWOw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "conditionals",
+          "title": "Conditionals",
+          "description": "مباحث و تمرین‌های مرتبط با «Conditionals».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "What are Conditional statements?",
+              "type": "article",
+              "url": "https://www.educative.io/answers/what-are-conditional-statements-in-programming",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Conditionals and Loops in Java",
+              "type": "video",
+              "url": "https://youtu.be/ldYLYRNaucM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Switch Statements + Nested Case in Java",
+              "type": "video",
+              "url": "https://youtu.be/mA23x39DjbI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "loops",
+          "title": "Loops",
+          "description": "مباحث و تمرین‌های مرتبط با «Loops».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Loops in Java.",
+              "type": "article",
+              "url": "https://www.programiz.com/java-programming/for-loop",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "math-operations",
+          "title": "Math Operations",
+          "description": "مباحث و تمرین‌های مرتبط با «Math Operations».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Java Math",
+              "type": "article",
+              "url": "https://jenkov.com/tutorials/java/math-operators-and-math-class.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "lifecycle-of-a-program",
+          "title": "Lifecycle of a Program",
+          "description": "مباحث و تمرین‌های مرتبط با «Lifecycle of a Program».",
+          "order": 9,
+          "resources": [
+            {
+              "title": "Life Cycle of a Java Program",
+              "type": "article",
+              "url": "https://www.startertutorials.com/corejava/life-cycle-java-program.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How the JVM Executes Java Code",
+              "type": "article",
+              "url": "https://www.cesarsotovalero.net/blog/how-the-jvm-executes-java-code.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JIT vs. AOT Compilation in Java",
+              "type": "article",
+              "url": "https://bell-sw.com/blog/compilation-in-java-jit-vs-aot/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "lifecycle-of-a-program-2",
+          "title": "Lifecycle of a Program",
+          "description": "مباحث و تمرین‌های مرتبط با «Lifecycle of a Program».",
+          "order": 10,
+          "resources": [
+            {
+              "title": "Life Cycle of a Java Program",
+              "type": "article",
+              "url": "https://www.startertutorials.com/corejava/life-cycle-java-program.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How the JVM Executes Java Code",
+              "type": "article",
+              "url": "https://www.cesarsotovalero.net/blog/how-the-jvm-executes-java-code.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JIT vs. AOT Compilation in Java",
+              "type": "article",
+              "url": "https://bell-sw.com/blog/compilation-in-java-jit-vs-aot/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "basics-of-oop",
+          "title": "Basics of OOP",
+          "description": "مباحث و تمرین‌های مرتبط با «Basics of OOP».",
+          "order": 11,
+          "resources": [
+            {
+              "title": "Java Classes and Objects",
+              "type": "article",
+              "url": "https://jenkov.com/tutorials/java/classes.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Java by Hyperskill (JetBrains Academy)",
+          "type": "course",
+          "url": "https://hyperskill.org/tracks/8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Head First Java",
+          "type": "article",
+          "url": "https://www.amazon.co.uk/Head-First-Java-3rd-Brain-Friendly/dp/1491910771",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Thinking in Java",
+          "type": "article",
+          "url": "https://www.amazon.co.uk/Thinking-Java-Eckel-Bruce-February/dp/B00IBON6C6",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Effective Java",
+          "type": "article",
+          "url": "https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java: A Beginners Guide",
+          "type": "article",
+          "url": "https://www.amazon.co.uk/Java-Beginners-Guide-Herbert-Schildt/dp/1260463559",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java: The Complete Reference",
+          "type": "article",
+          "url": "https://www.amazon.co.uk/gp/product/B09JL8BMK7/ref=dbs_a_def_rwt_bibl_vppi_i2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java Tutorial for Beginners",
+          "type": "video",
+          "url": "https://youtu.be/eIrMbAQSU34",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java + DSA + Interview Preparation Course (For beginners)",
+          "type": "video",
+          "url": "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Java",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/java?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "exception-handling",
+      "title": "Exception Handling",
+      "description": "مباحث و تمرین‌های مرتبط با «Exception Handling».",
+      "order": 2,
+      "children": [
+        {
+          "id": "exception-handling-item",
+          "title": "Exception Handling",
+          "description": "مباحث و تمرین‌های مرتبط با «Exception Handling».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding Java Exceptions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=W-N2ltgU-X4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java Exception Handling",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1XAfapkBQjk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "lambda-expressions",
+      "title": "Lambda Expressions",
+      "description": "مباحث و تمرین‌های مرتبط با «Lambda Expressions».",
+      "order": 3,
+      "children": [
+        {
+          "id": "lambda-expressions-item",
+          "title": "Lambda Expressions",
+          "description": "مباحث و تمرین‌های مرتبط با «Lambda Expressions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Java Lambda Expressions",
+          "type": "article",
+          "url": "https://jenkov.com/tutorials/java/lambda-expressions.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "annotations",
+      "title": "Annotations",
+      "description": "مباحث و تمرین‌های مرتبط با «Annotations».",
+      "order": 4,
+      "children": [
+        {
+          "id": "annotations-item",
+          "title": "Annotations",
+          "description": "مباحث و تمرین‌های مرتبط با «Annotations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Java Annotations Tutorial",
+          "type": "article",
+          "url": "https://jenkov.com/tutorials/java/annotations.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "modules",
+      "title": "Modules",
+      "description": "مباحث و تمرین‌های مرتبط با «Modules».",
+      "order": 5,
+      "children": [
+        {
+          "id": "modules-item",
+          "title": "Modules",
+          "description": "مباحث و تمرین‌های مرتبط با «Modules».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Java Modules",
+          "type": "article",
+          "url": "https://jenkov.com/tutorials/java/modules.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Guide to Java 9 Modularity",
+          "type": "article",
+          "url": "https://www.baeldung.com/java-modularity",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "optionals",
+      "title": "Optionals",
+      "description": "مباحث و تمرین‌های مرتبط با «Optionals».",
+      "order": 6,
+      "children": [
+        {
+          "id": "optionals-item",
+          "title": "Optionals",
+          "description": "مباحث و تمرین‌های مرتبط با «Optionals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Guide To Optionals",
+          "type": "article",
+          "url": "https://www.baeldung.com/java-optional",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java Optional",
+          "type": "article",
+          "url": "https://dzone.com/articles/optional-in-java",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cryptography",
+      "title": "Cryptography",
+      "description": "مباحث و تمرین‌های مرتبط با «Cryptography».",
+      "order": 7,
+      "children": [
+        {
+          "id": "cryptography-item",
+          "title": "Cryptography",
+          "description": "مباحث و تمرین‌های مرتبط با «Cryptography».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Java Cryptography Tutorial",
+          "type": "article",
+          "url": "https://jenkov.com/tutorials/java-cryptography/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cryptography 101 for Java developers",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=itmNhVckTPc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dependency-injection",
+      "title": "Dependency Injection",
+      "description": "مباحث و تمرین‌های مرتبط با «Dependency Injection».",
+      "order": 8,
+      "children": [
+        {
+          "id": "dependency-injection-item",
+          "title": "Dependency Injection",
+          "description": "مباحث و تمرین‌های مرتبط با «Dependency Injection».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Dependency Injection Tutorial",
+          "type": "article",
+          "url": "https://jenkov.com/tutorials/dependency-injection/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java Dependency Injection Design Pattern Example Tutorial",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/java-dependency-injection-design-pattern-example-tutorial",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "date-and-time",
+      "title": "Date and Time",
+      "description": "مباحث و تمرین‌های مرتبط با «Date and Time».",
+      "order": 9,
+      "children": [
+        {
+          "id": "date-and-time-item",
+          "title": "Date and Time",
+          "description": "مباحث و تمرین‌های مرتبط با «Date and Time».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Date and Time API in Java",
+          "type": "article",
+          "url": "https://chamalwr.medium.com/datetime-api-in-java-2aef5df1c39b",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Date and Time in Java",
+          "type": "article",
+          "url": "https://www.baeldung.com/java-8-date-time-intro",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java SE 8 Date and Time",
+          "type": "article",
+          "url": "https://www.oracle.com/technical-resources/articles/java/jf14-date-time.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking",
+      "title": "Networking",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+      "order": 10,
+      "children": [
+        {
+          "id": "networking-item",
+          "title": "Networking",
+          "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Sockets",
+          "type": "article",
+          "url": "https://docs.oracle.com/javase/tutorial/networking/sockets/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java Networking",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/java/java_networking.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Socket Programming?",
+          "type": "video",
+          "url": "https://youtu.be/BqBKEXLqdvI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Networking",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/networking?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "regular-expressions",
+      "title": "Regular Expressions",
+      "description": "مباحث و تمرین‌های مرتبط با «Regular Expressions».",
+      "order": 11,
+      "children": [
+        {
+          "id": "regular-expressions-item",
+          "title": "Regular Expressions",
+          "description": "مباحث و تمرین‌های مرتبط با «Regular Expressions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Java Regular Expressions Tutorial",
+          "type": "article",
+          "url": "https://jenkov.com/tutorials/java-regex/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "i-o-operations",
+      "title": "I/O Operations",
+      "description": "مباحث و تمرین‌های مرتبط با «I/O Operations».",
+      "order": 12,
+      "children": [
+        {
+          "id": "i-o-operations-item",
+          "title": "I/O Operations",
+          "description": "مباحث و تمرین‌های مرتبط با «I/O Operations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Java IO Tutorial",
+          "type": "article",
+          "url": "https://jenkov.com/tutorials/java-io/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "file-operations",
+      "title": "File Operations",
+      "description": "مباحث و تمرین‌های مرتبط با «File Operations».",
+      "order": 13,
+      "children": [
+        {
+          "id": "file-operations-item",
+          "title": "File Operations",
+          "description": "مباحث و تمرین‌های مرتبط با «File Operations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How To Work With Files In Java",
+          "type": "article",
+          "url": "https://www.marcobehler.com/guides/java-files",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "(old) Java HttpURLConnection Example - Java HTTP Request GET, POST",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/java-httpurlconnection-example-java-http-request-get-post",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "New Java HttpClient",
+          "type": "article",
+          "url": "https://www.baeldung.com/java-9-http-client",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "5 ways to make HTTP requests in Java",
+          "type": "article",
+          "url": "https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Read a file line by line in Java",
+          "type": "article",
+          "url": "https://mkyong.com/java8/java-8-stream-read-a-file-line-by-line/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Various ways to read a file to String in Java",
+          "type": "article",
+          "url": "https://howtodoinjava.com/java/io/java-read-file-to-string-examples/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "concurrency",
+      "title": "Concurrency",
+      "description": "مباحث و تمرین‌های مرتبط با «Concurrency».",
+      "order": 14,
+      "children": [
+        {
+          "id": "threads",
+          "title": "Threads",
+          "description": "مباحث و تمرین‌های مرتبط با «Threads».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Threads in Java",
+              "type": "article",
+              "url": "https://jenkov.com/tutorials/java-concurrency/index.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Java Threads Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=TCd8QIS-2KI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Java Concurrency and Multithreading Tutorial",
+          "type": "article",
+          "url": "https://jenkov.com/tutorials/java-concurrency/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java Concurrency in Practice",
+          "type": "article",
+          "url": "https://www.baeldung.com/java-concurrency",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "database-access",
+      "title": "Database Access",
+      "description": "مباحث و تمرین‌های مرتبط با «Database Access».",
+      "order": 15,
+      "children": [
+        {
+          "id": "spring-data-jpa",
+          "title": "Spring Data JPA",
+          "description": "مباحث و تمرین‌های مرتبط با «Spring Data JPA».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Spring Data JPA",
+              "type": "article",
+              "url": "https://spring.io/projects/spring-data-jpa",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to Spring Data JPA",
+              "type": "article",
+              "url": "https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Data JPA Tutorial",
+              "type": "video",
+              "url": "https://youtu.be/XszpXoII9Sg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spring Boot Tutorial - Spring Data JPA",
+              "type": "video",
+              "url": "https://youtu.be/8SGI_XS5OPw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Spring Framework",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/spring?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "ORM tutorial",
+          "type": "article",
+          "url": "https://www.altexsoft.com/blog/object-relational-mapping/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java Databases: An Overview of Libraries & APIs",
+          "type": "article",
+          "url": "https://www.marcobehler.com/guides/java-databases",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Java",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/java?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "web-frameworks",
+      "title": "Web Frameworks",
+      "description": "مباحث و تمرین‌های مرتبط با «Web Frameworks».",
+      "order": 16,
+      "children": [
+        {
+          "id": "javalin",
+          "title": "Javalin",
+          "description": "مباحث و تمرین‌های مرتبط با «Javalin».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Javalin Website",
+              "type": "article",
+              "url": "https://javalin.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating a REST API with Javalin",
+              "type": "article",
+              "url": "https://www.baeldung.com/javalin-rest-microservices",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "build-tools",
+      "title": "Build Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Build Tools».",
+      "order": 17,
+      "children": [
+        {
+          "id": "build-tools-item",
+          "title": "Build Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Build Tools».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "logging-frameworks",
+      "title": "Logging Frameworks",
+      "description": "مباحث و تمرین‌های مرتبط با «Logging Frameworks».",
+      "order": 18,
+      "children": [
+        {
+          "id": "logging-frameworks-item",
+          "title": "Logging Frameworks",
+          "description": "مباحث و تمرین‌های مرتبط با «Logging Frameworks».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Java Logging",
+          "type": "article",
+          "url": "https://www.baeldung.com/java-logging-intro",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Java Logging Frameworks",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Java_logging_framework",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Do Logging In Java",
+          "type": "article",
+          "url": "https://www.marcobehler.com/guides/java-logging",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Java",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/java?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "documentation",
+      "title": "Documentation",
+      "description": "مباحث و تمرین‌های مرتبط با «Documentation».",
+      "order": 19,
+      "children": [
+        {
+          "id": "javadoc",
+          "title": "Javadoc",
+          "description": "مباحث و تمرین‌های مرتبط با «Javadoc».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "javadoc",
+              "type": "article",
+              "url": "https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Javadocs",
+              "type": "article",
+              "url": "https://www.jetbrains.com/help/idea/javadocs.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to Javadoc",
+              "type": "article",
+              "url": "https://www.baeldung.com/javadoc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Write Doc Comments for the Javadoc Tool",
+              "type": "article",
+              "url": "https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 20,
+      "children": [
+        {
+          "id": "bazel",
+          "title": "Bazel",
+          "description": "مباحث و تمرین‌های مرتبط با «Bazel».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Getting started with Bazel",
+              "type": "article",
+              "url": "https://bazel.build/start",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Build Java Projects with Bazel",
+              "type": "article",
+              "url": "https://earthly.dev/blog/build-java-projects-with-bazel/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to the Bazel Build Tool",
+              "type": "article",
+              "url": "https://www.baeldung.com/bazel-build-tool",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Software Testing?",
+          "type": "article",
+          "url": "https://www.guru99.com/software-testing-introduction-importance.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing Pyramid",
+          "type": "article",
+          "url": "https://www.browserstack.com/guide/testing-pyramid-for-test-automation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Java",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/java?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

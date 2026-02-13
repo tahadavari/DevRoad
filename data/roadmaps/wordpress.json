@@ -1,0 +1,2647 @@
+{
+  "slug": "wordpress",
+  "title": "WordPress",
+  "description": "Step by step guide to becoming a WordPress Developer in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-http",
+          "title": "What is HTTP?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is HTTP?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Everything you need to know about HTTP",
+              "type": "article",
+              "url": "https://cs.fyi/guide/http-in-depth",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is HTTP?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How HTTPS Works",
+              "type": "article",
+              "url": "https://howhttps.works",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTTP/3 Is Now a Standard: Why Use It and How to Get Started",
+              "type": "article",
+              "url": "https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "how-the-web-works",
+          "title": "How the Web Works?",
+          "description": "مباحث و تمرین‌های مرتبط با «How the Web Works?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Introduction to Internet",
+              "type": "article",
+              "url": "https://roadmap.sh/guides/what-is-internet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How does the Internet Work?",
+              "type": "article",
+              "url": "https://cs.fyi/guide/how-does-internet-work",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Does the Internet Work? MDN Docs",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How the Internet Works in 5 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7_LPdttKXPc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-a-cms",
+          "title": "What is a CMS?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is a CMS?».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Content management system",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Content_management_system",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a content management system (CMS)?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/content-management-system",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is A CMS? - What Is Web Development",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ObEifg2REog",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Content Management System?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=WRPROIheR0E",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "frontend-fundamentals",
+          "title": "Frontend Fundamentals",
+          "description": "مباحث و تمرین‌های مرتبط با «Frontend Fundamentals».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Visit the dedicated Frontend Developer Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/frontend",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Frontend Development Handbook",
+              "type": "article",
+              "url": "https://github.com/FrontendMasters/front-end-handbook-2019/blob/master/exports/Front-end%20Developer%20Handbook%202019.pdf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Front-End Development?",
+              "type": "article",
+              "url": "https://cloudinary.com/guides/front-end-development/front-end-development-the-complete-guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Frontend web development - a complete overview",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=WG5ikvJ2TKA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "backend-fundamentals",
+          "title": "Backend Fundamentals",
+          "description": "مباحث و تمرین‌های مرتبط با «Backend Fundamentals».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Visit the Dedicated Backend Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/backend",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is backend? A comprehensive intro to server-side development",
+              "type": "article",
+              "url": "https://alokai.com/blog/what-is-backend",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Complete Backend Course | Build and Deploy Your First Production-Ready API",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rOpEN1JDaD0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Beginner WordPress Developer",
+          "type": "course",
+          "url": "https://learn.wordpress.org/course/beginner-wordpress-developer/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress",
+          "type": "article",
+          "url": "https://wordpress.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting started on WordPress.com",
+          "type": "article",
+          "url": "https://wordpress.com/support/getting-started-with-wordpress-com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Tutorials",
+          "type": "article",
+          "url": "https://learn.wordpress.org/tutorials/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is WordPress? Explained for beginners",
+          "type": "article",
+          "url": "https://kinsta.com/blog/what-is-wordpress/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Create a Website – WordPress Tutorial for Beginners 2025",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=R4v_7hh4Yys",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Master WordPress in 20 Minutes (Beginner Tutorial)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=U8OqOMkEaLc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "installation-setup",
+      "title": "Installation & Setup",
+      "description": "مباحث و تمرین‌های مرتبط با «Installation & Setup».",
+      "order": 2,
+      "children": [
+        {
+          "id": "installation-setup-item",
+          "title": "Installation & Setup",
+          "description": "مباحث و تمرین‌های مرتبط با «Installation & Setup».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to install WordPress",
+          "type": "article",
+          "url": "https://developer.wordpress.org/advanced-administration/before-install/howto-install/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Setting Up Your Local Development Environment for WordPress",
+          "type": "article",
+          "url": "https://wordpress.com/blog/2022/11/14/setting-up-your-local-development-environment-for-wordpress/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to install WordPress locally (3 methods)",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/install-wordpress-locally",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Why would a WordPress user need to run a local site?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=agHdxUrIKow&list=PL1pJFUVKQ7ERioxFzW7z0zwh0OJW_-5jI&index=2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Install WordPress Locally | WordPress Tutorial for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fArmNhkSrSw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Install WordPress Locally on Windows for Beginners from Scratch",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=usoJ6ckzUz8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "themes",
+      "title": "Themes",
+      "description": "مباحث و تمرین‌های مرتبط با «Themes».",
+      "order": 3,
+      "children": [
+        {
+          "id": "themes-item",
+          "title": "Themes",
+          "description": "مباحث و تمرین‌های مرتبط با «Themes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Themes",
+          "type": "article",
+          "url": "https://wordpress.org/themes/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is a Theme?",
+          "type": "article",
+          "url": "https://developer.wordpress.org/themes/getting-started/what-is-a-theme/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Different types of themes",
+          "type": "article",
+          "url": "https://wordpress.com/support/theme-types/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a WordPress theme and how to choose one",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/what-is-a-wordpress-theme",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "30 best free WordPress themes",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/best-free-wordpress-themes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a WordPress Theme? | Best WordPress Theme for Business (Beginners Guide)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0tt_JxQr_ds",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Choosing and installing a theme",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=tMi4F6bScqM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "plugins",
+      "title": "Plugins",
+      "description": "مباحث و تمرین‌های مرتبط با «Plugins».",
+      "order": 4,
+      "children": [
+        {
+          "id": "plugins-item",
+          "title": "Plugins",
+          "description": "مباحث و تمرین‌های مرتبط با «Plugins».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Are WordPress Plugins and Themes? (A Beginner’s Guide)",
+          "type": "article",
+          "url": "https://wordpress.com/go/website-building/what-are-wordpress-plugins-and-themes-a-beginners-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a plugin?",
+          "type": "article",
+          "url": "https://learn.wordpress.org/lesson/what-is-a-plugin/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Plugin Docs",
+          "type": "article",
+          "url": "https://developer.wordpress.org/plugins/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Plugin Catalog",
+          "type": "article",
+          "url": "https://wordpress.com/plugins",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a WordPress plugin: A comprehensive guide for beginners",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/what-is-wordpress-plugin",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a WordPress Plugin?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=WAAh3DsI7_Q",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "file-structure",
+      "title": "File Structure",
+      "description": "مباحث و تمرین‌های مرتبط با «File Structure».",
+      "order": 5,
+      "children": [
+        {
+          "id": "file-structure-item",
+          "title": "File Structure",
+          "description": "مباحث و تمرین‌های مرتبط با «File Structure».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The WordPress file structure",
+          "type": "article",
+          "url": "https://learn.wordpress.org/lesson/the-wordpress-file-structure/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Beginner’s Guide to WordPress File and Directory Structure",
+          "type": "article",
+          "url": "https://www.wpbeginner.com/beginners-guide/beginners-guide-to-wordpress-file-and-directory-structure/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Beginner’s Guide to Understanding WordPress File Structure & Database",
+          "type": "article",
+          "url": "https://www.malcare.com/blog/beginners-guide-to-understanding-the-structure-of-a-wordpress-site/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The WordPress file system",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Bz-UB_KjufU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understand where your files live",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Nm2fpJ4jBt4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "page-editors",
+      "title": "Page Editors",
+      "description": "مباحث و تمرین‌های مرتبط با «Page Editors».",
+      "order": 6,
+      "children": [
+        {
+          "id": "page-editors-item",
+          "title": "Page Editors",
+          "description": "مباحث و تمرین‌های مرتبط با «Page Editors».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "WordPress Editors: Site Editor, Template Editor, and Page Editor Explained",
+          "type": "article",
+          "url": "https://wordpress.com/go/website-building/site-editor-template-editor-page-editor-explained/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "About WordPress editors",
+          "type": "article",
+          "url": "https://wordpress.com/support/editors/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Editors, the Customizer and Page Builders",
+          "type": "article",
+          "url": "https://kubiobuilder.com/wordpress-web-design/wordpress-editor-customizer-builder/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "hooks",
+      "title": "Hooks",
+      "description": "مباحث و تمرین‌های مرتبط با «Hooks».",
+      "order": 7,
+      "children": [
+        {
+          "id": "filters",
+          "title": "Filters",
+          "description": "مباحث و تمرین‌های مرتبط با «Filters».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "WordPress Filter Hooks",
+              "type": "article",
+              "url": "https://learn.wordpress.org/tutorial/wordpress-filter-hooks/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "add_filter",
+              "type": "article",
+              "url": "https://developer.wordpress.org/reference/functions/add_filter/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The WordPress Hooks Bootcamp: How to Use Actions, Filters, and Custom Hooks",
+              "type": "article",
+              "url": "https://kinsta.com/blog/wordpress-hooks/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Filter Hooks",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=EZNJWgq26_E",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WordPress Hooks Actions and Filters Introduction Full Playlist Part -1",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7qiPMpi2xc0&list=PLD8nQCAhR3tTVcreVOlFteq0piaXq1jjk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Hooks",
+          "type": "article",
+          "url": "https://developer.wordpress.org/plugins/hooks/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Hooks List",
+          "type": "article",
+          "url": "https://developer.wordpress.org/reference/hooks/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The WordPress Hooks Bootcamp: How to Use Actions, Filters, and Custom Hooks",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-hooks/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Hooks Explained",
+          "type": "article",
+          "url": "https://crocoblock.com/blog/wordpress-hooks-explained/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Hooks",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MW-evyl4nQU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Hooks Actions and Filters Introduction Full Playlist Part -1",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7qiPMpi2xc0&list=PLD8nQCAhR3tTVcreVOlFteq0piaXq1jjk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "the-loop",
+      "title": "The Loop",
+      "description": "مباحث و تمرین‌های مرتبط با «The Loop».",
+      "order": 8,
+      "children": [
+        {
+          "id": "the-loop-item",
+          "title": "The Loop",
+          "description": "مباحث و تمرین‌های مرتبط با «The Loop».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Loop",
+          "type": "article",
+          "url": "https://developer.wordpress.org/themes/classic-themes/basics/the-loop/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Loop",
+          "type": "article",
+          "url": "https://codex.wordpress.org/The_Loop",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Loop complete guide: everything you need to know",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-loop/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Loop",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jMI9oYI4ySk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering the WordPress Loop - Complete Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-XOBJm2SObQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "shortcodes",
+      "title": "Shortcodes",
+      "description": "مباحث و تمرین‌های مرتبط با «Shortcodes».",
+      "order": 9,
+      "children": [
+        {
+          "id": "shortcodes-item",
+          "title": "Shortcodes",
+          "description": "مباحث و تمرین‌های مرتبط با «Shortcodes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Shortcode",
+          "type": "article",
+          "url": "https://codex.wordpress.org/Shortcode",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Shortcode block",
+          "type": "article",
+          "url": "https://wordpress.com/support/wordpress-editor/blocks/shortcode-block/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Shortcode API",
+          "type": "article",
+          "url": "https://codex.wordpress.org/Shortcode_API",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Ultimate Guide to WordPress Shortcodes (With Examples to Create Your Own)",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-shortcodes/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Guía definitiva de los shortcodes de WordPress",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=sq1OZ2ZNqIw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Create a Shortcode in WordPress",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ooDcpimdf_w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "custom-post-types",
+      "title": "Custom Post Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Custom Post Types».",
+      "order": 10,
+      "children": [
+        {
+          "id": "custom-post-types-item",
+          "title": "Custom Post Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Custom Post Types».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Custom post types",
+          "type": "article",
+          "url": "https://learn.wordpress.org/lesson/custom-post-types/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Use WordPress Custom Post Types to Create a Specialty Website",
+          "type": "article",
+          "url": "https://wordpress.com/go/tutorials/wordpress-custom-post-types",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Custom Post Types: The All-In-One Guide to Create and Use Them",
+          "type": "article",
+          "url": "http://kinsta.com/blog/wordpress-custom-post-types/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Creating custom post types and taxonomies",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=WB7BKQdcP9w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Custom Post Types",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=vPptt9BiAKM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Wordpress Custom Post Type Tutorial for beginners from scratch (Part#1) | Basics & Introduction",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fvStBjaALXo&list=PLT9miexWCpPXs5LDHnQFUTFh0o_ihDy3-",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "style-script-enqueueing",
+      "title": "Style & Script Enqueueing",
+      "description": "مباحث و تمرین‌های مرتبط با «Style & Script Enqueueing».",
+      "order": 11,
+      "children": [
+        {
+          "id": "style-script-enqueueing-item",
+          "title": "Style & Script Enqueueing",
+          "description": "مباحث و تمرین‌های مرتبط با «Style & Script Enqueueing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Enqueueing Scripts And Styles",
+          "type": "article",
+          "url": "https://learn.wordpress.org/lesson-plan/enqueueing-scripts-and-styles/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "wp_enqueue_style",
+          "type": "article",
+          "url": "https://developer.wordpress.org/reference/functions/wp_enqueue_style/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "wp_enqueue_script",
+          "type": "article",
+          "url": "https://developer.wordpress.org/reference/functions/wp_enqueue_script/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "wp_enqueue_scripts – How to Enqueue Your Assets in WordPress",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wp-enqueue-scripts/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Enqueue CSS Stylesheet to WordPress Using wp_enqueue_style",
+          "type": "article",
+          "url": "https://www.hostinger.com/ph/tutorials/wp_enqueue_style",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Enqueuing CSS and JavaScript",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=a7ZRFA2s-pM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "taxonomies",
+      "title": "Taxonomies",
+      "description": "مباحث و تمرین‌های مرتبط با «Taxonomies».",
+      "order": 12,
+      "children": [
+        {
+          "id": "taxonomies-item",
+          "title": "Taxonomies",
+          "description": "مباحث و تمرین‌های مرتبط با «Taxonomies».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Taxonomies",
+          "type": "article",
+          "url": "http://wordpress.org/documentation/article/taxonomies/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Categories, Tags, & Custom Taxonomies",
+          "type": "article",
+          "url": "https://developer.wordpress.org/themes/classic-themes/basics/categories-tags-custom-taxonomies/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Taxonomy? WordPress Taxonomies Explained",
+          "type": "article",
+          "url": "https://kinsta.com/blog/what-is-taxonomy/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is WordPress taxonomy and how to create custom ones?",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/wordpress-taxonomy",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress taxonomies",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=TPbMiwuoMtU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Creating custom post types and taxonomies",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=WB7BKQdcP9w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Custom Taxonomy in WordPress - How To Create and Customize Your WordPress Taxonomy",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=k6lGmyhT1uo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "wordpress-rest-api",
+      "title": "WordPress REST API",
+      "description": "مباحث و تمرین‌های مرتبط با «WordPress REST API».",
+      "order": 13,
+      "children": [
+        {
+          "id": "wordpress-rest-api-item",
+          "title": "WordPress REST API",
+          "description": "مباحث و تمرین‌های مرتبط با «WordPress REST API».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "REST API Handbook",
+          "type": "article",
+          "url": "https://developer.wordpress.org/rest-api/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "REST API Docs",
+          "type": "article",
+          "url": "https://developer.wordpress.com/docs/api/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Using the WordPress REST API",
+          "type": "article",
+          "url": "https://learn.wordpress.org/tutorial/using-the-wordpress-rest-api/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Other WordPress APIs",
+          "type": "article",
+          "url": "https://codex.wordpress.org/WordPress_APIs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Complete Guide to WordPress REST API Basics",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-rest-api/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The WordPress REST API",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=u04-vaaDS2g",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Using the WordPress REST API",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SdwFRdcAlH0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "coding-standards",
+      "title": "Coding Standards",
+      "description": "مباحث و تمرین‌های مرتبط با «Coding Standards».",
+      "order": 14,
+      "children": [
+        {
+          "id": "coding-standards-item",
+          "title": "Coding Standards",
+          "description": "مباحث و تمرین‌های مرتبط با «Coding Standards».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "WordPress Coding Standards",
+          "type": "article",
+          "url": "https://developer.wordpress.org/coding-standards/wordpress-coding-standards/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Coding Standards Docs",
+          "type": "article",
+          "url": "https://codex.wordpress.org/WordPress_Coding_Standards",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An introduction to WordPress coding standards",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-coding-standards/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to WordPress Coding Standards",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=n7-F-FMzM7Q",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "classic-vs-block-themes",
+      "title": "Classic vs Block Themes",
+      "description": "مباحث و تمرین‌های مرتبط با «Classic vs Block Themes».",
+      "order": 15,
+      "children": [
+        {
+          "id": "classic-vs-block-themes-item",
+          "title": "Classic vs Block Themes",
+          "description": "مباحث و تمرین‌های مرتبط با «Classic vs Block Themes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Different types of themes",
+          "type": "article",
+          "url": "https://wordpress.com/support/theme-types/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Block Themes vs Classic Themes: 4 Key Differences",
+          "type": "article",
+          "url": "https://www.wpzoom.com/blog/block-themes-vs-classic-themes/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Block Theme vs Classic Theme",
+          "type": "article",
+          "url": "https://instawp.com/wordpress-block-theme-vs-classic-theme/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Switch from a Classic Theme to a Block Theme in WordPress",
+          "type": "article",
+          "url": "https://jetpack.com/resources/wordpress-switch-from-classic-to-block-theme/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "licensing-updates",
+      "title": "Licensing & Updates",
+      "description": "مباحث و تمرین‌های مرتبط با «Licensing & Updates».",
+      "order": 16,
+      "children": [
+        {
+          "id": "licensing-updates-item",
+          "title": "Licensing & Updates",
+          "description": "مباحث و تمرین‌های مرتبط با «Licensing & Updates».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "security-hardening",
+      "title": "Security & Hardening",
+      "description": "مباحث و تمرین‌های مرتبط با «Security & Hardening».",
+      "order": 17,
+      "children": [
+        {
+          "id": "firewall-malware-scanning",
+          "title": "Firewall & Malware Scanning",
+          "description": "مباحث و تمرین‌های مرتبط با «Firewall & Malware Scanning».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Protect your website from malware",
+              "type": "article",
+              "url": "https://wordpress.com/support/malware-and-site-security/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Web Application Firewall (WAF) for WordPress?",
+              "type": "article",
+              "url": "https://jetpack.com/resources/wordpress-web-application-firewall/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "6 Best WordPress Firewall Plugins Compared (Tested in 2025)",
+              "type": "article",
+              "url": "https://www.wpbeginner.com/plugins/best-wordpress-firewall-plugins-compared/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to scan WordPress for malware in 4 easy steps",
+              "type": "article",
+              "url": "https://kinsta.com/blog/scan-wordpress-for-malware/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "activity-logging",
+          "title": "Activity Logging",
+          "description": "مباحث و تمرین‌های مرتبط با «Activity Logging».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Definitive guide to WordPress activity logs",
+              "type": "article",
+              "url": "https://melapress.com/wordpress-activity-log/definitive-guide/?utm_medium=referral&utm_source=roadmapsh&utm_campaign=wproadmap",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "7 Best WordPress Activity Log and Tracking Plugins (Compared)",
+              "type": "article",
+              "url": "https://www.wpbeginner.com/showcase/best-wordpress-activity-log-and-tracking-plugins-compared/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "vulnerability-monitoring",
+          "title": "Vulnerability Monitoring",
+          "description": "مباحث و تمرین‌های مرتبط با «Vulnerability Monitoring».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is vulnerability monitoring in WordPress?",
+              "type": "article",
+              "url": "https://www.one.com/en/wordpress-hosting/vulnerability-monitoring-wordpress",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hosting security tested: 87.8% of vulnerability exploits bypassed hosting defenses",
+              "type": "article",
+              "url": "https://patchstack.com/articles/hosting-security-tested-87-percent-of-vulnerability-exploits-bypassed-hosting-defenses/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Best 5 WordPress Vulnerability Scanners in 2025 (Compared)",
+              "type": "article",
+              "url": "https://runcloud.io/blog/best-wordpress-vulnerability-scanner",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Hackers Find Vulnerabilities in WordPress & Exploit Them | Scanning WP For Vulnerabilities",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=IoHUftKVvmk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WordPress Vulnerabilities",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=-evas4VOLH8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "virtual-patching",
+          "title": "Virtual Patching",
+          "description": "مباحث و تمرین‌های مرتبط با «Virtual Patching».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Virtual Patching, Your WordPress Website’s First Line Of Defence",
+              "type": "article",
+              "url": "https://www.impactmedia.co.uk/insights/virtual-patching-wordpress-website-first-line-defence/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Virtual Patching & How Does It Work?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Y2dXCGPpBjE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "5 SIMPLE Steps to Securing WordPress",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=RxEg2dCS67I",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "user-login-security",
+          "title": "User & Login Security",
+          "description": "مباحث و تمرین‌های مرتبط با «User & Login Security».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "What is 2FA? A beginner’s guide",
+              "type": "article",
+              "url": "https://melapress.com/what-is-2fa-beginners-guide/?utm_medium=referral&utm_source=roadmapsh&utm_campaign=wproadmap",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Monitor User Activity in WordPress With Security Audit Logs",
+              "type": "article",
+              "url": "https://www.wpbeginner.com/plugins/how-to-monitor-user-activity-in-wordpress-with-simple-history/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Simple WordPress Security Wins - How to Protect Your WordPress Users' Accounts (for FREE)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=HzZ6FIvuiB4/?utm_medium=referral&utm_source=roadmapsh&utm_campaign=wproadmap",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Hardening WordPress",
+          "type": "article",
+          "url": "https://developer.wordpress.org/advanced-administration/security/hardening/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Keep your site safe and secure",
+          "type": "article",
+          "url": "https://wordpress.com/support/security/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress security & hardening, the definitive guide",
+          "type": "article",
+          "url": "https://melapress.com/wordpress-security/?utm_medium=referral&utm_source=roadmapsh&utm_campaign=wproadmap",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to improve WordPress security: 22 methods to protect your website",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/how-to-secure-wordpress",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Secure Your WordPress Site in 2025",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=D0Q6448Fpo8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "user-roles",
+      "title": "User Roles",
+      "description": "مباحث و تمرین‌های مرتبط با «User Roles».",
+      "order": 18,
+      "children": [
+        {
+          "id": "user-roles-item",
+          "title": "User Roles",
+          "description": "مباحث و تمرین‌های مرتبط با «User Roles».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Roles and Capabilities",
+          "type": "article",
+          "url": "https://wordpress.org/documentation/article/roles-and-capabilities/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use WordPress user roles for improved WordPress security",
+          "type": "article",
+          "url": "https://melapress.com/wordpress-user-roles-wordpress-security/?utm_medium=referral&utm_source=roadmapsh&utm_campaign=wproadmap",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The ultimate guide to WordPress user management",
+          "type": "article",
+          "url": "https://melapress.com/ultimate-guide-wordpress-user-management/?utm_medium=referral&utm_source=roadmapsh&utm_campaign=wproadmap",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress User Roles & Capabilities: The Ultimate 2025 Guide",
+          "type": "article",
+          "url": "https://jetpack.com/resources/wordpress-user-roles-the-ultimate-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Adding custom user roles using a WordPress plugin",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=FfEpt8RaTB4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security-best-practices",
+      "title": "Security Best Practices",
+      "description": "مباحث و تمرین‌های مرتبط با «Security Best Practices».",
+      "order": 19,
+      "children": [
+        {
+          "id": "security-best-practices-item",
+          "title": "Security Best Practices",
+          "description": "مباحث و تمرین‌های مرتبط با «Security Best Practices».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Security",
+          "type": "article",
+          "url": "https://developer.wordpress.org/advanced-administration/security/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A complete guide to WordPress security best practices in 2025",
+          "type": "article",
+          "url": "https://nordlayer.com/blog/wordpress-security-best-practices/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress security checklist: 30 measures to safeguard your site",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/wordpress-security-checklist",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "backups-recovery",
+      "title": "Backups & Recovery",
+      "description": "مباحث و تمرین‌های مرتبط با «Backups & Recovery».",
+      "order": 20,
+      "children": [
+        {
+          "id": "backups-recovery-item",
+          "title": "Backups & Recovery",
+          "description": "مباحث و تمرین‌های مرتبط با «Backups & Recovery».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Backups",
+          "type": "article",
+          "url": "https://developer.wordpress.org/advanced-administration/security/backup/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "4 Best Incremental WordPress Backup Plugins (Save Space and Speed)",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-backup-plugins/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Guide to restoring WordPress from backup files and database",
+          "type": "article",
+          "url": "https://teamupdraft.com/blog/restoring-wordpress-from-backup/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Back up your backup for WordPress disaster recovery",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-disaster-recovery/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Backup Your WordPress Website in 5 Min",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=bmx39y_8tOs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "update-strategies",
+      "title": "Update Strategies",
+      "description": "مباحث و تمرین‌های مرتبط با «Update Strategies».",
+      "order": 21,
+      "children": [
+        {
+          "id": "update-strategies-item",
+          "title": "Update Strategies",
+          "description": "مباحث و تمرین‌های مرتبط با «Update Strategies».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How To Update WordPress Without Breaking Your Site",
+          "type": "article",
+          "url": "https://www.dreamhost.com/blog/update-wordpress/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Don’t Panic! A Stress-Free Approach to WordPress Update Management",
+          "type": "article",
+          "url": "https://wponcall.com/wordpress-update-management/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Updates 101 (and Beyond)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8o40zePHRwo&t=354s&utm_medium=referral&utm_source=roadmapsh&utm_campaign=wproadmap",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "performance-monitoring",
+      "title": "Performance monitoring",
+      "description": "مباحث و تمرین‌های مرتبط با «Performance monitoring».",
+      "order": 22,
+      "children": [
+        {
+          "id": "performance-monitoring-item",
+          "title": "Performance monitoring",
+          "description": "مباحث و تمرین‌های مرتبط با «Performance monitoring».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Improve your website’s speed and performance",
+          "type": "article",
+          "url": "https://wordpress.com/support/site-speed/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Guide to Monitoring WordPress Performance with Free Tools",
+          "type": "article",
+          "url": "https://wisdmlabs.com/blog/guide-to-monitoring-wordpress-performance/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "5 Best WordPress Site Monitoring Tools in 2025",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=e6tvoZ0eSZU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "migrations",
+      "title": "Migrations",
+      "description": "مباحث و تمرین‌های مرتبط با «Migrations».",
+      "order": 23,
+      "children": [
+        {
+          "id": "migrations-item",
+          "title": "Migrations",
+          "description": "مباحث و تمرین‌های مرتبط با «Migrations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to manually migrate a WordPress Site",
+          "type": "article",
+          "url": "https://teamupdraft.com/blog/how-to-manually-migrate-a-wordpress-site/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "9 Powerful WordPress Migration Plugins (Move Your Site Safely)",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-migration-plugins/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to MANUALLY Migrate Your Wordpress Site",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=wROa37k_RQA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "workflows-automation",
+      "title": "Workflows & Automation",
+      "description": "مباحث و تمرین‌های مرتبط با «Workflows & Automation».",
+      "order": 24,
+      "children": [
+        {
+          "id": "workflows-automation-item",
+          "title": "Workflows & Automation",
+          "description": "مباحث و تمرین‌های مرتبط با «Workflows & Automation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Advanced WordPress automation workflows for agencies",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-workflow-automation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Best WordPress Integrations for Workflow Automation",
+          "type": "article",
+          "url": "https://pressable.com/blog/best-wordpress-workflow-automation-integrations/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "automated-deployments",
+      "title": "Automated Deployments",
+      "description": "مباحث و تمرین‌های مرتبط با «Automated Deployments».",
+      "order": 25,
+      "children": [
+        {
+          "id": "automated-deployments-item",
+          "title": "Automated Deployments",
+          "description": "مباحث و تمرین‌های مرتبط با «Automated Deployments».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to automated WordPress deployments",
+          "type": "article",
+          "url": "https://carlalexander.ca/introduction-automated-wordpress-deployments/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress CI/CD: continuous integration and deployment for WordPress",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/wordpress-continuous-integration-and-deployment",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Ultimate Guide to Automated WordPress Deployments",
+          "type": "article",
+          "url": "https://spinupwp.com/wordpress-deployment-workflow-preparing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "accessibility",
+      "title": "Accessibility",
+      "description": "مباحث و تمرین‌های مرتبط با «Accessibility».",
+      "order": 26,
+      "children": [
+        {
+          "id": "accessibility-item",
+          "title": "Accessibility",
+          "description": "مباحث و تمرین‌های مرتبط با «Accessibility».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Accessibility",
+          "type": "article",
+          "url": "https://wordpress.org/about/accessibility/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Accessibility Coding Standards",
+          "type": "article",
+          "url": "https://developer.wordpress.org/coding-standards/wordpress-coding-standards/accessibility/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Make Your WordPress Website Accessible",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-accessibility/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Complete Guide to Accessibility for WordPress Websites",
+          "type": "article",
+          "url": "https://www.deque.com/blog/wordpress-accessibility/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing your content for accessibility",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=iEL11QKi7T0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "advanced-php-architecture",
+      "title": "Advanced PHP & Architecture",
+      "description": "مباحث و تمرین‌های مرتبط با «Advanced PHP & Architecture».",
+      "order": 27,
+      "children": [
+        {
+          "id": "oop-in-php",
+          "title": "OOP in PHP",
+          "description": "مباحث و تمرین‌های مرتبط با «OOP in PHP».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Object-oriented programming in PHP: transforming WordPress development",
+              "type": "article",
+              "url": "https://kinsta.com/blog/php-oop/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Simplifying WordPress's functions.php with OOP",
+              "type": "article",
+              "url": "https://dev.to/tylerlwsmith/simplifying-wordpresss-functionsphp-with-oop-2mj8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to approach object-oriented programming with WordPress",
+              "type": "article",
+              "url": "https://carlalexander.ca/approaching-object-oriented-programming-wordpress/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WordPress Architecture Fundamentals: OOP vs Procedural Approach - Which wins?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=xTcFXEbOMxE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn To Use Classes, Objects, Methods Etc. Via Simple Projects In WordPress | Oop Php In Wp Part 1",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=QECrzVKQ360",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "design-patterns",
+          "title": "Design Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Design Patterns».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Using PHP in Patterns",
+              "type": "article",
+              "url": "https://developer.wordpress.org/themes/patterns/using-php-in-patterns/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Basic PHP Design Patterns For WordPress Developers",
+              "type": "article",
+              "url": "https://torquemag.io/2016/06/basic-php-design-patterns-developers/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PHP Design Patterns in REAL life - Student code review #1",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=JS-AdMxIfew&list=PLL4sNmZle1wAg3rX2V0tdllT15T6j5mvz",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PHP OOP Design Patterns",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=_WDztTPrTDM&list=PLQH1-k79HB39JVyhyduZOXZOPq9VrMJwC",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "composer-autoloading",
+          "title": "Composer & Autoloading",
+          "description": "مباحث و تمرین‌های مرتبط با «Composer & Autoloading».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Implementing namespaces and coding standards in WordPress plugin development",
+              "type": "article",
+              "url": "https://developer.wordpress.org/news/2025/09/implementing-namespaces-and-coding-standards-in-wordpress-plugin-development/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to use composer autoload for the WordPress",
+              "type": "article",
+              "url": "https://i-wp-dev.com/how-to-use-composer-autoload-for-the-wordpress/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using Composer & PSR-4 autoloading for WordPress Plugin",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rOFmgbcMCDw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit the Dedicated PHP Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "PHP Optimization",
+          "type": "article",
+          "url": "https://developer.wordpress.org/advanced-administration/performance/php/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress and PHP: What it is, how WordPress uses it, and more",
+          "type": "article",
+          "url": "https://www.liquidweb.com/wordpress/php/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "localization",
+      "title": "Localization",
+      "description": "مباحث و تمرین‌های مرتبط با «Localization».",
+      "order": 28,
+      "children": [
+        {
+          "id": "localization-item",
+          "title": "Localization",
+          "description": "مباحث و تمرین‌های مرتبط با «Localization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Localization",
+          "type": "article",
+          "url": "https://developer.wordpress.org/apis/internationalization/localization/#what-is-localization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress localization: The simplest guide you’ll find",
+          "type": "article",
+          "url": "https://lokalise.com/blog/wordpress-localization/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress localization: How to get started",
+          "type": "article",
+          "url": "https://poeditor.com/blog/wordpress-localization/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Translate Your WordPress Website to Make it Multilingual (And Get More Traffic)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=V3cu9TOQKRI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "multisite",
+      "title": "Multisite",
+      "description": "مباحث و تمرین‌های مرتبط با «Multisite».",
+      "order": 29,
+      "children": [
+        {
+          "id": "multisite-item",
+          "title": "Multisite",
+          "description": "مباحث و تمرین‌های مرتبط با «Multisite».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "WordPress Multisite / Network",
+          "type": "article",
+          "url": "https://developer.wordpress.org/advanced-administration/multisite/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress Multisite: The Everything-You-Need-To-Know Guide to WordPress Network",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-multisite/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is WordPress Multisite?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=VOuEl4ZLEgc&list=PL1pJFUVKQ7ERioxFzW7z0zwh0OJW_-5jI&index=13",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "headless-wordpress",
+      "title": "Headless WordPress",
+      "description": "مباحث و تمرین‌های مرتبط با «Headless WordPress».",
+      "order": 30,
+      "children": [
+        {
+          "id": "headless-wordpress-item",
+          "title": "Headless WordPress",
+          "description": "مباحث و تمرین‌های مرتبط با «Headless WordPress».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Headless WordPress (And How Do You Use It)?",
+          "type": "article",
+          "url": "https://wordpress.com/blog/2025/03/20/headless-wordpress/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to make a headless WordPress website using React and a plugin",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/headless-wordpress",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Create a Headless WordPress Site With React.js",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-react/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Should You Use WordPress As A Headless CMS?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=rHNl5PZT0VU&list=PLxvoH8hcoFgmlCawg0WydWGNoTaKLAPWr",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basics-of-seo",
+      "title": "Basics of SEO",
+      "description": "مباحث و تمرین‌های مرتبط با «Basics of SEO».",
+      "order": 31,
+      "children": [
+        {
+          "id": "basics-of-seo-item",
+          "title": "Basics of SEO",
+          "description": "مباحث و تمرین‌های مرتبط با «Basics of SEO».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "60 WordPress SEO Tips to Grow Your Organic Traffic by 280%",
+          "type": "article",
+          "url": "https://kinsta.com/blog/wordpress-seo/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WordPress SEO Tutorial for Beginners 2025 | All in One SEO Plugin Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=es_7J3WgXAE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Unlocking advanced SEO techniques: Part 1",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=l7pG6M2Wn-A&list=PL1pJFUVKQ7ERioxFzW7z0zwh0OJW_-5jI&index=18",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Unlocking advanced SEO techniques: Part 2",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cBE2x-vtjbU&list=PL1pJFUVKQ7ERioxFzW7z0zwh0OJW_-5jI&index=19",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

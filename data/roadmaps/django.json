@@ -1,0 +1,3038 @@
+{
+  "slug": "django",
+  "title": "Django",
+  "description": "Step-by-step guide to becoming a Django Developer in 2026",
+  "steps": [
+    {
+      "id": "virtual-envs",
+      "title": "Virtual envs",
+      "description": "مباحث و تمرین‌های مرتبط با «Virtual envs».",
+      "order": 1,
+      "children": [
+        {
+          "id": "virtual-envs-item",
+          "title": "Virtual envs",
+          "description": "مباحث و تمرین‌های مرتبط با «Virtual envs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Activate Your Django Virtual Environment",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/how-to-activate-your-django-virtual-environment/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django - Create Virtual Environment",
+          "type": "article",
+          "url": "https://www.w3schools.com/django/django_create_virtual_environment.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Setting up a Django development environment",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/development_environment",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Install Django in Virtual Environment in VSCode (2024)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=EjIoERmeVE8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "installing-django",
+      "title": "Installing  Django",
+      "description": "مباحث و تمرین‌های مرتبط با «Installing  Django».",
+      "order": 2,
+      "children": [
+        {
+          "id": "installing-django-item",
+          "title": "Installing  Django",
+          "description": "مباحث و تمرین‌های مرتبط با «Installing  Django».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to install Django",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/install/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to get Django",
+          "type": "article",
+          "url": "https://www.djangoproject.com/download/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Getting Started",
+          "type": "article",
+          "url": "https://www.w3schools.com/django/django_getstarted.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Install Django For Python 3.11.3 | PIP and Django on Windows 10/11 | Django Tutorials",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Uq7TkegTXRU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 3,
+      "children": [
+        {
+          "id": "how-the-web-works",
+          "title": "How the Web Works",
+          "description": "مباحث و تمرین‌های مرتبط با «How the Web Works».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Introduction to the Internet",
+              "type": "article",
+              "url": "https://roadmap.sh/guides/what-is-internet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How does the Internet Work?",
+              "type": "article",
+              "url": "https://cs.fyi/guide/how-does-internet-work",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How does the Internet work? | MDN Dcos",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How the Internet Works in 5 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7_LPdttKXPc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-use-web-frameworks",
+          "title": "Why use web frameworks",
+          "description": "مباحث و تمرین‌های مرتبط با «Why use web frameworks».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Web Frameworks: All You Should Know About",
+              "type": "article",
+              "url": "https://www.browserstack.com/guide/web-development-frameworks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a web development framework (WDF)?",
+              "type": "article",
+              "url": "https://www.techtarget.com/searchcontentmanagement/definition/web-development-framework-WDF",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "hat Is a Framework in Programming? | Why Is It Useful?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=BfhSoFARn6w",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "the-mvc-model",
+          "title": "The MVC Model",
+          "description": "مباحث و تمرین‌های مرتبط با «The MVC Model».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Python Django 101",
+          "type": "course",
+          "url": "https://www.simplilearn.com/free-python-django-course-skillup",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django for Professionals",
+          "type": "article",
+          "url": "http://ia800604.us.archive.org/3/items/ebooks_202307/djangoforprofessionals.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django",
+          "type": "article",
+          "url": "https://www.djangoproject.com/start/overview/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Docs",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Introduction",
+          "type": "article",
+          "url": "https://www.w3schools.com/django/django_intro.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Crash Course – Python Web Framework",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0roB7wZMLqI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial for Beginners – Build Powerful Backends",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=rHux0gMZ3Eg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django For Everybody - Full Python University Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=o0XbHvKxw7Y",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "projects-apps",
+      "title": "Projects & Apps",
+      "description": "مباحث و تمرین‌های مرتبط با «Projects & Apps».",
+      "order": 4,
+      "children": [
+        {
+          "id": "projects-apps-item",
+          "title": "Projects & Apps",
+          "description": "مباحث و تمرین‌های مرتبط با «Projects & Apps».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Writing your first Django app, part 1",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/intro/tutorial01/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Create Project",
+          "type": "article",
+          "url": "https://www.w3schools.com/django/django_create_project.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Create Frist Django Project in Visual Studio Code (2024)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fxcOtcYYqA0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "running-your-project",
+      "title": "Running your Project",
+      "description": "مباحث و تمرین‌های مرتبط با «Running your Project».",
+      "order": 5,
+      "children": [
+        {
+          "id": "running-your-project-item",
+          "title": "Running your Project",
+          "description": "مباحث و تمرین‌های مرتبط با «Running your Project».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Writing your first Django app, part 1",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/intro/tutorial01/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Create Project",
+          "type": "article",
+          "url": "https://www.w3schools.com/django/django_create_project.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Start a Django Project and Run the Development Server",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=PBh6XkFobes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Create Frist Django Project in Visual Studio Code (2024)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fxcOtcYYqA0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "request-reponse-flow",
+      "title": "Request Reponse Flow",
+      "description": "مباحث و تمرین‌های مرتبط با «Request Reponse Flow».",
+      "order": 6,
+      "children": [
+        {
+          "id": "request-reponse-flow-item",
+          "title": "Request Reponse Flow",
+          "description": "مباحث و تمرین‌های مرتبط با «Request Reponse Flow».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Request and response objects",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/request-response/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Request-Response Cycle?",
+          "type": "article",
+          "url": "https://medium.com/@developerstacks/django-request-response-cycle-7165167f54c5",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Request Life Cycle Explained",
+          "type": "article",
+          "url": "https://dev.to/nilebits/django-request-life-cycle-explained-ci6",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Django Course | Understanding the Django Request Response Cycle",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9X83BZ1cF7o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "09 - Django Request Response Cycle | Official Django Polls Companion Videos",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=TRZtGJP-BTc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "views",
+      "title": "Views",
+      "description": "مباحث و تمرین‌های مرتبط با «Views».",
+      "order": 7,
+      "children": [
+        {
+          "id": "function-based-views",
+          "title": "Function-based views",
+          "description": "مباحث و تمرین‌های مرتبط با «Function-based views».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Writing views",
+              "type": "article",
+              "url": "https://docs.djangoproject.com/en/6.0/topics/http/views/#a-simple-view",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django Functional Based Views",
+              "type": "article",
+              "url": "https://medium.com/@rkiptoo5244/django-functional-based-views-37c1d560d154",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Class-based vs Function-based Views in Django",
+              "type": "article",
+              "url": "https://testdriven.io/blog/django-class-based-vs-function-based-views/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why I Use Django Function Based Views",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=mKzStOGIc4A",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating function based views in Django [16 of 24] | Django for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=IYr430whtzY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "class-based-views",
+          "title": "Class-based views",
+          "description": "مباحث و تمرین‌های مرتبط با «Class-based views».",
+          "order": 2,
+          "children": [
+            {
+              "id": "generic-views",
+              "title": "Generic views ",
+              "description": "مباحث و تمرین‌های مرتبط با «Generic views ».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Class-based views",
+              "type": "article",
+              "url": "https://docs.djangoproject.com/en/6.0/topics/class-based-views/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Are Django Class-Based Views (CBVs) & its Advantages in 2024",
+              "type": "article",
+              "url": "https://www.horilla.com/blogs/what-are-django-class-based-views-cbvs-and-its-advantages/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Django class based views & should you use them?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=RE0HlKch_3U",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Django Class-Based Views - Using TemplateView - theory and examples",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=GxA2I-n8NR8&list=PLOLrQ9Pn6caxNb9eFZJ6LfY29nZkKmmXT",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Views",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/http/views/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Views",
+          "type": "article",
+          "url": "https://www.w3schools.com/django/django_views.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Views — The Right Way¶",
+          "type": "article",
+          "url": "https://spookylukey.github.io/django-views-the-right-way/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial #3 - URLs and Views",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=TblSa29DX6I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "customizing-views",
+      "title": "Customizing Views",
+      "description": "مباحث و تمرین‌های مرتبط با «Customizing Views».",
+      "order": 8,
+      "children": [
+        {
+          "id": "customizing-views-item",
+          "title": "Customizing Views",
+          "description": "مباحث و تمرین‌های مرتبط با «Customizing Views».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "View decorators",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/http/decorators/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An Introduction to Django Views",
+          "type": "article",
+          "url": "https://blog.jetbrains.com/pycharm/2025/01/django-views/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Customising Django’s Class-based view.",
+          "type": "article",
+          "url": "https://medium.com/@krystianmaccs_66962/customising-djangos-class-based-view-e2ed0312a037",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Create Custom Views in Python Django | Step-by-Step Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ZigbVn5gKZA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dtl-syntax",
+      "title": "DTL Syntax",
+      "description": "مباحث و تمرین‌های مرتبط با «DTL Syntax».",
+      "order": 9,
+      "children": [
+        {
+          "id": "dtl-syntax-item",
+          "title": "DTL Syntax",
+          "description": "مباحث و تمرین‌های مرتبط با «DTL Syntax».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Django template language",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/templates/language/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django - Template System",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/django/django_template_system.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "#5 Django tutorials | Django Template Language | DTL",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=GNlIe5zvBeQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "templates",
+      "title": "Templates",
+      "description": "مباحث و تمرین‌های مرتبط با «Templates».",
+      "order": 10,
+      "children": [
+        {
+          "id": "templates-item",
+          "title": "Templates",
+          "description": "مباحث و تمرین‌های مرتبط با «Templates».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Templates",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/templates/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Ultimate Guide to Django Templates",
+          "type": "article",
+          "url": "https://blog.jetbrains.com/pycharm/2025/02/the-ultimate-guide-to-django-templates/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Templates",
+          "type": "article",
+          "url": "https://www.w3schools.com/django/django_templates.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Django Tutorial: Full-Featured Web App Part 3 - Templates",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qDwdMDQ8oX4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial - Templates & Custom HTML",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=b0CgA_Ap_Mc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "template-inheritance",
+      "title": "Template Inheritance",
+      "description": "مباحث و تمرین‌های مرتبط با «Template Inheritance».",
+      "order": 11,
+      "children": [
+        {
+          "id": "template-inheritance-item",
+          "title": "Template Inheritance",
+          "description": "مباحث و تمرین‌های مرتبط با «Template Inheritance».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Template Inheritance",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/templates/language/#id1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Django template inheritance",
+          "type": "article",
+          "url": "https://dev.to/doridoro/understanding-django-template-inheritance-d8c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "extends Template Tag",
+          "type": "article",
+          "url": "https://www.w3schools.com/django/ref_tags_extends.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Template Inheritance Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=mxbzt7wodAs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "models",
+      "title": "Models",
+      "description": "مباحث و تمرین‌های مرتبط با «Models».",
+      "order": 12,
+      "children": [
+        {
+          "id": "custom-fields",
+          "title": "Custom fields",
+          "description": "مباحث و تمرین‌های مرتبط با «Custom fields».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How to create custom model fields",
+              "type": "article",
+              "url": "https://docs.djangoproject.com/en/6.0/howto/custom-model-fields/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django: using custom classes for model fields",
+              "type": "article",
+              "url": "https://medium.com/@luccascorrea/django-using-custom-classes-for-model-fields-38e58914ba5c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Create Custom Model Fields in Django [2024]",
+              "type": "article",
+              "url": "https://www.horilla.com/blogs/how-to-create-custom-model-fields-in-django/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django ORM - Creating a Custom field Subclass",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=b10NxZ7JEjE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django ORM - Introducing Custom Model Fields",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=pJXKTcYo3ls",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Models",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/db/models/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Models",
+          "type": "article",
+          "url": "https://www.w3schools.com/django/django_models.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial Part 3: Using models",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Models",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django models",
+          "type": "article",
+          "url": "https://tutorial.djangogirls.org/en/django_models/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Django Models and Migrations",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5DW4Ky1Um4o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Models | Crash Course | Field Types, Connections, and Model Functions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=RbJOmgTX63M",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "model-relationships",
+      "title": "Model relationships ",
+      "description": "مباحث و تمرین‌های مرتبط با «Model relationships ».",
+      "order": 13,
+      "children": [
+        {
+          "id": "model-relationships-item",
+          "title": "Model relationships ",
+          "description": "مباحث و تمرین‌های مرتبط با «Model relationships ».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Relationships",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/db/models/#relationships",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Examples of model relationship API usage",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/db/examples/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Define Relationships Between Django Models",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/django-model-relationships/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Django Model Relationships",
+          "type": "video",
+          "url": "http://youtube.com/watch?v=2KqhBkMv7aM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Database Relationships | One To Many & Many to Many | Django (3.0) Crash Course Tutorials (pt 6)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=wIPHER2UBB4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "model-methods",
+      "title": "Model methods",
+      "description": "مباحث و تمرین‌های مرتبط با «Model methods».",
+      "order": 14,
+      "children": [
+        {
+          "id": "model-methods-item",
+          "title": "Model methods",
+          "description": "مباحث و تمرین‌های مرتبط با «Model methods».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Model methods",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/db/models/#model-methods",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An Overview of Django Model Methods in 2023",
+          "type": "article",
+          "url": "https://www.horilla.com/blogs/an-overview-of-django-model-methods-in-2023/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Model Properties & Methods | @property decorator | get_absolute_url() method",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=PgHaH8tGdWw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial #11 - Model Methods",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ERCt6HUcaFw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "model-inheritance",
+      "title": "Model inheritance",
+      "description": "مباحث و تمرین‌های مرتبط با «Model inheritance».",
+      "order": 15,
+      "children": [
+        {
+          "id": "model-inheritance-item",
+          "title": "Model inheritance",
+          "description": "مباحث و تمرین‌های مرتبط با «Model inheritance».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Model inheritance",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/fr/2.2/topics/db/models/#model-inheritance",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Django-Advanced Model Inheritance.",
+          "type": "article",
+          "url": "https://foysalff.medium.com/understanding-django-model-inheritance-b0c38588ebb4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Model Inheritance",
+          "type": "article",
+          "url": "https://dev.to/highcenburg/django-model-inheritance-4f3p",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Model Inheritance Options Introduction - ORM Part-9",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4Xag2FzmN60",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Model Inheritance - Abstract Models and Multi-Table Inheritance",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=KSPRODsdfo4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "setting-up-the-database",
+      "title": "Setting up the Database",
+      "description": "مباحث و تمرین‌های مرتبط با «Setting up the Database».",
+      "order": 16,
+      "children": [
+        {
+          "id": "setting-up-the-database-item",
+          "title": "Setting up the Database",
+          "description": "مباحث و تمرین‌های مرتبط با «Setting up the Database».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit the Dedicated SQL Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/sql",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Databases",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/databases/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Writing your first Django app, part 2",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/intro/tutorial02/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial #4 - Database Setup",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=DZVFgMSyRXI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "migrations",
+      "title": "Migrations",
+      "description": "مباحث و تمرین‌های مرتبط با «Migrations».",
+      "order": 17,
+      "children": [
+        {
+          "id": "migrations-item",
+          "title": "Migrations",
+          "description": "مباحث و تمرین‌های مرتبط با «Migrations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Migrations",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/migrations/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Migration Operations",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/migration-operations/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Django Migrations: A Complete Beginner’s Guide",
+          "type": "article",
+          "url": "https://medium.com/simform-engineering/mastering-django-migrations-a-complete-beginners-guide-a50d29924c7c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Squashing Django Migrations the Easy Way",
+          "type": "article",
+          "url": "https://jacklinke.com/squashing-django-migrations-the-easy-way",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django - What are migrations - actually? Introduction to migrations and the Django database",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=N4gjiJumTZg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "django-orm",
+      "title": "Django ORM",
+      "description": "مباحث و تمرین‌های مرتبط با «Django ORM».",
+      "order": 18,
+      "children": [
+        {
+          "id": "django-orm-item",
+          "title": "Django ORM",
+          "description": "مباحث و تمرین‌های مرتبط با «Django ORM».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Making queries",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/db/queries/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An introduction to the Django ORM",
+          "type": "article",
+          "url": "https://opensource.com/article/17/11/django-orm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Django ORM (Object-Relational Mapping)",
+          "type": "article",
+          "url": "https://medium.com/django-unleashed/understanding-django-orm-object-relational-mapping-16f3c29db7d7",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django ORM Deep Dive",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=EsBqIZmR2Uc&list=PL-2EBeDYMIbQXKsyNweppuFptuogJe2L-",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DJ101 | Django Database ORM Mastery Course",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLOLrQ9Pn6cayYycbeBdxHUFrzTqrNE7Pe",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "static-files",
+      "title": "Static Files",
+      "description": "مباحث و تمرین‌های مرتبط با «Static Files».",
+      "order": 19,
+      "children": [
+        {
+          "id": "whitenoise",
+          "title": "Whitenoise",
+          "description": "مباحث و تمرین‌های مرتبط با «Whitenoise».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "WhiteNoise Docs",
+              "type": "article",
+              "url": "https://whitenoise.readthedocs.io/en/stable/index.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "whitenoise",
+              "type": "article",
+              "url": "https://pypi.org/project/whitenoise/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Django Whitenoise: A Deep Dive into Efficient Static File Management",
+              "type": "article",
+              "url": "https://medium.com/@karimmirzaguliyev/mastering-django-whitenoise-a-deep-dive-into-efficient-static-file-management-fa2aa5f669e6",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django - Installing WhiteNoise",
+              "type": "article",
+              "url": "https://www.w3schools.com/django/django_static_whitenoise.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Whitenoise for Django Static Assets - Overview!",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=QZTk8txo6x0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to manage static files (e.g. images, JavaScript, CSS)",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/howto/static-files/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Working with Static and Media Files in Django",
+          "type": "article",
+          "url": "https://testdriven.io/blog/django-static-files/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django - Add Static File",
+          "type": "article",
+          "url": "https://www.w3schools.com/django/django_add_static_files.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial #8 - Static Assets",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=kJJx77PYMFA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pagination",
+      "title": "Pagination",
+      "description": "مباحث و تمرین‌های مرتبط با «Pagination».",
+      "order": 20,
+      "children": [
+        {
+          "id": "pagination-item",
+          "title": "Pagination",
+          "description": "مباحث و تمرین‌های مرتبط با «Pagination».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pagination",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/pagination/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Paginator",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/paginator/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Pagination in Django",
+          "type": "article",
+          "url": "https://testdriven.io/blog/django-pagination/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Pagination Tutorial with Example",
+          "type": "article",
+          "url": "https://medium.com/django-unleashed/django-pagination-tutorial-with-example-745cefd54eb3",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Pagination For Django - Django Wednesdays #18",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=N-PB-HMFmdo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "message-framework",
+      "title": "Message Framework",
+      "description": "مباحث و تمرین‌های مرتبط با «Message Framework».",
+      "order": 21,
+      "children": [
+        {
+          "id": "message-framework-item",
+          "title": "Message Framework",
+          "description": "مباحث و تمرین‌های مرتبط با «Message Framework».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The messages framework",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/contrib/messages/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Messages Framework",
+          "type": "article",
+          "url": "https://django-advanced-training.readthedocs.io/en/latest/features/contrib.messages/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Implementing Messaging Functionality with the Messages Framework in Django",
+          "type": "article",
+          "url": "https://medium.com/@iamalisaleh/implementing-messaging-functionality-with-the-messages-framework-in-django-23d7afc8f1d2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Basics of Django Messages Framework",
+          "type": "article",
+          "url": "https://micropyramid.com/blog/basics-of-django-message-framework/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "#23 Django tutorials | Passing Messages",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Mf_97YaUKag",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Exploring Django | The Messages Framework",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MhUfgeWFgos",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "django-shell",
+      "title": "Django Shell",
+      "description": "مباحث و تمرین‌های مرتبط با «Django Shell».",
+      "order": 22,
+      "children": [
+        {
+          "id": "django-shell-item",
+          "title": "Django Shell",
+          "description": "مباحث و تمرین‌های مرتبط با «Django Shell».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "django-admin and manage.py",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/django-admin/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Useful Features of the Django Shell",
+          "type": "article",
+          "url": "https://www.nickmccullum.com/useful-features-django-shell/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Models and Shell",
+          "type": "article",
+          "url": "https://medium.com/@ksarthak4ever/django-models-and-shell-8c48963d83a3",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "django-admin",
+      "title": "Django Admin",
+      "description": "مباحث و تمرین‌های مرتبط با «Django Admin».",
+      "order": 23,
+      "children": [
+        {
+          "id": "admin-customization",
+          "title": "Admin Customization",
+          "description": "مباحث و تمرین‌های مرتبط با «Admin Customization».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "The Django admin site",
+              "type": "article",
+              "url": "https://docs.djangoproject.com/en/6.0/ref/contrib/admin/#custom-template-options",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Customizing the Django Admin",
+              "type": "article",
+              "url": "https://testdriven.io/blog/customize-django-admin/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Customize the Django Admin With Python",
+              "type": "article",
+              "url": "https://realpython.com/customize-django-admin-python/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Customizing the Django Admin",
+              "type": "article",
+              "url": "https://earthly.dev/blog/customize-django-admin-site/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Django - Admin",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=c_S0ZQs81XQ&list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Django admin site",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/contrib/admin/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "django-admin and manage.py",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/django-admin/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial Part 4: Django admin site",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Admin_site",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Set Up A Django Admin Site",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/how-to-set-up-a-django-admin-site/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Django Admin tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4tiSmL4JmS0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Django - Admin",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "middleware",
+      "title": "Middleware",
+      "description": "مباحث و تمرین‌های مرتبط با «Middleware».",
+      "order": 24,
+      "children": [
+        {
+          "id": "customization",
+          "title": "Customization",
+          "description": "مباحث و تمرین‌های مرتبط با «Customization».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Understanding Django Middleware: How to Create Custom Middleware",
+              "type": "article",
+              "url": "https://medium.com/@farad.dev/understanding-django-middleware-how-to-create-custom-middleware-789744722df3",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Comprehensive Guide to Django Middleware",
+              "type": "article",
+              "url": "https://www.datree.io/resources/guide-to-django-middleware#anchor5",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django Custom Middleware - Tutorial With Examples",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ELOgWKQpxB8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Writing Django Middleware (with tests!) | HTMX middleware | IP Blacklist middleware",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=--ddZc39wVQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Middleware",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/http/middleware/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Middleware Componetns",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/middleware/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Comprehensive Guide to Django Middleware",
+          "type": "article",
+          "url": "https://www.datree.io/resources/guide-to-django-middleware",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Django Middleware & Its Role in Request Processing",
+          "type": "article",
+          "url": "https://www.horilla.com/blogs/what-is-django-middleware-and-its-role-in-request-processing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Writing Django Middleware (with tests!) | HTMX middleware | IP Blacklist middleware",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=--ddZc39wVQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authentication",
+      "title": "Authentication",
+      "description": "مباحث و تمرین‌های مرتبط با «Authentication».",
+      "order": 25,
+      "children": [
+        {
+          "id": "built-in-user-model",
+          "title": "Built-in user model",
+          "description": "مباحث و تمرین‌های مرتبط با «Built-in user model».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "User model",
+              "type": "article",
+              "url": "https://docs.djangoproject.com/en/6.0/ref/contrib/auth/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Get the User Model in Django – A Simple Guide With Examples",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/how-to-get-user-model-in-django/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "User Models",
+              "type": "article",
+              "url": "https://d-libro.com/topic/user-models/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "custom-user-model",
+          "title": "Custom user model",
+          "description": "مباحث و تمرین‌های مرتبط با «Custom user model».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Customizing authentication in Django¶",
+              "type": "article",
+              "url": "https://docs.djangoproject.com/en/6.0/topics/auth/customizing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating a Custom User Model in Django",
+              "type": "article",
+              "url": "https://testdriven.io/blog/django-custom-user-model/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Django - Build a Custom User Model with Extended Fields",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Ae7nc1EGv-A",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "django-allauth",
+          "title": "django-allauth",
+          "description": "مباحث و تمرین‌های مرتبط با «django-allauth».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "django-allauth",
+              "type": "article",
+              "url": "https://allauth.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "django-allauth Docs",
+              "type": "article",
+              "url": "https://docs.allauth.org/en/latest/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django-allauth Tutorial",
+              "type": "article",
+              "url": "https://learndjango.com/tutorials/django-allauth-tutorial",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "django-allauth - Deep Dive!",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=nmj7ThneEnc&list=PL-2EBeDYMIbQqZZoo5Dj8YAkPnZeJfcZS",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "User authentication in Django",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/auth/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial Part 8: User authentication and permissions",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Authentication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started with Django 2024:Authentication and Authorization [Part 8/16]",
+          "type": "article",
+          "url": "https://medium.com/@mathur.danduprolu/django-getting-started-with-django-2024-authentication-and-authorization-part-8-16-7bf55d1f7570",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Authentication Made Easy: A Complete Guide to Registration, Login, and User Management",
+          "type": "article",
+          "url": "https://dev.to/ebereplenty/django-authentication-made-easy-a-complete-guide-to-registration-login-and-user-management-2jih",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Login With User Authentication - Django Wednesdays #21",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=CTrVDi3tt8o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Authentication & User Management - Full Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=WuyKxdLcw3w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authorization",
+      "title": "Authorization",
+      "description": "مباحث و تمرین‌های مرتبط با «Authorization».",
+      "order": 26,
+      "children": [
+        {
+          "id": "users-permissions",
+          "title": "Users & Permissions",
+          "description": "مباحث و تمرین‌های مرتبط با «Users & Permissions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Using the Django authentication system",
+              "type": "article",
+              "url": "https://docs.djangoproject.com/en/6.0/topics/auth/default/#auth-admin",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django Tutorial Part 8: User authentication and permissions",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Authentication",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Permissions in Django",
+              "type": "article",
+              "url": "https://testdriven.io/blog/django-permissions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django Permissions system - deep dive with Users, Groups and Permissions",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=IF_ZpCiZKkw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Permissions and Authorization¶",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/auth/default/#topic-authorization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial Part 8: User authentication and permissions",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Authentication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Django User Authorization tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4Ba8AtSwJwg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "django-rest-framework",
+      "title": "Django  REST Framework",
+      "description": "مباحث و تمرین‌های مرتبط با «Django  REST Framework».",
+      "order": 27,
+      "children": [
+        {
+          "id": "django-rest-framework-item",
+          "title": "Django  REST Framework",
+          "description": "مباحث و تمرین‌های مرتبط با «Django  REST Framework».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Django REST framework",
+          "type": "article",
+          "url": "https://www.django-rest-framework.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "django-rest-framework",
+          "type": "article",
+          "url": "https://github.com/encode/django-rest-framework",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django REST Framework Basics",
+          "type": "article",
+          "url": "https://testdriven.io/blog/drf-basics/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Setting Up a Django API with Django REST Framework (DRF): A Beginner’s Guide",
+          "type": "article",
+          "url": "https://medium.com/@michal.drozdze/setting-up-a-django-api-with-django-rest-framework-drf-a-beginners-guide-cee5d61f00a6",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django REST Framework Oversimplified",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cJveiktaOSQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django REST Framework - API Development with Django",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PL-2EBeDYMIbTLulc9FSoAXhbmXpLq2l5t",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "django-ninja",
+      "title": "Django Ninja",
+      "description": "مباحث و تمرین‌های مرتبط با «Django Ninja».",
+      "order": 28,
+      "children": [
+        {
+          "id": "django-ninja-item",
+          "title": "Django Ninja",
+          "description": "مباحث و تمرین‌های مرتبط با «Django Ninja».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Django Ninja",
+          "type": "article",
+          "url": "https://django-ninja.dev/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "First Steps",
+          "type": "article",
+          "url": "https://django-ninja.dev/tutorial/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "django-ninja",
+          "type": "article",
+          "url": "https://github.com/vitalik/django-ninja",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django-Ninja APIs - Modern API Development in Django",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=XqkqbsdtoMI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Ninja - The new DRF killer?! 🥷",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=J44FpJ2CYnU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "logging",
+      "title": "Logging",
+      "description": "مباحث و تمرین‌های مرتبط با «Logging».",
+      "order": 29,
+      "children": [
+        {
+          "id": "logging-item",
+          "title": "Logging",
+          "description": "مباحث و تمرین‌های مرتبط با «Logging».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Logging",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/logging/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to configure and use logging¶",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/howto/logging/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Complete Guide to Logging in Django",
+          "type": "article",
+          "url": "https://dev.to/pragativerma18/the-complete-guide-to-logging-in-django-5fde",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Get Started with Logging in Django",
+          "type": "article",
+          "url": "https://betterstack.com/community/guides/logging/how-to-start-logging-with-django/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Logging in Django and Python Applications - Handlers / Formatters / Better Stack aggregation",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=XSwIUnGXrwY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "debugging",
+      "title": "Debugging",
+      "description": "مباحث و تمرین‌های مرتبط با «Debugging».",
+      "order": 30,
+      "children": [
+        {
+          "id": "error-pages",
+          "title": "Error Pages",
+          "description": "مباحث و تمرین‌های مرتبط با «Error Pages».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Error Views",
+              "type": "article",
+              "url": "https://docs.djangoproject.com/en/6.0/ref/views/#error-views",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django 404 (page not found)",
+              "type": "article",
+              "url": "https://www.w3schools.com/django/django_404.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Django Handling Custom Error Page",
+              "type": "article",
+              "url": "https://medium.com/@yildirimabdrhm/python-django-handling-custom-error-page-807087352bea",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django Full Course - 10.0 - Writing views. Basics, errors, custom error views",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=4HztW_RlLRo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "debug-toolbar",
+          "title": "debug_toolbar",
+          "description": "مباحث و تمرین‌های مرتبط با «debug_toolbar».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Django Debug Toolbar",
+              "type": "article",
+              "url": "https://django-debug-toolbar.readthedocs.io/en/latest/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "debug_toolbar",
+              "type": "article",
+              "url": "https://github.com/django-commons/django-debug-toolbar",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django Debug Toolbar: Configuration and Overview",
+              "type": "article",
+              "url": "https://medium.com/@hmbarotov/django-debug-toolbar-configuration-and-overview-97dbe8279279",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django Debug Toolbar - A Tool to Help You With Your Django Projects",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=H-vLUoXKKIs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Django Debug Toolbar: Efficient Debugging and Optimization Techniques",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=c5riXBYFxLk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pdb-ipdb",
+          "title": "PDB, IPDB",
+          "description": "مباحث و تمرین‌های مرتبط با «PDB, IPDB».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "pdb",
+              "type": "article",
+              "url": "https://docs.python.org/3/library/pdb.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ipdb",
+              "type": "article",
+              "url": "vhttps://pypi.org/project/ipdb/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Debugging With Pdb",
+              "type": "article",
+              "url": "https://realpython.com/python-debugging-pdb/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Debugging Python Apps: A Comprehensive Guide to pdb",
+              "type": "article",
+              "url": "https://sunscrapers.com/blog/python-debugging-guide-pdb/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Guide to Debugging Python Code with ipdb",
+              "type": "article",
+              "url": "https://betterstack.com/community/guides/scaling-python/python-debugging/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "python debugger crash course: pdb / breakpoint (beginner - intermediate) anthony explains #097",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=0LPuG825eAk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to use ipdb the interactive python debugger",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=EnC9ciDkXqA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "django-silk",
+          "title": "django_silk",
+          "description": "مباحث و تمرین‌های مرتبط با «django_silk».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Django Silk Docs",
+              "type": "article",
+              "url": "https://silk.readthedocs.io/en/latest/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "django-silk",
+              "type": "article",
+              "url": "https://github.com/jazzband/django-silk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Profiling Django application using django-silk.",
+              "type": "article",
+              "url": "https://medium.com/@sharif-42/profiling-django-application-using-django-silk-62cdea83fb83",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "django-silk for Profiling and Optimization with Django REST Framework",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=OG8alXR4bEs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "DEBUG Mode",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/ref/settings/#std-setting-DEBUG",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Writing your first Django app, part 8¶",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/intro/tutorial08/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Django debugging: a complete guide",
+          "type": "article",
+          "url": "https://www.aubergine.co/insights/mastering-django-debugging-a-complete-guide",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Debug a Django Application in VS CODE (Visual Studio Code)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=spmFjhQIKOo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "django-test-framework",
+      "title": "Django Test Framework ",
+      "description": "مباحث و تمرین‌های مرتبط با «Django Test Framework ».",
+      "order": 31,
+      "children": [
+        {
+          "id": "pytest",
+          "title": "pytest",
+          "description": "مباحث و تمرین‌های مرتبط با «pytest».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "pytest docs",
+              "type": "article",
+              "url": "https://docs.pytest.org/en/stable/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "pytest-django Documentation",
+              "type": "article",
+              "url": "https://pytest-django.readthedocs.io/en/latest/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "pytest",
+              "type": "article",
+              "url": "https://github.com/pytest-dev/pytest",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hands On Guide to Unit Testing with Pytest and Django",
+              "type": "article",
+              "url": "https://klementomeri.medium.com/path-to-tight-sleep-with-test-automation-81916b567745",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use Pytest for Unit Testing",
+              "type": "article",
+              "url": "https://www.datacamp.com/tutorial/pytest-tutorial-a-hands-on-guide-to-unit-testing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Pytest Mastery with Django",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LYX6nlECcro&list=PLOLrQ9Pn6caw3ilqDR8_qezp76QuEOlHY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Re-Write Django tests with pytest | pytest fixtures & test functions",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=pdatgYDXmSE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "unittest-testcase",
+          "title": "unittest & TestCase",
+          "description": "مباحث و تمرین‌های مرتبط با «unittest & TestCase».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Writing and running tests",
+              "type": "article",
+              "url": "https://docs.djangoproject.com/en/6.0/topics/testing/overview/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Django Testing with unittest",
+              "type": "article",
+              "url": "https://medium.com/@hmbarotov/django-testing-with-unittest-f797c746bfe0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Testing in Django Tutorial #3 - The Python unittest Module",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Ob25drPBgu0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Testing in Django Tutorial #4 - Django Testing Basics",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=QklKI2etw30",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Testing in Django",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/testing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Writing and running tests",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/topics/testing/overview/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial Part 10: Testing a Django web application",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Testing Tutorial - How To Test Your Django Applications",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qwypH3YvMKc&list=PLbpAWbHbi5rMF2j5n6imm0enrSD9eQUaM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deployment",
+      "title": "Deployment",
+      "description": "مباحث و تمرین‌های مرتبط با «Deployment».",
+      "order": 32,
+      "children": [
+        {
+          "id": "production-checklist",
+          "title": "Production Checklist",
+          "description": "مباحث و تمرین‌های مرتبط با «Production Checklist».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Deployment checklist",
+              "type": "article",
+              "url": "https://docs.djangoproject.com/en/6.0/howto/deployment/checklist/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Django Deployment Checklist: Zero to Production in 30 Minutes",
+              "type": "article",
+              "url": "https://medium.com/@anas-issath/the-django-deployment-checklist-zero-to-production-in-30-minutes-50d176a96560",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to deploy Django",
+          "type": "article",
+          "url": "https://docs.djangoproject.com/en/6.0/howto/deployment/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Django Tutorial Part 11: Deploying Django to production",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Deployment",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Sa_kQheCnds",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The 4 best ways to deploy a Django application",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IoxHUrbiqUo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

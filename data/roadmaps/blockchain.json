@@ -1,0 +1,1260 @@
+{
+  "slug": "blockchain",
+  "title": "Blockchain",
+  "description": "Step by step guide to becoming a blockchain developer in 2026.",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-blockchain",
+          "title": "What is Blockchain",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Blockchain».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Cyfirn Updraft | Blockchain Basics",
+              "type": "course",
+              "url": "https://updraft.cyfrin.io/courses/blockchain-basics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Blockchain Explained",
+              "type": "article",
+              "url": "https://www.investopedia.com/terms/b/blockchain.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Decentralization?",
+              "type": "article",
+              "url": "https://aws.amazon.com/blockchain/decentralization-in-blockchain/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How does a Blockchain Work?",
+              "type": "video",
+              "url": "https://youtu.be/SSo_EIwHSd4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is a Blockchain? | Blockchain Basics for Developers",
+              "type": "video",
+              "url": "https://youtu.be/4ff9esY_4aU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Blockchain",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/blockchain?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-it-matters",
+          "title": "Why it matters?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why it matters?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Benefits of blockchain",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/benefits-of-blockchain",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why is Blockchain Important and Why Does it Matters",
+              "type": "article",
+              "url": "https://www.simplilearn.com/tutorials/blockchain-tutorial/why-is-blockchain-important",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why Blockchain should matter to you | Enrique Alvarado | TEDxEcublens",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=P1U4B8NeoMw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "applications-and-uses",
+          "title": "Applications and Uses",
+          "description": "مباحث و تمرین‌های مرتبط با «Applications and Uses».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Blockchain Use Cases and Applications by Industry",
+              "type": "article",
+              "url": "https://consensys.net/blockchain-use-cases/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Top 10 Real-World Applications Of Blockchain Technology",
+              "type": "article",
+              "url": "https://www.blockchain-council.org/blockchain/top-10-real-world-applications-of-blockchain-technology/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ethereum Blockchain Transactions",
+              "type": "article",
+              "url": "https://ethereum.org/en/developers/docs/transactions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "E34 Blockchain Applications and Real-World Use Cases Disrupting the Status Quo",
+              "type": "article",
+              "url": "https://builtin.com/blockchain/blockchain-applications",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cyfirn Updraft | Blockchain Basics",
+          "type": "course",
+          "url": "https://updraft.cyfrin.io/courses/blockchain-basics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Blockchain",
+          "type": "article",
+          "url": "https://chain.link/education-hub/blockchain",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Blockchain Explained",
+          "type": "article",
+          "url": "https://www.investopedia.com/terms/b/blockchain.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Blockchain for beginners- basic guiding principles",
+          "type": "article",
+          "url": "https://blockchain-observatory.ec.europa.eu/document/download/1063effa-59cc-4df4-aeee-d2cf94f69178_en?filename=Blockchain_For_Beginners_A_EUBOF_Guide.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How does a blockchain work?",
+          "type": "video",
+          "url": "https://youtu.be/SSo_EIwHSd4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is a Blockchain? | Blockchain Basics for Developers",
+          "type": "video",
+          "url": "https://youtu.be/4ff9esY_4aU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Blockchain",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/blockchain?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "understanding-blockchain",
+      "title": "Understanding Blockchain",
+      "description": "مباحث و تمرین‌های مرتبط با «Understanding Blockchain».",
+      "order": 2,
+      "children": [
+        {
+          "id": "understanding-blockchain-item",
+          "title": "Understanding Blockchain",
+          "description": "مباحث و تمرین‌های مرتبط با «Understanding Blockchain».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cyfirn Updraft | Blockchain Basics",
+          "type": "course",
+          "url": "https://updraft.cyfrin.io/courses/blockchain-basics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Complete Course On Understanding Blockchain Technology",
+          "type": "course",
+          "url": "https://www.udemy.com/course/understanding-blockchain-technology/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Blockchain?",
+          "type": "article",
+          "url": "https://www.wired.com/story/guide-blockchain/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Blockchain Technology Explained",
+          "type": "video",
+          "url": "https://youtu.be/qOVAbKKSH10",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Blockchain",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/blockchain?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "types-of-blockchains",
+      "title": "Types of Blockchains",
+      "description": "مباحث و تمرین‌های مرتبط با «Types of Blockchains».",
+      "order": 3,
+      "children": [
+        {
+          "id": "types-of-blockchains-item",
+          "title": "Types of Blockchains",
+          "description": "مباحث و تمرین‌های مرتبط با «Types of Blockchains».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Types of Blockchains: PoW, PoS, and Private",
+          "type": "article",
+          "url": "https://www.gemini.com/cryptopedia/blockchain-types-pow-pos-private",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Blockchain",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/blockchain?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "smart-contracts",
+      "title": "Smart Contracts",
+      "description": "مباحث و تمرین‌های مرتبط با «Smart Contracts».",
+      "order": 4,
+      "children": [
+        {
+          "id": "smart-contracts-item",
+          "title": "Smart Contracts",
+          "description": "مباحث و تمرین‌های مرتبط با «Smart Contracts».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cyfirn Updraft | Solidity Smart Contract Development",
+          "type": "course",
+          "url": "https://updraft.cyfrin.io/courses/solidity",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Smart Contracts",
+          "type": "article",
+          "url": "https://www.ibm.com/topics/smart-contracts",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Are Smart Contracts and How Do They Work?",
+          "type": "article",
+          "url": "https://chain.link/education/smart-contracts",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to smart contracts - Ethereum",
+          "type": "article",
+          "url": "https://ethereum.org/en/smart-contracts/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Smart Contract Libraries",
+          "type": "article",
+          "url": "https://ethereum.org/en/developers/docs/smart-contracts/libraries/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Smart Contracts - Simply Explained",
+          "type": "video",
+          "url": "https://youtu.be/ZE2HxTmxfrI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Smart Contracts",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/smart-contracts?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Security».",
+      "order": 5,
+      "children": [
+        {
+          "id": "practices",
+          "title": "Practices",
+          "description": "مباحث و تمرین‌های مرتبط با «Practices».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Cyfrin Updraft | Smart Contract Security",
+              "type": "course",
+              "url": "https://updraft.cyfrin.io/courses/security",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ethereum Smart Contract Security Best Practices",
+              "type": "article",
+              "url": "https://consensys.github.io/smart-contract-best-practices/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Smart Contract Security and Auditing 101",
+              "type": "video",
+              "url": "https://youtu.be/0aJfCug1zTM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cyfrin Updraft | Smart Contract Security",
+          "type": "course",
+          "url": "https://updraft.cyfrin.io/courses/security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Smart Contract Security",
+          "type": "article",
+          "url": "https://ethereum.org/en/developers/docs/smart-contracts/security/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ethereum Smart Contract Security Recommendations",
+          "type": "article",
+          "url": "https://consensys.net/blog/developers/ethereum-smart-contract-security-recommendations/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Blockchain",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/blockchain?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "supporting-languages",
+      "title": "Supporting Languages",
+      "description": "مباحث و تمرین‌های مرتبط با «Supporting Languages».",
+      "order": 6,
+      "children": [
+        {
+          "id": "supporting-languages-item",
+          "title": "Supporting Languages",
+          "description": "مباحث و تمرین‌های مرتبط با «Supporting Languages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Programming Languages for Smart Contracts",
+          "type": "article",
+          "url": "https://blog.logrocket.com/smart-contract-programming-languages/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Top Programming Languages for Blockchains",
+          "type": "article",
+          "url": "https://www.codecademy.com/resources/blog/programming-languages-blockchain-development/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "oracles",
+      "title": "Oracles",
+      "description": "مباحث و تمرین‌های مرتبط با «Oracles».",
+      "order": 7,
+      "children": [
+        {
+          "id": "hybrid-smart-contracts",
+          "title": "Hybrid Smart Contracts",
+          "description": "مباحث و تمرین‌های مرتبط با «Hybrid Smart Contracts».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Hybrid Smart Contracts Explained",
+              "type": "article",
+              "url": "https://blog.chain.link/hybrid-smart-contracts-explained/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Guide to Hybrid Smart Contracts",
+              "type": "article",
+              "url": "https://www.leewayhertz.com/hybrid-smart-contracts/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "chainlink",
+          "title": "Chainlink",
+          "description": "مباحث و تمرین‌های مرتبط با «Chainlink».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Chainlink Fundamentals - Cyfrin Updraft",
+              "type": "course",
+              "url": "https://updraft.cyfrin.io/courses/chainlink-fundamentals",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Chainlink? A Beginner's Guide",
+              "type": "article",
+              "url": "https://blog.chain.link/what-is-chainlink/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Chainlink in 5 Minutes",
+              "type": "article",
+              "url": "https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cyfrin Updraft | Getting real world price data from chainlink",
+              "type": "video",
+              "url": "https://updraft.cyfrin.io/courses/solidity/fund-me/getting-prices-from-chainlink",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "oracle-networks",
+          "title": "Oracle Networks",
+          "description": "مباحث و تمرین‌های مرتبط با «Oracle Networks».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Understanding Blockchain Oracle",
+              "type": "article",
+              "url": "https://chain.link/education/blockchain-oracles",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Decentralized Oracle Networks",
+              "type": "article",
+              "url": "https://medium.com/coinmonks/decentralized-oracle-networks-9fead28f5fe5",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Beginner’s Guide To The Evolution Of Decentralized Oracle Networks",
+              "type": "article",
+              "url": "https://chainlinktoday.com/a-beginners-guide-to-the-evolution-of-decentralized-oracle-networks/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cyfrin Updraft | Intro to oracles",
+              "type": "video",
+              "url": "https://updraft.cyfrin.io/courses/solidity/fund-me/real-world-price-data",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Oracle",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/oracle?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Blockchain Oracle",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Blockchain_oracle",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is a Blockchain Oracle?",
+          "type": "article",
+          "url": "https://chain.link/education/blockchain-oracles",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Blockchain",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/blockchain?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "frontend-frameworks",
+      "title": "Frontend Frameworks",
+      "description": "مباحث و تمرین‌های مرتبط با «Frontend Frameworks».",
+      "order": 8,
+      "children": [
+        {
+          "id": "frontend-frameworks-item",
+          "title": "Frontend Frameworks",
+          "description": "مباحث و تمرین‌های مرتبط با «Frontend Frameworks».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Full-Stack Web3 Development Crash Course",
+          "type": "course",
+          "url": "https://updraft.cyfrin.io/courses/full-stack-web3-development-crash-course",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Web3 Frontend – Everything You Need to Learn About Building Dapp Frontends",
+          "type": "article",
+          "url": "https://moralis.io/web3-frontend-everything-you-need-to-learn-about-building-dapp-frontends/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is the difference between a framework and a library?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=D_MO9vIRBcA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Which JS Framework is best?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cuHDQhDhvPE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Frontend Development",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/frontend?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "client-libraries",
+      "title": "Client Libraries",
+      "description": "مباحث و تمرین‌های مرتبط با «Client Libraries».",
+      "order": 9,
+      "children": [
+        {
+          "id": "client-libraries-item",
+          "title": "Client Libraries",
+          "description": "مباحث و تمرین‌های مرتبط با «Client Libraries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Viem Library",
+          "type": "article",
+          "url": "https://viem.sh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Client Libraries",
+          "type": "article",
+          "url": "https://docs.waves.tech/en/building-apps/waves-api-and-sdk/client-libraries/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dapps",
+      "title": "dApps",
+      "description": "مباحث و تمرین‌های مرتبط با «dApps».",
+      "order": 10,
+      "children": [
+        {
+          "id": "testing",
+          "title": "Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Software Testing?",
+              "type": "article",
+              "url": "https://www.guru99.com/software-testing-introduction-importance.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Testing Pyramid",
+              "type": "article",
+              "url": "https://www.browserstack.com/guide/testing-pyramid-for-test-automation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to test dApps (decentralized applications)",
+              "type": "article",
+              "url": "https://rhian-is.medium.com/how-to-test-dapps-decentralized-applications-4662cf61db90",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Testing",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "deployment",
+          "title": "Deployment",
+          "description": "مباحث و تمرین‌های مرتبط با «Deployment».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Tutorial for building an Ethereum DApp with Integrated Web3 Monitoring",
+              "type": "article",
+              "url": "https://www.moesif.com/blog/blockchain/ethereum/Tutorial-for-building-Ethereum-Dapp-with-Integrated-Error-Monitoring/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Build and Deploy a Modern Web 3.0 Blockchain App",
+              "type": "video",
+              "url": "https://youtu.be/Wn_Kb3MR_cU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about CI/CD",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/cicd?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "maintenance",
+          "title": "Maintenance",
+          "description": "مباحث و تمرین‌های مرتبط با «Maintenance».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Blockchain Maintenance",
+              "type": "article",
+              "url": "https://imiblockchain.com/blockchain-coding/maintenance/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "architecture",
+          "title": "Architecture",
+          "description": "مباحث و تمرین‌های مرتبط با «Architecture».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "The Architecture of a Web 3.0 application",
+              "type": "article",
+              "url": "https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Blockchain Development: Dapp Architecture",
+              "type": "video",
+              "url": "https://youtu.be/KBSq8-LnUDI?t=286",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Architecture",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/architecture?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "security-2",
+          "title": "Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Security».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "DAPP Security Standards",
+              "type": "article",
+              "url": "https://github.com/Dexaran/DAPP-security-standards/blob/master/README.md",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "dApp Security Considerations",
+              "type": "article",
+              "url": "https://livebook.manning.com/book/building-ethereum-dapps/chapter-14/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "dApp Security: All You Need to Know",
+              "type": "article",
+              "url": "https://www.immunebytes.com/blog/dapp-security/#Benefits_of_DApps_Security",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Security",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/security?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Decentralized Applications (dApps): What They Are, Uses, and Benefits",
+          "type": "article",
+          "url": "https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a decentralized application (dApp)?",
+          "type": "article",
+          "url": "https://www.kraken.com/learn/what-is-a-decentralized-application-dapp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is a dApp? | How Decentralized Apps Work in Web3",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=F2XTfezYTe8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "client-nodes",
+      "title": "Client Nodes",
+      "description": "مباحث و تمرین‌های مرتبط با «Client Nodes».",
+      "order": 11,
+      "children": [
+        {
+          "id": "client-nodes-item",
+          "title": "Client Nodes",
+          "description": "مباحث و تمرین‌های مرتبط با «Client Nodes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Nodes and Clients",
+          "type": "article",
+          "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ethereum Nodes",
+          "type": "article",
+          "url": "https://www.coindesk.com/learn/ethereum-nodes-and-clients-a-complete-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "building-for-scale",
+      "title": "Building for Scale",
+      "description": "مباحث و تمرین‌های مرتبط با «Building for Scale».",
+      "order": 12,
+      "children": [
+        {
+          "id": "building-for-scale-item",
+          "title": "Building for Scale",
+          "description": "مباحث و تمرین‌های مرتبط با «Building for Scale».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Blockchain Scalability",
+          "type": "article",
+          "url": "https://medium.com/iovlabs-innovation-stories/blockchain-scalability-4dce74382930",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "applicability",
+      "title": "Applicability",
+      "description": "مباحث و تمرین‌های مرتبط با «Applicability».",
+      "order": 13,
+      "children": [
+        {
+          "id": "applicability-item",
+          "title": "Applicability",
+          "description": "مباحث و تمرین‌های مرتبط با «Applicability».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are dApps? A guide to decentralized applications",
+          "type": "article",
+          "url": "https://www.moonpay.com/learn/defi/what-are-dapps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Blockchain Use Cases and Applications by Industry",
+          "type": "article",
+          "url": "https://consensys.net/blockchain-use-cases/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The real-world use cases for blockchain technology",
+          "type": "article",
+          "url": "https://roboticsandautomationnews.com/2022/05/20/the-real-world-use-cases-for-blockchain-technology/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "node-as-a-service",
+      "title": "Node as a Service",
+      "description": "مباحث و تمرین‌های مرتبط با «Node as a Service».",
+      "order": 14,
+      "children": [
+        {
+          "id": "node-as-a-service-item",
+          "title": "Node as a Service",
+          "description": "مباحث و تمرین‌های مرتبط با «Node as a Service».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Blockchain Node Providers and How They Work",
+          "type": "article",
+          "url": "https://www.infoq.com/articles/blockchain-as-a-service-get-block/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Node as a Service - Ethereum",
+          "type": "article",
+          "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/nodes-as-a-service/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

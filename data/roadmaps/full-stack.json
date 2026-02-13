@@ -1,0 +1,1508 @@
+{
+  "slug": "full-stack",
+  "title": "Full Stack",
+  "description": "Step by step guide to becoming a modern full stack developer in 2026",
+  "steps": [
+    {
+      "id": "html",
+      "title": "HTML",
+      "description": "مباحث و تمرین‌های مرتبط با «HTML».",
+      "order": 1,
+      "children": [
+        {
+          "id": "html-item",
+          "title": "HTML",
+          "description": "مباحث و تمرین‌های مرتبط با «HTML».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit the Dedicated HTML Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML Full Course for Beginners",
+          "type": "video",
+          "url": "https://youtu.be/mJgBOIoGihA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML Full Course - Build a Website Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about HTML",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/html?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "css",
+      "title": "CSS",
+      "description": "مباحث و تمرین‌های مرتبط با «CSS».",
+      "order": 2,
+      "children": [
+        {
+          "id": "css-item",
+          "title": "CSS",
+          "description": "مباحث و تمرین‌های مرتبط با «CSS».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit the Dedicated CSS Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/css",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Web.dev by Google — Learn CSS",
+          "type": "article",
+          "url": "https://web.dev/learn/css/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS: Cascading Style Sheets | MDN",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Complete Course",
+          "type": "video",
+          "url": "https://youtu.be/n4R2E7O-Ngo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML and CSS Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=D-h8L5hgW-w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about CSS",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/css?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "javascript",
+      "title": "JavaScript",
+      "description": "مباحث و تمرین‌های مرتبط با «JavaScript».",
+      "order": 3,
+      "children": [
+        {
+          "id": "javascript-item",
+          "title": "JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «JavaScript».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated JavaScript Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/javascript",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Modern JavaScript Tutorial",
+          "type": "article",
+          "url": "https://javascript.info/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Build 30 Javascript projects in 30 days",
+          "type": "article",
+          "url": "https://javascript30.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "JavaScript Crash Course for Beginners",
+          "type": "video",
+          "url": "https://youtu.be/hdI2bqOjy3c?t=2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JavaScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "npm",
+      "title": "npm",
+      "description": "مباحث و تمرین‌های مرتبط با «npm».",
+      "order": 4,
+      "children": [
+        {
+          "id": "npm-item",
+          "title": "npm",
+          "description": "مباحث و تمرین‌های مرتبط با «npm».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to NPM",
+          "type": "article",
+          "url": "https://github.com/workshopper/how-to-npm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Modern JavaScript for Dinosaurs",
+          "type": "article",
+          "url": "https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An Absolute Beginners Guide to Using npm",
+          "type": "article",
+          "url": "https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NPM tutorial for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=2V1UUhBJ62Y",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NPM Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jHDhaSSKmB0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about NPM",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/npm?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "tailwind-css",
+      "title": "Tailwind CSS",
+      "description": "مباحث و تمرین‌های مرتبط با «Tailwind CSS».",
+      "order": 5,
+      "children": [
+        {
+          "id": "tailwind-css-item",
+          "title": "Tailwind CSS",
+          "description": "مباحث و تمرین‌های مرتبط با «Tailwind CSS».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Tailwind CSS",
+          "type": "article",
+          "url": "https://tailwindcss.com",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Tailwind CSS Full Course for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lCxcTsOHrjo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Tailwind CSS Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=UBOj6rqRUME",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Should You Use Tailwind CSS?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=hdGsFpZ0J2E",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Tailwind CSS",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/tailwind-css?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "react",
+      "title": "React",
+      "description": "مباحث و تمرین‌های مرتبط با «React».",
+      "order": 6,
+      "children": [
+        {
+          "id": "react-item",
+          "title": "React",
+          "description": "مباحث و تمرین‌های مرتبط با «React».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated React Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/react",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React",
+          "type": "article",
+          "url": "https://react.dev/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started with React",
+          "type": "article",
+          "url": "https://react.dev/learn/tutorial-tic-tac-toe",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React JS Course for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=nTeuhbP7wdE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React Course - Beginners Tutorial for React",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Reacts UI Rendering Process",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=i793Qm6kv3U",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about React",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/react?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "git",
+      "title": "Git",
+      "description": "مباحث و تمرین‌های مرتبط با «Git».",
+      "order": 7,
+      "children": [
+        {
+          "id": "git-item",
+          "title": "Git",
+          "description": "مباحث و تمرین‌های مرتبط با «Git».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated Git & GitHub Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/git-github",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Documentation",
+          "type": "article",
+          "url": "https://git-scm.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Git with Tutorials, News and Tips - Atlassian",
+          "type": "article",
+          "url": "https://www.atlassian.com/git",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Cheat Sheet",
+          "type": "article",
+          "url": "https://cs.fyi/guide/git-cheatsheet",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git & GitHub Crash Course For Beginners 2025",
+          "type": "video",
+          "url": "https://youtu.be/vA5TTz6BXhY?si=GvKMbLL4UBtOq6fh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Tutorial For Dummies",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=mJ-qvsxPHpY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Git",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/git?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github",
+      "title": "GitHub",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub».",
+      "order": 8,
+      "children": [
+        {
+          "id": "github-item",
+          "title": "GitHub",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GitHub",
+          "type": "article",
+          "url": "https://github.com",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub Documentation",
+          "type": "article",
+          "url": "https://docs.github.com/en/get-started/quickstart",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Use Git in a Professional Dev Team",
+          "type": "article",
+          "url": "https://ooloo.io/project/github-flow",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is GitHub?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=w3jLJU7DT5E",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git vs. GitHub: Whats the difference?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=wpISo9TNjfU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git and GitHub for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git and GitHub - CS50 Beyond 2019",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eulnSXkhE7I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about GitHub",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/github?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "node-js",
+      "title": "Node.js",
+      "description": "مباحث و تمرین‌های مرتبط با «Node.js».",
+      "order": 9,
+      "children": [
+        {
+          "id": "node-js-item",
+          "title": "Node.js",
+          "description": "مباحث و تمرین‌های مرتبط با «Node.js».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated Node.js Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/nodejs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Node.js Website",
+          "type": "article",
+          "url": "https://nodejs.org/en/about/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Node.js Official Website",
+          "type": "article",
+          "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Node.js and Express.js Full Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Oe421EPjeBE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "postgresql",
+      "title": "PostgreSQL",
+      "description": "مباحث و تمرین‌های مرتبط با «PostgreSQL».",
+      "order": 10,
+      "children": [
+        {
+          "id": "postgresql-item",
+          "title": "PostgreSQL",
+          "description": "مباحث و تمرین‌های مرتبط با «PostgreSQL».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated PostgreSQL DBA Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/postgresql-dba",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "PostgreSQL Website",
+          "type": "article",
+          "url": "https://www.postgresql.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn PostgreSQL - Full Tutorial for Beginners",
+          "type": "article",
+          "url": "https://www.postgresqltutorial.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn PostgreSQL Tutorial - Full Course for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Postgres tutorial for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eMIxuk0nOkU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about PostgreSQL",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/postgresql?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "restful-apis",
+      "title": "RESTful APIs",
+      "description": "مباحث و تمرین‌های مرتبط با «RESTful APIs».",
+      "order": 11,
+      "children": [
+        {
+          "id": "restful-apis-item",
+          "title": "RESTful APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «RESTful APIs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a REST API?",
+          "type": "article",
+          "url": "https://www.redhat.com/en/topics/api/what-is-a-rest-api",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Roy Fieldings dissertation chapter, Representational State Transfer (REST)",
+          "type": "article",
+          "url": "https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn REST: A RESTful Tutorial",
+          "type": "article",
+          "url": "https://restapitutorial.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is A RESTful API? Explanation of REST & HTTP",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Q-BpqyOT3a8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "jwt-auth",
+      "title": "JWT Auth",
+      "description": "مباحث و تمرین‌های مرتبط با «JWT Auth».",
+      "order": 12,
+      "children": [
+        {
+          "id": "jwt-auth-item",
+          "title": "JWT Auth",
+          "description": "مباحث و تمرین‌های مرتبط با «JWT Auth».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "jwt.io",
+          "type": "article",
+          "url": "https://jwt.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to JSON Web Tokens",
+          "type": "article",
+          "url": "https://jwt.io/introduction",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is JWT?",
+          "type": "article",
+          "url": "https://www.akana.com/blog/what-is-jwt",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is JWT and Why Should You Use JWT",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7Q17ubqLfaM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is JWT? JSON Web Token Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=926mknSW9Lo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "JWT Authentication Tutorial - Node.js",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=mbsmsi7l3r4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about JWT",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/jwt?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "redis",
+      "title": "Redis",
+      "description": "مباحث و تمرین‌های مرتبط با «Redis».",
+      "order": 13,
+      "children": [
+        {
+          "id": "redis-item",
+          "title": "Redis",
+          "description": "مباحث و تمرین‌های مرتبط با «Redis».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated Redis Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/redis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis Website",
+          "type": "article",
+          "url": "https://redis.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis Documentation",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis University",
+          "type": "article",
+          "url": "https://university.redis.io/academy",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis in 100 Seconds",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=G1rOthIU-uo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis Caching in Node.js",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=oaJq1mQ3dFI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Redis",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/redis?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "linux-basics",
+      "title": "Linux Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Linux Basics».",
+      "order": 14,
+      "children": [
+        {
+          "id": "linux-basics-item",
+          "title": "Linux Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Linux Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated Linux Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/linux",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Coursera - Unix Courses",
+          "type": "course",
+          "url": "https://www.coursera.org/courses?query=unix",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Basics",
+          "type": "article",
+          "url": "https://dev.to/rudrakshi99/linux-basics-2onj",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Unix / Linux Tutorial",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/unix/index.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Operating System - Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ROjZy1WbCIA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Linux",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/linux?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-aws-services",
+      "title": "Basic AWS Services",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic AWS Services».",
+      "order": 15,
+      "children": [
+        {
+          "id": "basic-aws-services-item",
+          "title": "Basic AWS Services",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic AWS Services».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Up and Running with AWS VPC",
+          "type": "article",
+          "url": "https://cs.fyi/guide/up-and-running-with-aws-vpc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Up and Running with AWS EC2",
+          "type": "article",
+          "url": "https://cs.fyi/guide/up-and-running-with-aws-ec2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "VPC Basics",
+          "type": "article",
+          "url": "https://cloudcasts.io/course/vpc-basics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "EC2 Essentials",
+          "type": "article",
+          "url": "https://cloudcasts.io/course/ec2-essentials",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Deploy Node App on AWS EC2",
+          "type": "video",
+          "url": "https://youtu.be/oHAQ3TzUTro",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AWS VPC & Subnets For Beginners",
+          "type": "video",
+          "url": "https://youtu.be/TUTqYEZZUdc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DNS with AWS Route 53",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=yRIY7BJohfo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Upload Images to S3 from Node Back End",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NZElg91l_ms",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about AWS",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/aws?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "monit",
+      "title": "Monit",
+      "description": "مباحث و تمرین‌های مرتبط با «Monit».",
+      "order": 16,
+      "children": [
+        {
+          "id": "monit-item",
+          "title": "Monit",
+          "description": "مباحث و تمرین‌های مرتبط با «Monit».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Monit",
+          "type": "article",
+          "url": "https://mmonit.com/monit/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Monit Documentation",
+          "type": "article",
+          "url": "https://mmonit.com/monit/documentation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-actions",
+      "title": "GitHub Actions",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Actions».",
+      "order": 17,
+      "children": [
+        {
+          "id": "github-actions-item",
+          "title": "GitHub Actions",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Actions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated Git & GitHub Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/git-github",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub Actions",
+          "type": "article",
+          "url": "https://github.com/features/actions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub Actions Documentation",
+          "type": "article",
+          "url": "https://docs.github.com/en/actions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "5 Ways to DevOps-ify your App",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eB0nUzAI7M8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DevOps CI/CD Explained in 100 Seconds",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=scEDHsr3APg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about GitHub",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/github-actions?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ansible",
+      "title": "Ansible",
+      "description": "مباحث و تمرین‌های مرتبط با «Ansible».",
+      "order": 18,
+      "children": [
+        {
+          "id": "ansible-item",
+          "title": "Ansible",
+          "description": "مباحث و تمرین‌های مرتبط با «Ansible».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ansible",
+          "type": "article",
+          "url": "https://www.ansible.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ansible Documentation",
+          "type": "article",
+          "url": "https://docs.ansible.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ansible Getting Started Guide",
+          "type": "article",
+          "url": "https://www.ansible.com/resources/get-started",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ansible Full Course for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9Ua2b06oAr4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Ansible",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/ansible?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "terraform",
+      "title": "Terraform",
+      "description": "مباحث و تمرین‌های مرتبط با «Terraform».",
+      "order": 19,
+      "children": [
+        {
+          "id": "terraform-item",
+          "title": "Terraform",
+          "description": "مباحث و تمرین‌های مرتبط با «Terraform».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated Terraform Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/terraform",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform Website",
+          "type": "article",
+          "url": "https://www.terraform.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform Documentation",
+          "type": "article",
+          "url": "https://www.terraform.io/docs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform CDK",
+          "type": "article",
+          "url": "https://www.terraform.io/cdktf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform Tutorials",
+          "type": "article",
+          "url": "https://learn.hashicorp.com/terraform",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Terraform Video",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=h970ZBgKINg&ab_channel=HashiCorp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Terraform",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/terraform?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,1116 @@
+{
+  "slug": "api-design",
+  "title": "API Design",
+  "description": "Step by step guide to learn how to design and build robust APIs.",
+  "steps": [
+    {
+      "id": "learn-the-basics",
+      "title": "Learn the Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn the Basics».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-are-apis",
+          "title": "What are APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «What are APIs».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Getting Started with APIs - Postman",
+              "type": "article",
+              "url": "https://www.postman.com/what-is-an-api/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "API - IBM",
+              "type": "article",
+              "url": "https://www.ibm.com/topics/api",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is an API? - AWS",
+              "type": "article",
+              "url": "https://aws.amazon.com/what-is/api/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is an API?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=s7wmiS2mSXY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "http",
+          "title": "HTTP",
+          "description": "مباحث و تمرین‌های مرتبط با «HTTP».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Everything you need to know about HTTP",
+              "type": "article",
+              "url": "https://cs.fyi/guide/http-in-depth",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is HTTP?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "An overview of HTTP",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTTP/3 From A To Z: Core Concepts",
+              "type": "article",
+              "url": "https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTTP Crash Course & Exploration",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=iYM2zFP3Zn0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "url-query-path-parameters",
+          "title": "URL, Query & Path Parameters",
+          "description": "مباحث و تمرین‌های مرتبط با «URL, Query & Path Parameters».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Understanding Path Variables and Query Parameters in HTTP Requests",
+              "type": "article",
+              "url": "https://medium.com/@averydcs/understanding-path-variables-and-query-parameters-in-http-requests-232248b71a8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Describing parameters",
+              "type": "article",
+              "url": "https://swagger.io/docs/specification/describing-parameters/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How API Parameters Work: Query, Path, Header, and Body",
+              "type": "article",
+              "url": "https://treblle.com/blog/api-parameters-query-path-header-body",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "content-negotiation",
+          "title": "Content Negotiation",
+          "description": "مباحث و تمرین‌های مرتبط با «Content Negotiation».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Content Negotiation",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Content Negotiation in Practice",
+              "type": "article",
+              "url": "https://softwaremill.com/content-negotiation-in-practice/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "understand-tcp-ip",
+          "title": "Understand TCP / IP",
+          "description": "مباحث و تمرین‌های مرتبط با «Understand TCP / IP».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "What is Transmission Control Protocol TCP/IP?",
+              "type": "article",
+              "url": "https://www.fortinet.com/resources/cyberglossary/tcp-ip",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is TCP/IP?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/tcp-ip/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "what is TCP/IP and OSI?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=CRdL1PcherM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "basics-of-dns",
+          "title": "Basics of DNS",
+          "description": "مباحث و تمرین‌های مرتبط با «Basics of DNS».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "What is DNS?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to DNS",
+              "type": "article",
+              "url": "https://aws.amazon.com/route53/what-is-dns/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DNS Record Crash Course for Web Developers",
+              "type": "article",
+              "url": "https://dev.to/chrisachard/dns-record-crash-course-for-web-developers-35hn",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DNS explained in 100 seconds",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=UVR9lhUGAyU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "different-api-styles",
+      "title": "Different API Styles",
+      "description": "مباحث و تمرین‌های مرتبط با «Different API Styles».",
+      "order": 2,
+      "children": [
+        {
+          "id": "different-api-styles-item",
+          "title": "Different API Styles",
+          "description": "مباحث و تمرین‌های مرتبط با «Different API Styles».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "API Styles",
+          "type": "article",
+          "url": "https://www.redhat.com/architect/api-styles",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Top API Styles",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4vLxWqE94l4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "building-json-restful-apis",
+      "title": "Building JSON / RESTful APIs",
+      "description": "مباحث و تمرین‌های مرتبط با «Building JSON / RESTful APIs».",
+      "order": 3,
+      "children": [
+        {
+          "id": "building-json-restful-apis-item",
+          "title": "Building JSON / RESTful APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «Building JSON / RESTful APIs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Specification for Building APIs in JSON",
+          "type": "article",
+          "url": "https://jsonapi.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Make a RESTful API",
+          "type": "article",
+          "url": "https://www.integrate.io/blog/how-to-make-a-rest-api/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a REST API?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lsMQRaeKNDk&t=170s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authentication-methods",
+      "title": "Authentication Methods",
+      "description": "مباحث و تمرین‌های مرتبط با «Authentication Methods».",
+      "order": 4,
+      "children": [
+        {
+          "id": "authentication-methods-item",
+          "title": "Authentication Methods",
+          "description": "مباحث و تمرین‌های مرتبط با «Authentication Methods».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "API Authentication",
+          "type": "article",
+          "url": "https://www.postman.com/api-platform/api-authentication/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authorization-methods",
+      "title": "Authorization Methods",
+      "description": "مباحث و تمرین‌های مرتبط با «Authorization Methods».",
+      "order": 5,
+      "children": [
+        {
+          "id": "rbac",
+          "title": "RBAC",
+          "description": "مباحث و تمرین‌های مرتبط با «RBAC».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Role-Based Access Control",
+              "type": "article",
+              "url": "https://auth0.com/docs/manage-users/access-control/rbac",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Role-based Access Control (RBAC)?",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/security/what-is-role-based-access-control",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Role-based Access Control (RBAC) vs. Attribute-based Access Control (ABAC)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rvZ35YW4t5k",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "rbac-2",
+          "title": "RBAC",
+          "description": "مباحث و تمرین‌های مرتبط با «RBAC».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Role-Based Access Control",
+              "type": "article",
+              "url": "https://auth0.com/docs/manage-users/access-control/rbac",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Role-based Access Control (RBAC)?",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/security/what-is-role-based-access-control",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Role-based Access Control (RBAC) vs. Attribute-based Access Control (ABAC)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rvZ35YW4t5k",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "API Authorization Methods",
+          "type": "article",
+          "url": "https://www.pingidentity.com/en/resources/identity-fundamentals/authorization/authorization-methods.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-keys-management",
+      "title": "API Keys & Management",
+      "description": "مباحث و تمرین‌های مرتبط با «API Keys & Management».",
+      "order": 6,
+      "children": [
+        {
+          "id": "api-keys-management-item",
+          "title": "API Keys & Management",
+          "description": "مباحث و تمرین‌های مرتبط با «API Keys & Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is API Key Management?",
+          "type": "article",
+          "url": "https://www.akeyless.io/secrets-management-glossary/api-key-management/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "API Key Management - Definition and Best Practices",
+          "type": "article",
+          "url": "https://infisical.com/blog/api-key-management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-documentation-tools",
+      "title": "API Documentation Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «API Documentation Tools».",
+      "order": 7,
+      "children": [
+        {
+          "id": "api-documentation-tools-item",
+          "title": "API Documentation Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «API Documentation Tools».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Swagger's Official Website",
+          "type": "article",
+          "url": "https://swagger.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DapperDox's Official Website",
+          "type": "article",
+          "url": "http://dapperdox.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "ReDoc Documentation",
+          "type": "article",
+          "url": "https://github.com/Redocly/redoc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-security",
+      "title": "API Security",
+      "description": "مباحث و تمرین‌های مرتبط با «API Security».",
+      "order": 8,
+      "children": [
+        {
+          "id": "api-security-item",
+          "title": "API Security",
+          "description": "مباحث و تمرین‌های مرتبط با «API Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OWASP Project API Security",
+          "type": "article",
+          "url": "https://owasp.org/API-Security/editions/2023/en/0x00-toc/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Security",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/security?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-performance",
+      "title": "API Performance",
+      "description": "مباحث و تمرین‌های مرتبط با «API Performance».",
+      "order": 9,
+      "children": [
+        {
+          "id": "api-performance-item",
+          "title": "API Performance",
+          "description": "مباحث و تمرین‌های مرتبط با «API Performance».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "10 Tips for Improving API Performance",
+          "type": "article",
+          "url": "https://nordicapis.com/10-tips-for-improving-api-performance/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Top 7 Ways to 10x Your API Performance",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=zvWKqUiovAM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-integration-patterns",
+      "title": "API Integration Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «API Integration Patterns».",
+      "order": 10,
+      "children": [
+        {
+          "id": "api-integration-patterns-item",
+          "title": "API Integration Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «API Integration Patterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "API Integration Patterns - Dzone",
+          "type": "article",
+          "url": "https://dzone.com/refcardz/api-integration-patterns",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "API Integration Patterns - Devoteam",
+          "type": "article",
+          "url": "https://uk.devoteam.com/expert-view/api-integration-patterns/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-testing",
+      "title": "API Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «API Testing».",
+      "order": 11,
+      "children": [
+        {
+          "id": "api-testing-item",
+          "title": "API Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «API Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is API Testing?",
+          "type": "article",
+          "url": "https://www.postman.com/api-platform/api-testing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "API Testing : What It is, How to Test & Best Practices",
+          "type": "article",
+          "url": "https://testsigma.com/guides/api-testing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "real-time-apis",
+      "title": "Real-time APIs",
+      "description": "مباحث و تمرین‌های مرتبط با «Real-time APIs».",
+      "order": 12,
+      "children": [
+        {
+          "id": "web-sockets",
+          "title": "Web Sockets",
+          "description": "مباحث و تمرین‌های مرتبط با «Web Sockets».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "The WebSocket API (WebSockets)",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Web Sockets?",
+              "type": "article",
+              "url": "https://www.pubnub.com/guides/websockets/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Web Sockets Work",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=pnj3Jbho5Ck",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "server-sent-events",
+          "title": "Server Sent Events",
+          "description": "مباحث و تمرین‌های مرتبط با «Server Sent Events».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Using server-sent events",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Server-Sent Events | Postman Level Up",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=KrE044J8jEQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are Realtime APIs?",
+          "type": "article",
+          "url": "https://www.pubnub.com/guides/realtime-api/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are realtime APIs and when to use them?",
+          "type": "article",
+          "url": "https://ably.com/topic/what-is-a-realtime-api",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-lifecycle-management",
+      "title": "API Lifecycle Management",
+      "description": "مباحث و تمرین‌های مرتبط با «API Lifecycle Management».",
+      "order": 13,
+      "children": [
+        {
+          "id": "gdpr",
+          "title": "GDPR",
+          "description": "مباحث و تمرین‌های مرتبط با «GDPR».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "GDPR",
+              "type": "article",
+              "url": "https://gdpr-info.eu/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is GDPR Compliance in Web Application and API Security?",
+              "type": "article",
+              "url": "https://probely.com/blog/what-is-gdpr-compliance-in-web-application-and-api-security/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ccpa",
+          "title": "CCPA",
+          "description": "مباحث و تمرین‌های مرتبط با «CCPA».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "California Consumer Privacy Act (CCPA)",
+              "type": "article",
+              "url": "https://oag.ca.gov/privacy/ccpa",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is the CCPA?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/en-gb/learning/privacy/what-is-the-ccpa/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pci-dss",
+          "title": "PCI DSS",
+          "description": "مباحث و تمرین‌های مرتبط با «PCI DSS».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is PCI DSS and how to comply?",
+              "type": "article",
+              "url": "https://www.itgovernance.co.uk/pci_dss",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Payment Card Industry Data Security Standard",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hipaa",
+          "title": "HIPAA",
+          "description": "مباحث و تمرین‌های مرتبط با «HIPAA».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "HIPAA",
+              "type": "article",
+              "url": "https://www.hhs.gov/hipaa/index.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The 11 MOST Common HIPAA Violations",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=sN-zLAqYoTo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pii",
+          "title": "PII",
+          "description": "مباحث و تمرین‌های مرتبط با «PII».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Personally Identifiable Information (PII): Definition, Types, and Examples",
+              "type": "article",
+              "url": "https://www.investopedia.com/terms/p/personally-identifiable-information-pii.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Personally Identifiable Information?",
+              "type": "article",
+              "url": "https://www.ibm.com/topics/pii",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is the API Lifecycle?",
+          "type": "article",
+          "url": "https://www.postman.com/api-platform/api-lifecycle/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is API Lifecycle Management?",
+          "type": "article",
+          "url": "https://swagger.io/blog/api-strategy/what-is-api-lifecycle-management/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Day in the Lifecycle of an API",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=VxY_cz0VQXE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "standards-and-compliance",
+      "title": "Standards and Compliance",
+      "description": "مباحث و تمرین‌های مرتبط با «Standards and Compliance».",
+      "order": 14,
+      "children": [
+        {
+          "id": "mocking-apis",
+          "title": "Mocking APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «Mocking APIs».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is API Mocking? Definition, Guide, and Best Practices",
+              "type": "article",
+              "url": "https://katalon.com/resources-center/blog/what-is-api-mocking",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is API mocking (What is API Mocking? Definition, Guide, and Best Practices)",
+              "type": "article",
+              "url": "https://blog.postman.com/what-is-api-mocking/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Mock RESTFUL APIs - The Easy way!",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tJRN5WBF5Wc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is API Compliance?",
+          "type": "article",
+          "url": "https://tyk.io/learning-center/api-compliance/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is API Compliance and Why is it important?",
+          "type": "article",
+          "url": "https://www.traceable.ai/blog-post/achieve-api-compliance",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "REST API Standards",
+          "type": "article",
+          "url": "https://www.integrate.io/blog/rest-api-standards/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

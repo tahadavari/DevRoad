@@ -1,0 +1,1208 @@
+{
+  "slug": "product-manager",
+  "title": "Product Manager",
+  "description": "Everything you need to know to become a Product Manager.",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "discovery",
+          "title": "Discovery",
+          "description": "مباحث و تمرین‌های مرتبط با «Discovery».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Introduction to Modern Product Discovery by Teresa Torres",
+              "type": "video",
+              "url": "https://youtu.be/l7-5x0ra2tc?si=Zh4LeSF_qAj8y6-a",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "product-vs-project-management",
+          "title": "Product vs Project Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Product vs Project Management».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Product vs Project Manager - Coursera",
+              "type": "article",
+              "url": "https://www.coursera.org/gb/articles/product-manager-vs-project-manager",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Product Manager vs Project Manager",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=nPR6HsUO_XY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "roles-and-responsibilities",
+          "title": "Roles and Responsibilities",
+          "description": "مباحث و تمرین‌های مرتبط با «Roles and Responsibilities».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Product Manager Roles & Responsibilities",
+              "type": "article",
+              "url": "https://www.productside.com/product-manager-roles-and-responsibilities-keytask/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "key-skills",
+          "title": "Key Skills",
+          "description": "مباحث و تمرین‌های مرتبط با «Key Skills».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What Skills Does a Product Manager Need?",
+              "type": "article",
+              "url": "https://careerfoundry.com/en/blog/product-management/product-manager-skills/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Skills Every Product Manager Needs",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ysBpePyeHkU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "product-identification",
+      "title": "Product Identification",
+      "description": "مباحث و تمرین‌های مرتبط با «Product Identification».",
+      "order": 2,
+      "children": [
+        {
+          "id": "competitive-analysis",
+          "title": "Competitive Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Competitive Analysis».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "iterative-process",
+          "title": "Iterative Process",
+          "description": "مباحث و تمرین‌های مرتبط با «Iterative Process».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "user-personas",
+          "title": "User Personas",
+          "description": "مباحث و تمرین‌های مرتبط با «User Personas».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "market-analysis",
+      "title": "Market Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Market Analysis».",
+      "order": 3,
+      "children": [
+        {
+          "id": "usp-unique-selling-point",
+          "title": "USP (Unique Selling Point)",
+          "description": "مباحث و تمرین‌های مرتبط با «USP (Unique Selling Point)».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "user-interviews",
+          "title": "User Interviews",
+          "description": "مباحث و تمرین‌های مرتبط با «User Interviews».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "narrative",
+          "title": "Narrative",
+          "description": "مباحث و تمرین‌های مرتبط با «Narrative».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "user-research",
+      "title": "User Research",
+      "description": "مباحث و تمرین‌های مرتبط با «User Research».",
+      "order": 4,
+      "children": [
+        {
+          "id": "feature-creep",
+          "title": "Feature Creep",
+          "description": "مباحث و تمرین‌های مرتبط با «Feature Creep».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "user-interviews-2",
+          "title": "User Interviews",
+          "description": "مباحث و تمرین‌های مرتبط با «User Interviews».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "surveys-and-questionnaires",
+          "title": "Surveys and Questionnaires",
+          "description": "مباحث و تمرین‌های مرتبط با «Surveys and Questionnaires».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "ethnographic-research",
+          "title": "Ethnographic Research",
+          "description": "مباحث و تمرین‌های مرتبط با «Ethnographic Research».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "positioning",
+      "title": "Positioning",
+      "description": "مباحث و تمرین‌های مرتبط با «Positioning».",
+      "order": 5,
+      "children": [
+        {
+          "id": "positioning-item",
+          "title": "Positioning",
+          "description": "مباحث و تمرین‌های مرتبط با «Positioning».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "vision-mission",
+      "title": "Vision & Mission",
+      "description": "مباحث و تمرین‌های مرتبط با «Vision & Mission».",
+      "order": 6,
+      "children": [
+        {
+          "id": "timeframe",
+          "title": "Timeframe",
+          "description": "مباحث و تمرین‌های مرتبط با «Timeframe».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "proposition",
+          "title": "Proposition",
+          "description": "مباحث و تمرین‌های مرتبط با «Proposition».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "capabilities",
+          "title": "Capabilities",
+          "description": "مباحث و تمرین‌های مرتبط با «Capabilities».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "solved-constraints",
+          "title": "Solved Constraints",
+          "description": "مباحث و تمرین‌های مرتبط با «Solved Constraints».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "future-constraints",
+          "title": "Future Constraints",
+          "description": "مباحث و تمرین‌های مرتبط با «Future Constraints».",
+          "order": 5,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "reference-materials",
+          "title": "Reference Materials",
+          "description": "مباحث و تمرین‌های مرتبط با «Reference Materials».",
+          "order": 6,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "narrative-2",
+          "title": "Narrative",
+          "description": "مباحث و تمرین‌های مرتبط با «Narrative».",
+          "order": 7,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "value-vs-features",
+      "title": "Value vs Features",
+      "description": "مباحث و تمرین‌های مرتبط با «Value vs Features».",
+      "order": 7,
+      "children": [
+        {
+          "id": "finding-balance",
+          "title": "Finding Balance",
+          "description": "مباحث و تمرین‌های مرتبط با «Finding Balance».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "strategic-thinking",
+      "title": "Strategic Thinking",
+      "description": "مباحث و تمرین‌های مرتبط با «Strategic Thinking».",
+      "order": 8,
+      "children": [
+        {
+          "id": "feature-creep-2",
+          "title": "Feature Creep",
+          "description": "مباحث و تمرین‌های مرتبط با «Feature Creep».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "market-segmentation",
+          "title": "Market Segmentation",
+          "description": "مباحث و تمرین‌های مرتبط با «Market Segmentation».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "case-studies",
+          "title": "Case Studies",
+          "description": "مباحث و تمرین‌های مرتبط با «Case Studies».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "value-proposition",
+      "title": "Value Proposition",
+      "description": "مباحث و تمرین‌های مرتبط با «Value Proposition».",
+      "order": 9,
+      "children": [
+        {
+          "id": "minimum-viable-product-mvp",
+          "title": "Minimum Viable Product (MVP)",
+          "description": "مباحث و تمرین‌های مرتبط با «Minimum Viable Product (MVP)».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "defining-goals",
+      "title": "Defining Goals",
+      "description": "مباحث و تمرین‌های مرتبط با «Defining Goals».",
+      "order": 10,
+      "children": [
+        {
+          "id": "defining-goals-item",
+          "title": "Defining Goals",
+          "description": "مباحث و تمرین‌های مرتبط با «Defining Goals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "product-requirements",
+      "title": "Product Requirements",
+      "description": "مباحث و تمرین‌های مرتبط با «Product Requirements».",
+      "order": 11,
+      "children": [
+        {
+          "id": "strategic-partners",
+          "title": "Strategic Partners",
+          "description": "مباحث و تمرین‌های مرتبط با «Strategic Partners».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "writing-prds",
+          "title": "Writing PRDs",
+          "description": "مباحث و تمرین‌های مرتبط با «Writing PRDs».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "user-stories",
+          "title": "User Stories",
+          "description": "مباحث و تمرین‌های مرتبط با «User Stories».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "job-stories",
+          "title": "Job Stories",
+          "description": "مباحث و تمرین‌های مرتبط با «Job Stories».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "product-roadmap",
+      "title": "Product Roadmap",
+      "description": "مباحث و تمرین‌های مرتبط با «Product Roadmap».",
+      "order": 12,
+      "children": [
+        {
+          "id": "communicating-the-roadmap",
+          "title": "Communicating the Roadmap",
+          "description": "مباحث و تمرین‌های مرتبط با «Communicating the Roadmap».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a Product Roadmap? - Product Plan",
+          "type": "article",
+          "url": "https://www.productplan.com/learn/what-is-a-product-roadmap/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Product Roadmap? - Vibhor Chandel",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=BJR70jnpHog&ab_channel=VibhorChandel",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "backlog-management",
+      "title": "Backlog Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Backlog Management».",
+      "order": 13,
+      "children": [
+        {
+          "id": "remote-user-testing",
+          "title": "Remote User Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Remote User Testing».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "release-strategies",
+      "title": "Release Strategies",
+      "description": "مباحث و تمرین‌های مرتبط با «Release Strategies».",
+      "order": 14,
+      "children": [
+        {
+          "id": "release-strategies-item",
+          "title": "Release Strategies",
+          "description": "مباحث و تمرین‌های مرتبط با «Release Strategies».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "ux-ui-design",
+      "title": "UX / UI Design",
+      "description": "مباحث و تمرین‌های مرتبط با «UX / UI Design».",
+      "order": 15,
+      "children": [
+        {
+          "id": "dau-daily-active-users",
+          "title": "DAU (Daily Active Users)",
+          "description": "مباحث و تمرین‌های مرتبط با «DAU (Daily Active Users)».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "mau-monthly-active-users",
+          "title": "MAU (Monthly Active Users)",
+          "description": "مباحث و تمرین‌های مرتبط با «MAU (Monthly Active Users)».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "conflict-resolution",
+          "title": "Conflict Resolution",
+          "description": "مباحث و تمرین‌های مرتبط با «Conflict Resolution».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "service-design",
+      "title": "Service Design",
+      "description": "مباحث و تمرین‌های مرتبط با «Service Design».",
+      "order": 16,
+      "children": [
+        {
+          "id": "service-design-item",
+          "title": "Service Design",
+          "description": "مباحث و تمرین‌های مرتبط با «Service Design».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "interaction-design",
+      "title": "Interaction Design",
+      "description": "مباحث و تمرین‌های مرتبط با «Interaction Design».",
+      "order": 17,
+      "children": [
+        {
+          "id": "kanban-basics",
+          "title": "Kanban Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Kanban Basics».",
+          "order": 1,
+          "children": [
+            {
+              "id": "showing-impact",
+              "title": "Showing Impact",
+              "description": "مباحث و تمرین‌های مرتبط با «Showing Impact».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "cohort-analysis",
+              "title": "Cohort Analysis",
+              "description": "مباحث و تمرین‌های مرتبط با «Cohort Analysis».",
+              "order": 2,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "a-b-testing",
+              "title": "A/B Testing",
+              "description": "مباحث و تمرین‌های مرتبط با «A/B Testing».",
+              "order": 3,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "go-to-market-strategy",
+      "title": "Go-to-Market Strategy",
+      "description": "مباحث و تمرین‌های مرتبط با «Go-to-Market Strategy».",
+      "order": 18,
+      "children": [
+        {
+          "id": "go-to-market-strategy-item",
+          "title": "Go-to-Market Strategy",
+          "description": "مباحث و تمرین‌های مرتبط با «Go-to-Market Strategy».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "user-testing",
+      "title": "User Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «User Testing».",
+      "order": 19,
+      "children": [
+        {
+          "id": "user-testing-item",
+          "title": "User Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «User Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "working-with-engineering-teams",
+      "title": "Working with Engineering Teams",
+      "description": "مباحث و تمرین‌های مرتبط با «Working with Engineering Teams».",
+      "order": 20,
+      "children": [
+        {
+          "id": "working-with-engineering-teams-item",
+          "title": "Working with Engineering Teams",
+          "description": "مباحث و تمرین‌های مرتبط با «Working with Engineering Teams».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "agile-methodology",
+      "title": "Agile Methodology",
+      "description": "مباحث و تمرین‌های مرتبط با «Agile Methodology».",
+      "order": 21,
+      "children": [
+        {
+          "id": "agile-methodology-item",
+          "title": "Agile Methodology",
+          "description": "مباحث و تمرین‌های مرتبط با «Agile Methodology».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "key-product-metrics",
+      "title": "Key Product Metrics",
+      "description": "مباحث و تمرین‌های مرتبط با «Key Product Metrics».",
+      "order": 22,
+      "children": [
+        {
+          "id": "a-b-testing-2",
+          "title": "A/B Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «A/B Testing».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "cohort-analysis-2",
+          "title": "Cohort Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Cohort Analysis».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "predictive-analytics",
+          "title": "Predictive Analytics",
+          "description": "مباحث و تمرین‌های مرتبط با «Predictive Analytics».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "retention-rate",
+          "title": "Retention Rate",
+          "description": "مباحث و تمرین‌های مرتبط با «Retention Rate».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "churn-rate",
+          "title": "Churn Rate",
+          "description": "مباحث و تمرین‌های مرتبط با «Churn Rate».",
+          "order": 5,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "ltv-lifetime-value",
+          "title": "LTV (Lifetime Value)",
+          "description": "مباحث و تمرین‌های مرتبط با «LTV (Lifetime Value)».",
+          "order": 6,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "cac-customer-acquisition-cost",
+          "title": "CAC (Customer Acquisition Cost)",
+          "description": "مباحث و تمرین‌های مرتبط با «CAC (Customer Acquisition Cost)».",
+          "order": 7,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "north-star-metric",
+          "title": "North Star Metric",
+          "description": "مباحث و تمرین‌های مرتبط با «North Star Metric».",
+          "order": 8,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-driven-decision-making",
+      "title": "Data-Driven Decision Making",
+      "description": "مباحث و تمرین‌های مرتبط با «Data-Driven Decision Making».",
+      "order": 23,
+      "children": [
+        {
+          "id": "a-b-testing-3",
+          "title": "A/B Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «A/B Testing».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "cohort-analysis-3",
+          "title": "Cohort Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Cohort Analysis».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "predictive-analytics-2",
+          "title": "Predictive Analytics",
+          "description": "مباحث و تمرین‌های مرتبط با «Predictive Analytics».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "feedback-loops",
+      "title": "Feedback Loops",
+      "description": "مباحث و تمرین‌های مرتبط با «Feedback Loops».",
+      "order": 24,
+      "children": [
+        {
+          "id": "kanban-basics-2",
+          "title": "Kanban Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Kanban Basics».",
+          "order": 1,
+          "children": [
+            {
+              "id": "showing-impact-2",
+              "title": "Showing Impact",
+              "description": "مباحث و تمرین‌های مرتبط با «Showing Impact».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "cohort-analysis-4",
+              "title": "Cohort Analysis",
+              "description": "مباحث و تمرین‌های مرتبط با «Cohort Analysis».",
+              "order": 2,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "a-b-testing-4",
+              "title": "A/B Testing",
+              "description": "مباحث و تمرین‌های مرتبط با «A/B Testing».",
+              "order": 3,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "communication-skills",
+      "title": "Communication Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Communication Skills».",
+      "order": 25,
+      "children": [
+        {
+          "id": "communication-skills-item",
+          "title": "Communication Skills",
+          "description": "مباحث و تمرین‌های مرتبط با «Communication Skills».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "managing-stakeholders",
+      "title": "Managing Stakeholders",
+      "description": "مباحث و تمرین‌های مرتبط با «Managing Stakeholders».",
+      "order": 26,
+      "children": [
+        {
+          "id": "identifying-stakeholders",
+          "title": "Identifying Stakeholders",
+          "description": "مباحث و تمرین‌های مرتبط با «Identifying Stakeholders».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "roadmapping-tools",
+      "title": "Roadmapping Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Roadmapping Tools».",
+      "order": 27,
+      "children": [
+        {
+          "id": "ai-in-product-mgmt",
+          "title": "AI in Product Mgmt.",
+          "description": "مباحث و تمرین‌های مرتبط با «AI in Product Mgmt.».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "aha",
+          "title": "Aha",
+          "description": "مباحث و تمرین‌های مرتبط با «Aha».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "product-board",
+          "title": "Product Board",
+          "description": "مباحث و تمرین‌های مرتبط با «Product Board».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "project-management-tools",
+      "title": "Project Management Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Project Management Tools».",
+      "order": 28,
+      "children": [
+        {
+          "id": "jira",
+          "title": "Jira",
+          "description": "مباحث و تمرین‌های مرتبط با «Jira».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "linear",
+          "title": "Linear",
+          "description": "مباحث و تمرین‌های مرتبط با «Linear».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "trello",
+          "title": "Trello",
+          "description": "مباحث و تمرین‌های مرتبط با «Trello».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "analytics-tools",
+      "title": "Analytics Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Analytics Tools».",
+      "order": 29,
+      "children": [
+        {
+          "id": "amplitude",
+          "title": "Amplitude",
+          "description": "مباحث و تمرین‌های مرتبط با «Amplitude».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "heap",
+          "title": "Heap",
+          "description": "مباحث و تمرین‌های مرتبط با «Heap».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "platform-thinking",
+          "title": "Platform Thinking",
+          "description": "مباحث و تمرین‌های مرتبط با «Platform Thinking».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "communication-tools",
+      "title": "Communication Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Communication Tools».",
+      "order": 30,
+      "children": [
+        {
+          "id": "discord",
+          "title": "Discord",
+          "description": "مباحث و تمرین‌های مرتبط با «Discord».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "teams",
+          "title": "Teams",
+          "description": "مباحث و تمرین‌های مرتبط با «Teams».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "slack",
+          "title": "Slack",
+          "description": "مباحث و تمرین‌های مرتبط با «Slack».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "identifying-risks",
+      "title": "Identifying Risks",
+      "description": "مباحث و تمرین‌های مرتبط با «Identifying Risks».",
+      "order": 31,
+      "children": [
+        {
+          "id": "identifying-risks-item",
+          "title": "Identifying Risks",
+          "description": "مباحث و تمرین‌های مرتبط با «Identifying Risks».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "risk-assessment",
+      "title": "Risk Assessment",
+      "description": "مباحث و تمرین‌های مرتبط با «Risk Assessment».",
+      "order": 32,
+      "children": [
+        {
+          "id": "qualitative-risk-assessment",
+          "title": "Qualitative Risk Assessment",
+          "description": "مباحث و تمرین‌های مرتبط با «Qualitative Risk Assessment».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "risk-mitigation",
+      "title": "Risk Mitigation",
+      "description": "مباحث و تمرین‌های مرتبط با «Risk Mitigation».",
+      "order": 33,
+      "children": [
+        {
+          "id": "ai-in-product-mgmt-2",
+          "title": "AI in Product Mgmt.",
+          "description": "مباحث و تمرین‌های مرتبط با «AI in Product Mgmt.».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "monitoring-and-controlling-risks",
+      "title": "Monitoring and Controlling Risks",
+      "description": "مباحث و تمرین‌های مرتبط با «Monitoring and Controlling Risks».",
+      "order": 34,
+      "children": [
+        {
+          "id": "risk-monitoring-tools",
+          "title": "Risk Monitoring Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Risk Monitoring Tools».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "scaling-products",
+      "title": "Scaling Products",
+      "description": "مباحث و تمرین‌های مرتبط با «Scaling Products».",
+      "order": 35,
+      "children": [
+        {
+          "id": "emotional-intelligence",
+          "title": "Emotional Intelligence",
+          "description": "مباحث و تمرین‌های مرتبط با «Emotional Intelligence».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "advanced-analysis",
+      "title": "Advanced Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Advanced Analysis».",
+      "order": 36,
+      "children": [
+        {
+          "id": "predictive-analytics-3",
+          "title": "Predictive Analytics",
+          "description": "مباحث و تمرین‌های مرتبط با «Predictive Analytics».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "ml-in-product-mgmt",
+          "title": "ML in Product Mgmt.",
+          "description": "مباحث و تمرین‌های مرتبط با «ML in Product Mgmt.».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "ai-in-product-mgmt-3",
+          "title": "AI in Product Mgmt.",
+          "description": "مباحث و تمرین‌های مرتبط با «AI in Product Mgmt.».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "portfolio-management",
+      "title": "Portfolio Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Portfolio Management».",
+      "order": 37,
+      "children": [
+        {
+          "id": "portfolio-management-item",
+          "title": "Portfolio Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Portfolio Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "leadership-and-influence",
+      "title": "Leadership and Influence",
+      "description": "مباحث و تمرین‌های مرتبط با «Leadership and Influence».",
+      "order": 38,
+      "children": [
+        {
+          "id": "emotional-intelligence-2",
+          "title": "Emotional Intelligence",
+          "description": "مباحث و تمرین‌های مرتبط با «Emotional Intelligence».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "risk-identification-techniques",
+          "title": "Risk Identification Techniques",
+          "description": "مباحث و تمرین‌های مرتبط با «Risk Identification Techniques».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "building-and-leading-teams",
+          "title": "Building and Leading Teams",
+          "description": "مباحث و تمرین‌های مرتبط با «Building and Leading Teams».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "influencing-without-authority",
+          "title": "Influencing without Authority",
+          "description": "مباحث و تمرین‌های مرتبط با «Influencing without Authority».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "emotional-intelligence-3",
+          "title": "Emotional Intelligence",
+          "description": "مباحث و تمرین‌های مرتبط با «Emotional Intelligence».",
+          "order": 5,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

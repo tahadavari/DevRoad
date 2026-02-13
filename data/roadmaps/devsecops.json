@@ -1,0 +1,1279 @@
+{
+  "slug": "devsecops",
+  "title": "DevSecOps",
+  "description": "Step by step guide to becoming a DevSecOps Expert in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "devsecops-vs-devops",
+          "title": "DevSecOps vs DevOps",
+          "description": "مباحث و تمرین‌های مرتبط با «DevSecOps vs DevOps».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "DevOps vs DevSecOps: Key Differences and Best Fit",
+              "type": "article",
+              "url": "https://roadmap.sh/devops/vs-devsecops",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DevOps vs DevSecOps: Differences and Similarities",
+              "type": "article",
+              "url": "https://www.browserstack.com/guide/what-is-the-difference-between-devops-and-devsecops",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is DevSecOps? | DevOps vs DevSecOps | KodeKloud",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=1XpUDV7PBFo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "DevSecOps",
+          "type": "course",
+          "url": "https://www.skills.google/paths/76",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is DevSecOps? - Red Hat",
+          "type": "article",
+          "url": "https://www.redhat.com/en/topics/devops/what-is-devsecops",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is DevSecOps? - AWS",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/devsecops/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DevSecOps Course for Beginners – API Security",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=JfiWi8RjN-8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Everything you NEED to know about DevSecOps in 5 Minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=DTEaw2-Sa7I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "learn-a-programming-language",
+      "title": "Learn a Programming Language",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn a Programming Language».",
+      "order": 2,
+      "children": [
+        {
+          "id": "python",
+          "title": "Python",
+          "description": "مباحث و تمرین‌های مرتبط با «Python».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit the Dedicated Python Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/python",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Website",
+              "type": "article",
+              "url": "https://www.python.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python - Wiki",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial Series: How to Code in Python",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Google's Python Class",
+              "type": "article",
+              "url": "https://developers.google.com/edu/python",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Python - Full Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=4M87qBgpafk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "go",
+          "title": "Go",
+          "description": "مباحث و تمرین‌های مرتبط با «Go».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Visit de Dedicated Rust Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/golang",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go",
+              "type": "article",
+              "url": "https://go.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go Docs",
+              "type": "article",
+              "url": "https://go.dev/doc/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Go",
+              "type": "article",
+              "url": "https://go.dev/doc/tutorial/getting-started",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Go and the Web",
+              "type": "article",
+              "url": "https://dev.to/markmunyaka/getting-started-with-go-and-the-web-hello-world-nal",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Golang 101 Crash Course: Learn Go Programming Fundamentals!",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=S65k7Tubbck",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "javascript-node-js",
+          "title": "JavaScript / Node.js",
+          "description": "مباحث و تمرین‌های مرتبط با «JavaScript / Node.js».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Visit Dedicated JavaScript Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Visit Dedicated Node.js Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/nodejs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Eloquent JavaScript textbook",
+              "type": "article",
+              "url": "https://eloquentjavascript.net/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to Node.js",
+              "type": "article",
+              "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "You Don't Know JS Yet (book series)",
+              "type": "article",
+              "url": "https://github.com/getify/You-Dont-Know-JS",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Modern JavaScript Tutorial",
+              "type": "article",
+              "url": "https://javascript.info/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript MDN Docs",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Crash Course for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "scripting-knowledge",
+      "title": "Scripting Knowledge",
+      "description": "مباحث و تمرین‌های مرتبط با «Scripting Knowledge».",
+      "order": 3,
+      "children": [
+        {
+          "id": "scripting-knowledge-item",
+          "title": "Scripting Knowledge",
+          "description": "مباحث و تمرین‌های مرتبط با «Scripting Knowledge».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Scripting language - Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Scripting_language",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is scripting?",
+          "type": "article",
+          "url": "https://coralogix.com/blog/what-is-scripting/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What's the difference between Programming and Scripting?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7-0iBZxNq74",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "ash Scripting Tutorial – Linux Shell Script and Command Line for Beginners",
+          "type": "video",
+          "url": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Bash Scripting on Linux",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cia-triad",
+      "title": "CIA Triad",
+      "description": "مباحث و تمرین‌های مرتبط با «CIA Triad».",
+      "order": 4,
+      "children": [
+        {
+          "id": "cia-triad-item",
+          "title": "CIA Triad",
+          "description": "مباحث و تمرین‌های مرتبط با «CIA Triad».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The CIA Triad",
+          "type": "article",
+          "url": "https://www.fortinet.com/resources/cyberglossary/cia-triad",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The CIA Triad - Professor Messer",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SBcDGb9l6yo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authentication",
+      "title": "Authentication",
+      "description": "مباحث و تمرین‌های مرتبط با «Authentication».",
+      "order": 5,
+      "children": [
+        {
+          "id": "authentication-item",
+          "title": "Authentication",
+          "description": "مباحث و تمرین‌های مرتبط با «Authentication».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Basic Authentication",
+          "type": "article",
+          "url": "https://roadmap.sh/guides/basic-authentication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Session Based Authentication",
+          "type": "article",
+          "url": "https://roadmap.sh/guides/session-based-authentication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Token Based Authentication",
+          "type": "article",
+          "url": "https://roadmap.sh/guides/token-authentication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "JWT Authentication",
+          "type": "article",
+          "url": "https://roadmap.sh/guides/jwt-authentication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Auth - Open Authorization",
+          "type": "article",
+          "url": "https://roadmap.sh/guides/oauth",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SSO - Single Sign On",
+          "type": "article",
+          "url": "https://roadmap.sh/guides/sso",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authorization",
+      "title": "Authorization",
+      "description": "مباحث و تمرین‌های مرتبط با «Authorization».",
+      "order": 6,
+      "children": [
+        {
+          "id": "authorization-item",
+          "title": "Authorization",
+          "description": "مباحث و تمرین‌های مرتبط با «Authorization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Authorization and How Does It Work?",
+          "type": "article",
+          "url": "https://www.descope.com/learn/post/authorization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Authentication vs Authorization Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7ijBiXddB7w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "owasp-top-10",
+      "title": "OWASP Top 10",
+      "description": "مباحث و تمرین‌های مرتبط با «OWASP Top 10».",
+      "order": 7,
+      "children": [
+        {
+          "id": "owasp-top-10-item",
+          "title": "OWASP Top 10",
+          "description": "مباحث و تمرین‌های مرتبط با «OWASP Top 10».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OWASP Top 10",
+          "type": "article",
+          "url": "https://owasp.org/www-project-top-ten/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is the OWASP Top 10?",
+          "type": "article",
+          "url": "https://www.cloudflare.com/learning/security/threats/owasp-top-10/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "encryption",
+      "title": "Encryption",
+      "description": "مباحث و تمرین‌های مرتبط با «Encryption».",
+      "order": 8,
+      "children": [
+        {
+          "id": "encryption-item",
+          "title": "Encryption",
+          "description": "مباحث و تمرین‌های مرتبط با «Encryption».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Encryption?",
+          "type": "article",
+          "url": "https://cloud.google.com/learn/what-is-encryption",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Encryption?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9chKCUQ8_VQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking-basics",
+      "title": "Networking Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking Basics».",
+      "order": 9,
+      "children": [
+        {
+          "id": "networking-basics-item",
+          "title": "Networking Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Networking Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy - Networking",
+          "type": "article",
+          "url": "ttps://www.khanacademy.org/computing/code-org/computers-and-the-internet",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Computer Networking Course - Network Engineering",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qiQR5rTSshw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Networking Video Series (21 videos)",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "secure-coding",
+      "title": "Secure Coding",
+      "description": "مباحث و تمرین‌های مرتبط با «Secure Coding».",
+      "order": 10,
+      "children": [
+        {
+          "id": "input-validation-patterns",
+          "title": "Input Validation Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Input Validation Patterns».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Input Validation Cheat Sheet¶",
+              "type": "article",
+              "url": "https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Input Validation Using Design Patterns",
+              "type": "article",
+              "url": "https://medium.com/henrydchan/input-validation-using-design-patterns-9d7b96f87702",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Regular Expressions and Input Validation",
+              "type": "article",
+              "url": "https://blog.openreplay.com/regular-expressions-and-input-validations/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Secure Coding? Best Practices and Techniques to Apply",
+          "type": "article",
+          "url": "https://www.legitsecurity.com/aspm-knowledge-base/what-is-secure-coding",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is Secure Coding? Best Practices and Techniques to Apply",
+          "type": "article",
+          "url": "https://www.securecoding.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Secure Coding Techniques - SY0-601 CompTIA Security+ : 2.3",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IEIGEjy-W4Q",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "identity-basics",
+      "title": "Identity Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Identity Basics».",
+      "order": 11,
+      "children": [
+        {
+          "id": "iam",
+          "title": "IAM",
+          "description": "مباحث و تمرین‌های مرتبط با «IAM».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Introduction to Identity and Access Management (IAM)",
+              "type": "article",
+              "url": "https://auth0.com/docs/get-started/identity-fundamentals/identity-and-access-management",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is identity and access management (IAM)?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/identity-access-management",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to build an effective IAM architecture",
+              "type": "article",
+              "url": "https://www.techtarget.com/searchsecurity/feature/How-to-build-an-identity-and-access-management-architecture",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Identity & Access Management (IAM)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=aNj36g7fSsU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cybersecurity Architecture: Who Are You? Identity and Access Management",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=5uNifnVlBy4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is identity and access management (IAM)?",
+          "type": "article",
+          "url": "https://www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-management-iam",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "monitoring",
+      "title": "Monitoring",
+      "description": "مباحث و تمرین‌های مرتبط با «Monitoring».",
+      "order": 12,
+      "children": [
+        {
+          "id": "log-analysis",
+          "title": "Log Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Log Analysis».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is log analysis?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/log-analysis",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Log Analysis: A Complete Introduction",
+              "type": "article",
+              "url": "https://www.splunk.com/en_us/blog/learn/log-analysis.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Log Management: What DevOps Teams Need to Know",
+              "type": "article",
+              "url": "https://devops.com/log-management-what-devops-teams-need-to-know/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to Logs Management",
+              "type": "article",
+              "url": "https://sematext.com/guides/log-management",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to MASTER Logs as a BEGINNER in Cybersecurity",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=GpG19jOYQVo&t=66s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What’s IT Monitoring? IT Systems Monitoring Explained",
+          "type": "article",
+          "url": "https://www.splunk.com/en_us/blog/learn/it-monitoring.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "IT Monitoring: An Introductory Guide With 5 Monitoring Strategies",
+          "type": "article",
+          "url": "https://www.suse.com/c/observability-it-monitoring-an-introductory-guide-with-5-monitoring-strategies/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "threat-modeling",
+      "title": "Threat Modeling",
+      "description": "مباحث و تمرین‌های مرتبط با «Threat Modeling».",
+      "order": 13,
+      "children": [
+        {
+          "id": "attack-surface-mapping",
+          "title": "Attack Surface Mapping",
+          "description": "مباحث و تمرین‌های مرتبط با «Attack Surface Mapping».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Attack Surface Analysis Cheat Sheet¶",
+              "type": "article",
+              "url": "https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Attack Surface Mapping & Analysis in Cybersecurity?",
+              "type": "article",
+              "url": "https://jetpack.com/resources/attack-surface-mapping-and-analysis/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Attack Surface Mapping with Jeff Foley from OWASP Amass",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Ui35-YEbBiA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ASM and Vulnerability Management: Why you need both",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=oMx9lgTtJnM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is ASM (Attack Surface Management)?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=NqKid53v5x8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Threat Modeling?",
+          "type": "article",
+          "url": "https://www.cisco.com/site/us/en/learn/topics/security/what-is-threat-modeling.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Threat Modeling",
+          "type": "article",
+          "url": "https://owasp.org/www-community/Threat_Modeling",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Threat Modeling Process",
+          "type": "article",
+          "url": "https://owasp.org/www-community/Threat_Modeling_Process",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "1. Introduction, Threat Models",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=GqmQg-cszw4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cloud-security",
+      "title": "Cloud Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Cloud Security».",
+      "order": 14,
+      "children": [
+        {
+          "id": "cloud-security-item",
+          "title": "Cloud Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Cloud Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is cloud security?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/cloud-security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Cloud Security? Essential Tools, Best Practices and Strategies",
+          "type": "article",
+          "url": "https://www.crowdstrike.com/en-us/cybersecurity-101/cloud-security/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "container-security",
+      "title": "Container Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Container Security».",
+      "order": 15,
+      "children": [
+        {
+          "id": "container-security-item",
+          "title": "Container Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Container Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Container Security? [Securing Containers 101]",
+          "type": "article",
+          "url": "https://www.wiz.io/academy/container-security/what-is-container-security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is Container Security?",
+          "type": "article",
+          "url": "https://www.paloaltonetworks.com/cyberpedia/what-is-container-security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "incident-response",
+      "title": "Incident Response",
+      "description": "مباحث و تمرین‌های مرتبط با «Incident Response».",
+      "order": 16,
+      "children": [
+        {
+          "id": "ir-lifecycle",
+          "title": "IR Lifecycle",
+          "description": "مباحث و تمرین‌های مرتبط با «IR Lifecycle».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Get to know the incident response lifecycle",
+              "type": "article",
+              "url": "https://www.atlassian.com/incident-management/incident-response/lifecycle#incident-response-lifecycle",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is incident response?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/incident-response",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Incident Response Life Cycle",
+              "type": "article",
+              "url": "https://www.devo.com/threat-hunting-guide/incident-response-life-cycle/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Incident Response Lifecycle | IR Plan | NIST SP 800-61 Security Incident Handling| Cybersecurity",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=IRSQEO0koYY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is incident response?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/incident-response",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Incident Response? Process, Frameworks, and Tools",
+          "type": "article",
+          "url": "https://www.bluevoyant.com/knowledge-center/what-is-incident-response-process-frameworks-and-tools",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cybersecurity IDR: Incident Detection & Response | Google Cybersecurity Certificate",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MsGl6lX-YaI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "3 LEVELS of Cybersecurity Incident Response You NEED To Know",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=vhCCo7ioDhA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "enterprise-operations",
+      "title": "Enterprise Operations",
+      "description": "مباحث و تمرین‌های مرتبط با «Enterprise Operations».",
+      "order": 17,
+      "children": [
+        {
+          "id": "soar-automation",
+          "title": "SOAR Automation",
+          "description": "مباحث و تمرین‌های مرتبط با «SOAR Automation».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "endpoint-detection",
+          "title": "Endpoint Detection",
+          "description": "مباحث و تمرین‌های مرتبط با «Endpoint Detection».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "response-strategy",
+          "title": "Response Strategy",
+          "description": "مباحث و تمرین‌های مرتبط با «Response Strategy».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

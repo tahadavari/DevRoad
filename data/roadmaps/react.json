@@ -1,0 +1,1484 @@
+{
+  "slug": "react",
+  "title": "React",
+  "description": "Everything that is there to learn about React and the ecosystem in 2026.",
+  "steps": [
+    {
+      "id": "cli-tools",
+      "title": "CLI Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «CLI Tools».",
+      "order": 1,
+      "children": [
+        {
+          "id": "vite",
+          "title": "Vite",
+          "description": "مباحث و تمرین‌های مرتبط با «Vite».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Vite Website",
+              "type": "article",
+              "url": "https://vitejs.dev",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vite Documentation",
+              "type": "article",
+              "url": "https://vitejs.dev/guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vite Crash Course",
+              "type": "video",
+              "url": "https://youtu.be/LQQ3CR2JTX8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vite Crash Course | Faster Alternative To CRA | 2023",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=89NJdbYTgJ8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Vite",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/vite?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "vite",
+          "type": "article",
+          "url": "https://vitejs.dev",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about CLI",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/cli?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "components",
+      "title": "Components",
+      "description": "مباحث و تمرین‌های مرتبط با «Components».",
+      "order": 2,
+      "children": [
+        {
+          "id": "functional-components",
+          "title": "Functional Components",
+          "description": "مباحث و تمرین‌های مرتبط با «Functional Components».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Functional Components and Props",
+              "type": "article",
+              "url": "https://react.dev/reference/react/Component",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Your first component",
+              "type": "article",
+              "url": "https://react.dev/learn/your-first-component",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Passing props to a component",
+              "type": "article",
+              "url": "https://react.dev/learn/passing-props-to-a-component",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Functional Components in React",
+              "type": "article",
+              "url": "https://www.robinwieruch.de/react-function-component/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React JS Functional Components",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=NJ_qbsLf52w",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about React",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/react?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Creating and nesting components",
+          "type": "article",
+          "url": "https://react.dev/learn#components",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore the different types of components in React",
+          "type": "article",
+          "url": "https://www.robinwieruch.de/react-component-types/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is the difference between components, elements, and instances?",
+          "type": "article",
+          "url": "https://www.robinwieruch.de/react-element-component/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Components & Templates in React",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9D1x7-2FmTA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "rendering",
+      "title": "Rendering",
+      "description": "مباحث و تمرین‌های مرتبط با «Rendering».",
+      "order": 3,
+      "children": [
+        {
+          "id": "rendering-item",
+          "title": "Rendering",
+          "description": "مباحث و تمرین‌های مرتبط با «Rendering».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Render and Commit - Official Docs",
+          "type": "article",
+          "url": "https://react.dev/learn/render-and-commit",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rendering in React - ui.dev",
+          "type": "article",
+          "url": "https://ui.dev/why-react-renders",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Fix the slow render before you fix the re-render",
+          "type": "article",
+          "url": "https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "hooks",
+      "title": "Hooks",
+      "description": "مباحث و تمرین‌های مرتبط با «Hooks».",
+      "order": 4,
+      "children": [
+        {
+          "id": "creating-custom-hooks",
+          "title": "Creating Custom Hooks",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating Custom Hooks».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Reusing Logic with Custom Hooks",
+              "type": "article",
+              "url": "https://react.dev/learn/reusing-logic-with-custom-hooks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to create a custom Hook (2) followed by Examples",
+              "type": "article",
+              "url": "https://www.robinwieruch.de/react-custom-hook/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Custom Hooks in React",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=I2Bgi0Qcdvc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about React Hooks",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/react-hooks?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hooks-best-practices",
+          "title": "Hooks Best Practices",
+          "description": "مباحث و تمرین‌های مرتبط با «Hooks Best Practices».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Rules of Hooks",
+              "type": "article",
+              "url": "https://react.dev/reference/rules/rules-of-hooks/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Hooks Best Practices: Unlocking Efficiency and Elegance",
+              "type": "article",
+              "url": "https://medium.com/womenintechnology/react-hooks-best-practices-unlocking-efficiency-and-elegance-da23f7e1418a",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering React Hooks: Best Practices and Common Pitfalls",
+              "type": "article",
+              "url": "https://dev.to/codesensei/mastering-react-hooks-best-practices-and-common-pitfalls-3d9i",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Hooks Cheat Sheet: Best Practices with Examples",
+              "type": "article",
+              "url": "https://blog.logrocket.com/react-hooks-cheat-sheet-solutions-common-problems/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Custom Hooks: Best Practices and Examples",
+              "type": "article",
+              "url": "https://utopia-insights.dev/react-custom-hooks-best-practices-and-examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Hooks Reference",
+          "type": "article",
+          "url": "https://react.dev/reference/react",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about React Hooks",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/react-hooks?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "routers",
+      "title": "Routers",
+      "description": "مباحث و تمرین‌های مرتبط با «Routers».",
+      "order": 5,
+      "children": [
+        {
+          "id": "react-router",
+          "title": "React Router",
+          "description": "مباحث و تمرین‌های مرتبط با «React Router».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "React Router — Official Website",
+              "type": "article",
+              "url": "https://reactrouter.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is React Router?",
+              "type": "article",
+              "url": "https://www.w3schools.com/react/react_router.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Router V7: A Crash Course",
+              "type": "article",
+              "url": "https://dev.to/pedrotech/react-router-v7-a-crash-course-2m86",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to use Routing in React JS: A Comprehensive Guide.",
+          "type": "article",
+          "url": "https://blog.logrocket.com/react-router-v6-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React Router 6 – Tutorial for Beginners.",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=59IXY5IDrBA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "state-management",
+      "title": "State Management",
+      "description": "مباحث و تمرین‌های مرتبط با «State Management».",
+      "order": 6,
+      "children": [
+        {
+          "id": "jotai",
+          "title": "Jotai",
+          "description": "مباحث و تمرین‌های مرتبط با «Jotai».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Official Website: Jotai",
+              "type": "article",
+              "url": "https://jotai.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "State Management on React - Jotai",
+              "type": "article",
+              "url": "https://dev.to/kevin-uehara/state-management-on-react-part-3-jotai-i7f",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Jotai React - Better Global State Management",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ZcKzPZN7Ids",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is State Management?",
+          "type": "article",
+          "url": "https://www.techtarget.com/searchapparchitecture/definition/state-management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Overview of State in React",
+          "type": "article",
+          "url": "https://www.robinwieruch.de/react-state/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "writing-css",
+      "title": "Writing CSS",
+      "description": "مباحث و تمرین‌های مرتبط با «Writing CSS».",
+      "order": 7,
+      "children": [
+        {
+          "id": "writing-css-item",
+          "title": "Writing CSS",
+          "description": "مباحث و تمرین‌های مرتبط با «Writing CSS».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ways to CSS style a React application",
+          "type": "article",
+          "url": "https://www.robinwieruch.de/react-css-styling/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "component-libraries",
+      "title": "Component / Libraries",
+      "description": "مباحث و تمرین‌های مرتبط با «Component / Libraries».",
+      "order": 8,
+      "children": [
+        {
+          "id": "component-libraries-item",
+          "title": "Component / Libraries",
+          "description": "مباحث و تمرین‌های مرتبط با «Component / Libraries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "MUI: React Component Library",
+          "type": "article",
+          "url": "https://mui.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NextUI.org",
+          "type": "article",
+          "url": "https://nextui.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "headless-component-libraries",
+      "title": "Headless Component Libraries",
+      "description": "مباحث و تمرین‌های مرتبط با «Headless Component Libraries».",
+      "order": 9,
+      "children": [
+        {
+          "id": "radix-ui",
+          "title": "Radix UI",
+          "description": "مباحث و تمرین‌های مرتبط با «Radix UI».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Getting Started with Radix UI",
+              "type": "article",
+              "url": "https://www.radix-ui.com/themes/docs/overview/getting-started",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Official Website",
+              "type": "article",
+              "url": "https://www.radix-ui.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Radix UI?",
+              "type": "article",
+              "url": "https://medium.com/@olivier.trinh/what-is-radix-ui-ff535bbb52d5",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Radix UI Course",
+              "type": "video",
+              "url": "https://www.youtube.com/playlist?list=PLlNdnoKwDZdwANQoaakE8-kYMyKFOETlo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "react-aria",
+          "title": "React Aria",
+          "description": "مباحث و تمرین‌های مرتبط با «React Aria».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Getting Started with React Aria",
+              "type": "article",
+              "url": "https://react-spectrum.adobe.com/react-aria/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why You Should Use React Aria Components",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lTPh6NGLAmk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ark-ui",
+          "title": "Ark UI",
+          "description": "مباحث و تمرین‌های مرتبط با «Ark UI».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Official Website",
+              "type": "article",
+              "url": "https://ark-ui.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Official Website",
+              "type": "article",
+              "url": "https://ark-ui.com/react/docs/overview/introduction",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is ARK UI?",
+              "type": "article",
+              "url": "https://shaxadd.medium.com/enhance-your-user-interfaces-with-ark-ui-a-comprehensive-guide-7e87dd0a79cf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hands On ARK UI",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zjo-77I0unk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are headless components?",
+          "type": "article",
+          "url": "https://dev.to/verthon/headless-ui-libraries-the-key-to-flexible-and-accessible-user-interfaces-546p",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Headless Components: A Comprehensive Guide",
+          "type": "article",
+          "url": "https://blog.logrocket.com/the-complete-guide-to-building-headless-interface-components-in-react/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rise of Headless Components",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_WtVG_pKsxM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-calls",
+      "title": "API Calls",
+      "description": "مباحث و تمرین‌های مرتبط با «API Calls».",
+      "order": 10,
+      "children": [
+        {
+          "id": "api-calls-item",
+          "title": "API Calls",
+          "description": "مباحث و تمرین‌های مرتبط با «API Calls».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "AJAX and APIs",
+          "type": "article",
+          "url": "https://reactjs.org/docs/faq-ajax.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to fetch data in React",
+          "type": "article",
+          "url": "https://www.robinwieruch.de/react-hooks-fetch-data/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 11,
+      "children": [
+        {
+          "id": "react-testing-library",
+          "title": "react-testing-library",
+          "description": "مباحث و تمرین‌های مرتبط با «react-testing-library».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "React Testing Library",
+              "type": "article",
+              "url": "https://testing-library.com/docs/react-testing-library/intro/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to use React Testing Library",
+              "type": "article",
+              "url": "https://www.robinwieruch.de/react-testing-library/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about React",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/react?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cypress",
+          "title": "Cypress",
+          "description": "مباحث و تمرین‌های مرتبط با «Cypress».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Official Website",
+              "type": "article",
+              "url": "https://www.cypress.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Official Documentation",
+              "type": "article",
+              "url": "https://docs.cypress.io/guides/overview/why-cypress#Other",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cypress End-to-End Testing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7N63cMKosIE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Cypress",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/cypress?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Software Testing?",
+          "type": "article",
+          "url": "https://www.guru99.com/software-testing-introduction-importance.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing Pyramid",
+          "type": "article",
+          "url": "https://www.browserstack.com/guide/testing-pyramid-for-test-automation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Testing",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "frameworks",
+      "title": "Frameworks",
+      "description": "مباحث و تمرین‌های مرتبط با «Frameworks».",
+      "order": 12,
+      "children": [
+        {
+          "id": "next-js",
+          "title": "Next.js",
+          "description": "مباحث و تمرین‌های مرتبط با «Next.js».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Official Website",
+              "type": "article",
+              "url": "https://nextjs.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Official Docs for Getting Started",
+              "type": "article",
+              "url": "https://nextjs.org/docs/getting-started",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Next.js",
+              "type": "article",
+              "url": "https://masteringnextjs.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Next.js Full course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Next.js for Beginners - freeCodeCamp",
+              "type": "video",
+              "url": "https://youtu.be/KjY94sAKLlw?si=orve81YcY8Fm2vDy",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Next.js",
+          "type": "article",
+          "url": "https://nextjs.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Remix",
+          "type": "article",
+          "url": "https://remix.run/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 14 Full Course 2024",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=wm5gMKuwSYk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Remix Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=RBYJTop1e-g",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "forms",
+      "title": "Forms",
+      "description": "مباحث و تمرین‌های مرتبط با «Forms».",
+      "order": 13,
+      "children": [
+        {
+          "id": "react-hook-form",
+          "title": "React Hook Form",
+          "description": "مباحث و تمرین‌های مرتبط با «React Hook Form».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "react-hook-form/react-hook-form",
+              "type": "article",
+              "url": "https://github.com/react-hook-form/react-hook-form",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Hook Form: Official Website",
+              "type": "article",
+              "url": "https://react-hook-form.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about React",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/react?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to use Forms in React",
+          "type": "article",
+          "url": "https://www.robinwieruch.de/react-form/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React Forms: the SIMPLEST way",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=CT-72lTXdPg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "types-validation",
+      "title": "Types & Validation",
+      "description": "مباحث و تمرین‌های مرتبط با «Types & Validation».",
+      "order": 14,
+      "children": [
+        {
+          "id": "zod",
+          "title": "Zod",
+          "description": "مباحث و تمرین‌های مرتبط با «Zod».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Zod Website",
+              "type": "article",
+              "url": "https://zod.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Zod In 30 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=L6BE-U3oy80",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is TypeScript and why would I use it in place of JavaScript?",
+          "type": "article",
+          "url": "https://stackoverflow.com/questions/12694530/what-is-typescript-and-why-would-i-use-it-in-place-of-javascript",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "When Use Zod",
+          "type": "article",
+          "url": "https://www.totaltypescript.com/when-should-you-use-zod",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "animation",
+      "title": "Animation",
+      "description": "مباحث و تمرین‌های مرتبط با «Animation».",
+      "order": 15,
+      "children": [
+        {
+          "id": "framer-motion",
+          "title": "Framer Motion",
+          "description": "مباحث و تمرین‌های مرتبط با «Framer Motion».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Framer Motion Website",
+              "type": "article",
+              "url": "https://www.framer.com/motion/introduction/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Framer Motion Crash Course with React & TS",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=hjbxaYTMhy0&list=PLA4qBVt61k3Phpwt7uqaptIg9NYZ5aNu_",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Framer Motion Docs",
+          "type": "article",
+          "url": "https://www.framer.com/motion/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GSAP Docs",
+          "type": "article",
+          "url": "https://gsap.com/docs/v3/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React Spring Docs",
+          "type": "article",
+          "url": "https://www.react-spring.dev/docs/getting-started",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "error-boundaries",
+      "title": "Error Boundaries",
+      "description": "مباحث و تمرین‌های مرتبط با «Error Boundaries».",
+      "order": 16,
+      "children": [
+        {
+          "id": "error-boundaries-item",
+          "title": "Error Boundaries",
+          "description": "مباحث و تمرین‌های مرتبط با «Error Boundaries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Error Boundaries in React",
+          "type": "article",
+          "url": "https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "server-apis",
+      "title": "Server APIs",
+      "description": "مباحث و تمرین‌های مرتبط با «Server APIs».",
+      "order": 17,
+      "children": [
+        {
+          "id": "server-apis-item",
+          "title": "Server APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «Server APIs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Documentation For API",
+          "type": "article",
+          "url": "https://react.dev/reference/react-dom/server",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "suspense",
+      "title": "Suspense",
+      "description": "مباحث و تمرین‌های مرتبط با «Suspense».",
+      "order": 18,
+      "children": [
+        {
+          "id": "suspense-item",
+          "title": "Suspense",
+          "description": "مباحث و تمرین‌های مرتبط با «Suspense».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "React Suspense",
+          "type": "article",
+          "url": "https://react.dev/reference/react/Suspense",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React Suspense - A complete guide",
+          "type": "article",
+          "url": "https://hygraph.com/blog/react-suspense",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "portals",
+      "title": "Portals",
+      "description": "مباحث و تمرین‌های مرتبط با «Portals».",
+      "order": 19,
+      "children": [
+        {
+          "id": "portals-item",
+          "title": "Portals",
+          "description": "مباحث و تمرین‌های مرتبط با «Portals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Portals in React",
+          "type": "article",
+          "url": "https://react.dev/reference/react-dom/createPortal",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React Portals",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=HpHLa-5Wdys",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "mobile-applications",
+      "title": "Mobile Applications",
+      "description": "مباحث و تمرین‌های مرتبط با «Mobile Applications».",
+      "order": 20,
+      "children": [
+        {
+          "id": "react-native",
+          "title": "React Native",
+          "description": "مباحث و تمرین‌های مرتبط با «React Native».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "React Native: Official Website",
+              "type": "article",
+              "url": "https://reactnative.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Official Getting Started",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/getting-started",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about React",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/react?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "React Native Official website",
+          "type": "article",
+          "url": "https://reactnative.dev/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React Native Course for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ZBCUegTZF7M",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

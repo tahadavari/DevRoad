@@ -1,0 +1,466 @@
+{
+  "slug": "ux-design",
+  "title": "UX Design",
+  "description": "Step by step guide to becoming a UX Designer in 2026",
+  "steps": [
+    {
+      "id": "human-decision-making",
+      "title": "Human Decision Making",
+      "description": "مباحث و تمرین‌های مرتبط با «Human Decision Making».",
+      "order": 1,
+      "children": [
+        {
+          "id": "behavioral-science",
+          "title": "Behavioral Science",
+          "description": "مباحث و تمرین‌های مرتبط با «Behavioral Science».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Behavioral Science",
+              "type": "article",
+              "url": "https://uxplanet.org/how-to-use-behavioral-science-to-influence-user-behavior-in-design-581dc0805f7c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Future of Behavioral Science",
+              "type": "article",
+              "url": "https://behavioralscientist.org/what-is-the-future-of-design-and-behavioral-science-a-conversation-with-cliff-kuang/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "persuasive-technology",
+          "title": "Persuasive Technology",
+          "description": "مباحث و تمرین‌های مرتبط با «Persuasive Technology».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "nudge-theory",
+          "title": "Nudge Theory",
+          "description": "مباحث و تمرین‌های مرتبط با «Nudge Theory».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Nudge Theory overview with examples",
+              "type": "article",
+              "url": "https://www.businessballs.com/improving-workplace-performance/nudge-theory/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Nudge Theory Explained in less than 10 minutes",
+              "type": "video",
+              "url": "https://youtu.be/fA5eGIMZTRQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "behavioral-economics",
+          "title": "Behavioral Economics",
+          "description": "مباحث و تمرین‌های مرتبط با «Behavioral Economics».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Behavioral Economics",
+              "type": "article",
+              "url": "https://www.interaction-design.org/literature/article/behavioural-economics-ideas-that-you-can-use-in-ux-design",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "behavior-design",
+          "title": "Behavior Design",
+          "description": "مباحث و تمرین‌های مرتبط با «Behavior Design».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Behavior Design",
+              "type": "article",
+              "url": "https://www.interaction-design.org/literature/topics/behavioral-design",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bj-fogg-s-behavior-model",
+          "title": "BJ Fogg's Behavior Model",
+          "description": "مباحث و تمرین‌های مرتبط با «BJ Fogg's Behavior Model».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Meaning of BJ Fogg's Behavior Model",
+              "type": "article",
+              "url": "https://behaviormodel.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Fogg Behavior Model",
+              "type": "article",
+              "url": "https://blog.logrocket.com/ux-design/fogg-behavior-model/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "create-action-funnel",
+          "title": "CREATE Action Funnel",
+          "description": "مباحث و تمرین‌های مرتبط با «CREATE Action Funnel».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Behavioral Science Crash Course: Steve Wendel's CREATE Action Funnel",
+              "type": "article",
+              "url": "https://www.prodify.group/blog/behavioral-science-crash-course-steve-wendels-create-action-funnel",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "spectrum-of-thinking-interventions",
+          "title": "Spectrum of Thinking Interventions",
+          "description": "مباحث و تمرین‌های مرتبط با «Spectrum of Thinking Interventions».",
+          "order": 8,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "dual-process-theory",
+          "title": "Dual Process Theory",
+          "description": "مباحث و تمرین‌های مرتبط با «Dual Process Theory».",
+          "order": 9,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "List of Cognitive Biases",
+          "type": "article",
+          "url": "https://thedecisionlab.com/biases",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Types of Cognitive Bias",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=wEwGBIr_RIw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "behavior-change-strategies",
+      "title": "Behavior Change Strategies",
+      "description": "مباحث و تمرین‌های مرتبط با «Behavior Change Strategies».",
+      "order": 2,
+      "children": [
+        {
+          "id": "bj-fogg-s-behavior-grid",
+          "title": "BJ Fogg's Behavior Grid",
+          "description": "مباحث و تمرین‌های مرتبط با «BJ Fogg's Behavior Grid».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "BJ Fogg’s Behavior Grid",
+              "type": "article",
+              "url": "https://behaviordesign.stanford.edu/resources/fogg-behavior-grid",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Fogg Behavior Model",
+              "type": "article",
+              "url": "https://blog.logrocket.com/ux-design/fogg-behavior-model/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Behavioral Change Strategies",
+          "type": "article",
+          "url": "https://blog.logrocket.com/ux-design/starter-guide-behavioral-design/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cheating",
+      "title": "Cheating",
+      "description": "مباحث و تمرین‌های مرتبط با «Cheating».",
+      "order": 3,
+      "children": [
+        {
+          "id": "defaulting",
+          "title": "Defaulting",
+          "description": "مباحث و تمرین‌های مرتبط با «Defaulting».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "The Power of Defaults",
+              "type": "article",
+              "url": "https://www.nngroup.com/articles/the-power-of-defaults/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "making-it-incidental",
+          "title": "Making it Incidental",
+          "description": "مباحث و تمرین‌های مرتبط با «Making it Incidental».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "automate-the-act-of-repetition",
+          "title": "Automate the Act of Repetition",
+          "description": "مباحث و تمرین‌های مرتبط با «Automate the Act of Repetition».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Repeating Elements",
+              "type": "article",
+              "url": "https://helpx.adobe.com/au/xd/help/create-repeating-elements.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "make-or-change-habits",
+      "title": "Make or Change Habits",
+      "description": "مباحث و تمرین‌های مرتبط با «Make or Change Habits».",
+      "order": 4,
+      "children": [
+        {
+          "id": "make-or-change-habits-item",
+          "title": "Make or Change Habits",
+          "description": "مباحث و تمرین‌های مرتبط با «Make or Change Habits».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "support-conscious-action",
+      "title": "Support Conscious Action",
+      "description": "مباحث و تمرین‌های مرتبط با «Support Conscious Action».",
+      "order": 5,
+      "children": [
+        {
+          "id": "educate-encourage-user",
+          "title": "Educate & Encourage User",
+          "description": "مباحث و تمرین‌های مرتبط با «Educate & Encourage User».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "understanding-the-product",
+      "title": "Understanding the Product",
+      "description": "مباحث و تمرین‌های مرتبط با «Understanding the Product».",
+      "order": 6,
+      "children": [
+        {
+          "id": "understanding-the-product-item",
+          "title": "Understanding the Product",
+          "description": "مباحث و تمرین‌های مرتبط با «Understanding the Product».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "conceptual-design",
+      "title": "Conceptual Design",
+      "description": "مباحث و تمرین‌های مرتبط با «Conceptual Design».",
+      "order": 7,
+      "children": [
+        {
+          "id": "conceptual-design-item",
+          "title": "Conceptual Design",
+          "description": "مباحث و تمرین‌های مرتبط با «Conceptual Design».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to apply design thinking in UX",
+          "type": "article",
+          "url": "https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "prototyping",
+      "title": "Prototyping",
+      "description": "مباحث و تمرین‌های مرتبط با «Prototyping».",
+      "order": 8,
+      "children": [
+        {
+          "id": "good-layout-rules",
+          "title": "Good Layout Rules",
+          "description": "مباحث و تمرین‌های مرتبط با «Good Layout Rules».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "User Interface Design Guidelines: 10 Rules of Thumb",
+              "type": "article",
+              "url": "https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "ux-best-practices",
+      "title": "UX Best Practices",
+      "description": "مباحث و تمرین‌های مرتبط با «UX Best Practices».",
+      "order": 9,
+      "children": [
+        {
+          "id": "ux-best-practices-item",
+          "title": "UX Best Practices",
+          "description": "مباحث و تمرین‌های مرتبط با «UX Best Practices».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "measuring-the-impact",
+      "title": "Measuring the Impact",
+      "description": "مباحث و تمرین‌های مرتبط با «Measuring the Impact».",
+      "order": 10,
+      "children": [
+        {
+          "id": "measuring-the-impact-item",
+          "title": "Measuring the Impact",
+          "description": "مباحث و تمرین‌های مرتبط با «Measuring the Impact».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

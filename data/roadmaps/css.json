@@ -1,0 +1,2004 @@
+{
+  "slug": "css",
+  "title": "CSS",
+  "description": "Step by step guide to learning CSS in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "frontend-development",
+          "title": "Frontend development",
+          "description": "مباحث و تمرین‌های مرتبط با «Frontend development».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit the dedicated Frontend Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/frontend",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Front-End Development: The Complete Guide",
+              "type": "article",
+              "url": "https://cloudinary.com/guides/front-end-development/front-end-development-the-complete-guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Frontend web development - a complete overview",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=WG5ikvJ2TKA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CSS Full Course for Beginners",
+          "type": "course",
+          "url": "https://www.youtube.com/watch?v=n4R2E7O-Ngo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML & CSS Full Course - Beginner to Pro",
+          "type": "course",
+          "url": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Responsive Web Design Certification - Co-Learn HTML & CSS with guided projects",
+          "type": "course",
+          "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Web.dev by Google — Learn CSS",
+          "type": "article",
+          "url": "https://web.dev/learn/css/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about CSS",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/css?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "css-basics",
+      "title": "CSS Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «CSS Basics».",
+      "order": 2,
+      "children": [
+        {
+          "id": "inline-css",
+          "title": "Inline CSS",
+          "description": "مباحث و تمرین‌های مرتبط با «Inline CSS».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Inline Style in HTML – CSS Inline Styles",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/inline-style-in-html/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "internal-css",
+          "title": "Internal CSS",
+          "description": "مباحث و تمرین‌های مرتبط با «Internal CSS».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Internal CSS",
+              "type": "article",
+              "url": "https://codeinstitute.net/global/blog/internal-css/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use Internal CSS [CSS Tutorials for Beginners]",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=o2hQUHGueXY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "external-css",
+          "title": "External CSS",
+          "description": "مباحث و تمرین‌های مرتبط با «External CSS».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Types of CSS: inline, external and internal definitions and differences explained",
+              "type": "article",
+              "url": "https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "External Style Sheets | CSS",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=2P_LUPc2HrM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cascading-order",
+          "title": "Cascading order",
+          "description": "مباحث و تمرین‌های مرتبط با «Cascading order».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Introduction to the CSS cascade",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascade/Cascade",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Handling conflicts",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Handling_conflicts",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "rules",
+      "title": "Rules",
+      "description": "مباحث و تمرین‌های مرتبط با «Rules».",
+      "order": 3,
+      "children": [
+        {
+          "id": "rules-item",
+          "title": "Rules",
+          "description": "مباحث و تمرین‌های مرتبط با «Rules».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to CSS syntax: declarations, rulesets, and statements",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_syntax/Syntax",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "comments",
+      "title": "Comments",
+      "description": "مباحث و تمرین‌های مرتبط با «Comments».",
+      "order": 4,
+      "children": [
+        {
+          "id": "comments-item",
+          "title": "Comments",
+          "description": "مباحث و تمرین‌های مرتبط با «Comments».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CSS Comments",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_syntax/Comments",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML & CSS for Absolute Beginners: HTML Comments",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NTlhOJIy8HY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "simple-selectors",
+      "title": "Simple selectors",
+      "description": "مباحث و تمرین‌های مرتبط با «Simple selectors».",
+      "order": 5,
+      "children": [
+        {
+          "id": "element",
+          "title": "element",
+          "description": "مباحث و تمرین‌های مرتبط با «element».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "CSS selectors",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS Selectors Cheat Sheet",
+              "type": "article",
+              "url": "https://www.sitepoint.com/css-selectors/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Basic CSS selectors",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS - Simple Selectors | W3Schools",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ZNskBxLVOfs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "combinator-selectors",
+      "title": "Combinator selectors",
+      "description": "مباحث و تمرین‌های مرتبط با «Combinator selectors».",
+      "order": 6,
+      "children": [
+        {
+          "id": "combinator-selectors-item",
+          "title": "Combinator selectors",
+          "description": "مباحث و تمرین‌های مرتبط با «Combinator selectors».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Combinators",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Combinators",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS combinators in 4 minutes!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=swZFmJsU54s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "attribute-selectors",
+      "title": "Attribute selectors",
+      "description": "مباحث و تمرین‌های مرتبط با «Attribute selectors».",
+      "order": 7,
+      "children": [
+        {
+          "id": "attribute-selectors-item",
+          "title": "Attribute selectors",
+          "description": "مباحث و تمرین‌های مرتبط با «Attribute selectors».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Attribute Selectors",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Attribute Selectors | CSS Tricks",
+          "type": "article",
+          "url": "https://css-tricks.com/almanac/selectors/a/attribute/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Attribute Selectors in detail - CSS Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=m_upHrxjR8s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "text-styling",
+      "title": "Text Styling",
+      "description": "مباحث و تمرین‌های مرتبط با «Text Styling».",
+      "order": 8,
+      "children": [
+        {
+          "id": "text-decoration",
+          "title": "Text Decoration",
+          "description": "مباحث و تمرین‌های مرتبط با «Text Decoration».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "text-decoration",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS Tutorial For Beginners - Text Decoration",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=dm54To0EOpw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "text-transform",
+          "title": "Text Transform",
+          "description": "مباحث و تمرین‌های مرتبط با «Text Transform».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "text-transform",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS Tutorial For Beginners - Text Transform",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=j0FS2hCoIjs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "text-alignment",
+          "title": "Text Alignment",
+          "description": "مباحث و تمرین‌های مرتبط با «Text Alignment».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "text-align",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-align",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "text-align | CSS Tricks",
+              "type": "article",
+              "url": "https://css-tricks.com/almanac/properties/t/text-align/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "color",
+          "title": "Color",
+          "description": "مباحث و تمرین‌های مرتبط با «Color».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Text color",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/color",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS Font Color – How to Style Text in HTML",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/css-font-color-how-to-style-text-in-html/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "text-spacing",
+          "title": "Text Spacing",
+          "description": "مباحث و تمرین‌های مرتبط با «Text Spacing».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "letter-spacing",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "word-spacing",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS Text Spacing",
+              "type": "article",
+              "url": "https://www.codeguage.com/v1/courses/css/text-spacing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML & CSS for Absolute Beginners: Line height and spacing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=HaTxxAj3cBo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "line-height",
+          "title": "Line Height",
+          "description": "مباحث و تمرین‌های مرتبط با «Line Height».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "line-height",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML & CSS for Absolute Beginners: Line height and spacing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=HaTxxAj3cBo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "text-shadows",
+          "title": "Text Shadows",
+          "description": "مباحث و تمرین‌های مرتبط با «Text Shadows».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "text-shadow",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn CSS shadows in 3 minutes!",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Yqs_61ub1Ng",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fundamental text and font styling",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Fundamentals",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Styling Text in CSS",
+          "type": "article",
+          "url": "https://pieces.app/blog/styling-text-in-css",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Beginner’s guide to styling text with CSS",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Y5TYDo9Qcv4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "opacity",
+      "title": "Opacity",
+      "description": "مباحث و تمرین‌های مرتبط با «Opacity».",
+      "order": 9,
+      "children": [
+        {
+          "id": "opacity-item",
+          "title": "Opacity",
+          "description": "مباحث و تمرین‌های مرتبط با «Opacity».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Opacity",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/opacity",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Opacity - One Minute Coding",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QdkgbodF71k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "background",
+      "title": "Background",
+      "description": "مباحث و تمرین‌های مرتبط با «Background».",
+      "order": 10,
+      "children": [
+        {
+          "id": "background-image",
+          "title": "Background Image",
+          "description": "مباحث و تمرین‌های مرتبط با «Background Image».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "MDN – background-image",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background-image",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS-Tricks – A Complete Guide to CSS Backgrounds",
+              "type": "article",
+              "url": "https://css-tricks.com/almanac/properties/b/background/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to include a CSS background image 🏙️",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=_oFWg_NlKdo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Background images with HTML & CSS",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zHZRFwWQt2w",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "background-gradient",
+          "title": "Background Gradient",
+          "description": "مباحث و تمرین‌های مرتبط با «Background Gradient».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "CSS gradients",
+              "type": "article",
+              "url": "https://www.w3schools.com/css/css3_gradients.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS Gradient Background - One Minute Coding ⏱",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=NINIuzyWZ2c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "background-color",
+          "title": "Background Color",
+          "description": "مباحث و تمرین‌های مرتبط با «Background Color».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Background Color",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-color",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS - Background Colors - W3Schools.com",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=-itttmX6HX0&pp=ygUUYmFja2dyb3VuZCBjb2xvciBjc3M%3D",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "background-position",
+          "title": "Background Position",
+          "description": "مباحث و تمرین‌های مرتبط با «Background Position».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Background Position",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-position",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS Property : background-position explained !",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=S_rcA0JKEaE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "background-attachment",
+          "title": "Background Attachment",
+          "description": "مباحث و تمرین‌های مرتبط با «Background Attachment».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Background Attachment",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/background-attachment",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS - Background Attachment - W3Schools.com",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lXs8BRnrW_M",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Learn CSS background in 3 minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=YA8ZciJa64k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "box-model",
+      "title": "Box Model",
+      "description": "مباحث و تمرین‌های مرتبط با «Box Model».",
+      "order": 11,
+      "children": [
+        {
+          "id": "box-model-item",
+          "title": "Box Model",
+          "description": "مباحث و تمرین‌های مرتبط با «Box Model».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The box model",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS Box Model In 8 Minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=rIO5326FgPE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "padding",
+      "title": "Padding",
+      "description": "مباحث و تمرین‌های مرتبط با «Padding».",
+      "order": 12,
+      "children": [
+        {
+          "id": "padding-item",
+          "title": "Padding",
+          "description": "مباحث و تمرین‌های مرتبط با «Padding».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Padding",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/padding",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How CSS Padding and Margin Works",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NZEz4yNITd8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "margin",
+      "title": "Margin",
+      "description": "مباحث و تمرین‌های مرتبط با «Margin».",
+      "order": 13,
+      "children": [
+        {
+          "id": "margin-item",
+          "title": "Margin",
+          "description": "مباحث و تمرین‌های مرتبط با «Margin».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Margin",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/margin",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How CSS Padding and Margin Works",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NZEz4yNITd8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "width-height",
+      "title": "Width / Height",
+      "description": "مباحث و تمرین‌های مرتبط با «Width / Height».",
+      "order": 14,
+      "children": [
+        {
+          "id": "width-height-item",
+          "title": "Width / Height",
+          "description": "مباحث و تمرین‌های مرتبط با «Width / Height».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CSS Width / Height Properties",
+          "type": "article",
+          "url": "https://www.programiz.com/css/width-height",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS height and width in 6 minutes!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QctF-i4-GuM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "border",
+      "title": "Border",
+      "description": "مباحث و تمرین‌های مرتبط با «Border».",
+      "order": 15,
+      "children": [
+        {
+          "id": "border-item",
+          "title": "Border",
+          "description": "مباحث و تمرین‌های مرتبط با «Border».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Border",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/border",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS borders in 4 minutes!",
+          "type": "article",
+          "url": "https://www.youtube.com/watch?v=pkNdQ7TmxIw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "outline",
+      "title": "Outline",
+      "description": "مباحث و تمرین‌های مرتبط با «Outline».",
+      "order": 16,
+      "children": [
+        {
+          "id": "outline-item",
+          "title": "Outline",
+          "description": "مباحث و تمرین‌های مرتبط با «Outline».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Outline",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/outline",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Outline vs Border - differences, advantages, and disadvantages",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=xx_pJ2ouGnc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "box-shadows",
+      "title": "Box Shadows",
+      "description": "مباحث و تمرین‌های مرتبط با «Box Shadows».",
+      "order": 17,
+      "children": [
+        {
+          "id": "box-shadows-item",
+          "title": "Box Shadows",
+          "description": "مباحث و تمرین‌های مرتبط با «Box Shadows».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Box Shadows",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Box-Shadow tutorial: the basics",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-JNRQ5HjNeI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "position",
+      "title": "Position",
+      "description": "مباحث و تمرین‌های مرتبط با «Position».",
+      "order": 18,
+      "children": [
+        {
+          "id": "position-item",
+          "title": "Position",
+          "description": "مباحث و تمرین‌های مرتبط با «Position».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Position",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS Positions in 4 minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=YEmdHbQBCSQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "display",
+      "title": "Display",
+      "description": "مباحث و تمرین‌های مرتبط با «Display».",
+      "order": 19,
+      "children": [
+        {
+          "id": "inline-block",
+          "title": "inline-block",
+          "description": "مباحث و تمرین‌های مرتبط با «inline-block».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "CSS display: inline-block",
+              "type": "article",
+              "url": "https://www.w3schools.com/css/css_inline-block.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Block, Inline, and Inline-Block explained | CSS Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=x_i2gga-sYg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Display",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/display",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS display property in 4 minutes!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9T8uxp5hQ60",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "css-units",
+      "title": "CSS Units",
+      "description": "مباحث و تمرین‌های مرتبط با «CSS Units».",
+      "order": 20,
+      "children": [
+        {
+          "id": "absolute-vs-relative",
+          "title": "Absolute vs Relative",
+          "description": "مباحث و تمرین‌های مرتبط با «Absolute vs Relative».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What are Absolute and Relative Units in CSS? Explained with Examples",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/absolute-and-relative-css-units",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CSS Units",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS Units In 8 Minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-GR52czEd-0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "z-index-stacking-context",
+      "title": "Z-Index / Stacking Context",
+      "description": "مباحث و تمرین‌های مرتبط با «Z-Index / Stacking Context».",
+      "order": 21,
+      "children": [
+        {
+          "id": "z-index-stacking-context-item",
+          "title": "Z-Index / Stacking Context",
+          "description": "مباحث و تمرین‌های مرتبط با «Z-Index / Stacking Context».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "z-index",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/z-index",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Z Index Property: What is CSS Z-Index, Stacking Order, and Why Your Z-Index Is Not Working?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=vo1JBj-OAa8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "css-specificity",
+      "title": "CSS Specificity",
+      "description": "مباحث و تمرین‌های مرتبط با «CSS Specificity».",
+      "order": 22,
+      "children": [
+        {
+          "id": "css-specificity-item",
+          "title": "CSS Specificity",
+          "description": "مباحث و تمرین‌های مرتبط با «CSS Specificity».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Specificity",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascade/Specificity",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Specificity explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=c0kfcP_nD9E",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "tables",
+      "title": "Tables",
+      "description": "مباحث و تمرین‌های مرتبط با «Tables».",
+      "order": 23,
+      "children": [
+        {
+          "id": "tables-item",
+          "title": "Tables",
+          "description": "مباحث و تمرین‌های مرتبط با «Tables».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Table",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_table",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Styling HTML tables with CSS - Web Design/UX Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=biI9OFH6Nmg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "lists",
+      "title": "Lists",
+      "description": "مباحث و تمرین‌های مرتبط با «Lists».",
+      "order": 24,
+      "children": [
+        {
+          "id": "lists-item",
+          "title": "Lists",
+          "description": "مباحث و تمرین‌های مرتبط با «Lists».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CSS lists and counters",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_lists",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS List Styles Tutorial for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jcThx0U066w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pseudo-classes",
+      "title": "Pseudo Classes",
+      "description": "مباحث و تمرین‌های مرتبط با «Pseudo Classes».",
+      "order": 25,
+      "children": [
+        {
+          "id": "pseudo-classes-item",
+          "title": "Pseudo Classes",
+          "description": "مباحث و تمرین‌های مرتبط با «Pseudo Classes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pseudo-classes",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Pseudo-classes",
+          "type": "article",
+          "url": "https://www.w3schools.com/css/css_pseudo_classes.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS pseudo-classes in 7 minutes!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Nrsy_2ogRfQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pseudo-elements",
+      "title": "Pseudo Elements",
+      "description": "مباحث و تمرین‌های مرتبط با «Pseudo Elements».",
+      "order": 26,
+      "children": [
+        {
+          "id": "pseudo-elements-item",
+          "title": "Pseudo Elements",
+          "description": "مباحث و تمرین‌های مرتبط با «Pseudo Elements».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pseudo-elements",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Pseudo-elements",
+          "type": "article",
+          "url": "https://www.w3schools.com/css/css_pseudo_elements.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS pseudo-elements in 5 minutes!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_LxYNxeWpBo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "images-and-filters",
+      "title": "Images and Filters",
+      "description": "مباحث و تمرین‌های مرتبط با «Images and Filters».",
+      "order": 27,
+      "children": [
+        {
+          "id": "images-and-filters-item",
+          "title": "Images and Filters",
+          "description": "مباحث و تمرین‌های مرتبط با «Images and Filters».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CSS images",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_images",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS filter effects",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_filter_effects",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dabbling with CSS Filters and Blending Effects",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-jy7dac750Q",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Background Images and Responsive Image Properties for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cLyzBfXI0I0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "flow-layout",
+      "title": "Flow Layout",
+      "description": "مباحث و تمرین‌های مرتبط با «Flow Layout».",
+      "order": 28,
+      "children": [
+        {
+          "id": "flow-layout-item",
+          "title": "Flow Layout",
+          "description": "مباحث و تمرین‌های مرتبط با «Flow Layout».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CSS flow layout",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Flow_layout",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Block and inline layout in normal flow",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Block_and_inline_layout_in_normal_flow",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Flow layout and writing modes",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Flow_layout_and_writing_modes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS website layout in 9 minutes! 🗺️",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Hsu8uqQTSV8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "css-functions",
+      "title": "CSS Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «CSS Functions».",
+      "order": 29,
+      "children": [
+        {
+          "id": "css-functions-item",
+          "title": "CSS Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «CSS Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CSS value functions",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units/CSS_Value_Functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Functions",
+          "type": "article",
+          "url": "https://web.dev/learn/css/functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Functions in CSS?!",
+          "type": "article",
+          "url": "https://css-tricks.com/functions-in-css/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "First look at FUNCTIONS in CSS!!!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fhuYPNlBkyw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "css-variables",
+      "title": "CSS Variables",
+      "description": "مباحث و تمرین‌های مرتبط با «CSS Variables».",
+      "order": 30,
+      "children": [
+        {
+          "id": "css-variables-item",
+          "title": "CSS Variables",
+          "description": "مباحث و تمرین‌های مرتبط با «CSS Variables».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Using CSS custom properties (variables)",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use CSS variables like a pro",
+          "type": "article",
+          "url": "https://blog.logrocket.com/how-to-use-css-variables/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS Variables In 7 Minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5wLrz_zUwoU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "media-queries",
+      "title": "Media Queries",
+      "description": "مباحث و تمرین‌های مرتبط با «Media Queries».",
+      "order": 31,
+      "children": [
+        {
+          "id": "media-queries-item",
+          "title": "Media Queries",
+          "description": "مباحث و تمرین‌های مرتبط با «Media Queries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CSS media queries",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Media Queries Guide",
+          "type": "article",
+          "url": "https://css-tricks.com/a-complete-guide-to-css-media-queries/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn CSS Media Query In 7 Minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=yU7jJ3NbPdA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "container-queries",
+      "title": "Container Queries",
+      "description": "مباحث و تمرین‌های مرتبط با «Container Queries».",
+      "order": 32,
+      "children": [
+        {
+          "id": "container-queries-item",
+          "title": "Container Queries",
+          "description": "مباحث و تمرین‌های مرتبط با «Container Queries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CSS container queries",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS Container Queries Guide",
+          "type": "article",
+          "url": "https://css-tricks.com/css-container-queries/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Master CSS container queries and boost your web design skills!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8x8lxX5IGHY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "responsive-typography",
+      "title": "Responsive typography",
+      "description": "مباحث و تمرین‌های مرتبط با «Responsive typography».",
+      "order": 33,
+      "children": [
+        {
+          "id": "responsive-typography-item",
+          "title": "Responsive typography",
+          "description": "مباحث و تمرین‌های مرتبط با «Responsive typography».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How To Create a Responsive Text",
+          "type": "article",
+          "url": "https://www.w3schools.com/howto/howto_css_responsive_text.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The elements of responsive typography",
+          "type": "article",
+          "url": "https://blog.logrocket.com/elements-responsive-typography/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Responsive Typography with CSS Clamp",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=erqRw3E-vn4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

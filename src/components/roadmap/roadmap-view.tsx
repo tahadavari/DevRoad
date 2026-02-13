@@ -305,13 +305,14 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
 
                   {hasChildren && (
                     <div className="grid gap-3 p-4 sm:grid-cols-2">
-                      {category.children!.map((step) => {
+                      {category.children!.map((step, childIndex) => {
                         const isDone = completedSteps.has(step.id);
                         const isCurrent = currentStepId === step.id;
+                        const uniqueKey = `${category.id}-${step.id}-${childIndex}`;
 
                         return (
                           <div
-                            key={step.id}
+                            key={uniqueKey}
                             className={`rounded-lg border p-3 transition-colors ${
                               step.recommendation
                                 ? recommendationStyles[step.recommendation].card

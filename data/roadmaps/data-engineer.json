@@ -1,0 +1,3128 @@
+{
+  "slug": "data-engineer",
+  "title": "Data Engineer",
+  "description": "Step by step guide to becoming a Data Engineer in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "skills-and-responsibilities",
+          "title": "Skills and Responsibilities",
+          "description": "مباحث و تمرین‌های مرتبط با «Skills and Responsibilities».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Top Data Engineer Skills and Responsibilities",
+              "type": "article",
+              "url": "https://www.simplilearn.com/data-engineer-role-article",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "5 Essential Data Engineering Skills For 2025",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/essential-data-engineering-skills",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What skills do you need as a Data Engineer?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=sF04UxNAvmg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-engineering-lifecycle",
+          "title": "Data Engineering Lifecycle",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Engineering Lifecycle».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Fundamentals of Data Engineering",
+              "type": "article",
+              "url": "https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Data Engineering Lifecycle",
+              "type": "article",
+              "url": "hhttps://medium.com/towards-data-engineering/data-engineering-lifecycle-d1e7ee81632e",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Into Data Engineering",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=hZu_87l62J4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-engineering-vs-data-science",
+          "title": "Data Engineering vs Data Science",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Engineering vs Data Science».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Data Scientist vs Data Engineer",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/data-scientist-vs-data-engineer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Should You Be a Data Scientist, Analyst or Engineer?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=dUnKYhripIE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-data-engineering",
+          "title": "What is Data Engineering?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Data Engineering?».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What is data engineering?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/data-engineering",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Become a Data Engineer in 2025: 5 Steps for Career Success",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/how-to-become-a-data-engineer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Data Engineering Works?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qWru-b6m030",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "choosing-the-right-technologies",
+          "title": "Choosing the Right Technologies",
+          "description": "مباحث و تمرین‌های مرتبط با «Choosing the Right Technologies».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Fundamentals of Data Engineering",
+              "type": "article",
+              "url": "https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Build hybrid and multicloud architectures using Google Cloud",
+              "type": "article",
+              "url": "https://cloud.google.com/architecture/hybrid-multicloud-patterns",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Unfulfilled Promise of Serverless",
+              "type": "article",
+              "url": "https://www.lastweekinaws.com/blog/the-unfulfilled-promise-of-serverless/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Become a Data Engineer in 2025: 5 Steps for Career Success",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/how-to-become-a-data-engineer",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Does a Data Engineer ACTUALLY Do?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=hTjo-QVWcK0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "programming-skills",
+      "title": "Programming Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Programming Skills».",
+      "order": 2,
+      "children": [
+        {
+          "id": "programming-skills-item",
+          "title": "Programming Skills",
+          "description": "مباحث و تمرین‌های مرتبط با «Programming Skills».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-structures-and-algorithms",
+      "title": "Data Structures and Algorithms",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Structures and Algorithms».",
+      "order": 3,
+      "children": [
+        {
+          "id": "data-structures-and-algorithms-item",
+          "title": "Data Structures and Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Structures and Algorithms».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Interview Questions about Data Structures",
+          "type": "article",
+          "url": "https://www.csharpstar.com/csharp-algorithms/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Structures Illustrated",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Algorithms",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=rL8X2mlNHPM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Algorithms",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/algorithms?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "git-and-github",
+      "title": "Git and GitHub",
+      "description": "مباحث و تمرین‌های مرتبط با «Git and GitHub».",
+      "order": 4,
+      "children": [
+        {
+          "id": "git-and-github-item",
+          "title": "Git and GitHub",
+          "description": "مباحث و تمرین‌های مرتبط با «Git and GitHub».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated Git & GitHub Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/git-github",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Documentation",
+          "type": "article",
+          "url": "https://git-scm.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub Documentation",
+          "type": "article",
+          "url": "https://docs.github.com/en/get-started/quickstart",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Git with Tutorials, News and Tips - Atlassian",
+          "type": "article",
+          "url": "https://www.atlassian.com/git",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Cheat Sheet",
+          "type": "article",
+          "url": "https://cs.fyi/guide/git-cheatsheet",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is GitHub?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=w3jLJU7DT5E",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git & GitHub Crash Course For Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-engineering-lifecycle-2",
+      "title": "Data Engineering Lifecycle",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Engineering Lifecycle».",
+      "order": 5,
+      "children": [
+        {
+          "id": "star-vs-snowflake-schema",
+          "title": "Star vs Snowflake Schema",
+          "description": "مباحث و تمرین‌های مرتبط با «Star vs Snowflake Schema».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Star Schema vs Snowflake Schema: Differences & Use Cases",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/star-schema-vs-snowflake-schema",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-ingestion",
+          "title": "Data Ingestion",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Ingestion».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is Data Ingestion?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/data-ingestion",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WData Ingestion",
+              "type": "article",
+              "url": "https://www.qlik.com/us/data-ingestion",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-storage",
+          "title": "Data Storage",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Storage».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is data storage?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/data-storage",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-generation",
+          "title": "Data Generation",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Generation».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "The Concept of Data Generation",
+              "type": "article",
+              "url": "https://www.marktechpost.com/2023/02/27/the-concept-of-data-generation/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Analog vs. Digital",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zzvglgC5ut0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fundamentals of Data Engineering",
+          "type": "article",
+          "url": "https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Engineering Lifecycle",
+          "type": "article",
+          "url": "https://medium.com/towards-data-engineering/data-engineering-lifecycle-d1e7ee81632e",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Into Data Engineering",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=hZu_87l62J4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "linux-basics",
+      "title": "Linux Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Linux Basics».",
+      "order": 6,
+      "children": [
+        {
+          "id": "linux-basics-item",
+          "title": "Linux Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Linux Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated Linux Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/linux",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Coursera - Unix Courses",
+          "type": "course",
+          "url": "https://www.coursera.org/courses?query=unix",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Basics",
+          "type": "article",
+          "url": "https://dev.to/rudrakshi99/linux-basics-2onj",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Unix / Linux Tutorial",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/unix/index.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Operating System - Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ROjZy1WbCIA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Linux",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/linux?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking-fundamentals",
+      "title": "Networking Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking Fundamentals».",
+      "order": 7,
+      "children": [
+        {
+          "id": "networking-fundamentals-item",
+          "title": "Networking Fundamentals",
+          "description": "مباحث و تمرین‌های مرتبط با «Networking Fundamentals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy - Networking",
+          "type": "article",
+          "url": "https://www.khanacademy.org/computing/code-org/computers-and-the-internet",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Computer Networking Course - Network Engineering",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qiQR5rTSshw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Networking Video Series (21 videos)",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Networking",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/networking?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "distributed-systems-basics",
+      "title": "Distributed Systems Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Distributed Systems Basics».",
+      "order": 8,
+      "children": [
+        {
+          "id": "distributed-systems-basics-item",
+          "title": "Distributed Systems Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Distributed Systems Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Distributed Systems",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Distributed Systems Guide",
+          "type": "article",
+          "url": "https://www.baeldung.com/cs/distributed-systems-guide",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Quick overview",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IJWwfMyPu1c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "sources-of-data",
+      "title": "Sources of Data",
+      "description": "مباحث و تمرین‌های مرتبط با «Sources of Data».",
+      "order": 9,
+      "children": [
+        {
+          "id": "apis",
+          "title": "APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «APIs».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is an API?",
+              "type": "article",
+              "url": "https://aws.amazon.com/what-is/api/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Beginner's Guide to APIs",
+              "type": "article",
+              "url": "https://www.postman.com/what-is-an-api/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "database",
+          "title": "Database",
+          "description": "مباحث و تمرین‌های مرتبط با «Database».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "mobile-apps",
+          "title": "Mobile Apps",
+          "description": "مباحث و تمرین‌های مرتبط با «Mobile Apps».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-collection-considerations",
+      "title": "Data Collection Considerations",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Collection Considerations».",
+      "order": 10,
+      "children": [
+        {
+          "id": "data-collection-considerations-item",
+          "title": "Data Collection Considerations",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Collection Considerations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fundamentals of Data Engineering",
+          "type": "article",
+          "url": "https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "database-fundamentals",
+      "title": "Database Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «Database Fundamentals».",
+      "order": 11,
+      "children": [
+        {
+          "id": "slowly-changing-dimension-scd",
+          "title": "Slowly Changing Dimension - SCD",
+          "description": "مباحث و تمرین‌های مرتبط با «Slowly Changing Dimension - SCD».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "WMastering Slowly Changing Dimensions (SCD)",
+              "type": "article",
+              "url": "https://www.datacamp.com/tutorial/mastering-slowly-changing-dimensions-scd",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Implementing Slowly Changing Dimensions (SCDs) in Data Warehouses",
+              "type": "article",
+              "url": "https://www.sqlshack.com/implementing-slowly-changing-dimensions-scds-in-data-warehouses/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Oracle: What is a Database?",
+          "type": "article",
+          "url": "https://www.oracle.com/database/what-is-database/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Prisma.io: What are Databases?",
+          "type": "article",
+          "url": "https://www.prisma.io/dataguide/intro/what-are-databases",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro To Relational Databases",
+          "type": "article",
+          "url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NoSQL Explained",
+          "type": "article",
+          "url": "https://www.mongodb.com/nosql-explained",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Relational Database",
+          "type": "video",
+          "url": "https://youtu.be/OqjJjpjDRLc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How do NoSQL Databases work",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0buKQHokLK8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Database",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/database?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "relational-databases",
+      "title": "Relational Databases",
+      "description": "مباحث و تمرین‌های مرتبط با «Relational Databases».",
+      "order": 12,
+      "children": [
+        {
+          "id": "relational-databases-item",
+          "title": "Relational Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «Relational Databases».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Databases and SQL",
+          "type": "course",
+          "url": "https://www.edx.org/course/databases-5-sql",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Relational Databases",
+          "type": "article",
+          "url": "https://www.ibm.com/cloud/learn/relational-databases",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "51 Years of Relational Databases",
+          "type": "article",
+          "url": "https://learnsql.com/blog/codd-article-databases/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro To Relational Databases",
+          "type": "article",
+          "url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Relational Database",
+          "type": "video",
+          "url": "https://youtu.be/OqjJjpjDRLc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Backend Development",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "nosql-databases",
+      "title": "NoSQL Databases",
+      "description": "مباحث و تمرین‌های مرتبط با «NoSQL Databases».",
+      "order": 13,
+      "children": [
+        {
+          "id": "nosql-databases-item",
+          "title": "NoSQL Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «NoSQL Databases».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "NoSQL Explained",
+          "type": "article",
+          "url": "https://www.mongodb.com/nosql-explained",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How do NoSQL Databases work",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0buKQHokLK8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SQL vs NoSQL Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ruz-vK8IesE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about NoSQL",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nosql?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "document",
+      "title": "Document",
+      "description": "مباحث و تمرین‌های مرتبط با «Document».",
+      "order": 14,
+      "children": [
+        {
+          "id": "document-item",
+          "title": "Document",
+          "description": "مباحث و تمرین‌های مرتبط با «Document».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a Document Database?",
+          "type": "article",
+          "url": "https://www.mongodb.com/resources/basics/databases/document-databases",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HDocument-oriented database",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Document-oriented_database",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "column",
+      "title": "Column",
+      "description": "مباحث و تمرین‌های مرتبط با «Column».",
+      "order": 15,
+      "children": [
+        {
+          "id": "column-item",
+          "title": "Column",
+          "description": "مباحث و تمرین‌های مرتبط با «Column».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are columnar databases? Here are 35 examples.",
+          "type": "article",
+          "url": "https://www.tinybird.co/blog-posts/what-is-a-columnar-database",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Columnar Databases",
+          "type": "article",
+          "url": "https://www.techtarget.com/searchdatamanagement/definition/columnar-database",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WWhat is a Columnar Database? (vs. Row-oriented Database)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1MnvuNg33pA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "graph",
+      "title": "Graph",
+      "description": "مباحث و تمرین‌های مرتبط با «Graph».",
+      "order": 16,
+      "children": [
+        {
+          "id": "graph-item",
+          "title": "Graph",
+          "description": "مباحث و تمرین‌های مرتبط با «Graph».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a Graph database?",
+          "type": "article",
+          "url": "https://aws.amazon.com/nosql/graph/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is A Graph Database? A Beginner's Guide",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/what-is-a-graph-database",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Graph database",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Graph_database",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to NoSQL",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qI_g07C_Q5I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "key-value",
+      "title": "Key-Value",
+      "description": "مباحث و تمرین‌های مرتبط با «Key-Value».",
+      "order": 17,
+      "children": [
+        {
+          "id": "key-value-item",
+          "title": "Key-Value",
+          "description": "مباحث و تمرین‌های مرتبط با «Key-Value».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a Key Value Database? - AWS",
+          "type": "article",
+          "url": "https://aws.amazon.com/nosql/key-value/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is A Key-Value Database? - MongoDB",
+          "type": "article",
+          "url": "https://www.mongodb.com/resources/basics/databases/key-value-database",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-data-warehouse",
+      "title": "What is Data Warehouse?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Data Warehouse?».",
+      "order": 18,
+      "children": [
+        {
+          "id": "what-is-data-warehouse-item",
+          "title": "What is Data Warehouse?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Data Warehouse?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is a Data Warehouse?",
+          "type": "article",
+          "url": "https://www.oracle.com/database/what-is-a-data-warehouse/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Data Warehouse?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=k4tK2ttdSDg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-warehousing-architectures",
+      "title": "Data Warehousing Architectures",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Warehousing Architectures».",
+      "order": 19,
+      "children": [
+        {
+          "id": "data-mart",
+          "title": "Data Mart",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Mart».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is a Data Mart?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/data-mart",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WData Mart vs Data Warehouse: a Detailed Comparison",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/data-mart-vs-data-warehouse",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Data Lake VS Data Warehouse VS Data Marts",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=w9-WoReNKHk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-warehouse",
+      "title": "Data Warehouse",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Warehouse».",
+      "order": 20,
+      "children": [
+        {
+          "id": "data-warehouse-item",
+          "title": "Data Warehouse",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Warehouse».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is a Data Warehouse?",
+          "type": "article",
+          "url": "https://www.oracle.com/database/what-is-a-data-warehouse/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "@hat is a Data Warehouse?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=k4tK2ttdSDg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-mesh",
+      "title": "Data Mesh",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Mesh».",
+      "order": 21,
+      "children": [
+        {
+          "id": "data-mesh-item",
+          "title": "Data Mesh",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Mesh».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is a Data Mesh? - AWS",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/data-mesh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is a Data Mesh? - Datacamp",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/data-mesh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Mesh Architecture",
+          "type": "video",
+          "url": "https://www.datamesh-architecture.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-lake",
+      "title": "Data Lake",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Lake».",
+      "order": 22,
+      "children": [
+        {
+          "id": "data-lake-item",
+          "title": "Data Lake",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Lake».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Lake Definition",
+          "type": "article",
+          "url": "https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-a-data-lake",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Data Lake?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=LxcH6z8TFpI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cloud-computing",
+      "title": "Cloud Computing",
+      "description": "مباحث و تمرین‌های مرتبط با «Cloud Computing».",
+      "order": 23,
+      "children": [
+        {
+          "id": "cloud-computing-item",
+          "title": "Cloud Computing",
+          "description": "مباحث و تمرین‌های مرتبط با «Cloud Computing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloud Computing - IBM",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/cloud-computing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Cloud Computing? - Azure",
+          "type": "article",
+          "url": "https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-cloud-computing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Cloud Computing? - Amazon Web Services",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=mxT233EdY5c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "types-of-data-ingestion",
+      "title": "Types of Data Ingestion",
+      "description": "مباحث و تمرین‌های مرتبط با «Types of Data Ingestion».",
+      "order": 24,
+      "children": [
+        {
+          "id": "batch",
+          "title": "Batch",
+          "description": "مباحث و تمرین‌های مرتبط با «Batch».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Batch Processing?",
+              "type": "article",
+              "url": "https://aws.amazon.com/what-is/batch-processing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Batch And Streaming Demystified For Unification",
+              "type": "article",
+              "url": "https://towardsdatascience.com/batch-and-streaming-demystified-for-unification-dee0b48f921d/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hybrid",
+          "title": "Hybrid",
+          "description": "مباحث و تمرین‌های مرتبط با «Hybrid».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is Data Ingestion: Types, Tools, and Real-Life Use Cases",
+              "type": "article",
+              "url": "https://estuary.dev/blog/data-ingestion/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Lambda Architecture",
+              "type": "article",
+              "url": "https://www.databricks.com/glossary/lambda-architecture",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Micro Batching: A Comprehensive Guide 101",
+              "type": "article",
+              "url": "https://hevodata.com/learn/micro-batching/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "realtime",
+          "title": "Realtime",
+          "description": "مباحث و تمرین‌های مرتبط با «Realtime».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-pipelines",
+      "title": "Data Pipelines",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Pipelines».",
+      "order": 25,
+      "children": [
+        {
+          "id": "data-pipelines-item",
+          "title": "Data Pipelines",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Pipelines».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a Data Pipeline? - IBM",
+          "type": "article",
+          "url": "https://www.ibm.com/topics/data-pipeline",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Data Pipelines?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=oKixNpz6jNo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cluster-computing-basics",
+      "title": "Cluster Computing Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Cluster Computing Basics».",
+      "order": 26,
+      "children": [
+        {
+          "id": "cluster-computing-basics-item",
+          "title": "Cluster Computing Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Cluster Computing Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "big-data-tools",
+      "title": "Big Data Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Big Data Tools».",
+      "order": 27,
+      "children": [
+        {
+          "id": "apache-spark",
+          "title": "Apache Spark",
+          "description": "مباحث و تمرین‌های مرتبط با «Apache Spark».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "ApacheSpark",
+              "type": "article",
+              "url": "https://spark.apache.org/documentation.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spark By Examples",
+              "type": "article",
+              "url": "https://sparkbyexamples.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Apache Spark",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/spark?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Big Data?",
+          "type": "article",
+          "url": "https://cloud.google.com/learn/what-is-big-data?hl=en",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Hadoop vs Spark: Which Big Data Framework Is Right For You?",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/hadoop-vs-spark",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "introduction to Big Data with Spark and Hadoop",
+          "type": "video",
+          "url": "http://youtube.com/watch?v=vHlwg4ciCsI&t=80s&ab_channel=freeCodeAcademy",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "containers-orchestration",
+      "title": "Containers & Orchestration",
+      "description": "مباحث و تمرین‌های مرتبط با «Containers & Orchestration».",
+      "order": 28,
+      "children": [
+        {
+          "id": "google-cloud-gke",
+          "title": "Google Cloud GKE",
+          "description": "مباحث و تمرین‌های مرتبط با «Google Cloud GKE».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "GKE",
+              "type": "article",
+              "url": "https://cloud.google.com/kubernetes-engine",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Google Kubernetes Engine (GKE)?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Rl5M1CzgEH4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "aws-eks",
+          "title": "AWS EKS",
+          "description": "مباحث و تمرین‌های مرتبط با «AWS EKS».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Amazon Elastic Kubernetes Service (EKS)",
+              "type": "article",
+              "url": "https://aws.amazon.com/eks/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Concepts of Amazon EKS",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/eks/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "kubernetes",
+          "title": "Kubernetes",
+          "description": "مباحث و تمرین‌های مرتبط با «Kubernetes».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Kubernetes Website",
+              "type": "article",
+              "url": "https://kubernetes.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Documentation",
+              "type": "article",
+              "url": "https://kubernetes.io/docs/home/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care",
+              "type": "article",
+              "url": "https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes: An Overview",
+              "type": "article",
+              "url": "https://thenewstack.io/kubernetes-an-overview/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Crash Course for Absolute Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=s_o8dwzRlu4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Kubernetes",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/kubernetes?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are Containers?",
+          "type": "article",
+          "url": "https://cloud.google.com/learn/what-are-containers",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Containers - The New Stack",
+          "type": "article",
+          "url": "https://thenewstack.io/category/containers/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An Introduction to Data Orchestration: Process and Benefits",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/introduction-to-data-orchestration-process-and-benefits",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Container Orchestration?",
+          "type": "article",
+          "url": "https://www.redhat.com/en/topics/containers/what-is-container-orchestration",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Containers?",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLawsLZMfND4nz-WDBZIj8-nbzGFD4S9oz",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Why You Need Data Orchestration",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ZtlS5-G-gng",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ci-cd",
+      "title": "CI/CD",
+      "description": "مباحث و تمرین‌های مرتبط با «CI/CD».",
+      "order": 29,
+      "children": [
+        {
+          "id": "unit-testing",
+          "title": "Unit Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Unit Testing».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Unit Testing Tutorial",
+              "type": "article",
+              "url": "https://www.guru99.com/unit-testing-guide.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Unit Testing?",
+              "type": "video",
+              "url": "https://youtu.be/3kzHmaeozDI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Testing",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "gitlab-ci",
+          "title": "GitLab CI",
+          "description": "مباحث و تمرین‌های مرتبط با «GitLab CI».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "GitLab",
+              "type": "article",
+              "url": "https://gitlab.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GitLab Documentation",
+              "type": "article",
+              "url": "https://docs.gitlab.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Get Started with GitLab CI",
+              "type": "article",
+              "url": "https://docs.gitlab.com/ee/ci/quick_start/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn GitLab Tutorials",
+              "type": "article",
+              "url": "https://docs.gitlab.com/ee/tutorials/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GitLab CI/CD Examples",
+              "type": "article",
+              "url": "https://docs.gitlab.com/ee/ci/examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about GitLab",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/gitlab?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is CI/CD? Continuous Integration and Continuous Delivery",
+          "type": "article",
+          "url": "https://www.guru99.com/continuous-integration.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Continuous Integration vs Delivery vs Deployment",
+          "type": "article",
+          "url": "https://www.guru99.com/continuous-integration-vs-delivery-vs-deployment.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CI/CD Pipeline: Learn with Example",
+          "type": "article",
+          "url": "https://www.guru99.com/ci-cd-pipeline.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "monitoring",
+      "title": "Monitoring",
+      "description": "مباحث و تمرین‌های مرتبط با «Monitoring».",
+      "order": 30,
+      "children": [
+        {
+          "id": "best-practices",
+          "title": "Best Practices",
+          "description": "مباحث و تمرین‌های مرتبط با «Best Practices».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Best Practices for Message Queue Architecture",
+              "type": "article",
+              "url": "https://abhishek-patel.medium.com/best-practices-for-message-queue-architecture-f69d47e3565",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "new-relic",
+          "title": "New Relic",
+          "description": "مباحث و تمرین‌های مرتبط با «New Relic».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "New Relic",
+              "type": "article",
+              "url": "https://newrelic.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn New Relic",
+              "type": "article",
+              "url": "https://learn.newrelic.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about DevOps",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/devops?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "prometheus",
+          "title": "Prometheus",
+          "description": "مباحث و تمرین‌های مرتبط با «Prometheus».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Prometheus Website",
+              "type": "article",
+              "url": "https://prometheus.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Prometheus Documentation",
+              "type": "article",
+              "url": "https://prometheus.io/docs/introduction/overview/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Prometheus",
+              "type": "article",
+              "url": "https://prometheus.io/docs/tutorials/getting_started/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Prometheus",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/prometheus?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Top Monitoring Tools",
+          "type": "article",
+          "url": "https://thectoclub.com/tools/best-application-monitoring-software/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "daily.dev Monitoring Feed",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/monitoring",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 31,
+      "children": [
+        {
+          "id": "environmental-management",
+          "title": "Environmental Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Environmental Management».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "EWhat Is Environment as Code (EaaC)?",
+              "type": "article",
+              "url": "https://www.bunnyshell.com/blog/what-is-environment-as-code-eaac/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "integration-testing",
+          "title": "Integration Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Integration Testing».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Integration Testing Tutorial",
+              "type": "article",
+              "url": "https://www.guru99.com/integration-testing.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Testing",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "end-to-end-testing",
+          "title": "End-to-End Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «End-to-End Testing».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "End to End Testing",
+              "type": "article",
+              "url": "https://microsoft.github.io/code-with-engineering-playbook/automated-testing/e2e-testing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "End to End Testing: Importance, Process, Best Practices & Frameworks",
+              "type": "article",
+              "url": "https://testgrid.io/blog/end-to-end-testing-a-detailed-guide/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "functional-testing",
+          "title": "Functional Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Functional Testing».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What is Functional Testing? Types & Examples",
+              "type": "article",
+              "url": "https://www.guru99.com/functional-testing.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Functional Testing : A Detailed Guide",
+              "type": "article",
+              "url": "https://www.browserstack.com/guide/functional-testing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Testing",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "a-b-testing",
+          "title": "A/B Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «A/B Testing».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "A software engineer's guide to A/B testing",
+              "type": "article",
+              "url": "https://posthog.com/product-engineers/ab-testing-guide-for-engineers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A/B Testing for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=VpTlNRUcIDo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "load-testing",
+          "title": "Load Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Load Testing».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Load testing and Best Practices",
+              "type": "article",
+              "url": "https://loadninja.com/load-testing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Load Testing",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/load-testing?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "smoke-testing",
+          "title": "Smoke Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Smoke Testing».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Smoke Testing | Software Testing",
+              "type": "article",
+              "url": "https://www.guru99.com/smoke-testing.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Testing",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Software Testing?",
+          "type": "article",
+          "url": "https://www.guru99.com/software-testing-introduction-importance.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing Pyramid",
+          "type": "article",
+          "url": "https://www.browserstack.com/guide/testing-pyramid-for-test-automation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Testing",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "messaging-systems",
+      "title": "Messaging Systems",
+      "description": "مباحث و تمرین‌های مرتبط با «Messaging Systems».",
+      "order": 32,
+      "children": [
+        {
+          "id": "what-and-why-use-them",
+          "title": "What and why use them?",
+          "description": "مباحث و تمرین‌های مرتبط با «What and why use them?».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "async-vs-sync-communication",
+          "title": "Async vs Sync Communication",
+          "description": "مباحث و تمرین‌های مرتبط با «Async vs Sync Communication».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Synchronous And Asynchronous Data Transmission: The Differences And How to Use Them",
+              "type": "article",
+              "url": "https://www.computer.org/publications/tech-news/trends/synchronous-asynchronous-data-transmission",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Synchronous vs Asynchronous Communication: What’s the Difference?",
+              "type": "article",
+              "url": "https://www.getguru.com/reference/synchronous-vs-asynchronous-communication",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "messages-vs-streams",
+          "title": "Messages vs Streams",
+          "description": "مباحث و تمرین‌های مرتبط با «Messages vs Streams».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "best-practices-2",
+          "title": "Best Practices",
+          "description": "مباحث و تمرین‌های مرتبط با «Best Practices».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Best Practices for Message Queue Architecture",
+              "type": "article",
+              "url": "https://abhishek-patel.medium.com/best-practices-for-message-queue-architecture-f69d47e3565",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Messaging Queues",
+          "type": "article",
+          "url": "https://aws.amazon.com/message-queue/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Messaging Queues Tutorial",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_message_queues.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "infrastructure-as-code-iac",
+      "title": "Infrastructure as Code - IaC",
+      "description": "مباحث و تمرین‌های مرتبط با «Infrastructure as Code - IaC».",
+      "order": 33,
+      "children": [
+        {
+          "id": "declarative-vs-imperative",
+          "title": "Declarative vs Imperative",
+          "description": "مباحث و تمرین‌های مرتبط با «Declarative vs Imperative».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Infrastructure as Code: From Imperative to Declarative and Back Again",
+              "type": "article",
+              "url": "https://thenewstack.io/infrastructure-as-code-from-imperative-to-declarative-and-back-again/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Declarative vs Imperative Programming for Infrastructure as Code (IaC)",
+              "type": "article",
+              "url": "https://www.copado.com/resources/blog/declarative-vs-imperative-programming-for-infrastructure-as-code-iac",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "idempotency",
+          "title": "Idempotency",
+          "description": "مباحث و تمرین‌های مرتبط با «Idempotency».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Why idempotence was important to DevOps",
+              "type": "article",
+              "url": "https://dev.to/startpher/why-idempotence-was-important-to-devops-2jn3",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Idempotency: The Secret to Seamless DevOps and Infrastructure",
+              "type": "article",
+              "url": "https://medium.com/@tiwari.sushil/idempotency-the-secret-to-seamless-devops-and-infrastructure-bf22e63e1be5",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "reusability",
+          "title": "Reusability",
+          "description": "مباحث و تمرین‌های مرتبط با «Reusability».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is Infrastructure as Code (IaC)?",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "environmental-management-2",
+          "title": "Environmental Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Environmental Management».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "EWhat Is Environment as Code (EaaC)?",
+              "type": "article",
+              "url": "https://www.bunnyshell.com/blog/what-is-environment-as-code-eaac/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Infrastructure as Code?",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/iac/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Infrastructure as Code",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Infrastructure_as_code",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Infrastructure as Code?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=zWw2wuiKd5o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-analytics",
+      "title": "Data Analytics",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Analytics».",
+      "order": 34,
+      "children": [
+        {
+          "id": "data-analytics-item",
+          "title": "Data Analytics",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Analytics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Data Analytics",
+          "type": "course",
+          "url": "https://www.coursera.org/learn/introduction-to-data-analytics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The 4 Types of Data Analysis: Ultimate Guide",
+          "type": "article",
+          "url": "https://careerfoundry.com/en/blog/data-analytics/different-types-of-data-analysis/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Data Analysis? An Expert Guide With Examples",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/what-is-data-analysis-expert-guide",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Descriptive vs Diagnostic vs Predictive vs Prescriptive Analytics: What's the Difference?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QoEpC7jUb9k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Types of Data Analytics",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lsZnSgxMwBA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "business-intelligence",
+      "title": "Business Intelligence",
+      "description": "مباحث و تمرین‌های مرتبط با «Business Intelligence».",
+      "order": 35,
+      "children": [
+        {
+          "id": "business-intelligence-item",
+          "title": "Business Intelligence",
+          "description": "مباحث و تمرین‌های مرتبط با «Business Intelligence».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is business intelligence (BI)?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/business-intelligence",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Business intelligence: A complete overview",
+          "type": "article",
+          "url": "https://www.tableau.com/business-intelligence/what-is-business-intelligence",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is business intelligence?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=l98-BcB3UIE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authentication-vs-authorization",
+      "title": "Authentication vs Authorization",
+      "description": "مباحث و تمرین‌های مرتبط با «Authentication vs Authorization».",
+      "order": 36,
+      "children": [
+        {
+          "id": "authentication-vs-authorization-item",
+          "title": "Authentication vs Authorization",
+          "description": "مباحث و تمرین‌های مرتبط با «Authentication vs Authorization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Basic Authentication",
+          "type": "article",
+          "url": "https://roadmap.sh/guides/basic-authentication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Authentication vs Authorization?",
+          "type": "article",
+          "url": "https://auth0.com/intro-to-iam/authentication-vs-authorization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "encryption",
+      "title": "Encryption",
+      "description": "مباحث و تمرین‌های مرتبط با «Encryption».",
+      "order": 37,
+      "children": [
+        {
+          "id": "encryption-item",
+          "title": "Encryption",
+          "description": "مباحث و تمرین‌های مرتبط با «Encryption».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Encryption?",
+          "type": "article",
+          "url": "https://cloud.google.com/learn/what-is-encryption",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Encryption?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9chKCUQ8_VQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "tokenization",
+      "title": "Tokenization",
+      "description": "مباحث و تمرین‌های مرتبط با «Tokenization».",
+      "order": 38,
+      "children": [
+        {
+          "id": "tokenization-item",
+          "title": "Tokenization",
+          "description": "مباحث و تمرین‌های مرتبط با «Tokenization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Explaining Tokens — the Language and Currency of AI",
+          "type": "article",
+          "url": "https://blogs.nvidia.com/blog/ai-tokens-explained/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Tokenization? Types, Use Cases, Implementation",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/what-is-tokenization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-masking",
+      "title": "Data Masking",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Masking».",
+      "order": 39,
+      "children": [
+        {
+          "id": "data-masking-item",
+          "title": "Data Masking",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Masking».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data masking",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Data_masking",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is data masking?",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/data-masking/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-obfuscation",
+      "title": "Data Obfuscation",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Obfuscation».",
+      "order": 40,
+      "children": [
+        {
+          "id": "data-obfuscation-item",
+          "title": "Data Obfuscation",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Obfuscation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "reverse-etl",
+      "title": "Reverse ETL",
+      "description": "مباحث و تمرین‌های مرتبط با «Reverse ETL».",
+      "order": 41,
+      "children": [
+        {
+          "id": "etl-vs-reverse-etl",
+          "title": "ETL vs Reverse ETL",
+          "description": "مباحث و تمرین‌های مرتبط با «ETL vs Reverse ETL».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is ETL?",
+              "type": "article",
+              "url": "https://www.snowflake.com/guides/what-etl",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ETL vs Reverse ETL vs Data Activation",
+              "type": "article",
+              "url": "https://airbyte.com/data-engineering-resources/etl-vs-reverse-etl-vs-data-activation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ETL vs Reverse ETL: An Overview, Key Differences, & Use Cases",
+              "type": "article",
+              "url": "https://portable.io/learn/etl-vs-reverse-etl",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Reverse ETL? A Helpful Guide",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/reverse-etl",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Reverse ETL?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=DRAGfc5or2Y",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "machine-learning",
+      "title": "Machine Learning",
+      "description": "مباحث و تمرین‌های مرتبط با «Machine Learning».",
+      "order": 42,
+      "children": [
+        {
+          "id": "machine-learning-item",
+          "title": "Machine Learning",
+          "description": "مباحث و تمرین‌های مرتبط با «Machine Learning».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Machine Learning (ML)?",
+          "type": "article",
+          "url": "https://www.ibm.com/topics/machine-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Machine Learning?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9gGnTQTYNaE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "mlops",
+      "title": "MLOps",
+      "description": "مباحث و تمرین‌های مرتبط با «MLOps».",
+      "order": 43,
+      "children": [
+        {
+          "id": "mlops-item",
+          "title": "MLOps",
+          "description": "مباحث و تمرین‌های مرتبط با «MLOps».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

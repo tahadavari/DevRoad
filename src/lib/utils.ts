@@ -19,6 +19,8 @@ export function getResourceTypeLabel(type: string): string {
     course: "دوره",
     video: "ویدیو",
     playlist: "پلی‌لیست",
+    search: "جستجو",
+    "playlist-search": "جستجوی پلی‌لیست",
   };
   return labels[type] || type;
 }
@@ -29,6 +31,8 @@ export function getResourceTypeColor(type: string): string {
     course: "bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300",
     video: "bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-300",
     playlist: "bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-300",
+    search: "bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-300",
+    "playlist-search": "bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-300",
   };
   return colors[type] || "bg-gray-100 text-gray-800";
 }

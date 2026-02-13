@@ -1,0 +1,65 @@
+{
+  "slug": "code-review",
+  "title": "Code Review",
+  "description": "Learn what to focus on when conducting a code review.",
+  "steps": [
+    {
+      "id": "documentation",
+      "title": "Documentation",
+      "description": "مباحث و تمرین‌های مرتبط با «Documentation».",
+      "order": 1,
+      "children": [
+        {
+          "id": "documentation-item",
+          "title": "Documentation",
+          "description": "مباحث و تمرین‌های مرتبط با «Documentation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "implementation-semantics",
+      "title": "Implementation Semantics",
+      "description": "مباحث و تمرین‌های مرتبط با «Implementation Semantics».",
+      "order": 2,
+      "children": [
+        {
+          "id": "implementation-semantics-item",
+          "title": "Implementation Semantics",
+          "description": "مباحث و تمرین‌های مرتبط با «Implementation Semantics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "api-semantics",
+      "title": "API Semantics",
+      "description": "مباحث و تمرین‌های مرتبط با «API Semantics».",
+      "order": 3,
+      "children": [
+        {
+          "id": "api-semantics-item",
+          "title": "API Semantics",
+          "description": "مباحث و تمرین‌های مرتبط با «API Semantics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,692 @@
+{
+  "slug": "graphql",
+  "title": "GraphQL",
+  "description": "Step by step guide to learn GraphQL in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "problems-graphql-solves",
+          "title": "Problems GraphQL Solves",
+          "description": "مباحث و تمرین‌های مرتبط با «Problems GraphQL Solves».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-graphql",
+          "title": "What is GraphQL",
+          "description": "مباحث و تمرین‌های مرتبط با «What is GraphQL».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Introduction to graphQL",
+              "type": "article",
+              "url": "https://graphql.org/learn/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - What is graphQL?",
+              "type": "article",
+              "url": "https://www.howtographql.com/basics/0-introduction/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about GraphQL",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/graphql?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "thinking-in-graphs",
+          "title": "Thinking in Graphs",
+          "description": "مباحث و تمرین‌های مرتبط با «Thinking in Graphs».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "GraphQL - Thinking in Graphs",
+              "type": "article",
+              "url": "https://graphql.org/learn/thinking-in-graphs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "graphql-on-frontend",
+          "title": "GraphQL on Frontend",
+          "description": "مباحث و تمرین‌های مرتبط با «GraphQL on Frontend».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Get started with GraphQL on the frontend",
+              "type": "article",
+              "url": "https://www.howtographql.com/react-apollo/0-introduction/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Frontend Development",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/frontend?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "graphql-on-backend",
+          "title": "GraphQL on Backend",
+          "description": "مباحث و تمرین‌های مرتبط با «GraphQL on Backend».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "How to use GraphQL in Backend?",
+              "type": "article",
+              "url": "https://www.howtographql.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Backend Development",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to GraphQL",
+          "type": "article",
+          "url": "https://graphql.org/learn/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting started with GraphQL",
+          "type": "article",
+          "url": "https://graphql.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about GraphQL",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/graphql?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "graphql-queries",
+      "title": "GraphQL Queries",
+      "description": "مباحث و تمرین‌های مرتبط با «GraphQL Queries».",
+      "order": 2,
+      "children": [
+        {
+          "id": "variables",
+          "title": "Variables",
+          "description": "مباحث و تمرین‌های مرتبط با «Variables».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Intro to Variables in GraphQL",
+              "type": "article",
+              "url": "https://graphql.org/learn/queries/#variables",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GraphQL Variables",
+              "type": "article",
+              "url": "https://dgraph.io/docs/graphql/api/variables/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "aliases",
+          "title": "Aliases",
+          "description": "مباحث و تمرین‌های مرتبط با «Aliases».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What are GraphQL Aliases?",
+              "type": "article",
+              "url": "https://graphql.org/learn/queries/#aliases",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "arguments",
+          "title": "Arguments",
+          "description": "مباحث و تمرین‌های مرتبط با «Arguments».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "GraphQL - Arguments",
+              "type": "article",
+              "url": "https://graphql.org/learn/queries/#arguments",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "directives",
+          "title": "Directives",
+          "description": "مباحث و تمرین‌های مرتبط با «Directives».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Directives in GraphQL",
+              "type": "article",
+              "url": "https://graphql.org/learn/queries/#directives",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "fragments",
+          "title": "Fragments",
+          "description": "مباحث و تمرین‌های مرتبط با «Fragments».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Intro to Fragments in GraphQL",
+              "type": "article",
+              "url": "https://graphql.org/learn/queries/#fragments",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "fields",
+          "title": "Fields",
+          "description": "مباحث و تمرین‌های مرتبط با «Fields».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "GraphQL: Types and Fields",
+              "type": "article",
+              "url": "https://graphql.org/learn/queries/#fields",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-are-queries",
+          "title": "What are Queries?",
+          "description": "مباحث و تمرین‌های مرتبط با «What are Queries?».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Introduction of GraphQL - Query",
+              "type": "article",
+              "url": "https://graphql.org/learn/queries/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are GraphQL Queries?",
+          "type": "article",
+          "url": "https://graphql.org/learn/queries/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about GraphQL",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/graphql?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "mutations",
+      "title": "Mutations",
+      "description": "مباحث و تمرین‌های مرتبط با «Mutations».",
+      "order": 3,
+      "children": [
+        {
+          "id": "multiple-fields-in-mutation",
+          "title": "Multiple Fields in Mutation",
+          "description": "مباحث و تمرین‌های مرتبط با «Multiple Fields in Mutation».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Guide to Multiple fields in mutations",
+              "type": "article",
+              "url": "https://graphql.org/learn/mutations/#multiple-fields-in-mutations",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "operation-name",
+          "title": "Operation Name",
+          "description": "مباحث و تمرین‌های مرتبط با «Operation Name».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Intro to Operation Name",
+              "type": "article",
+              "url": "https://graphql.org/learn/queries/#operation-name",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-are-mutations",
+          "title": "What are Mutations?",
+          "description": "مباحث و تمرین‌های مرتبط با «What are Mutations?».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Get started with Mutations",
+              "type": "article",
+              "url": "https://graphql.org/learn/mutations/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Getting started with Mutations",
+          "type": "article",
+          "url": "https://graphql.org/learn/queries/#mutations",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "subscriptions",
+      "title": "Subscriptions",
+      "description": "مباحث و تمرین‌های مرتبط با «Subscriptions».",
+      "order": 4,
+      "children": [
+        {
+          "id": "what-are-subscriptions",
+          "title": "What are Subscriptions",
+          "description": "مباحث و تمرین‌های مرتبط با «What are Subscriptions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How GraphQL Subscriptions Work?",
+              "type": "article",
+              "url": "https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "event-based-subscriptions",
+          "title": "Event Based Subscriptions",
+          "description": "مباحث و تمرین‌های مرتبط با «Event Based Subscriptions».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "GraphQL Subscriptions Documentation",
+              "type": "article",
+              "url": "https://graphql.org/blog/subscriptions-in-graphql-and-relay/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GraphQL Subscriptions",
+              "type": "article",
+              "url": "https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "live-queries",
+          "title": "Live Queries",
+          "description": "مباحث و تمرین‌های مرتبط با «Live Queries».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "GraphQL Live Queries",
+              "type": "article",
+              "url": "https://the-guild.dev/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "defer-stream-directives",
+          "title": "@defer / @stream directives",
+          "description": "مباحث و تمرین‌های مرتبط با «@defer / @stream directives».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Defer and Stream in GraphQL",
+              "type": "article",
+              "url": "https://the-guild.dev/graphql/yoga-server/docs/features/defer-stream",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Subscriptions and Live Queries - Real Time with GraphQL",
+          "type": "article",
+          "url": "https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "schema",
+      "title": "Schema",
+      "description": "مباحث و تمرین‌های مرتبط با «Schema».",
+      "order": 5,
+      "children": [
+        {
+          "id": "schema-item",
+          "title": "Schema",
+          "description": "مباحث و تمرین‌های مرتبط با «Schema».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Schema?",
+          "type": "article",
+          "url": "https://graphql.org/learn/schema/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "validation",
+      "title": "Validation",
+      "description": "مباحث و تمرین‌های مرتبط با «Validation».",
+      "order": 6,
+      "children": [
+        {
+          "id": "validation-item",
+          "title": "Validation",
+          "description": "مباحث و تمرین‌های مرتبط با «Validation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Get Started with Validation in GraphQL",
+          "type": "article",
+          "url": "https://graphql.org/learn/validation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "execution",
+      "title": "Execution",
+      "description": "مباحث و تمرین‌های مرتبط با «Execution».",
+      "order": 7,
+      "children": [
+        {
+          "id": "execution-item",
+          "title": "Execution",
+          "description": "مباحث و تمرین‌های مرتبط با «Execution».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Get Started with Execution in GraphQL",
+          "type": "article",
+          "url": "https://graphql.org/learn/execution/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Execution",
+          "type": "article",
+          "url": "https://graphql.org/graphql-js/execution/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "serving-over-internet",
+      "title": "Serving over Internet",
+      "description": "مباحث و تمرین‌های مرتبط با «Serving over Internet».",
+      "order": 8,
+      "children": [
+        {
+          "id": "serving-over-internet-item",
+          "title": "Serving over Internet",
+          "description": "مباحث و تمرین‌های مرتبط با «Serving over Internet».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Serving over HTTPs",
+          "type": "article",
+          "url": "https://graphql.org/learn/serving-over-http/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pagination",
+      "title": "Pagination",
+      "description": "مباحث و تمرین‌های مرتبط با «Pagination».",
+      "order": 9,
+      "children": [
+        {
+          "id": "pagination-item",
+          "title": "Pagination",
+          "description": "مباحث و تمرین‌های مرتبط با «Pagination».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Get Started with Pagination",
+          "type": "article",
+          "url": "https://graphql.org/learn/pagination/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

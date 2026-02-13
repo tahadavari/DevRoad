@@ -1,0 +1,1356 @@
+{
+  "slug": "ai-engineer",
+  "title": "AI Engineer",
+  "description": "Step by step guide to becoming an AI Engineer in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-an-ai-engineer",
+          "title": "What is an AI Engineer?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is an AI Engineer?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How to Become an AI Engineer: Duties, Skills, and Salary",
+              "type": "article",
+              "url": "https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AI Engineers: What they do and how to become one",
+              "type": "article",
+              "url": "https://www.techtarget.com/whatis/feature/How-to-become-an-artificial-intelligence-engineer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ai-engineer-vs-ml-engineer",
+          "title": "AI Engineer vs ML Engineer",
+          "description": "مباحث و تمرین‌های مرتبط با «AI Engineer vs ML Engineer».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What does an AI Engineer do?",
+              "type": "article",
+              "url": "https://www.codecademy.com/resources/blog/what-does-an-ai-engineer-do/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is an ML Engineer?",
+              "type": "article",
+              "url": "https://www.coursera.org/articles/what-is-machine-learning-engineer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AI vs ML",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=4RixMPF4xis",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "roles-and-responsiblities",
+          "title": "Roles and Responsiblities",
+          "description": "مباحث و تمرین‌های مرتبط با «Roles and Responsiblities».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "AI Engineer Job Description",
+              "type": "article",
+              "url": "https://resources.workable.com/ai-engineer-job-description",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Become an AI Engineer (Plus Job Duties and Skills)",
+              "type": "article",
+              "url": "https://www.indeed.com/career-advice/finding-a-job/ai-engineer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "impact-on-product-development",
+          "title": "Impact on Product Development",
+          "description": "مباحث و تمرین‌های مرتبط با «Impact on Product Development».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "AI in Product Development: Netflix, BMW, and PepsiCo",
+              "type": "article",
+              "url": "https://www.virtasant.com/ai-today/ai-in-product-development-netflix-bmw#:~:text=AI%20can%20help%20make%20product,and%20gain%20a%20competitive%20edge.",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AI Product Development: Why Are Founders So Fascinated By The Potential?",
+              "type": "article",
+              "url": "https://www.techmagic.co/blog/ai-product-development/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "AI Engineering",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_engineering",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AI vs Machine Learning",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4RixMPF4xis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AI vs Machine Learning vs Deep Learning vs GenAI",
+          "type": "video",
+          "url": "https://youtu.be/qYNweeDHiyU?si=eRJXjtk8Q-RKQ8Ms",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pre-trained-models",
+      "title": "Pre-trained Models",
+      "description": "مباحث و تمرین‌های مرتبط با «Pre-trained Models».",
+      "order": 2,
+      "children": [
+        {
+          "id": "pre-trained-models-item",
+          "title": "Pre-trained Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Pre-trained Models».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pre-trained Models: Past, Present and Future",
+          "type": "article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2666651021000231",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Transforming Language with Generative Pre-trained Transformers (GPT)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=bdICz_sBI34",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "openai-api",
+      "title": "OpenAI API",
+      "description": "مباحث و تمرین‌های مرتبط با «OpenAI API».",
+      "order": 3,
+      "children": [
+        {
+          "id": "limitations-and-considerations",
+          "title": "Limitations and Considerations",
+          "description": "مباحث و تمرین‌های مرتبط با «Limitations and Considerations».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Pre-trained Topic Models: Advantages and Limitation",
+              "type": "article",
+              "url": "https://www.kaggle.com/code/amalsalilan/pretrained-topic-models-advantages-and-limitation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Should You Use Open Source Large Language Models?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=y9k-U9AuDeM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "benefits-of-pre-trained-models",
+          "title": "Benefits of Pre-trained Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Benefits of Pre-trained Models».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Why Pre-Trained Models Matter For Machine Learning",
+              "type": "article",
+              "url": "https://www.ahead.com/resources/why-pre-trained-models-matter-for-machine-learning/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why You Should Use Pre-Trained Models Versus Building Your Own",
+              "type": "article",
+              "url": "https://cohere.com/blog/pre-trained-vs-in-house-nlp-models",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "chat-completions-api",
+          "title": "Chat Completions API",
+          "description": "مباحث و تمرین‌های مرتبط با «Chat Completions API».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Create Chat Completions",
+              "type": "article",
+              "url": "https://platform.openai.com/docs/api-reference/chat/create",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Start with Chat Completions API",
+              "type": "article",
+              "url": "https://medium.com/the-ai-archives/getting-started-with-openais-chat-completions-api-in-2024-462aae00bf0a",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "writing-prompts",
+          "title": "Writing Prompts",
+          "description": "مباحث و تمرین‌های مرتبط با «Writing Prompts».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Visit Dedicated Prompt Engineering Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/prompt-engineering",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Write AI prompts",
+              "type": "article",
+              "url": "https://www.descript.com/blog/article/how-to-write-ai-prompts",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Prompt Engineering Guide",
+              "type": "article",
+              "url": "https://www.promptingguide.ai/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "open-ai-playground",
+          "title": "Open AI Playground",
+          "description": "مباحث و تمرین‌های مرتبط با «Open AI Playground».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "OpenAI Playground",
+              "type": "article",
+              "url": "https://platform.openai.com/playground/chat",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use OpenAi Playground Like a Pro",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=PLxpvtODiqs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OpenAI API",
+          "type": "article",
+          "url": "https://openai.com/api/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "opensource-ai",
+      "title": "OpenSource AI",
+      "description": "مباحث و تمرین‌های مرتبط با «OpenSource AI».",
+      "order": 4,
+      "children": [
+        {
+          "id": "open-vs-closed-source-models",
+          "title": "Open vs Closed Source Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Open vs Closed Source Models».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "OpenAI vs. Open Source LLM",
+              "type": "article",
+              "url": "https://ubiops.com/openai-vs-open-source-llm/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Open-Source vs Closed-Source LLMs",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=710PDpuLwOc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "popular-open-source-models",
+          "title": "Popular Open Source Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Popular Open Source Models».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "The Best Large Language Models (LLMs) in 2024",
+              "type": "article",
+              "url": "https://zapier.com/blog/best-llm/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "8 Top Open-Source LLMs for 2024 and Their Uses",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/top-open-source-llms",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Open Source AI Is the Path Forward",
+          "type": "article",
+          "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Should You Use Open Source Large Language Models?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=y9k-U9AuDeM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "hugging-face",
+      "title": "Hugging Face",
+      "description": "مباحث و تمرین‌های مرتبط با «Hugging Face».",
+      "order": 5,
+      "children": [
+        {
+          "id": "hugging-face-item",
+          "title": "Hugging Face",
+          "description": "مباحث و تمرین‌های مرتبط با «Hugging Face».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Hugging Face Official Video Course",
+          "type": "course",
+          "url": "https://www.youtube.com/watch?v=00GKzGyWFEs&list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Hugging Face",
+          "type": "article",
+          "url": "https://huggingface.co",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Hugging Face? - Machine Learning Hub Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1AUjKfpRZVo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ai-safety-and-ethics",
+      "title": "AI Safety and Ethics",
+      "description": "مباحث و تمرین‌های مرتبط با «AI Safety and Ethics».",
+      "order": 6,
+      "children": [
+        {
+          "id": "ai-safety-and-ethics-item",
+          "title": "AI Safety and Ethics",
+          "description": "مباحث و تمرین‌های مرتبط با «AI Safety and Ethics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding Artificial Intelligence Ethics and Safety",
+          "type": "article",
+          "url": "https://www.turing.ac.uk/news/publications/understanding-artificial-intelligence-ethics-and-safety",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is AI Ethics?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=aGwYtUzMQUk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ollama",
+      "title": "Ollama",
+      "description": "مباحث و تمرین‌های مرتبط با «Ollama».",
+      "order": 7,
+      "children": [
+        {
+          "id": "ollama-item",
+          "title": "Ollama",
+          "description": "مباحث و تمرین‌های مرتبط با «Ollama».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ollama",
+          "type": "article",
+          "url": "https://ollama.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ollama: Easily run LLMs locally",
+          "type": "article",
+          "url": "https://klu.ai/glossary/ollama",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Ollama? Running Local LLMs Made Simple",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5RIOQuHOihY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-are-embeddings",
+      "title": "What are Embeddings",
+      "description": "مباحث و تمرین‌های مرتبط با «What are Embeddings».",
+      "order": 8,
+      "children": [
+        {
+          "id": "what-are-embeddings-item",
+          "title": "What are Embeddings",
+          "description": "مباحث و تمرین‌های مرتبط با «What are Embeddings».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introducing Text and Code Embeddings",
+          "type": "article",
+          "url": "https://openai.com/index/introducing-text-and-code-embeddings/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Embeddings",
+          "type": "article",
+          "url": "https://www.cloudflare.com/learning/ai/what-are-embeddings/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "open-ai-embeddings-api",
+      "title": "Open AI Embeddings API",
+      "description": "مباحث و تمرین‌های مرتبط با «Open AI Embeddings API».",
+      "order": 9,
+      "children": [
+        {
+          "id": "open-ai-embedding-models",
+          "title": "Open AI Embedding Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Open AI Embedding Models».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "OpenAI Embedding Models",
+              "type": "article",
+              "url": "https://platform.openai.com/docs/guides/embeddings/embedding-models",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OpenAI Embeddings Explained in 5 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=8kJStTRuMcs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pricing-considerations",
+          "title": "Pricing Considerations",
+          "description": "مباحث و تمرین‌های مرتبط با «Pricing Considerations».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "OpenAI Pricing",
+              "type": "article",
+              "url": "https://openai.com/api/pricing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OpenAI Embeddings API",
+          "type": "article",
+          "url": "https://platform.openai.com/docs/api-reference/embeddings/create",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Master OpenAI Embedding API",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9oCS-VQupoc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "open-source-embeddings",
+      "title": "Open-Source Embeddings",
+      "description": "مباحث و تمرین‌های مرتبط با «Open-Source Embeddings».",
+      "order": 10,
+      "children": [
+        {
+          "id": "sentence-transformers",
+          "title": "Sentence Transformers",
+          "description": "مباحث و تمرین‌های مرتبط با «Sentence Transformers».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is BERT?",
+              "type": "article",
+              "url": "https://h2o.ai/wiki/bert/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SentenceTransformers Documentation",
+              "type": "article",
+              "url": "https://sbert.net/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using Sentence Transformers at Hugging Face",
+              "type": "article",
+              "url": "https://huggingface.co/docs/hub/sentence-transformers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "models-on-hugging-face",
+          "title": "Models on Hugging Face",
+          "description": "مباحث و تمرین‌های مرتبط با «Models on Hugging Face».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Hugging Face Embedding Models",
+              "type": "article",
+              "url": "https://huggingface.co/models?pipeline_tag=feature-extraction",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hugging Face - Text embeddings & semantic search",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=OATCgQtNX2o",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Embeddings",
+          "type": "article",
+          "url": "https://platform.openai.com/docs/guides/embeddings",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Guide to Open-Source Embedding Models",
+          "type": "article",
+          "url": "https://www.bentoml.com/blog/a-guide-to-open-source-embedding-models",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "vector-databases",
+      "title": "Vector Databases",
+      "description": "مباحث و تمرین‌های مرتبط با «Vector Databases».",
+      "order": 11,
+      "children": [
+        {
+          "id": "purpose-and-functionality",
+          "title": "Purpose and Functionality",
+          "description": "مباحث و تمرین‌های مرتبط با «Purpose and Functionality».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is a Vector Database? Top 12 Use Cases",
+              "type": "article",
+              "url": "https://lakefs.io/blog/what-is-vector-databases/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vector Databases: Intro, Use Cases",
+              "type": "article",
+              "url": "https://www.v7labs.com/blog/vector-databases",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Vector Databases",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/vectorize/reference/what-is-a-vector-database/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Vector Databases?",
+          "type": "article",
+          "url": "https://www.mongodb.com/resources/basics/databases/vector-databases",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-are-rags",
+      "title": "What are RAGs?",
+      "description": "مباحث و تمرین‌های مرتبط با «What are RAGs?».",
+      "order": 12,
+      "children": [
+        {
+          "id": "what-are-rags-item",
+          "title": "What are RAGs?",
+          "description": "مباحث و تمرین‌های مرتبط با «What are RAGs?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is RAG?",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/retrieval-augmented-generation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Retrieval-Augmented Generation? IBM",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=T-D1OfcDW1M",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "open-ai-response-api",
+      "title": "Open AI Response API",
+      "description": "مباحث و تمرین‌های مرتبط با «Open AI Response API».",
+      "order": 13,
+      "children": [
+        {
+          "id": "open-ai-response-api-item",
+          "title": "Open AI Response API",
+          "description": "مباحث و تمرین‌های مرتبط با «Open AI Response API».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OpenAI Assistants API – Course for Beginners",
+          "type": "course",
+          "url": "https://www.youtube.com/watch?v=qHPonmSX4Ms",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Assistants API",
+          "type": "article",
+          "url": "https://platform.openai.com/docs/assistants/overview",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ai-agents",
+      "title": "AI Agents",
+      "description": "مباحث و تمرین‌های مرتبط با «AI Agents».",
+      "order": 14,
+      "children": [
+        {
+          "id": "agents-usecases",
+          "title": "Agents Usecases",
+          "description": "مباحث و تمرین‌های مرتبط با «Agents Usecases».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Top 15 Use Cases Of AI Agents In Business",
+              "type": "article",
+              "url": "https://www.ampcome.com/post/15-use-cases-of-ai-agents-in-business",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Brief Guide on AI Agents: Benefits and Use Cases",
+              "type": "article",
+              "url": "https://www.codica.com/blog/brief-guide-on-ai-agents/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Complete Guide to Building AI Agents for Beginners",
+              "type": "video",
+              "url": "https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "react-prompting",
+          "title": "ReAct Prompting",
+          "description": "مباحث و تمرین‌های مرتبط با «ReAct Prompting».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "ReAct Prompting",
+              "type": "article",
+              "url": "https://www.promptingguide.ai/techniques/react",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ReAct Prompting: How We Prompt for High-Quality Results from LLMs",
+              "type": "article",
+              "url": "https://www.width.ai/post/react-prompting",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Building an AI Agent Tutorial - LangChain",
+          "type": "article",
+          "url": "https://python.langchain.com/docs/tutorials/agents/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AI Agents and Their Types",
+          "type": "article",
+          "url": "https://play.ht/blog/ai-agents-use-cases/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Complete Guide to Building AI Agents for Beginners",
+          "type": "video",
+          "url": "https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "model-context-protocol-mcp",
+      "title": "Model Context Protocol (MCP)",
+      "description": "مباحث و تمرین‌های مرتبط با «Model Context Protocol (MCP)».",
+      "order": 15,
+      "children": [
+        {
+          "id": "model-context-protocol-mcp-item",
+          "title": "Model Context Protocol (MCP)",
+          "description": "مباحث و تمرین‌های مرتبط با «Model Context Protocol (MCP)».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Model Context Protocol (MCP) Course",
+          "type": "course",
+          "url": "https://huggingface.co/learn/mcp-course/en/unit0/introduction",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Model Context Protocol",
+          "type": "article",
+          "url": "https://modelcontextprotocol.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Model Context Protocol",
+          "type": "article",
+          "url": "https://github.com/modelcontextprotocol",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Model Context Protocol (MCP): A Guide With Demo Project",
+          "type": "article",
+          "url": "https://www.datacamp.com/tutorial/mcp-model-context-protocol",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is MCP? Integrate AI Agents with Databases & APIs",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eur8dUO9mvE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "multimodal-ai",
+      "title": "Multimodal AI",
+      "description": "مباحث و تمرین‌های مرتبط با «Multimodal AI».",
+      "order": 16,
+      "children": [
+        {
+          "id": "multimodal-ai-item",
+          "title": "Multimodal AI",
+          "description": "مباحث و تمرین‌های مرتبط با «Multimodal AI».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "A Multimodal World - Hugging Face",
+          "type": "article",
+          "url": "https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/a_multimodal_world",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Multimodal AI - Google",
+          "type": "article",
+          "url": "https://cloud.google.com/use-cases/multimodal-ai?hl=en",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is Multimodal AI? A Complete Introduction",
+          "type": "article",
+          "url": "https://www.splunk.com/en_us/blog/learn/multimodal-ai.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "development-tools",
+      "title": "Development Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Development Tools».",
+      "order": 17,
+      "children": [
+        {
+          "id": "code-completion-tools",
+          "title": "Code Completion Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Code Completion Tools».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "GitHub Copilot",
+              "type": "article",
+              "url": "https://github.com/features/copilot",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Codeium",
+              "type": "article",
+              "url": "https://codeium.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Supermaven",
+              "type": "article",
+              "url": "https://supermaven.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tabnine",
+              "type": "article",
+              "url": "https://www.tabnine.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "code-completion-tools-2",
+          "title": "Code Completion Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Code Completion Tools».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "GitHub Copilot",
+              "type": "article",
+              "url": "https://github.com/features/copilot",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Codeium",
+              "type": "article",
+              "url": "https://codeium.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Supermaven",
+              "type": "article",
+              "url": "https://supermaven.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tabnine",
+              "type": "article",
+              "url": "https://www.tabnine.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "v0 Website",
+          "type": "article",
+          "url": "https://v0.dev",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Aider - AI Pair Programming in Terminal",
+          "type": "article",
+          "url": "https://aider.chat/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Replit AI",
+          "type": "article",
+          "url": "https://replit.com/ai",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Pieces",
+          "type": "article",
+          "url": "https://pieces.app",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

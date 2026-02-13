@@ -1,0 +1,572 @@
+{
+  "slug": "cyber-security",
+  "title": "Cyber Security",
+  "description": "Step by step guide to becoming a Cyber Security Expert in 2026",
+  "steps": [
+    {
+      "id": "fundamental-it-skills",
+      "title": "Fundamental IT Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Fundamental IT Skills».",
+      "order": 1,
+      "children": [
+        {
+          "id": "fundamental-it-skills-item",
+          "title": "Fundamental IT Skills",
+          "description": "مباحث و تمرین‌های مرتبط با «Fundamental IT Skills».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cisco Networking Academy: Introduction to Cybersecurity",
+          "type": "course",
+          "url": "https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "8 In-Demand IT Skills to Boost Your Resume in 2025",
+          "type": "article",
+          "url": "https://www.coursera.org/articles/key-it-skills-for-your-career",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Top IT Skills in Demand",
+          "type": "article",
+          "url": "https://www.comptia.org/en/blog/top-it-skills-in-demand",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "IT Skills: Definition and Examples",
+          "type": "article",
+          "url": "https://www.indeed.com/career-advice/finding-a-job/it-skills",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "operating-systems",
+      "title": "Operating Systems",
+      "description": "مباحث و تمرین‌های مرتبط با «Operating Systems».",
+      "order": 2,
+      "children": [
+        {
+          "id": "operating-systems-item",
+          "title": "Operating Systems",
+          "description": "مباحث و تمرین‌های مرتبط با «Operating Systems».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a Operating System?",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Operating_system",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "8 Different Types of Operating Systems With Examples",
+          "type": "article",
+          "url": "https://techspirited.com/different-types-of-operating-systems",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is an operating system as fast as possible",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=pVzRTmdd9j0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking-knowledge",
+      "title": "Networking Knowledge",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking Knowledge».",
+      "order": 3,
+      "children": [
+        {
+          "id": "networking-knowledge-item",
+          "title": "Networking Knowledge",
+          "description": "مباحث و تمرین‌های مرتبط با «Networking Knowledge».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are Network Protocols?",
+          "type": "article",
+          "url": "https://www.solarwinds.com/resources/it-glossary/network-protocols",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security-skills-and-knowledge",
+      "title": "Security Skills and Knowledge",
+      "description": "مباحث و تمرین‌های مرتبط با «Security Skills and Knowledge».",
+      "order": 4,
+      "children": [
+        {
+          "id": "blue-red-purple-teams",
+          "title": "Blue / Red / Purple Teams",
+          "description": "مباحث و تمرین‌های مرتبط با «Blue / Red / Purple Teams».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is a Blue Team?",
+              "type": "article",
+              "url": "https://www.checkpoint.com/cyber-hub/cyber-security/what-is-a-blue-team/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Red Teaming?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/red-teaming",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Purple Teaming Explained",
+              "type": "article",
+              "url": "https://www.crowdstrike.com/cybersecurity-101/purple-teaming/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Red Team VS Blue Team: What's the Difference?",
+              "type": "article",
+              "url": "https://www.crowdstrike.com/en-us/cybersecurity-101/advisory-services/red-team-vs-blue-team/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "cloud-skills-and-knowledge",
+      "title": "Cloud Skills and Knowledge",
+      "description": "مباحث و تمرین‌های مرتبط با «Cloud Skills and Knowledge».",
+      "order": 5,
+      "children": [
+        {
+          "id": "cloud-skills-and-knowledge-item",
+          "title": "Cloud Skills and Knowledge",
+          "description": "مباحث و تمرین‌های مرتبط با «Cloud Skills and Knowledge».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "7 Cloud Computing skills to know",
+          "type": "article",
+          "url": "https://www.coursera.org/articles/cloud-computing-skills",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Cloud Skills are Essential?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=udKBDRcj178",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "programming-skills",
+      "title": "Programming Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Programming Skills».",
+      "order": 6,
+      "children": [
+        {
+          "id": "python",
+          "title": "Python",
+          "description": "مباحث و تمرین‌های مرتبط با «Python».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit Dedicated Python Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/python",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Full Course 2024",
+              "type": "course",
+              "url": "https://www.youtube.com/watch?v=ix9cRaBkVe0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python in 100 Seconds",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=x7X9w_GIm1s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "go",
+          "title": "Go",
+          "description": "مباحث و تمرین‌های مرتبط با «Go».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Visit Dedicated Go Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/golang",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go in 100 seconds",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=446E-r0rXHI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go Tutorial for beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=yyUHQIec83I",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "javascript",
+          "title": "JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «JavaScript».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Visit Dedicated JavaScript Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is JavaScript?",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "100 JavaScript concepts you need to know",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lkIFF4maKMU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "c",
+          "title": "C++",
+          "description": "مباحث و تمرین‌های مرتبط با «C++».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Visit Dedicated C++ Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/cpp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C++ Introduction",
+              "type": "article",
+              "url": "https://www.w3schools.com/cpp/cpp_intro.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C++ Full Course - BroCode",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=-TkoO8Z07hI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bash",
+          "title": "Bash",
+          "description": "مباحث و تمرین‌های مرتبط با «Bash».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Beginners Guide To The Bash Terminal",
+              "type": "course",
+              "url": "https://www.youtube.com/watch?v=oxuRxtrO2Ag",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Start learning bash",
+              "type": "course",
+              "url": "https://linuxhandbook.com/bash/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash",
+              "type": "article",
+              "url": "https://www.gnu.org/software/bash/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash in 100 Seconds",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=I4EWvMFj37g",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "power-shell",
+          "title": "Power Shell",
+          "description": "مباحث و تمرین‌های مرتبط با «Power Shell».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "PowerShell.org",
+              "type": "article",
+              "url": "https://powershell.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learning PowerShell GitHub Repository",
+              "type": "article",
+              "url": "https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Microsoft's PowerShell Documentation",
+              "type": "article",
+              "url": "https://docs.microsoft.com/en-us/powershell/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PowerShell Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ZOoCaWyifmI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Linux Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/linux",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visit Python Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/python",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visit C++ Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/cpp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visit Java Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/java",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visit JavaScript Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/javascript",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visit Typescript Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/typescript",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

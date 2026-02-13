@@ -1,0 +1,2257 @@
+{
+  "slug": "aspnet-core",
+  "title": "ASP.NET Core",
+  "description": "Step by step guide to becoming an ASP.NET core developer in 2026",
+  "steps": [
+    {
+      "id": "learn-the-basics-of-c",
+      "title": "Learn the Basics of C#",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn the Basics of C#».",
+      "order": 1,
+      "children": [
+        {
+          "id": "c",
+          "title": "C#",
+          "description": "مباحث و تمرین‌های مرتبط با «C#».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "C# official website?",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C# Full Course - Learn C# 10 and .NET 6 in 7 hours",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=q_F4PyW8GTg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about C#",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/csharp?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "net",
+          "title": ".NET",
+          "description": "مباحث و تمرین‌های مرتبط با «.NET».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is .NET?",
+              "type": "article",
+              "url": "https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "An Overview of .NET",
+              "type": "article",
+              "url": "https://auth0.com/blog/what-is-dotnet-platform-overview/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about .NET",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/.net?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "stylecop-rules",
+          "title": "StyleCop Rules",
+          "description": "مباحث و تمرین‌های مرتبط با «StyleCop Rules».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "StyleCop GitHub official page",
+              "type": "article",
+              "url": "https://github.com/StyleCop/StyleCop",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "StyeleCop Analyzers, a more modern version of StyleCop",
+              "type": "article",
+              "url": "https://github.com/DotNetAnalyzers/StyleCopAnalyzers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "StyleCop: A Detailed Guide to Starting and Using It",
+              "type": "article",
+              "url": "https://blog.submain.com/stylecop-detailed-guide/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The StyleCop setup and Advantages",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=dmpOKmz3lPw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to C#",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Basics Of C#",
+          "type": "article",
+          "url": "https://www.c-sharpcorner.com/UploadFile/e9fdcd/basics-of-C-Sharp/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "C# Tutorials",
+          "type": "article",
+          "url": "https://dotnettutorials.net/course/csharp-dot-net-tutorials/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about C#",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/csharp?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "general-development-skills",
+      "title": "General Development Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «General Development Skills».",
+      "order": 2,
+      "children": [
+        {
+          "id": "git-version-control",
+          "title": "Git - Version Control",
+          "description": "مباحث و تمرین‌های مرتبط با «Git - Version Control».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Learn Git with Tutorials, News and Tips - Atlassian",
+              "type": "article",
+              "url": "https://www.atlassian.com/git",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Cheat Sheet",
+              "type": "article",
+              "url": "https://cs.fyi/guide/git-cheatsheet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git & GitHub Crash Course For Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Git",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/git?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "github-gitlab-bitbucket",
+          "title": "GitHub, GitLab, BitBucket",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub, GitLab, BitBucket».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "GitHub: Where the world builds software",
+              "type": "article",
+              "url": "https://github.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GitLab: Iterate faster, innovate together",
+              "type": "article",
+              "url": "https://gitlab.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "BitBucket: The Git solution for professional teams",
+              "type": "article",
+              "url": "https://bitbucket.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "http-https-protocol",
+          "title": "HTTP / HTTPs Protocol",
+          "description": "مباحث و تمرین‌های مرتبط با «HTTP / HTTPs Protocol».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Everything you need to know about HTTP",
+              "type": "article",
+              "url": "https://cs.fyi/guide/http-in-depth",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is HTTP?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "An overview of HTTP",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTTP/3 From A To Z: Core Concepts",
+              "type": "article",
+              "url": "https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is HTTPS?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why HTTPS Matters",
+              "type": "article",
+              "url": "https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Enabling HTTPS on Your Servers",
+              "type": "article",
+              "url": "https://web.dev/enable-https/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How HTTPS works (comic)",
+              "type": "article",
+              "url": "https://howhttps.works/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTTP Crash Course & Exploration",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=iYM2zFP3Zn0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-structures-and-algorithms",
+          "title": "Data Structures and Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Structures and Algorithms».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "C# resources",
+              "type": "article",
+              "url": "https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Interview Questions about Data Structures",
+              "type": "article",
+              "url": "https://www.csharpstar.com/csharp-algorithms/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Data Structures Illustrated",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Algorithms",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/algorithms?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Asp.net - Complete Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=kdPtNMb8tPw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Cloud Computing",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eWwK2FKWp0g",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DevOps Course for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=hQcFE0RD0cQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Career",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/career?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "database-fundamentals",
+      "title": "Database Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «Database Fundamentals».",
+      "order": 3,
+      "children": [
+        {
+          "id": "sql-basics",
+          "title": "SQL Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «SQL Basics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "SQL Tutorial - Full Database Course for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about SQL",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/sql?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "database-design-basics",
+          "title": "Database Design Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Database Design Basics».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Database design basics",
+              "type": "article",
+              "url": "https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Database Design Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ztHopE5Wnpc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Database",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/database?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "stored-procedures",
+          "title": "Stored Procedures",
+          "description": "مباحث و تمرین‌های مرتبط با «Stored Procedures».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Stored Procedure in SQL: Benefits And How to Create It",
+              "type": "article",
+              "url": "https://www.simplilearn.com/tutorials/sql-tutorial/stored-procedure-in-sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL Server stored procedures for beginners",
+              "type": "article",
+              "url": "https://www.sqlshack.com/sql-server-stored-procedures-for-beginners/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "constraints",
+          "title": "Constraints",
+          "description": "مباحث و تمرین‌های مرتبط با «Constraints».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Constraints of SQL",
+              "type": "article",
+              "url": "https://www.educative.io/courses/database-design-fundamentals/m7JnY9Xm6Qp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Constraints in DBMS",
+              "type": "article",
+              "url": "https://beginnersbook.com/2015/04/constraints-in-dbms/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "triggers",
+          "title": "Triggers",
+          "description": "مباحث و تمرین‌های مرتبط با «Triggers».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Database Triggers",
+              "type": "article",
+              "url": "https://docs.oracle.com/cd/A57673_01/DOC/server/doc/SCN73/ch15.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Database Triggers: Examples & Overview",
+              "type": "article",
+              "url": "https://study.com/academy/lesson/database-triggers-examples-overview.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Triggers in SQL?",
+              "type": "article",
+              "url": "https://www.edureka.co/blog/triggers-in-sql/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a SQL Trigger?",
+              "type": "article",
+              "url": "https://www.essentialsql.com/sql-trigger/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Oracle: What is a Database?",
+          "type": "article",
+          "url": "https://www.oracle.com/database/what-is-database/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Prisma.io: What are Databases?",
+          "type": "article",
+          "url": "https://www.prisma.io/dataguide/intro/what-are-databases",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro To Relational Databases",
+          "type": "article",
+          "url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NoSQL Explained",
+          "type": "article",
+          "url": "https://www.mongodb.com/nosql-explained",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Relational Database",
+          "type": "video",
+          "url": "https://youtu.be/OqjJjpjDRLc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How do NoSQL Databases work",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0buKQHokLK8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Database",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/database?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "asp-net-core-basics",
+      "title": "ASP.NET Core Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «ASP.NET Core Basics».",
+      "order": 4,
+      "children": [
+        {
+          "id": "asp-net-core-basics-item",
+          "title": "ASP.NET Core Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «ASP.NET Core Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "ASP.NET documentation",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "ASP.NET Core Tutorial",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/asp.net_core/index.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn ASP.NET Core from Scratch",
+          "type": "article",
+          "url": "https://www.tutorialsteacher.com/core",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about ASP.NET",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/aspnet?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "object-relational-mapping",
+      "title": "Object Relational Mapping",
+      "description": "مباحث و تمرین‌های مرتبط با «Object Relational Mapping».",
+      "order": 5,
+      "children": [
+        {
+          "id": "object-relational-mapping-item",
+          "title": "Object Relational Mapping",
+          "description": "مباحث و تمرین‌های مرتبط با «Object Relational Mapping».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "ORM (Object Relational Mapping)",
+          "type": "article",
+          "url": "https://www.telerik.com/blogs/dotnet-basics-orm-object-relational-mapping",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Object-Relational Mapping: Pros, Cons",
+          "type": "article",
+          "url": "https://www.altexsoft.com/blog/object-relational-mapping/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dependency-injection",
+      "title": "Dependency Injection",
+      "description": "مباحث و تمرین‌های مرتبط با «Dependency Injection».",
+      "order": 6,
+      "children": [
+        {
+          "id": "dependency-injection-item",
+          "title": "Dependency Injection",
+          "description": "مباحث و تمرین‌های مرتبط با «Dependency Injection».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Dependency Injection?",
+          "type": "article",
+          "url": "https://stackoverflow.com/questions/130794/what-is-dependency-injection",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dependency Injection, It's Definition & principles",
+          "type": "article",
+          "url": "https://www.growin.com/blog/what-is-dependency-injection/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Dependency Injection",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/dependency-injection?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "life-cycles",
+      "title": "Life Cycles",
+      "description": "مباحث و تمرین‌های مرتبط با «Life Cycles».",
+      "order": 7,
+      "children": [
+        {
+          "id": "life-cycles-item",
+          "title": "Life Cycles",
+          "description": "مباحث و تمرین‌های مرتبط با «Life Cycles».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are Service Life Cyles in ASP.NET Core?",
+          "type": "article",
+          "url": "https://endjin.com/blog/2022/09/service-lifetimes-in-aspnet-core",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Service Lifetimes in .NET Core",
+          "type": "article",
+          "url": "https://henriquesd.medium.com/dependency-injection-and-service-lifetimes-in-net-core-ab9189349420",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Complete Guide to Dependency Injection Lifecycles",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=wA5bPsv2CLA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "caching",
+      "title": "Caching",
+      "description": "مباحث و تمرین‌های مرتبط با «Caching».",
+      "order": 8,
+      "children": [
+        {
+          "id": "caching-item",
+          "title": "Caching",
+          "description": "مباحث و تمرین‌های مرتبط با «Caching».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Caching in ASP.Net",
+          "type": "article",
+          "url": "https://www.c-sharpcorner.com/UploadFile/2072a9/caching-in-Asp-Net/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Overview of caching in ASP.NET Core",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/aspnet/core/performance/caching/overview?view=aspnetcore-7.0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Data Caching in ASP.NET",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/asp.net/asp.net_data_caching.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "di-containers",
+      "title": "DI Containers",
+      "description": "مباحث و تمرین‌های مرتبط با «DI Containers».",
+      "order": 9,
+      "children": [
+        {
+          "id": "di-containers-item",
+          "title": "DI Containers",
+          "description": "مباحث و تمرین‌های مرتبط با «DI Containers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is DI Container?",
+          "type": "article",
+          "url": "https://www.dotnettricks.com/learn/dependencyinjection/what-is-ioc-container-or-di-container",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started with DI Container",
+          "type": "article",
+          "url": "https://stackoverflow.com/questions/50718586/what-is-a-di-container",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Use DI Container?",
+          "type": "article",
+          "url": "https://learn.userfrosting.com/services/the-di-container",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Containers",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/containers?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "search-engines",
+      "title": "Search Engines",
+      "description": "مباحث و تمرین‌های مرتبط با «Search Engines».",
+      "order": 10,
+      "children": [
+        {
+          "id": "search-engines-item",
+          "title": "Search Engines",
+          "description": "مباحث و تمرین‌های مرتبط با «Search Engines».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Search Engine Optimization with ASP.NET",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/september/search-engine-optimization-with-asp-net-4-0-visual-studio-2010-and-iis7",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Creating an ASP.NET Search Engine",
+          "type": "article",
+          "url": "https://www.developerfusion.com/article/4389/create-a-site-search-engine-in-aspnet/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Simple Search Engine in ASP.NET",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=KTkubhS-u50",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cloud",
+      "title": "Cloud",
+      "description": "مباحث و تمرین‌های مرتبط با «Cloud».",
+      "order": 11,
+      "children": [
+        {
+          "id": "cloud-item",
+          "title": "Cloud",
+          "description": "مباحث و تمرین‌های مرتبط با «Cloud».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Building a .NET Cloud Application",
+          "type": "article",
+          "url": "https://www.c-sharpcorner.com/article/building-the-net-cloud-application/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to make a .NET Cloud Application?",
+          "type": "article",
+          "url": "https://dotnet.microsoft.com/en-us/apps/cloud",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting started with Cloud",
+          "type": "article",
+          "url": "https://aws.amazon.com/free/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Cloud",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/cloud?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "databases",
+      "title": "Databases",
+      "description": "مباحث و تمرین‌های مرتبط با «Databases».",
+      "order": 12,
+      "children": [
+        {
+          "id": "databases-item",
+          "title": "Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «Databases».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "ASP.NET Database Tutorial",
+          "type": "article",
+          "url": "https://www.guru99.com/insert-update-delete-asp-net.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Working with a Database in ASP.NET",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/aspnet/web-pages/overview/data/5-working-with-data",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Backend Development",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "relational",
+      "title": "Relational",
+      "description": "مباحث و تمرین‌های مرتبط با «Relational».",
+      "order": 13,
+      "children": [
+        {
+          "id": "relational-item",
+          "title": "Relational",
+          "description": "مباحث و تمرین‌های مرتبط با «Relational».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Working with Database in ASP.NET",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/aspnet/web-pages/overview/data/5-working-with-data",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Implement a Relational Database with ASP.NET",
+          "type": "article",
+          "url": "https://openclassrooms.com/en/courses/5671811-implement-a-relational-database-with-asp-net-core",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "nosql",
+      "title": "NoSQL",
+      "description": "مباحث و تمرین‌های مرتبط با «NoSQL».",
+      "order": 14,
+      "children": [
+        {
+          "id": "nosql-item",
+          "title": "NoSQL",
+          "description": "مباحث و تمرین‌های مرتبط با «NoSQL».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "NoSQL in .NET Applications",
+          "type": "article",
+          "url": "https://www.slideshare.net/shijucv/nosql-database-in-net-apps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Open Source NoSQL Database for .NET",
+          "type": "article",
+          "url": "https://www.alachisoft.com/nosdb/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Use NoSQL databases in ASP.NET",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about NoSQL",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nosql?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "log-frameworks",
+      "title": "Log Frameworks",
+      "description": "مباحث و تمرین‌های مرتبط با «Log Frameworks».",
+      "order": 15,
+      "children": [
+        {
+          "id": "entity-framework-2nd-level-cache",
+          "title": "Entity Framework 2nd Level Cache",
+          "description": "مباحث و تمرین‌های مرتبط با «Entity Framework 2nd Level Cache».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Entity Framework 2nd Level Cache",
+              "type": "article",
+              "url": "https://www.gridgain.com/docs/latest/developers-guide/net-specific/net-entity-framework-cache",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Caching In Entity Framework",
+              "type": "article",
+              "url": "https://www.c-sharpcorner.com/article/caching-in-entity-framework-ef-core-using-ncache/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Entity Framework?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Z7713GBhi4k",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "distributed-cache",
+          "title": "Distributed Cache",
+          "description": "مباحث و تمرین‌های مرتبط با «Distributed Cache».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Distributed caching in ASP.NET Core",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/aspnet/core/performance/caching/distributed?view=aspnetcore-7.0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Distributed Cached?",
+              "type": "article",
+              "url": "https://hazelcast.com/glossary/distributed-cache/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Distributed Caching In ASP.NET Core With Redis",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Tt5zIKVMMbs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Implement logging in ASP.NET",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/training/modules/aspnet-logging/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "ASP.NET Core: Logging with log4net",
+          "type": "article",
+          "url": "https://www.linkedin.com/learning/asp-dot-net-core-logging-with-log4net",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Logging",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/logging?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "rest",
+      "title": "REST",
+      "description": "مباحث و تمرین‌های مرتبط با «REST».",
+      "order": 16,
+      "children": [
+        {
+          "id": "rest-item",
+          "title": "REST",
+          "description": "مباحث و تمرین‌های مرتبط با «REST».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is REST Services in ASP.NET?",
+          "type": "article",
+          "url": "http://www.codedigest.com/quick-start/16/what-is-rest-services-how-to-create-rest-services-in-aspnet",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are RESTful APIs?",
+          "type": "article",
+          "url": "https://www.pragimtech.com/blog/blazor/what-are-restful-apis/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Tutorial of Rest and Restful API",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4r1CIUs5s2I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about REST API",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/rest-api?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "graphql",
+      "title": "GraphQL",
+      "description": "مباحث و تمرین‌های مرتبط با «GraphQL».",
+      "order": 17,
+      "children": [
+        {
+          "id": "graphql-item",
+          "title": "GraphQL",
+          "description": "مباحث و تمرین‌های مرتبط با «GraphQL».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to implement GraphQL in ASP.Net",
+          "type": "article",
+          "url": "https://blog.christian-schou.dk/how-to-implement-graphql-in-asp-net-core/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to GraphQL",
+          "type": "article",
+          "url": "https://graphql-dotnet.github.io/docs/getting-started/introduction/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Developing API In .NET Core With GraphQL",
+          "type": "article",
+          "url": "https://www.c-sharpcorner.com/article/building-api-in-net-core-with-graphql2/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about GraphQL",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/graphql?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-clients-and-communication",
+      "title": "API Clients and Communication",
+      "description": "مباحث و تمرین‌های مرتبط با «API Clients and Communication».",
+      "order": 18,
+      "children": [
+        {
+          "id": "api-clients-and-communication-item",
+          "title": "API Clients and Communication",
+          "description": "مباحث و تمرین‌های مرتبط با «API Clients and Communication».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Call a Web API From a .NET Client",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Overview of Web API REST Service in ASP.NET",
+          "type": "article",
+          "url": "https://www.c-sharpcorner.com/article/consuming-asp-net-web-api-rest-service-in-asp-net-mvc-using-http-client/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building an ASP.NET Web API With ASP.NET",
+          "type": "article",
+          "url": "https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "real-time-communication",
+      "title": "Real-Time Communication",
+      "description": "مباحث و تمرین‌های مرتبط با «Real-Time Communication».",
+      "order": 19,
+      "children": [
+        {
+          "id": "web-sockets",
+          "title": "Web Sockets",
+          "description": "مباحث و تمرین‌های مرتبط با «Web Sockets».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "WebSockets support in ASP.NET",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-7.0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding WebSockets with ASP.NET",
+              "type": "article",
+              "url": "https://sahansera.dev/understanding-websockets-with-aspnetcore-5/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Writing a WebSocket server in ASP.NET",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_server",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "signalr-core",
+          "title": "SignalR Core",
+          "description": "مباحث و تمرین‌های مرتبط با «SignalR Core».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Overview of ASP.NET Core SignalR",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-8.0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Overview of ASP.NET Core SignalR",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-7.0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Real-time ASP.NET with SignalR",
+          "type": "article",
+          "url": "https://dotnet.microsoft.com/en-us/apps/aspnet/signalr",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "object-mapping",
+      "title": "Object Mapping",
+      "description": "مباحث و تمرین‌های مرتبط با «Object Mapping».",
+      "order": 20,
+      "children": [
+        {
+          "id": "automapper",
+          "title": "AutoMapper",
+          "description": "مباحث و تمرین‌های مرتبط با «AutoMapper».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Automapper in ASP.NET?",
+              "type": "article",
+              "url": "https://www.simplilearn.com/tutorials/asp-dot-net-tutorial/automapper-in-c-sharp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with AutoMapper in ASP.NET",
+              "type": "article",
+              "url": "https://code-maze.com/automapper-net-core/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Examples of AutoMapper in ASP.NET",
+              "type": "article",
+              "url": "https://dotnettutorials.net/lesson/automapper-in-c-sharp/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "mapperly",
+          "title": "Mapperly",
+          "description": "مباحث و تمرین‌های مرتبط با «Mapperly».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "manual-mapping",
+          "title": "Manual Mapping",
+          "description": "مباحث و تمرین‌های مرتبط با «Manual Mapping».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Manual vs Automapping in ASP.NET?",
+              "type": "article",
+              "url": "https://medium.com/@anderson.buenogod/manual-vs-automated-mapping-in-c-which-approach-is-best-for-your-project-50de1fd73bfa",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Building a Fast Object-to-Object Mapper in .NET",
+          "type": "article",
+          "url": "https://www.twilio.com/blog/building-blazing-fast-object-mapper-c-sharp-net-core",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Overview of Object Mapping in ASP.NET",
+          "type": "article",
+          "url": "https://docs.abp.io/en/abp/latest/Object-To-Object-Mapping",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Comparison of Object Mapper Libraries",
+          "type": "article",
+          "url": "https://www.simplilearn.com/tutorials/asp-dot-net-tutorial/automapper-in-c-sharp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "task-scheduling",
+      "title": "Task Scheduling",
+      "description": "مباحث و تمرین‌های مرتبط با «Task Scheduling».",
+      "order": 21,
+      "children": [
+        {
+          "id": "hangfire",
+          "title": "Hangfire",
+          "description": "مباحث و تمرین‌های مرتبط با «Hangfire».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Hangfire with ASP.NET Core",
+              "type": "article",
+              "url": "https://code-maze.com/hangfire-with-asp-net-core/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Intro to Hangfire",
+              "type": "article",
+              "url": "https://www.partech.nl/nl/publicaties/2021/05/a-beginners-guide-to-hangfire",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to use Hangfire with ASP.NET",
+              "type": "article",
+              "url": "https://blog.christian-schou.dk/how-to-use-hangfire-with-asp-net-core-5-0-api/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "coravel",
+          "title": "Coravel",
+          "description": "مباحث و تمرین‌های مرتبط با «Coravel».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Documentation of Coravel",
+              "type": "article",
+              "url": "https://docs.coravel.net/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ASP.NET Task Scheduling with Coravel",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=vu0fxlWl0wo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Run a .Net Console App with Coravel",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=KQpw_OYkKq8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "quartz",
+          "title": "Quartz",
+          "description": "مباحث و تمرین‌های مرتبط با «Quartz».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Intro to Quartz in ASP.NET",
+              "type": "article",
+              "url": "https://aspnetboilerplate.com/Pages/Documents/Quartz-Integration",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to work with Quartz.Net in ASP.NET",
+              "type": "article",
+              "url": "https://www.infoworld.com/article/3078781/how-to-work-with-quartz-net-in-c.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How schedule Tasks in ASP.NET?",
+          "type": "article",
+          "url": "https://beansoftware.com/ASP.NET-Tutorials/Scheduled-Tasks.aspx",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Task Scheduling in ASP.NET",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Vg4AOpb7OqA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 22,
+      "children": [
+        {
+          "id": "testing-item",
+          "title": "Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "A Complete Tutorial on ASP.NET Testing",
+          "type": "article",
+          "url": "https://www.lambdatest.com/blog/aspnet-testing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Unit test controller logic in ASP.NET",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/testing?view=aspnetcore-7.0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Integration tests in ASP.NET Core",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-7.0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Testing",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "microservices",
+      "title": "Microservices",
+      "description": "مباحث و تمرین‌های مرتبط با «Microservices».",
+      "order": 23,
+      "children": [
+        {
+          "id": "microservices-item",
+          "title": "Microservices",
+          "description": "مباحث و تمرین‌های مرتبط با «Microservices».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Intro to Microservices Using ASP.NET Core",
+          "type": "article",
+          "url": "https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Advantages and Disadvantages of Microservices Architecture",
+          "type": "article",
+          "url": "https://www.dotnettricks.com/learn/microservices/architecture-example-advantages",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Microservices",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/microservices?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ci-cd",
+      "title": "CI / CD",
+      "description": "مباحث و تمرین‌های مرتبط با «CI / CD».",
+      "order": 24,
+      "children": [
+        {
+          "id": "ci-cd-item",
+          "title": "CI / CD",
+          "description": "مباحث و تمرین‌های مرتبط با «CI / CD».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to reate a CI/CD pipeline for ASP.NET?",
+          "type": "article",
+          "url": "https://www.azuredevopslabs.com/labs/vstsextend/azuredevopsprojectdotnet/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building a CI/CD Pipeline in Azure DevOps for ASP.NET Core",
+          "type": "video",
+          "url": "https://youtube.com/watch?v=eOQL0nXQlLs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about CI/CD",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/cicd?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "template-engines",
+      "title": "Template Engines",
+      "description": "مباحث و تمرین‌های مرتبط با «Template Engines».",
+      "order": 25,
+      "children": [
+        {
+          "id": "razor",
+          "title": "Razor",
+          "description": "مباحث و تمرین‌های مرتبط با «Razor».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Introduction to ASP.NET Web Programming Using Razor",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "An Introduction To Razor",
+              "type": "article",
+              "url": "https://khalidabuhakmeh.com/what-is-razor-aspnet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "scriban",
+          "title": "Scriban",
+          "description": "مباحث و تمرین‌های مرتبط با «Scriban».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Guide to Scriban in ASP.NET",
+              "type": "article",
+              "url": "https://github.com/scriban/scriban",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to Scriban",
+              "type": "article",
+              "url": "https://www.markvanaalst.com/blog/sxa/sxa-9-3-introducing-scriban/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "fluid",
+          "title": "Fluid",
+          "description": "مباحث و تمرین‌های مرتبط با «Fluid».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Overview of Fluid",
+              "type": "article",
+              "url": "https://github.com/sebastienros/fluid",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Template Engine in ASP.NET",
+          "type": "article",
+          "url": "https://ej2.syncfusion.com/aspnetmvc/documentation/common/template-engine",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to to Create Custom Templates using the .Net Template Engine ",
+          "type": "article",
+          "url": "https://www.infoq.com/articles/dotnet-core-template-engine/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "frameworks",
+      "title": "Frameworks",
+      "description": "مباحث و تمرین‌های مرتبط با «Frameworks».",
+      "order": 26,
+      "children": [
+        {
+          "id": "blazor",
+          "title": "Blazor",
+          "description": "مباحث و تمرین‌های مرتبط با «Blazor».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Guide to ASP.NET Core Blazor",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Blazor And How It Works?",
+              "type": "article",
+              "url": "https://www.c-sharpcorner.com/article/what-is-blazor-and-how-does-it-works/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial of ASP.NET Core Blazor",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LyO4zj6NRuc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Blazor",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/blazor?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "net-maui",
+          "title": ".NET MAUI",
+          "description": "مباحث و تمرین‌های مرتبط با «.NET MAUI».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

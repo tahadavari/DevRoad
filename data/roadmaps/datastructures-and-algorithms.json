@@ -1,0 +1,1084 @@
+{
+  "slug": "datastructures-and-algorithms",
+  "title": "Data Structures & Algorithms",
+  "description": "Step by step guide to learn Data Structures and Algorithms in 2026",
+  "steps": [
+    {
+      "id": "pick-a-language",
+      "title": "Pick a Language",
+      "description": "مباحث و تمرین‌های مرتبط با «Pick a Language».",
+      "order": 1,
+      "children": [
+        {
+          "id": "javascript",
+          "title": "JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «JavaScript».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit Dedicated JavaScript Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Modern JavaScript Tutorial",
+              "type": "article",
+              "url": "https://javascript.info/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Official Documentation",
+              "type": "article",
+              "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Crash Course for Beginners",
+              "type": "video",
+              "url": "https://youtu.be/hdI2bqOjy3c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Node.js Crash Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fBNz5xF-Kx4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Node.js Tutorial for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "java",
+          "title": "Java",
+          "description": "مباحث و تمرین‌های مرتبط با «Java».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Visit Dedicated Java Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/java",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Java Website",
+              "type": "article",
+              "url": "https://www.java.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Java Crash Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=eIrMbAQSU34",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Complete Java course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=xk4_1vDrzzo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Java",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/java?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "go",
+          "title": "Go",
+          "description": "مباحث و تمرین‌های مرتبط با «Go».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Visit Dedicated Go Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/golang",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Tour of Go – Go Basics",
+              "type": "article",
+              "url": "https://go.dev/tour/welcome/1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go Reference Documentation",
+              "type": "article",
+              "url": "https://go.dev/doc/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go by Example - annotated example programs",
+              "type": "article",
+              "url": "https://gobyexample.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Making a RESTful JSON API in Go",
+              "type": "article",
+              "url": "https://thenewstack.io/make-a-restful-json-api-go/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go, the Programming Language of the Cloud",
+              "type": "article",
+              "url": "https://thenewstack.io/go-the-programming-language-of-the-cloud/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Golang",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/golang?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ruby",
+          "title": "Ruby",
+          "description": "مباحث و تمرین‌های مرتبط با «Ruby».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Ruby Website",
+              "type": "article",
+              "url": "https://www.ruby-lang.org/en/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Ruby in 20 minutes",
+              "type": "article",
+              "url": "https://www.ruby-lang.org/en/documentation/quickstart/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ruby, An Introduction to a Programmer’s Best Friend",
+              "type": "article",
+              "url": "https://thenewstack.io/ruby-a-programmers-best-friend/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Ruby",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/ruby?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "programming-fundamentals",
+      "title": "Programming Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «Programming Fundamentals».",
+      "order": 2,
+      "children": [
+        {
+          "id": "pseudo-code",
+          "title": "Pseudo Code",
+          "description": "مباحث و تمرین‌های مرتبط با «Pseudo Code».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "language-syntax",
+          "title": "Language Syntax",
+          "description": "مباحث و تمرین‌های مرتبط با «Language Syntax».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "control-structures",
+          "title": "Control Structures",
+          "description": "مباحث و تمرین‌های مرتبط با «Control Structures».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "functions",
+          "title": "Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Functions».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "oop-basics",
+          "title": "OOP Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «OOP Basics».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Object-Oriented Programming (Simplified)",
+              "type": "video",
+              "url": "https://youtu.be/pTB0EiLXUC8?si=I8rV2K5fhpoqmixX",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "what-are-data-structures",
+      "title": "What are Data Structures?",
+      "description": "مباحث و تمرین‌های مرتبط با «What are Data Structures?».",
+      "order": 3,
+      "children": [
+        {
+          "id": "what-are-data-structures-item",
+          "title": "What are Data Structures?",
+          "description": "مباحث و تمرین‌های مرتبط با «What are Data Structures?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What an Algorithms and More(MIT)",
+          "type": "video",
+          "url": "https://youtu.be/Zc54gFhdpLA?si=F_1QRigN_h2t2nSp&t=133",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Are Data Structures?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=bum_19loj9A",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Algorithms",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0IAPZzGSbME",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "why-are-data-structures-important",
+      "title": "Why are Data Structures Important?",
+      "description": "مباحث و تمرین‌های مرتبط با «Why are Data Structures Important?».",
+      "order": 4,
+      "children": [
+        {
+          "id": "why-are-data-structures-important-item",
+          "title": "Why are Data Structures Important?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why are Data Structures Important?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are Data Structures? Why is it Important?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=18V8Avz2OH8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-data-structures",
+      "title": "Basic Data Structures",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Data Structures».",
+      "order": 5,
+      "children": [
+        {
+          "id": "stacks",
+          "title": "Stacks",
+          "description": "مباحث و تمرین‌های مرتبط با «Stacks».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Leetcode",
+              "type": "article",
+              "url": "https://leetcode.com/problems/valid-parentheses/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Stacks",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=GYptUgnIM_I&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=69&ab_channel=takeUforward",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Stack Data Structure Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=O1KeXo8lE8A",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Stacks",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zwb3GmNAtFk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hash-tables",
+          "title": "Hash Tables",
+          "description": "مباحث و تمرین‌های مرتبط با «Hash Tables».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Hash Table",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=KEs5UyBJ39g&ab_channel=takeUforward",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Hash Table Part 1",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ea8BRGxGmlA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Hash Table Part 2",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=54iv1si4YCM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "linked-lists",
+          "title": "Linked Lists",
+          "description": "مباحث و تمرین‌های مرتبط با «Linked Lists».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Introduction To Linked List",
+              "type": "video",
+              "url": "https://youtu.be/Nq7ok-OyEpg?si=xttaGoYKcoJ09Ln2",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Linked List",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qp8u-frRAnU&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=4&ab_channel=codebasics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "algorithmic-complexity",
+      "title": "Algorithmic Complexity",
+      "description": "مباحث و تمرین‌های مرتبط با «Algorithmic Complexity».",
+      "order": 6,
+      "children": [
+        {
+          "id": "time-vs-space-complexity",
+          "title": "Time vs Space Complexity",
+          "description": "مباحث و تمرین‌های مرتبط با «Time vs Space Complexity».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Cheat Sheet",
+              "type": "article",
+              "url": "https://www.bigocheatsheet.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Big O Notation — Calculating Time Complexity",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Z0bH0cMY0E8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Free Code Camp Big-O Tutorial",
+              "type": "video",
+              "url": "https://youtu.be/Mo4vesaut8g?si=1jyb-EkfCLf9PNND",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "how-to-calculate-complexity",
+          "title": "How to Calculate Complexity?",
+          "description": "مباحث و تمرین‌های مرتبط با «How to Calculate Complexity?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Time & Space Complexity",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Z0bH0cMY0E8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Write and Analyze Algorithm",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=xGYsEqe9Vl0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "asymptotic-notation",
+          "title": "Asymptotic Notation",
+          "description": "مباحث و تمرین‌های مرتبط با «Asymptotic Notation».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "sorting-algorithms",
+      "title": "Sorting Algorithms",
+      "description": "مباحث و تمرین‌های مرتبط با «Sorting Algorithms».",
+      "order": 7,
+      "children": [
+        {
+          "id": "sorting-algorithms-item",
+          "title": "Sorting Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Sorting Algorithms».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "search-algorithms",
+      "title": "Search Algorithms",
+      "description": "مباحث و تمرین‌های مرتبط با «Search Algorithms».",
+      "order": 8,
+      "children": [
+        {
+          "id": "search-algorithms-item",
+          "title": "Search Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Search Algorithms».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "tree-data-structures",
+      "title": "Tree Data Structures",
+      "description": "مباحث و تمرین‌های مرتبط با «Tree Data Structures».",
+      "order": 9,
+      "children": [
+        {
+          "id": "tree-data-structures-item",
+          "title": "Tree Data Structures",
+          "description": "مباحث و تمرین‌های مرتبط با «Tree Data Structures».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "graph-data-structures",
+      "title": "Graph Data Structures",
+      "description": "مباحث و تمرین‌های مرتبط با «Graph Data Structures».",
+      "order": 10,
+      "children": [
+        {
+          "id": "undirected-graph",
+          "title": "Undirected Graph",
+          "description": "مباحث و تمرین‌های مرتبط با «Undirected Graph».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "advanced-data-structures",
+      "title": "Advanced Data Structures",
+      "description": "مباحث و تمرین‌های مرتبط با «Advanced Data Structures».",
+      "order": 11,
+      "children": [
+        {
+          "id": "segment-trees",
+          "title": "Segment Trees",
+          "description": "مباحث و تمرین‌های مرتبط با «Segment Trees».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "trie",
+          "title": "Trie",
+          "description": "مباحث و تمرین‌های مرتبط با «Trie».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "fenwick-trees",
+          "title": "Fenwick Trees",
+          "description": "مباحث و تمرین‌های مرتبط با «Fenwick Trees».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "disjoint-set-union-find",
+          "title": "Disjoint Set (Union-Find)",
+          "description": "مباحث و تمرین‌های مرتبط با «Disjoint Set (Union-Find)».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "suffix-trees-and-arrays",
+          "title": "Suffix Trees and Arrays",
+          "description": "مباحث و تمرین‌های مرتبط با «Suffix Trees and Arrays».",
+          "order": 5,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "complex-data-structures",
+      "title": "Complex Data Structures",
+      "description": "مباحث و تمرین‌های مرتبط با «Complex Data Structures».",
+      "order": 12,
+      "children": [
+        {
+          "id": "2-3-trees",
+          "title": "2-3 Trees",
+          "description": "مباحث و تمرین‌های مرتبط با «2-3 Trees».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "b-b-trees",
+          "title": "B/B+ Trees",
+          "description": "مباحث و تمرین‌های مرتبط با «B/B+ Trees».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "B Trees and B+ Trees. How they are useful in Databases",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=aZjYr87r1b8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "skip-list",
+          "title": "Skip List",
+          "description": "مباحث و تمرین‌های مرتبط با «Skip List».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Skip Lists",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=NDGpsfwAaqo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "isam",
+          "title": "ISAM",
+          "description": "مباحث و تمرین‌های مرتبط با «ISAM».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "DBMS - Index Sequential Access Method (ISAM)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=EiW1VVPor10",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "indexing",
+      "title": "Indexing",
+      "description": "مباحث و تمرین‌های مرتبط با «Indexing».",
+      "order": 13,
+      "children": [
+        {
+          "id": "linear",
+          "title": "Linear",
+          "description": "مباحث و تمرین‌های مرتبط با «Linear».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "tree-based",
+          "title": "Tree-Based",
+          "description": "مباحث و تمرین‌های مرتبط با «Tree-Based».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "problem-solving-techniques",
+      "title": "Problem Solving Techniques",
+      "description": "مباحث و تمرین‌های مرتبط با «Problem Solving Techniques».",
+      "order": 14,
+      "children": [
+        {
+          "id": "island-traversal",
+          "title": "Island traversal",
+          "description": "مباحث و تمرین‌های مرتبط با «Island traversal».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "greedy-algorithms",
+          "title": "Greedy Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Greedy Algorithms».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Greedy Algorithms Tutorial ",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=bC7o8P_Ste4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "randomised-algorithms",
+          "title": "Randomised Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Randomised Algorithms».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Algorithm Classification Randomized Algorithm",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=J_EVG6yCOz0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "divide-and-conquer",
+          "title": "Divide and Conquer",
+          "description": "مباحث و تمرین‌های مرتبط با «Divide and Conquer».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Divide & Conquer Algorithm In 3 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=YOh6hBtX5l0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "recursion",
+          "title": "Recursion",
+          "description": "مباحث و تمرین‌های مرتبط با «Recursion».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Recursion in 100 Seconds",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rf60MejMz3E",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "dynamic-programming",
+          "title": "Dynamic Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Dynamic Programming».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Getting Started with Dynamic Programming in Data Structures and Algorithms",
+              "type": "article",
+              "url": "https://medium.com/@PythonicPioneer/getting-started-with-dynamic-programming-in-data-structures-and-algorithms-126c7a16775c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Dynamic Programming and How To Use It",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=vYquumk4nWw&t=4s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "5 Simple Steps for Solving Dynamic Programming Problems",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=aPQY__2H3tE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "two-pointer-technique",
+          "title": "Two Pointer Technique",
+          "description": "مباحث و تمرین‌های مرتبط با «Two Pointer Technique».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Two Pointers Technique",
+              "type": "article",
+              "url": "https://medium.com/@johnnyJK/data-structures-and-algorithms-907a63d691c1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering the Two Pointers Technique: An In-Depth Guide",
+              "type": "article",
+              "url": "https://lordkonadu.medium.com/mastering-the-two-pointers-technique-an-in-depth-guide-3c2167584ccc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Visual introduction Two Pointer Algorithm",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=On03HWe2tZM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sliding-window-technique",
+          "title": "Sliding Window Technique",
+          "description": "مباحث و تمرین‌های مرتبط با «Sliding Window Technique».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Mastering Sliding Window Techniques",
+              "type": "article",
+              "url": "https://medium.com/@rishu__2701/mastering-sliding-window-techniques-48f819194fd7",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Sliding window technique",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=p-ss2JNynmw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "platforms-to-practice",
+      "title": "Platforms to Practice",
+      "description": "مباحث و تمرین‌های مرتبط با «Platforms to Practice».",
+      "order": 15,
+      "children": [
+        {
+          "id": "platforms-to-practice-item",
+          "title": "Platforms to Practice",
+          "description": "مباحث و تمرین‌های مرتبط با «Platforms to Practice».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

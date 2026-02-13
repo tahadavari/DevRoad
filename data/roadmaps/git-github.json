@@ -1,0 +1,2556 @@
+{
+  "slug": "git-github",
+  "title": "Git and GitHub",
+  "description": "Step by step guide to learn Git and GitHub in 2026",
+  "steps": [
+    {
+      "id": "learn-the-basics",
+      "title": "Learn the Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn the Basics».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-version-control",
+          "title": "What is Version Control?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Version Control?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is version control?",
+              "type": "article",
+              "url": "https://www.atlassian.com/git/tutorials/what-is-version-control",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Git? Explained in 2 minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=2ReR1YJrNOM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-use-version-control",
+          "title": "Why use Version Control?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why use Version Control?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Benefits of using version control",
+              "type": "article",
+              "url": "https://www.techrepublic.com/article/version-control-benefits/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is version control and why is it important?",
+              "type": "article",
+              "url": "https://start.docuware.com/blog/document-management/what-is-version-control-why-is-it-important",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "git-vs-other-vcs",
+          "title": "Git vs Other VCS",
+          "description": "مباحث و تمرین‌های مرتبط با «Git vs Other VCS».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Git vs. Other VCS: A Comparative Analysis",
+              "type": "article",
+              "url": "https://medium.com/@pascalchinedu2000/git-vs-other-vcs-a-comparative-analysis-5cb03ad58e0e",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "installing-git-locally",
+          "title": "Installing Git Locally",
+          "description": "مباحث و تمرین‌های مرتبط با «Installing Git Locally».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Git - Downloads",
+              "type": "article",
+              "url": "https://git-scm.com/downloads",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Install Git",
+              "type": "article",
+              "url": "https://github.com/git-guides/install-git",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GUI Clients",
+          "type": "article",
+          "url": "https://git-scm.com/downloads/guis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started - Installing Git",
+          "type": "article",
+          "url": "https://git-scm.com/book/en/v2/Getting-Started-Installing-Git",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Creating an account on GitHub",
+          "type": "article",
+          "url": "https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is version control?",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/what-is-version-control",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Git? - The Complete Guide to Git",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/all-about-git",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Version Control (Git) - The Missing Semester of Your CS Education",
+          "type": "article",
+          "url": "https://missing.csail.mit.edu/2020/version-control/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Git? Explained in 2 Minutes!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=2ReR1YJrNOM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-a-repository",
+      "title": "What is a Repository",
+      "description": "مباحث و تمرین‌های مرتبط با «What is a Repository».",
+      "order": 2,
+      "children": [
+        {
+          "id": "what-is-a-repository-item",
+          "title": "What is a Repository",
+          "description": "مباحث و تمرین‌های مرتبط با «What is a Repository».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git Branching - Basic Branching and Merging",
+          "type": "article",
+          "url": "https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Creating a new repository",
+          "type": "article",
+          "url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Setting repository visibility",
+          "type": "article",
+          "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Pushing commits to a remote repository",
+          "type": "article",
+          "url": "https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git ignore",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/saving-changes/gitignore",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git remote",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/syncing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Cheat Sheet",
+          "type": "article",
+          "url": "https://education.github.com/git-cheat-sheet-education.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Tutorial for Beginners: Learn Git in 1 Hour",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8JJ101D3knE&t=1135s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "branching-basics",
+      "title": "Branching Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Branching Basics».",
+      "order": 3,
+      "children": [
+        {
+          "id": "creating-branch",
+          "title": "Creating Branch",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating Branch».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Git branch documentation",
+              "type": "article",
+              "url": "https://git-scm.com/docs/git-branch",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git branch",
+              "type": "article",
+              "url": "https://www.atlassian.com/git/tutorials/using-branches",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OSI Approved Licenses",
+          "type": "article",
+          "url": "https://opensource.org/licenses",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Fork and Git Clone: The difference and why it's important!",
+          "type": "article",
+          "url": "https://dev.to/danielasaboro/git-fork-and-clone-whats-the-difference-190c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "About pull requests",
+          "type": "article",
+          "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "About merge conflicts",
+          "type": "article",
+          "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Setting guidelines for repository contributors",
+          "type": "article",
+          "url": "https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Fork vs Git Clone (Animated)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=rxh6MhK6Tbs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The EXTREMELY helpful guide to merge conflicts",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=HosPml1qkrg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Free and Open Source software licenses explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=UMIG4KnM8xw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-essentials",
+      "title": "GitHub Essentials",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Essentials».",
+      "order": 4,
+      "children": [
+        {
+          "id": "creating-account",
+          "title": "Creating Account",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating Account».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Creating an Account on GitHub",
+              "type": "article",
+              "url": "https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GitHub Essentials - Microsoft",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/contribute/content/git-github-fundamentals",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Hello World",
+          "type": "article",
+          "url": "https://docs.github.com/en/get-started/start-your-journey/hello-world",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "git-remotes",
+      "title": "Git Remotes",
+      "description": "مباحث و تمرین‌های مرتبط با «Git Remotes».",
+      "order": 5,
+      "children": [
+        {
+          "id": "git-remotes-item",
+          "title": "Git Remotes",
+          "description": "مباحث و تمرین‌های مرتبط با «Git Remotes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "About Remote Repositories",
+          "type": "article",
+          "url": "https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Remote Repository? [Beginner Git Tutorial]",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Lb4yvfrX_7I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "merge-strategies",
+      "title": "Merge Strategies",
+      "description": "مباحث و تمرین‌های مرتبط با «Merge Strategies».",
+      "order": 6,
+      "children": [
+        {
+          "id": "fast-forward-vs-non-ff",
+          "title": "Fast-Forward vs Non-FF",
+          "description": "مباحث و تمرین‌های مرتبط با «Fast-Forward vs Non-FF».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Git Fast-Forward VS Non-Fast-Forward",
+              "type": "article",
+              "url": "https://leimao.github.io/blog/Git-Fast-Forward-VS-Non-Fast-Forward/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Merge: To Squash Or Fast-Forward?",
+              "type": "article",
+              "url": "https://dev.to/trpricesoftware/git-merge-to-squash-or-fast-forward-3791",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Difference between a git fast forward and no fast forward",
+              "type": "article",
+              "url": "https://gist.github.com/moraisaugusto/1fa02c49b6d9833fcdf665505595ac2e",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GIT Fast Forward Visualized",
+              "type": "video",
+              "url": "https://youtu.be/DN1fNYoJgDw?si=_TZKACj4SCOuESGm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "git merge no fast forward",
+              "type": "video",
+              "url": "https://youtu.be/X_8atqzsO8U?si=e9hMQg_aWLRMWf4O",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "squash",
+          "title": "Squash",
+          "description": "مباحث و تمرین‌های مرتبط با «Squash».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Git Squash Commits",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/git-squash-commits/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Squash Commits in Git",
+              "type": "article",
+              "url": "https://medium.com/iosnesia/how-to-squash-commits-in-git-e73a41248211",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GIT Tutorial - How to Squash Commits",
+              "type": "video",
+              "url": "https://youtu.be/viY1BbKZhSI?si=kORsEzQvCRFGauQa",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "handling-conflicts",
+          "title": "Handling Conflicts",
+          "description": "مباحث و تمرین‌های مرتبط با «Handling Conflicts».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Resolving a merge conflict using the command line",
+              "type": "article",
+              "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Resolve merge conflicts in Visual Studio",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/visualstudio/version-control/git-resolve-conflicts?view=vs-2022",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Resolve Git MERGE CONFLICTS: The Definitive Guide",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Sqsz1-o7nXk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cherry-picking-commits",
+          "title": "Cherry Picking Commits",
+          "description": "مباحث و تمرین‌های مرتبط با «Cherry Picking Commits».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "git-cherry-pick docs",
+              "type": "article",
+              "url": "https://git-scm.com/docs/git-cherry-pick",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Cherry Pick",
+              "type": "article",
+              "url": "https://www.atlassian.com/git/tutorials/cherry-pick",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Cherry Pick - Tutorial",
+              "type": "video",
+              "url": "https://youtu.be/i657Bg_HAWI?si=3jjn2X8Hi1na--F4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git Merge Strategies",
+          "type": "article",
+          "url": "https://git-scm.com/docs/merge-strategies",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Merge Options",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/using-branches/merge-strategy",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "collaboration-on-github",
+      "title": "Collaboration on GitHub",
+      "description": "مباحث و تمرین‌های مرتبط با «Collaboration on GitHub».",
+      "order": 7,
+      "children": [
+        {
+          "id": "collaboration-on-github-item",
+          "title": "Collaboration on GitHub",
+          "description": "مباحث و تمرین‌های مرتبط با «Collaboration on GitHub».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to collaborate in a GitHub project",
+          "type": "article",
+          "url": "https://gist.github.com/neklaf/9002d3acccf6b6e448db5c4c4e8764c0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Best Practices for collaborating in github",
+          "type": "article",
+          "url": "https://www.gitkraken.com/blog/collaborate-on-github",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Working with GitHub in VS Code",
+          "type": "article",
+          "url": "https://code.visualstudio.com/docs/sourcecontrol/github",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "documentation",
+      "title": "Documentation",
+      "description": "مباحث و تمرین‌های مرتبط با «Documentation».",
+      "order": 8,
+      "children": [
+        {
+          "id": "citation-files",
+          "title": "CITATION files",
+          "description": "مباحث و تمرین‌های مرتبط با «CITATION files».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "CITATION Files Documentation",
+              "type": "article",
+              "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Manage Documentation in a GitHub Repository: A Guide for Junior Developers",
+          "type": "article",
+          "url": "https://dev.to/mochafreddo/how-to-manage-documentation-in-a-github-repository-a-guide-for-junior-developers-pgo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "git-stash-basics",
+      "title": "Git Stash Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Git Stash Basics».",
+      "order": 9,
+      "children": [
+        {
+          "id": "git-stash-basics-item",
+          "title": "Git Stash Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Git Stash Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git stash",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/saving-changes/git-stash",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A practical guide to using the git stash command",
+          "type": "article",
+          "url": "https://opensource.com/article/21/4/git-stash",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-projects",
+      "title": "GitHub Projects",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Projects».",
+      "order": 10,
+      "children": [
+        {
+          "id": "project-planning",
+          "title": "Project Planning",
+          "description": "مباحث و تمرین‌های مرتبط با «Project Planning».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Project planning for developers",
+              "type": "article",
+              "url": "https://github.com/features/issues",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GitHub Project Management",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=oPQgFxHcjAw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "About Projects",
+          "type": "article",
+          "url": "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use Projects Roadmap",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=D80u__nYYWw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "working-in-a-team",
+      "title": "Working in a Team",
+      "description": "مباحث و تمرین‌های مرتبط با «Working in a Team».",
+      "order": 11,
+      "children": [
+        {
+          "id": "working-in-a-team-item",
+          "title": "Working in a Team",
+          "description": "مباحث و تمرین‌های مرتبط با «Working in a Team».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Getting Started with Teams",
+          "type": "article",
+          "url": "https://docs.github.com/en/get-started/onboarding/getting-started-with-github-team",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub Team Docs",
+          "type": "article",
+          "url": "https://docs.github.com/organizations/organizing-members-into-teams/about-teams",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "history",
+      "title": "History",
+      "description": "مباحث و تمرین‌های مرتبط با «History».",
+      "order": 12,
+      "children": [
+        {
+          "id": "linear-vs-non-linear",
+          "title": "Linear vs Non-Linear",
+          "description": "مباحث و تمرین‌های مرتبط با «Linear vs Non-Linear».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Linear vs Non-Linear History",
+              "type": "article",
+              "url": "https://idiv-biodiversity.github.io/git-knowledge-base/linear-vs-nonlinear.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linear git history - Part I",
+              "type": "article",
+              "url": "https://jun-sheng.medium.com/linear-git-history-part-i-b97184dde252#:~:text=The%20benefit%20of%20having%20a%20linear%20git%20history&text=It%20is%20easier%20to%20understand,bisect%20to%20track%20a%20bug.",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "head",
+          "title": "HEAD",
+          "description": "مباحث و تمرین‌های مرتبط با «HEAD».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Git Internals - Git References - The HEAD",
+              "type": "article",
+              "url": "https://git-scm.com/book/en/v2/Git-Internals-Git-References#:~:text=want%20to%20create.-,The%20HEAD,-The%20question%20now",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Git Essentials: Head & Detached Head",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=HvDjbAa9ZsY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "detached-head",
+          "title": "Detached HEAD",
+          "description": "مباحث و تمرین‌های مرتبط با «Detached HEAD».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "How to resolve detached HEAD state in Git",
+              "type": "article",
+              "url": "https://graphite.dev/guides/how-to-resolve-detached-head-state-in-git",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Head & Detached Head",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=HvDjbAa9ZsY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "git-log-options",
+          "title": "git log options",
+          "description": "مباحث و تمرین‌های مرتبط با «git log options».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Git Log",
+              "type": "article",
+              "url": "https://git-scm.com/docs/git-log",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Log Cheatsheet",
+              "type": "article",
+              "url": "https://elijahmanor.com/blog/git-log",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git Basics - Viewing the Commit History",
+          "type": "article",
+          "url": "https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "undoing-changes",
+      "title": "Undoing Changes",
+      "description": "مباحث و تمرین‌های مرتبط با «Undoing Changes».",
+      "order": 13,
+      "children": [
+        {
+          "id": "git-reset",
+          "title": "git reset",
+          "description": "مباحث و تمرین‌های مرتبط با «git reset».",
+          "order": 1,
+          "children": [
+            {
+              "id": "hard",
+              "title": "--hard",
+              "description": "مباحث و تمرین‌های مرتبط با «--hard».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "mixed",
+              "title": "--mixed",
+              "description": "مباحث و تمرین‌های مرتبط با «--mixed».",
+              "order": 2,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "soft",
+              "title": "--soft",
+              "description": "مباحث و تمرین‌های مرتبط با «--soft».",
+              "order": 3,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "git reset",
+              "type": "article",
+              "url": "https://www.atlassian.com/git/tutorials/undoing-changes/git-reset",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Reset | How to Use Git Reset | Learn Git",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=s1idhUiCk38",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Undoing Changes",
+          "type": "article",
+          "url": "https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Undo Anything in Git",
+          "type": "article",
+          "url": "https://github.blog/open-source/git/how-to-undo-almost-anything-with-git/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Undoing Changes in Git",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/undoing-changes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "viewing-diffs",
+      "title": "Viewing Diffs",
+      "description": "مباحث و تمرین‌های مرتبط با «Viewing Diffs».",
+      "order": 14,
+      "children": [
+        {
+          "id": "between-commits",
+          "title": "Between Commits",
+          "description": "مباحث و تمرین‌های مرتبط با «Between Commits».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Comparing changes with Git diff",
+              "type": "article",
+              "url": "https://refine.dev/blog/git-diff-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Diff 2 Different Commits, Tags or Branches",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=uq5VWPDCtFo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "between-branches",
+          "title": "Between Branches",
+          "description": "مباحث و تمرین‌های مرتبط با «Between Branches».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "How to compare branches in Git diff",
+              "type": "article",
+              "url": "https://scribehow.com/shared/How_to_Compare_Branches_in_GitHub__xsotezV-S1O-GL0PquqJwQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How can I see the differences between two branches?",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/9834689/how-can-i-see-the-differences-between-two-branches",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "staged-changes",
+          "title": "Staged Changes",
+          "description": "مباحث و تمرین‌های مرتبط با «Staged Changes».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What does Staged Changes mean in Git?",
+              "type": "article",
+              "url": "https://dillionmegida.com/p/staged-changes-in-git/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Staged Changes in Git?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=HyeNfWZBut8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "unstaged-changes",
+          "title": "Unstaged Changes",
+          "description": "مباحث و تمرین‌های مرتبط با «Unstaged Changes».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What are unstaged changes in GitHub?",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/10954329/whats-the-unstaged-changes-in-github",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to unstage files in Git",
+              "type": "article",
+              "url": "https://www.git-tower.com/learn/git/faq/git-unstage",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git Diff Documentation",
+          "type": "article",
+          "url": "https://git-scm.com/docs/git-diff",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Diff",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/saving-changes/git-diff",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "rewriting-history",
+      "title": "Rewriting History",
+      "description": "مباحث و تمرین‌های مرتبط با «Rewriting History».",
+      "order": 15,
+      "children": [
+        {
+          "id": "git-commit-amend",
+          "title": "git commit --amend",
+          "description": "مباحث و تمرین‌های مرتبط با «git commit --amend».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Changing a commit message",
+              "type": "article",
+              "url": "https://docs.github.com/en/enterprise-cloud@latest/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rewriting history",
+              "type": "article",
+              "url": "https://www.atlassian.com/git/tutorials/rewriting-history",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Amend Tutorial: Rewrite Git History",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=q53umU5vMkk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "git-rebase",
+          "title": "git rebase",
+          "description": "مباحث و تمرین‌های مرتبط با «git rebase».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Git - git-rebase Documentation",
+              "type": "article",
+              "url": "https://git-scm.com/docs/git-rebase",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "git rebase",
+              "type": "article",
+              "url": "https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "git rebase - Why, When & How to fix conflicts",
+              "type": "video",
+              "url": "https://youtu.be/DkWDHzmMvyg?si=59jauQgkL-sMewzo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Rebase --interactive: EXPLAINED",
+              "type": "video",
+              "url": "https://youtu.be/H7RFt0Pxxp8?si=gLhfkVW_PmWHBQSs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "git-filter-branch",
+          "title": "git filter-branch",
+          "description": "مباحث و تمرین‌های مرتبط با «git filter-branch».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "git filter-branch",
+              "type": "article",
+              "url": "https://git-scm.com/docs/git-filter-branch",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "git filter-repo",
+              "type": "article",
+              "url": "https://github.com/newren/git-filter-repo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Removing sensitive data from a repository",
+              "type": "article",
+              "url": "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "git-push-force",
+          "title": "git push --force",
+          "description": "مباحث و تمرین‌های مرتبط با «git push --force».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Git Push Force",
+              "type": "article",
+              "url": "https://www.gitkraken.com/learn/git/problems/git-push-force",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to force push to GitHub?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=wgXbfLn-zkI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git Tools - Rewriting History",
+          "type": "article",
+          "url": "https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Methods of Rewriting History in Git",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/rewriting-history",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "submodules",
+      "title": "Submodules",
+      "description": "مباحث و تمرین‌های مرتبط با «Submodules».",
+      "order": 16,
+      "children": [
+        {
+          "id": "adding-updating",
+          "title": "Adding / Updating",
+          "description": "مباحث و تمرین‌های مرتبط با «Adding / Updating».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Git submodules",
+              "type": "article",
+              "url": "https://www.atlassian.com/git/tutorials/git-submodule",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Working with submodules",
+              "type": "article",
+              "url": "https://github.blog/open-source/git/working-with-submodules/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git Submodules",
+          "type": "article",
+          "url": "https://git-scm.com/book/en/v2/Git-Tools-Submodules",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Submodules Tutorial",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/git-submodule",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "git-patch",
+      "title": "Git Patch",
+      "description": "مباحث و تمرین‌های مرتبط با «Git Patch».",
+      "order": 17,
+      "children": [
+        {
+          "id": "git-patch-item",
+          "title": "Git Patch",
+          "description": "مباحث و تمرین‌های مرتبط با «Git Patch».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git Patch",
+          "type": "article",
+          "url": "https://www.gitkraken.com/learn/git/git-patch",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to generate and apply patches with git?",
+          "type": "article",
+          "url": "https://gist.github.com/nepsilon/22bc62a23f785716705c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "tagging",
+      "title": "Tagging",
+      "description": "مباحث و تمرین‌های مرتبط با «Tagging».",
+      "order": 18,
+      "children": [
+        {
+          "id": "managing-tags",
+          "title": "Managing Tags",
+          "description": "مباحث و تمرین‌های مرتبط با «Managing Tags».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Git Basics - Tagging",
+              "type": "article",
+              "url": "https://git-scm.com/book/en/v2/Git-Basics-Tagging",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git — Use Tags for Versioning and Release Management",
+              "type": "article",
+              "url": "https://medium.com/@KeyurRamoliya/git-use-tags-for-versioning-and-release-management-09aca9631eee",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pushing-tags",
+          "title": "Pushing Tags",
+          "description": "مباحث و تمرین‌های مرتبط با «Pushing Tags».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Tagging in git",
+              "type": "article",
+              "url": "https://git-scm.com/book/en/Git-Basics-Tagging",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Push Git Tags to Remote",
+              "type": "article",
+              "url": "https://kodekloud.com/blog/how-to-push-git-tags-to-remote/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Push Tag to Remote Guide",
+              "type": "article",
+              "url": "https://phoenixnap.com/kb/git-push-tag",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "checkout-tags",
+          "title": "Checkout Tags",
+          "description": "مباحث و تمرین‌های مرتبط با «Checkout Tags».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "How To Checkout Git Tags",
+              "type": "article",
+              "url": "https://devconnected.com/how-to-checkout-git-tags/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is git tag, How to create tags & How to checkout git remote tag(s)",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/35979642/what-is-git-tag-how-to-create-tags-how-to-checkout-git-remote-tags",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Tag Tutorial | Create, Checkout, and Delete Git Tags | Learn Git",
+              "type": "video",
+              "url": "https://youtu.be/spkUevg1NqM?si=UXRwJEOI6bpN30nM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "github-releases",
+          "title": "GitHub Releases",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Releases».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "About Releases",
+              "type": "article",
+              "url": "https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "REST API endpoints for releases",
+              "type": "article",
+              "url": "https://docs.github.com/en/rest/releases/releases?apiVersion=2022-11-28",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git Basics - Tagging",
+          "type": "article",
+          "url": "https://git-scm.com/book/en/v2/Git-Basics-Tagging",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "git-hooks",
+      "title": "Git hooks",
+      "description": "مباحث و تمرین‌های مرتبط با «Git hooks».",
+      "order": 19,
+      "children": [
+        {
+          "id": "what-and-why",
+          "title": "What and Why?",
+          "description": "مباحث و تمرین‌های مرتبط با «What and Why?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Git Hooks",
+              "type": "article",
+              "url": "https://www.atlassian.com/git/tutorials/git-hooks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Git Hooks?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=1OFiiPretCM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Customizing Git - Git Hooks",
+          "type": "article",
+          "url": "https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git hooks",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/git-hooks",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are GitHooks? Explained in 5 minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1OFiiPretCM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-actions",
+      "title": "GitHub Actions",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Actions».",
+      "order": 20,
+      "children": [
+        {
+          "id": "usecases",
+          "title": "Usecases",
+          "description": "مباحث و تمرین‌های مرتبط با «Usecases».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "GitHub Actions Documentation",
+              "type": "article",
+              "url": "https://docs.github.com/en/actions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How GitHub Actions 10x my productivity",
+              "type": "article",
+              "url": "https://www.youtube.com/watch?v=yfBtjLxn_6k",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Microsoft Learn: Introduction to GitHub Actions",
+          "type": "course",
+          "url": "https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "YouTube: GitHub Actions Playlist",
+          "type": "course",
+          "url": "https://www.youtube.com/watch?v=-hVG9z0fCac&list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY&pp=iAQB",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub Actions",
+          "type": "article",
+          "url": "https://docs.github.com/en/actions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are GitHub Actions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=URmeTqglS58",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-cli",
+      "title": "GitHub CLI",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub CLI».",
+      "order": 21,
+      "children": [
+        {
+          "id": "github-cli-item",
+          "title": "GitHub CLI",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub CLI».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GitHub CLI Docs",
+          "type": "article",
+          "url": "https://cli.github.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is the GitHub CLI?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=uy_PEGgUF4U",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-api",
+      "title": "GitHub API",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub API».",
+      "order": 22,
+      "children": [
+        {
+          "id": "graphql-api",
+          "title": "GraphQL API",
+          "description": "مباحث و تمرین‌های مرتبط با «GraphQL API».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "GitHub GraphQL API documentation",
+              "type": "article",
+              "url": "https://docs.github.com/en/graphql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Forming calls with GraphQL",
+              "type": "article",
+              "url": "https://docs.github.com/en/graphql/guides/forming-calls-with-graphql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GitHub API Docs",
+          "type": "article",
+          "url": "https://docs.github.com/en/rest?apiVersion=2022-11-28",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started",
+          "type": "article",
+          "url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "creating-apps",
+      "title": "Creating Apps",
+      "description": "مباحث و تمرین‌های مرتبط با «Creating Apps».",
+      "order": 23,
+      "children": [
+        {
+          "id": "creating-apps-item",
+          "title": "Creating Apps",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating Apps».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Creating GitHub Apps",
+          "type": "article",
+          "url": "https://docs.github.com/en/apps/creating-github-apps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "webhooks",
+      "title": "Webhooks",
+      "description": "مباحث و تمرین‌های مرتبط با «Webhooks».",
+      "order": 24,
+      "children": [
+        {
+          "id": "oauth-apps",
+          "title": "OAuth Apps",
+          "description": "مباحث و تمرین‌های مرتبط با «OAuth Apps».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Creating an OAuth app",
+              "type": "article",
+              "url": "https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GitHub Login With React (GitHub APIs, GitHub OAuth 2.0 Authentication)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rRn2EisxPl4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "About webhooks",
+          "type": "article",
+          "url": "https://docs.github.com/en/webhooks/about-webhooks",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Webhooks documentation",
+          "type": "article",
+          "url": "https://docs.github.com/en/webhooks",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use GitHub Webhooks with Discord",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-gyEHj0CVx0&",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-copilot",
+      "title": "GitHub Copilot",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Copilot».",
+      "order": 25,
+      "children": [
+        {
+          "id": "github-copilot-item",
+          "title": "GitHub Copilot",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Copilot».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Quickstart for GitHub Copilot",
+          "type": "article",
+          "url": "https://docs.github.com/en/copilot/quickstart",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to GitHob Copilot in Visual Studio",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=z1ycDvspv8U",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub Copilot in VSCode: Top 10 Features Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=2nPoiUJpDaU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-gists",
+      "title": "GitHub Gists",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Gists».",
+      "order": 26,
+      "children": [
+        {
+          "id": "github-gists-item",
+          "title": "GitHub Gists",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Gists».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Creating Gists",
+          "type": "article",
+          "url": "https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "REST API endpoints for Gists",
+          "type": "article",
+          "url": "https://docs.github.com/en/rest/gists/gists?apiVersion=2022-11-28",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-models",
+      "title": "GitHub Models",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Models».",
+      "order": 27,
+      "children": [
+        {
+          "id": "github-models-item",
+          "title": "GitHub Models",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Models».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Prototyping with AI models",
+          "type": "article",
+          "url": "https://docs.github.com/en/github-models/prototyping-with-ai-models",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub Models DEMO | AI models for developers on GitHub",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=WiBB8Lsgl7I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-packages",
+      "title": "GitHub Packages",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Packages».",
+      "order": 28,
+      "children": [
+        {
+          "id": "github-packages-item",
+          "title": "GitHub Packages",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Packages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to GitHub Packages",
+          "type": "article",
+          "url": "https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub Packages documentation",
+          "type": "article",
+          "url": "https://docs.github.com/en/packages",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-pages",
+      "title": "GitHub Pages",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Pages».",
+      "order": 29,
+      "children": [
+        {
+          "id": "github-pages-item",
+          "title": "GitHub Pages",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Pages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "About GitHub Pages",
+          "type": "article",
+          "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Creating a GitHub Pages site",
+          "type": "article",
+          "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub Pages examples",
+          "type": "article",
+          "url": "https://github.com/collections/github-pages-examples",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-marketplace",
+      "title": "GitHub Marketplace",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Marketplace».",
+      "order": 30,
+      "children": [
+        {
+          "id": "github-marketplace-item",
+          "title": "GitHub Marketplace",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Marketplace».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GitHub Marketplace",
+          "type": "article",
+          "url": "https://github.com/marketplace",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "About GitHub Marketplace for apps",
+          "type": "article",
+          "url": "https://docs.github.com/en/apps/github-marketplace/github-marketplace-overview/about-github-marketplace-for-apps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-codespaces",
+      "title": "GitHub Codespaces",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Codespaces».",
+      "order": 31,
+      "children": [
+        {
+          "id": "github-codespaces-item",
+          "title": "GitHub Codespaces",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Codespaces».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GitHub Codespaces Overview",
+          "type": "article",
+          "url": "https://docs.github.com/en/codespaces/overview",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Deploy a GitHub Codespace",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_01iCF9sO1c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-education",
+      "title": "GitHub Education",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Education».",
+      "order": 32,
+      "children": [
+        {
+          "id": "student-developer-pack",
+          "title": "Student Developer Pack",
+          "description": "مباحث و تمرین‌های مرتبط با «Student Developer Pack».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Apply to GitHub Education as a student",
+              "type": "article",
+              "url": "https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "official GitHub Education Docs",
+          "type": "article",
+          "url": "https://education.github.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitHub GitHub Education: free programs, technology, and opportunities available for Students",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=HIVFdN9VGgw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-security",
+      "title": "GitHub Security",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Security».",
+      "order": 33,
+      "children": [
+        {
+          "id": "github-security-item",
+          "title": "GitHub Security",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GitHub security features",
+          "type": "article",
+          "url": "https://docs.github.com/en/code-security/getting-started/github-security-features",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dependabot Quick-start Guide",
+          "type": "article",
+          "url": "https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "About user alerts",
+          "type": "article",
+          "url": "https://docs.github.com/en/code-security/secret-scanning/managing-alerts-from-secret-scanning/about-alerts#about-user-alerts",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "github-sponsors",
+      "title": "GitHub Sponsors",
+      "description": "مباحث و تمرین‌های مرتبط با «GitHub Sponsors».",
+      "order": 34,
+      "children": [
+        {
+          "id": "github-sponsors-item",
+          "title": "GitHub Sponsors",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Sponsors».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Sponsoring an open source contributor through GitHub",
+          "type": "article",
+          "url": "https://docs.github.com/en/sponsors/sponsoring-open-source-contributors/sponsoring-an-open-source-contributor-through-github",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Receiving sponsorships through GitHub Sponsors",
+          "type": "article",
+          "url": "https://docs.github.com/en/sponsors/receiving-sponsorships-through-github-sponsors",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

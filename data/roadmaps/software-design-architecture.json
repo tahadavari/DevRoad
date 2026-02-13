@@ -1,0 +1,1123 @@
+{
+  "slug": "software-design-architecture",
+  "title": "Software Design and Architecture",
+  "description": "Step by step guide to learn software design and architecture",
+  "steps": [
+    {
+      "id": "clean-code-principles",
+      "title": "Clean Code Principles",
+      "description": "مباحث و تمرین‌های مرتبط با «Clean Code Principles».",
+      "order": 1,
+      "children": [
+        {
+          "id": "clean-code-principles-item",
+          "title": "Clean Code Principles",
+          "description": "مباحث و تمرین‌های مرتبط با «Clean Code Principles».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Clean Code & Software Design Principles",
+          "type": "article",
+          "url": "https://workat.tech/machine-coding/tutorial/introduction-clean-code-software-design-principles-nwu4qqc63e09",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about General Programming",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/general-programming?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "programming-paradigms",
+      "title": "Programming Paradigms",
+      "description": "مباحث و تمرین‌های مرتبط با «Programming Paradigms».",
+      "order": 2,
+      "children": [
+        {
+          "id": "structured-programming",
+          "title": "Structured Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Structured Programming».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Structured Programming Wikipedia",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Structured_programming",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about General Programming",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/general-programming?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "functional-programming",
+          "title": "Functional Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Functional Programming».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is Functional Programming?",
+              "type": "article",
+              "url": "https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Functional Programming",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/functional-programming?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "object-oriented-programming",
+          "title": "Object Oriented Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Object Oriented Programming».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is Object Oriented Programming?",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/what-is-object-oriented-programming/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OOP introduction",
+              "type": "article",
+              "url": "https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about OOP",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/oop?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Overview of Programming paradigm",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Programming_paradigm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "object-oriented-programming-2",
+      "title": "Object Oriented Programming",
+      "description": "مباحث و تمرین‌های مرتبط با «Object Oriented Programming».",
+      "order": 3,
+      "children": [
+        {
+          "id": "object-oriented-programming-2-item",
+          "title": "Object Oriented Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Object Oriented Programming».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Discover Object Oriented Programming",
+          "type": "article",
+          "url": "https://opendsa.cs.vt.edu/ODSA/Books/Everything/html/IntroOO.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Software Development Tutorial - What is object-oriented language?s",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?app=desktop&v=SS-9y0H3Si8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about General Programming",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/general-programming?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "design-principles",
+      "title": "Design Principles",
+      "description": "مباحث و تمرین‌های مرتبط با «Design Principles».",
+      "order": 4,
+      "children": [
+        {
+          "id": "design-principles-item",
+          "title": "Design Principles",
+          "description": "مباحث و تمرین‌های مرتبط با «Design Principles».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "design-patterns",
+      "title": "Design Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Design Patterns».",
+      "order": 5,
+      "children": [
+        {
+          "id": "design-patterns-item",
+          "title": "Design Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Design Patterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Overview - Software Design Pattern",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Software_design_pattern",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explaining, imaging and simplifying design patterns",
+          "type": "article",
+          "url": "https://refactoring.guru/design-patterns/what-is-pattern",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Are Design Patterns?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=BWprw8UHIzA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Design Patterns",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/design-patterns?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "model-driven-design",
+      "title": "Model-Driven Design",
+      "description": "مباحث و تمرین‌های مرتبط با «Model-Driven Design».",
+      "order": 6,
+      "children": [
+        {
+          "id": "model-driven-design-item",
+          "title": "Model-Driven Design",
+          "description": "مباحث و تمرین‌های مرتبط با «Model-Driven Design».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Model Driven Design – theory to practice",
+          "type": "article",
+          "url": "https://www.todaysoftmag.com/article/1529/model-driven-design-theory-to-practice",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "messaging",
+      "title": "Messaging",
+      "description": "مباحث و تمرین‌های مرتبط با «Messaging».",
+      "order": 7,
+      "children": [
+        {
+          "id": "messaging-item",
+          "title": "Messaging",
+          "description": "مباحث و تمرین‌های مرتبط با «Messaging».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Architectural Styles in Software Engineering",
+          "type": "article",
+          "url": "https://shapingsoftware.com/2009/02/09/architectural-styles/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Architectural Messaging Patterns",
+          "type": "article",
+          "url": "https://www.redhat.com/architect/architectural-messaging-patterns",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "distributed",
+      "title": "Distributed",
+      "description": "مباحث و تمرین‌های مرتبط با «Distributed».",
+      "order": 8,
+      "children": [
+        {
+          "id": "distributed-item",
+          "title": "Distributed",
+          "description": "مباحث و تمرین‌های مرتبط با «Distributed».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Overview of Distributed Architecture",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/software_architecture_design/distributed_architecture.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "architectural-styles",
+      "title": "Architectural Styles",
+      "description": "مباحث و تمرین‌های مرتبط با «Architectural Styles».",
+      "order": 9,
+      "children": [
+        {
+          "id": "architectural-styles-item",
+          "title": "Architectural Styles",
+          "description": "مباحث و تمرین‌های مرتبط با «Architectural Styles».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Software Architecture & Styles?",
+          "type": "article",
+          "url": "https://study.com/academy/lesson/software-architecture-styles-patterns-components.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Types of Architectural Styles in Software Engineering",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=2Pp0BcXN9YY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "10 Architecture Patterns Used In Enterprise Software Development Today",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=brt3ao8bvqy",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "architectural-principles",
+      "title": "Architectural Principles",
+      "description": "مباحث و تمرین‌های مرتبط با «Architectural Principles».",
+      "order": 10,
+      "children": [
+        {
+          "id": "architectural-principles-item",
+          "title": "Architectural Principles",
+          "description": "مباحث و تمرین‌های مرتبط با «Architectural Principles».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "structural",
+      "title": "Structural",
+      "description": "مباحث و تمرین‌های مرتبط با «Structural».",
+      "order": 11,
+      "children": [
+        {
+          "id": "structural-item",
+          "title": "Structural",
+          "description": "مباحث و تمرین‌های مرتبط با «Structural».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "architectural-patterns",
+      "title": "Architectural Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Architectural Patterns».",
+      "order": 12,
+      "children": [
+        {
+          "id": "blackboard-pattern",
+          "title": "Blackboard Pattern",
+          "description": "مباحث و تمرین‌های مرتبط با «Blackboard Pattern».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Overview of Blackboard (design pattern)",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Blackboard_(design_pattern)",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Architectural Patterns: Blackboard",
+              "type": "article",
+              "url": "http://www.openloop.com/softwareEngineering/patterns/architecturePattern/arch_Blackboard.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "microservices",
+          "title": "Microservices",
+          "description": "مباحث و تمرین‌های مرتبط با «Microservices».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Brief of Microservices",
+              "type": "article",
+              "url": "https://microservices.io/patterns/microservices.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - Microservices Architectural Pattern",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=8BPDv038oMI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Get started with Microservices Design Patterns",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=xuH81XGWeGQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Microservices",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/microservices?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "model-view-controller",
+          "title": "Model-View Controller",
+          "description": "مباحث و تمرین‌های مرتبط با «Model-View Controller».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "MVC Framework - Introduction",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - MVC Architectural Pattern",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=e9S90R-Y24Q",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "domain-driven-design",
+          "title": "Domain-Driven Design",
+          "description": "مباحث و تمرین‌های مرتبط با «Domain-Driven Design».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Modern Software Architecture (#1): Domain Driven Design",
+              "type": "article",
+              "url": "https://medium.com/modern-software-architecture/modern-software-architecture-1-domain-driven-design-f06fad8695f9",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Concept of Domain-Driven Design Explained",
+              "type": "article",
+              "url": "https://medium.com/microtica/the-concept-of-domain-driven-design-explained-3184c0fd7c3f",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is DDD (Domain-Driven Design) ?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Tnecs_7OT74",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Domain-Driven Design patterns for a distributed system",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=i3d_jzpf0gE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Domain-Driven Design",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/domain-driven-design?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "microkernel",
+          "title": "Microkernel",
+          "description": "مباحث و تمرین‌های مرتبط با «Microkernel».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Overview of Microkernel Architecture",
+              "type": "article",
+              "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch03.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Microkernel Architectural Pattern | Software Architecture",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=h3icQDMRLd8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "serverless-architecture",
+          "title": "Serverless Architecture",
+          "description": "مباحث و تمرین‌های مرتبط با «Serverless Architecture».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Serverless Architecture Patterns in AWS",
+              "type": "article",
+              "url": "https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Architecture",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/architecture?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "message-queues-streams",
+          "title": "Message Queues / Streams",
+          "description": "مباحث و تمرین‌های مرتبط با «Message Queues / Streams».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "System Design — Message Queues",
+              "type": "article",
+              "url": "https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Overview of Message Queue pattern",
+              "type": "article",
+              "url": "https://badia-kharroubi.gitbooks.io/microservices-architecture/content/patterns/communication-patterns/message-queue-pattern.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "event-sourcing",
+          "title": "Event Sourcing",
+          "description": "مباحث و تمرین‌های مرتبط با «Event Sourcing».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Event Sourcing Pattern",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Event Sourcing Example & Explained",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=AUj4M-st3ic&list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ&ab_channel=CodeOpinion",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Architecture",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/architecture?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cqrs",
+          "title": "CQRS",
+          "description": "مباحث و تمرین‌های مرتبط با «CQRS».",
+          "order": 9,
+          "resources": [
+            {
+              "title": "Get Started with CQRS Pattern",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CQRS Software Architecture Pattern: The Good, Bad, and the Ugly",
+              "type": "article",
+              "url": "https://betterprogramming.pub/cqrs-software-architecture-pattern-the-good-the-bad-and-the-ugly-e9d6e7a34daf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "enterprise-patterns",
+      "title": "Enterprise Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Enterprise Patterns».",
+      "order": 13,
+      "children": [
+        {
+          "id": "transaction-script",
+          "title": "Transaction Script",
+          "description": "مباحث و تمرین‌های مرتبط با «Transaction Script».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Transaction Script Pattern",
+              "type": "article",
+              "url": "https://gunnarpeipman.com/transaction-script-pattern/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - Transaction Script Design Pattern",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fnsU9cqcY3I",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "mappers",
+          "title": "Mappers",
+          "description": "مباحث و تمرین‌های مرتبط با «Mappers».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Overview of Data Mapper Pattern",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Data_mapper_pattern",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - Mappers",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7noMLStHcTE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "repositories",
+          "title": "Repositories",
+          "description": "مباحث و تمرین‌های مرتبط با «Repositories».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Introduction to Repository Design Patterns",
+              "type": "article",
+              "url": "https://cubettech.com/resources/blog/introduction-to-repository-design-pattern/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - Repository Design Pattern",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=mb6bwnEaZ3U",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "usecases",
+          "title": "Usecases",
+          "description": "مباحث و تمرین‌های مرتبط با «Usecases».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Use Case Patterns",
+              "type": "article",
+              "url": "https://caminao.blog/how-to-implement-symbolic-representations/patterns/functional-patterns/use-case-patterns/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "identity-maps",
+          "title": "Identity Maps",
+          "description": "مباحث و تمرین‌های مرتبط با «Identity Maps».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Overview of Identity map pattern",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Identity_map_pattern",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - Identity Map Design Pattern",
+              "type": "video",
+              "url": "https://youtube.com/watch?v=erDxkIyNudY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "dtos",
+          "title": "DTOs",
+          "description": "مباحث و تمرین‌های مرتبط با «DTOs».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Data Transfer Object pattern and Mappers",
+              "type": "article",
+              "url": "https://medium.com/@abdalrhmanalkraien/data-transfer-object-pattern-and-mapper-116508bc9df0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "commands-queries",
+          "title": "Commands / Queries",
+          "description": "مباحث و تمرین‌های مرتبط با «Commands / Queries».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Get Started with CQRS Pattern",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "value-objects",
+          "title": "Value Objects",
+          "description": "مباحث و تمرین‌های مرتبط با «Value Objects».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Overview - Implement Value Objects",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Intro to Value object",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Value_object",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "domain-models",
+          "title": "Domain Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Domain Models».",
+          "order": 9,
+          "resources": [
+            {
+              "title": "Overview - Domain Models",
+              "type": "article",
+              "url": "https://sparxsystems.com/enterprise_architect_user_guide/14.0/model_domains/specialized_models.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - Domain Model Pattern",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=75EGANiqADw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "entities",
+          "title": "Entities",
+          "description": "مباحث و تمرین‌های مرتبط با «Entities».",
+          "order": 10,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "orms",
+          "title": "ORMs",
+          "description": "مباحث و تمرین‌های مرتبط با «ORMs».",
+          "order": 11,
+          "resources": [
+            {
+              "title": "Why do you need an ORM?",
+              "type": "article",
+              "url": "https://enterprisecraftsmanship.com/posts/do-you-need-an-orm/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Backend Development",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Software Architecture Patterns in Enterprise Software",
+          "type": "article",
+          "url": "https://blog.devgenius.io/10-software-architecture-patterns-in-enterprise-software-development-fabacb5ed0c8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Enterprise Integration Patterns?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=WNm3QmJadNs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Enterprise",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/enterprise?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

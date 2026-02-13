@@ -1,0 +1,55 @@
+{
+  "slug": "engineering-manager",
+  "title": "Engineering Manager",
+  "description": "Everything you need to know to become a Engineering Manager.",
+  "steps": [
+    {
+      "id": "what-is-engineering-management",
+      "title": "What is Engineering Management?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Engineering Management?».",
+      "order": 1,
+      "children": [
+        {
+          "id": "em-vs-tech-lead-vs-ic",
+          "title": "EM vs Tech Lead vs IC",
+          "description": "مباحث و تمرین‌های مرتبط با «EM vs Tech Lead vs IC».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "people",
+          "title": "People",
+          "description": "مباحث و تمرین‌های مرتبط با «People».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Engineering Management Resources",
+          "type": "article",
+          "url": "https://github.com/engineering-management/awesome-engineering-management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Software Engineering at Google: The Engineering Manager",
+          "type": "article",
+          "url": "https://abseil.io/resources/swe-book/html/ch05.html#the_engineering_manager",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

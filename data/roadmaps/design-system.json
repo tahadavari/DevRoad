@@ -1,0 +1,688 @@
+{
+  "slug": "design-system",
+  "title": "Design System",
+  "description": "Learn how to create a design system with this step by step guide",
+  "steps": [
+    {
+      "id": "understand-the-basics",
+      "title": "Understand the Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Understand the Basics».",
+      "order": 1,
+      "children": [
+        {
+          "id": "need-of-design-system",
+          "title": "Need of Design System",
+          "description": "مباحث و تمرین‌های مرتبط با «Need of Design System».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Why You Need a Strong Design System (and How to Build One)",
+              "type": "article",
+              "url": "https://www.drawbackwards.com/blog/why-you-need-a-strong-design-system-and-how-to-build-one",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "On Design Systems: Sell The Output, Not The Workflow",
+              "type": "article",
+              "url": "https://www.smashingmagazine.com/2016/05/design-systems-responsive-design-sell-output-not-workflow/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Design Systems, when and how much?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Hx02SaL_IH0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-a-design-system",
+          "title": "What is a Design System?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is a Design System?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Everything you need to know about Design Systems",
+              "type": "article",
+              "url": "https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Design Systems 101",
+              "type": "article",
+              "url": "https://www.nngroup.com/articles/design-systems-101/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A comprehensive guide to design systems",
+              "type": "article",
+              "url": "https://www.invisionapp.com/inside-design/guide-to-design-systems/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "design-system-vs-component-library",
+          "title": "Design System vs Component Library",
+          "description": "مباحث و تمرین‌های مرتبط با «Design System vs Component Library».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "A Design System: So Much More Than A Component Library",
+              "type": "article",
+              "url": "https://www.architech.ca/a-design-system-so-much-more-than-a-component-library",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Design System vs UI Component Library vs Brand Style Guide",
+              "type": "article",
+              "url": "https://prototype.net/blog/design-system-component-library-style-guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Design Systems vs Pattern Libraries vs Style Guides vs Component Libraries",
+              "type": "article",
+              "url": "https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-atomic-design",
+          "title": "What is Atomic Design",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Atomic Design».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Atomic Design Principles & Methodology 101",
+              "type": "article",
+              "url": "https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Atomic Design Methodology",
+              "type": "article",
+              "url": "https://atomicdesign.bradfrost.com/chapter-2/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Atomic Design and UI Components: Theory to Practice",
+              "type": "article",
+              "url": "https://blog.bitsrc.io/atomic-design-and-ui-components-theory-to-practice-f200db337c24",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "stakeholders-involved-in-building",
+          "title": "Stakeholders Involved in Building",
+          "description": "مباحث و تمرین‌های مرتبط با «Stakeholders Involved in Building».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Designing the Design System",
+              "type": "article",
+              "url": "https://www.designbetter.co/design-systems-handbook/designing-design-system",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "design-system-examples",
+          "title": "Design System Examples",
+          "description": "مباحث و تمرین‌های مرتبط با «Design System Examples».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Collection of Open Source Design Systems",
+              "type": "article",
+              "url": "https://github.com/alexpate/awesome-design-systems",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Material Design (Google)",
+              "type": "article",
+              "url": "https://material.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Carbon Design System (IBM)",
+              "type": "article",
+              "url": "https://carbondesignsystem.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Atlassian Design System",
+              "type": "article",
+              "url": "https://atlassian.design/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Polaris Design System (Shopify)",
+              "type": "article",
+              "url": "https://polaris.shopify.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Gov.uk Design System",
+              "type": "article",
+              "url": "https://design-system.service.gov.uk/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Design Systems 101",
+          "type": "article",
+          "url": "https://www.nngroup.com/articles/design-systems-101/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to build your design system",
+          "type": "article",
+          "url": "https://www.figma.com/blog/design-systems-102-how-to-build-your-design-system/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Everything you need to know about Design Systems",
+          "type": "article",
+          "url": "https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Design System? Design Systems 101 for Designers",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=wc5krC28ynQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "terminology",
+      "title": "Terminology",
+      "description": "مباحث و تمرین‌های مرتبط با «Terminology».",
+      "order": 2,
+      "children": [
+        {
+          "id": "component",
+          "title": "Component",
+          "description": "مباحث و تمرین‌های مرتبط با «Component».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "design-language",
+          "title": "Design Language",
+          "description": "مباحث و تمرین‌های مرتبط با «Design Language».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is a Design Language.. really?",
+              "type": "article",
+              "url": "https://medium.com/thinking-design/what-is-a-design-language-really-cd1ef87be793",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Develop a Design Language",
+              "type": "article",
+              "url": "https://xd.adobe.com/ideas/principles/web-design/how-to-develop-design-language/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Actually Constitutes Design Language?",
+              "type": "article",
+              "url": "https://www.uxpin.com/studio/blog/design-language/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Visual Design Language: The Building Blocks Of Design",
+              "type": "article",
+              "url": "https://www.smashingmagazine.com/2020/03/visual-design-language-building-blocks/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "guidelines",
+          "title": "Guidelines",
+          "description": "مباحث و تمرین‌های مرتبط با «Guidelines».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Design Guidelines",
+              "type": "article",
+              "url": "https://www.interaction-design.org/literature/topics/design-guidelines",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pattern",
+          "title": "Pattern",
+          "description": "مباحث و تمرین‌های مرتبط با «Pattern».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Design Systems Glossary",
+          "type": "article",
+          "url": "https://web.archive.org/web/20220620075140/https://superfriendly.com/design-systems/glossary/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "making-a-design-system",
+      "title": "Making a Design System",
+      "description": "مباحث و تمرین‌های مرتبط با «Making a Design System».",
+      "order": 3,
+      "children": [
+        {
+          "id": "making-it-from-scratch",
+          "title": "Making it from Scratch",
+          "description": "مباحث و تمرین‌های مرتبط با «Making it from Scratch».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Create a Design System with Figma - Full Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=RYDiDpW2VkM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "making-it-from-existing-design",
+          "title": "Making it from Existing Design",
+          "description": "مباحث و تمرین‌های مرتبط با «Making it from Existing Design».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Create a Design System with Figma - Full Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=RYDiDpW2VkM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Design Systems: Step-by-Step Guide to Creating Your Own",
+          "type": "article",
+          "url": "https://www.uxpin.com/create-design-system-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Does My Organization Need a Design System?",
+          "type": "article",
+          "url": "https://www.method.com/insights/does-my-organization-need-a-design-system/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introducing Design Systems Into Chaos - Diana Mounter, GitHub",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=FZSi1bK-BRM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Design Systems, when and how much?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Hx02SaL_IH0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Create a Design System with Figma - Full Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=RYDiDpW2VkM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "existing-design-analysis",
+      "title": "Existing Design Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Existing Design Analysis».",
+      "order": 4,
+      "children": [
+        {
+          "id": "a-b-tests-experiments",
+          "title": "A/B Tests & Experiments",
+          "description": "مباحث و تمرین‌های مرتبط با «A/B Tests & Experiments».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "regional-requirements",
+          "title": "Regional Requirements",
+          "description": "مباحث و تمرین‌های مرتبط با «Regional Requirements».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "documentation",
+          "title": "Documentation",
+          "description": "مباحث و تمرین‌های مرتبط با «Documentation».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "creating-design-language",
+      "title": "Creating Design Language",
+      "description": "مباحث و تمرین‌های مرتبط با «Creating Design Language».",
+      "order": 5,
+      "children": [
+        {
+          "id": "creating-design-language-item",
+          "title": "Creating Design Language",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating Design Language».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a Design Language.. really?",
+          "type": "article",
+          "url": "https://medium.com/thinking-design/what-is-a-design-language-really-cd1ef87be793",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Develop a Design Language",
+          "type": "article",
+          "url": "https://xd.adobe.com/ideas/principles/web-design/how-to-develop-design-language/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Actually Constitutes Design Language?",
+          "type": "article",
+          "url": "https://www.uxpin.com/studio/blog/design-language/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visual Design Language: The Building Blocks Of Design",
+          "type": "article",
+          "url": "https://www.smashingmagazine.com/2020/03/visual-design-language-building-blocks/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "defining-design-tokens",
+      "title": "Defining Design Tokens",
+      "description": "مباحث و تمرین‌های مرتبط با «Defining Design Tokens».",
+      "order": 6,
+      "children": [
+        {
+          "id": "defining-design-tokens-item",
+          "title": "Defining Design Tokens",
+          "description": "مباحث و تمرین‌های مرتبط با «Defining Design Tokens».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Are Design Tokens?",
+          "type": "article",
+          "url": "https://xd.adobe.com/ideas/principles/design-systems/what-are-design-tokens/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "creating-core-components",
+      "title": "Creating Core Components",
+      "description": "مباحث و تمرین‌های مرتبط با «Creating Core Components».",
+      "order": 7,
+      "children": [
+        {
+          "id": "creating-core-components-item",
+          "title": "Creating Core Components",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating Core Components».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "tooling",
+      "title": "Tooling",
+      "description": "مباحث و تمرین‌های مرتبط با «Tooling».",
+      "order": 8,
+      "children": [
+        {
+          "id": "tooling-item",
+          "title": "Tooling",
+          "description": "مباحث و تمرین‌های مرتبط با «Tooling».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "project-management",
+      "title": "Project Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Project Management».",
+      "order": 9,
+      "children": [
+        {
+          "id": "project-management-item",
+          "title": "Project Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Project Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

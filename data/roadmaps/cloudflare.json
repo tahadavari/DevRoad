@@ -1,0 +1,1266 @@
+{
+  "slug": "cloudflare",
+  "title": "Cloudflare",
+  "description": "Learn to deploy your applications on Cloudflare",
+  "steps": [
+    {
+      "id": "workers-kv",
+      "title": "Workers KV",
+      "description": "مباحث و تمرین‌های مرتبط با «Workers KV».",
+      "order": 1,
+      "children": [
+        {
+          "id": "key-value-operations",
+          "title": "Key-value Operations",
+          "description": "مباحث و تمرین‌های مرتبط با «Key-value Operations».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Read Key Value Pairs",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/kv/api/read-key-value-pairs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cloudflare KV Binding API",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/workers/runtime-apis/kv",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cloudflare Workers KV — Cloudflare Docs",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/workers/runtime-apis/kv/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare Workers KV Documentation",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/kv/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Use Cloudflare Workers and KV Storage",
+          "type": "article",
+          "url": "https://www.youtube.com/watch?v=NGk2HxV0Xkg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "r2-storage",
+      "title": "R2 Storage",
+      "description": "مباحث و تمرین‌های مرتبط با «R2 Storage».",
+      "order": 2,
+      "children": [
+        {
+          "id": "r2-storage-item",
+          "title": "R2 Storage",
+          "description": "مباحث و تمرین‌های مرتبط با «R2 Storage».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare R2 | Zero Egress Fee Object Storage",
+          "type": "article",
+          "url": "https://www.cloudflare.com/developer-platform/products/r2/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cloudflare R2 Documentation",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/r2/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "d1",
+      "title": "D1",
+      "description": "مباحث و تمرین‌های مرتبط با «D1».",
+      "order": 3,
+      "children": [
+        {
+          "id": "object-storage",
+          "title": "Object Storage",
+          "description": "مباحث و تمرین‌های مرتبط با «Object Storage».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Object Storage?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/learning/cloud/what-is-object-storage/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cloudflare R2 | Zero Egress Fee Object Storage",
+              "type": "article",
+              "url": "https://www.cloudflare.com/developer-platform/products/r2/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "large-file-handling",
+          "title": "Large File Handling",
+          "description": "مباحث و تمرین‌های مرتبط با «Large File Handling».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Resumable and Large Files · Cloudflare Stream",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/stream/uploading-videos/resumable-uploads/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cloudflare R2 Limits",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/r2/platform/limits/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "asset-management",
+          "title": "Asset Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Asset Management».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Use R2 as Static Asset Storage with Cloudflare Pages",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/pages/tutorials/use-r2-as-static-asset-storage-for-pages/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cloudflare R2 | Zero Egress Fee Object Storage",
+              "type": "article",
+              "url": "https://www.cloudflare.com/developer-platform/products/r2/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bucket-lifecycle",
+          "title": "Bucket Lifecycle",
+          "description": "مباحث و تمرین‌های مرتبط با «Bucket Lifecycle».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Buckets · Cloudflare R2",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/r2/buckets/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bucket Lifecycle · Cloudflare R2",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/api/resources/r2/subresources/buckets/subresources/lifecycle/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bucket-lifecycle-2",
+          "title": "Bucket Lifecycle",
+          "description": "مباحث و تمرین‌های مرتبط با «Bucket Lifecycle».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Buckets · Cloudflare R2",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/r2/buckets/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bucket Lifecycle · Cloudflare R2",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/api/resources/r2/subresources/buckets/subresources/lifecycle/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare D1 Documentation",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/d1/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started with D1",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/d1/get-started/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "queues",
+      "title": "Queues",
+      "description": "مباحث و تمرین‌های مرتبط با «Queues».",
+      "order": 4,
+      "children": [
+        {
+          "id": "message-processing",
+          "title": "Message Processing",
+          "description": "مباحث و تمرین‌های مرتبط با «Message Processing».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Cloudflare Queues · Cloudflare Queues",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/queues/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Does Queues Work?",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/queues/reference/how-queues-works/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Difference Between Stream Processing and Message Processing",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/41744506/difference-between-stream-processing-and-message-processing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare Queues · Cloudflare Queues",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/queues/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How Does Queues Work?",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/queues/reference/how-queues-works/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "durable-objects",
+      "title": "Durable Objects",
+      "description": "مباحث و تمرین‌های مرتبط با «Durable Objects».",
+      "order": 5,
+      "children": [
+        {
+          "id": "durable-objects-item",
+          "title": "Durable Objects",
+          "description": "مباحث و تمرین‌های مرتبط با «Durable Objects».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare Durable Objects - Cloudflare Docs",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/durable-objects/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "workflows",
+      "title": "Workflows",
+      "description": "مباحث و تمرین‌های مرتبط با «Workflows».",
+      "order": 6,
+      "children": [
+        {
+          "id": "state-management",
+          "title": "State Management",
+          "description": "مباحث و تمرین‌های مرتبط با «State Management».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What are Durable Objects? - Cloudflare Documentation",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/durable-objects/what-are-durable-objects/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Durable Object State · Cloudflare Durable Objects",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/durable-objects/api/state/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare Workflows · Cloudflare",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/workflows/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cloudflare Workflows Starter",
+          "type": "article",
+          "url": "https://github.com/cloudflare/workflows-starter",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "workers-ai",
+      "title": "Workers AI",
+      "description": "مباحث و تمرین‌های مرتبط با «Workers AI».",
+      "order": 7,
+      "children": [
+        {
+          "id": "workers-ai-item",
+          "title": "Workers AI",
+          "description": "مباحث و تمرین‌های مرتبط با «Workers AI».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Workers AI - Cloudflare Docs",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/workers-ai/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Models · Cloudflare Workers AI",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/workers-ai/models/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "vectorize",
+      "title": "Vectorize",
+      "description": "مباحث و تمرین‌های مرتبط با «Vectorize».",
+      "order": 8,
+      "children": [
+        {
+          "id": "vector-embeddings",
+          "title": "Vector Embeddings",
+          "description": "مباحث و تمرین‌های مرتبط با «Vector Embeddings».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Vector Database - Cloudflare Docs",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/vectorize/reference/what-is-a-vector-database/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cloudflare Vectorize",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/vectorize/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Vectorize - Cloudflare Docs",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/vectorize/get-started/intro/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cloudflare Vectorize",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/vectorize/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "stream",
+      "title": "Stream",
+      "description": "مباحث و تمرین‌های مرتبط با «Stream».",
+      "order": 9,
+      "children": [
+        {
+          "id": "video-delivery",
+          "title": "Video Delivery",
+          "description": "مباحث و تمرین‌های مرتبط با «Video Delivery».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Delivering Videos with Cloudflare",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/support/more-dashboard-apps/cloudflare-stream/delivering-videos-with-cloudflare/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Stream Delivery - Cloudflare Stream",
+              "type": "article",
+              "url": "https://www.cloudflare.com/application-services/solutions/stream-delivery/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cloudflare Stream - Cloudflare",
+              "type": "article",
+              "url": "https://www.cloudflare.com/developer-platform/products/cloudflare-stream/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare Stream - Cloudflare Documentation",
+          "type": "article",
+          "url": "https://www.cloudflare.com/developer-platform/products/cloudflare-stream/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cloudflare Stream - Cloudflare Blog",
+          "type": "article",
+          "url": "https://blog.cloudflare.com/tag/cloudflare-stream/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "images",
+      "title": "Images",
+      "description": "مباحث و تمرین‌های مرتبط با «Images».",
+      "order": 10,
+      "children": [
+        {
+          "id": "images-item",
+          "title": "Images",
+          "description": "مباحث و تمرین‌های مرتبط با «Images».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Images · Cloudflare Docs",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/images/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Get Started with Cloudflare Images",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/images/get-started/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "calls",
+      "title": "Calls",
+      "description": "مباحث و تمرین‌های مرتبط با «Calls».",
+      "order": 11,
+      "children": [
+        {
+          "id": "text-generation",
+          "title": "Text Generation",
+          "description": "مباحث و تمرین‌های مرتبط با «Text Generation».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Choose the Right Text Generation Model",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/workers-ai/tutorials/how-to-choose-the-right-text-generation-model/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Prompting · Cloudflare Workers AI",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/workers-ai/guides/prompting/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare Calls",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/calls/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction · Cloudflare Calls",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/calls/introduction/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "tunnels",
+      "title": "Tunnels",
+      "description": "مباحث و تمرین‌های مرتبط با «Tunnels».",
+      "order": 12,
+      "children": [
+        {
+          "id": "tunnels-item",
+          "title": "Tunnels",
+          "description": "مباحث و تمرین‌های مرتبط با «Tunnels».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare Tunnel · Cloudflare Zero Trust",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Ridiculously easy to use Tunnels - The Cloudflare Blog",
+          "type": "article",
+          "url": "https://blog.cloudflare.com/ridiculously-easy-to-use-tunnels/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "email-workers",
+      "title": "Email Workers",
+      "description": "مباحث و تمرین‌های مرتبط با «Email Workers».",
+      "order": 13,
+      "children": [
+        {
+          "id": "filtering",
+          "title": "Filtering",
+          "description": "مباحث و تمرین‌های مرتبط با «Filtering».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Email Workers · Cloudflare Email Routing",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/email-routing/email-workers/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Implementing an Email Delivery Service with Cloudflare Workers",
+              "type": "article",
+              "url": "https://medium.com/@georgechmr/implementing-an-email-delivery-service-with-cloudflare-workers-c141422109d0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Email Workers · Cloudflare Email Routing",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/email-routing/email-workers/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Route to Workers, Automate Your Email Processing",
+          "type": "article",
+          "url": "https://blog.cloudflare.com/announcing-route-to-workers/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Implementing an Email Delivery Service with Cloudflare Workers",
+          "type": "article",
+          "url": "https://medium.com/@georgechmr/implementing-an-email-delivery-service-with-cloudflare-workers-c141422109d0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ai-gateway",
+      "title": "AI Gateway",
+      "description": "مباحث و تمرین‌های مرتبط با «AI Gateway».",
+      "order": 14,
+      "children": [
+        {
+          "id": "ai-gateway-item",
+          "title": "AI Gateway",
+          "description": "مباحث و تمرین‌های مرتبط با «AI Gateway».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare + AI",
+          "type": "article",
+          "url": "https://ai.cloudflare.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cloudflare AI Gateway",
+          "type": "article",
+          "url": "https://www.cloudflare.com/developer-platform/products/ai-gateway/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "browser-rendering",
+      "title": "Browser Rendering",
+      "description": "مباحث و تمرین‌های مرتبط با «Browser Rendering».",
+      "order": 15,
+      "children": [
+        {
+          "id": "browser-rendering-item",
+          "title": "Browser Rendering",
+          "description": "مباحث و تمرین‌های مرتبط با «Browser Rendering».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Browser Rendering",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/browser-rendering/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Browser Rendering API - Blog",
+          "type": "article",
+          "url": "https://blog.cloudflare.com/browser-rendering-api-ga-rolling-out-cloudflare-snippets-swr-and-bringing-workers-for-platforms-to-our-paygo-plans/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security-performance",
+      "title": "Security & Performance",
+      "description": "مباحث و تمرین‌های مرتبط با «Security & Performance».",
+      "order": 16,
+      "children": [
+        {
+          "id": "workers-security-model",
+          "title": "Workers Security Model",
+          "description": "مباحث و تمرین‌های مرتبط با «Workers Security Model».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Security Model · Cloudflare",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/workers/reference/security-model/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Workers RPC — Visibility and Security Model - Cloudflare Docs",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/workers/runtime-apis/rpc/visibility/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "isolates-architecture",
+          "title": "Isolates Architecture",
+          "description": "مباحث و تمرین‌های مرتبط با «Isolates Architecture».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Reference Architectures · Cloudflare Reference Architecture",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/reference-architecture/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cloudflare Security Architecture",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/reference-architecture/architectures/security/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "web-security-headers",
+          "title": "Web Security Headers",
+          "description": "مباحث و تمرین‌های مرتبط با «Web Security Headers».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Configure HTTP Headers - Cloudflare",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/fundamentals/reference/http-headers/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Quick Reference to Security Headers",
+              "type": "article",
+              "url": "https://web.dev/articles/security-headers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "rate-limiting",
+          "title": "Rate Limiting",
+          "description": "مباحث و تمرین‌های مرتبط با «Rate Limiting».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Cloudflare Queues - Queues & Rate Limits",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/queues/tutorials/handle-rate-limits/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rate Limiting Best Practices - Cloudflare Docs",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/waf/rate-limiting-rules/best-practices/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cache-api",
+          "title": "Cache API",
+          "description": "مباحث و تمرین‌های مرتبط با «Cache API».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Cloudflare API Cache · Cloudflare",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/api-next/resources/cache//",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "html-rewriting",
+          "title": "HTML Rewriting",
+          "description": "مباحث و تمرین‌های مرتبط با «HTML Rewriting».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "HTMLRewriter · Cloudflare Workers",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/workers/runtime-apis/html-rewriter/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introducing the HTMLRewriter API to Cloudflare Workers",
+              "type": "article",
+              "url": "https://blog.cloudflare.com/introducing-htmlrewriter/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "edge-ssl-tls",
+          "title": "Edge SSL/TLS",
+          "description": "مباحث و تمرین‌های مرتبط با «Edge SSL/TLS».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Get Started with SSL/TLS - Cloudflare Docs",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/ssl/get-started/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Edge Certificates · Cloudflare SSL/TLS",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/ssl/edge-certificates/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bot-management",
+          "title": "Bot Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Bot Management».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Cloudflare Bot Management & Protection",
+              "type": "article",
+              "url": "https://www.cloudflare.com/application-services/products/bot-management/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Bot Management? | How Bot Managers work?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/learning/bots/what-is-bot-management/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Application Security & Performance Solutions - Cloudflare",
+          "type": "article",
+          "url": "https://www.cloudflare.com/application-services/solutions/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cloudflare Security Architecture",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/reference-architecture/architectures/security/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "integration-workflows",
+      "title": "Integration & Workflows",
+      "description": "مباحث و تمرین‌های مرتبط با «Integration & Workflows».",
+      "order": 17,
+      "children": [
+        {
+          "id": "pages-functions",
+          "title": "Pages Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Pages Functions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Functions · Cloudflare Pages",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/pages/functions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CI/CD · Cloudflare Workers",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/workers/ci-cd/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Cloudflare Workflows",
+          "type": "article",
+          "url": "https://developers.cloudflare.com/workflows/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Workers Builds: Integrated CI/CD built on the Workers platform",
+          "type": "article",
+          "url": "https://blog.cloudflare.com/workers-builds-integrated-ci-cd-built-on-the-workers-platform/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "development-tools",
+      "title": "Development Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Development Tools».",
+      "order": 18,
+      "children": [
+        {
+          "id": "wrangler",
+          "title": "Wrangler",
+          "description": "مباحث و تمرین‌های مرتبط با «Wrangler».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Wrangler Documentation",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/workers/wrangler/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Wrangler Commands",
+              "type": "article",
+              "url": "https://developers.cloudflare.com/workers/wrangler/commands//",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

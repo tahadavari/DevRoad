@@ -14,7 +14,7 @@
       "description": "مسیر یادگیری کامل برای تبدیل شدن به یک توسعه‌دهنده بک‌اند حرفه‌ای",
       "icon": "Server",
       "color": "#3b82f6",
-      "totalSteps": 20
+      "totalSteps": 44
     },
     {
       "slug": "frontend",
@@ -22,7 +22,7 @@
       "description": "مسیر یادگیری کامل برای تبدیل شدن به یک توسعه‌دهنده فرانت‌اند حرفه‌ای",
       "icon": "Monitor",
       "color": "#8b5cf6",
-      "totalSteps": 18
+      "totalSteps": 53
     },
     {
       "slug": "android",
@@ -30,7 +30,7 @@
       "description": "مسیر یادگیری کامل برای تبدیل شدن به توسعه‌دهنده اپلیکیشن اندروید",
       "icon": "Smartphone",
       "color": "#22c55e",
-      "totalSteps": 12
+      "totalSteps": 27
     },
     {
       "slug": "devops",
@@ -38,7 +38,551 @@
       "description": "مسیر یادگیری کامل برای تبدیل شدن به یک مهندس دواپس حرفه‌ای",
       "icon": "Cloud",
       "color": "#10b981",
-      "totalSteps": 15
+      "totalSteps": 44
+    },
+    {
+      "slug": "sql",
+      "title": "SQL",
+      "description": "SQL – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 29
+    },
+    {
+      "slug": "computer-science",
+      "title": "Computer Science",
+      "description": "Computer Science – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 38
+    },
+    {
+      "slug": "react",
+      "title": "React",
+      "description": "React – نقشه راه یادگیری",
+      "icon": "Atom",
+      "color": "#61dafb",
+      "totalSteps": 24
+    },
+    {
+      "slug": "vue",
+      "title": "Vue",
+      "description": "Vue – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 25
+    },
+    {
+      "slug": "full-stack",
+      "title": "Full Stack",
+      "description": "Full Stack – نقشه راه یادگیری",
+      "icon": "Layers",
+      "color": "#f59e0b",
+      "totalSteps": 19
+    },
+    {
+      "slug": "devsecops",
+      "title": "DevSecOps",
+      "description": "DevSecOps – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 21
+    },
+    {
+      "slug": "data-analyst",
+      "title": "Data Analyst",
+      "description": "Data Analyst – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 23
+    },
+    {
+      "slug": "angular",
+      "title": "Angular",
+      "description": "Angular – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 33
+    },
+    {
+      "slug": "ai-engineer",
+      "title": "AI Engineer",
+      "description": "AI Engineer – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 29
+    },
+    {
+      "slug": "ai-data-scientist",
+      "title": "AI and Data Scientist",
+      "description": "AI and Data Scientist – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 8
+    },
+    {
+      "slug": "data-engineer",
+      "title": "Data Engineer",
+      "description": "Data Engineer – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 71
+    },
+    {
+      "slug": "machine-learning",
+      "title": "Machine Learning",
+      "description": "Machine Learning – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 58
+    },
+    {
+      "slug": "postgresql-dba",
+      "title": "PostgreSQL",
+      "description": "PostgreSQL – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 24
+    },
+    {
+      "slug": "javascript",
+      "title": "JavaScript",
+      "description": "JavaScript – نقشه راه یادگیری",
+      "icon": "FileCode",
+      "color": "#f7df1e",
+      "totalSteps": 53
+    },
+    {
+      "slug": "typescript",
+      "title": "TypeScript",
+      "description": "TypeScript – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 36
+    },
+    {
+      "slug": "nodejs",
+      "title": "Node.js",
+      "description": "Node.js – نقشه راه یادگیری",
+      "icon": "Server",
+      "color": "#68a063",
+      "totalSteps": 33
+    },
+    {
+      "slug": "blockchain",
+      "title": "Blockchain",
+      "description": "Blockchain – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 22
+    },
+    {
+      "slug": "qa",
+      "title": "QA",
+      "description": "QA – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 38
+    },
+    {
+      "slug": "python",
+      "title": "Python",
+      "description": "Python – نقشه راه یادگیری",
+      "icon": "Code",
+      "color": "#3776ab",
+      "totalSteps": 35
+    },
+    {
+      "slug": "system-design",
+      "title": "System Design",
+      "description": "System Design – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 44
+    },
+    {
+      "slug": "software-architect",
+      "title": "Software Architect",
+      "description": "Software Architect – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 44
+    },
+    {
+      "slug": "java",
+      "title": "Java",
+      "description": "Java – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 30
+    },
+    {
+      "slug": "aspnet-core",
+      "title": "ASP.NET Core",
+      "description": "ASP.NET Core – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 44
+    },
+    {
+      "slug": "api-design",
+      "title": "API Design",
+      "description": "API Design – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 25
+    },
+    {
+      "slug": "spring-boot",
+      "title": "Spring Boot",
+      "description": "Spring Boot – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 28
+    },
+    {
+      "slug": "flutter",
+      "title": "Flutter",
+      "description": "Flutter – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 40
+    },
+    {
+      "slug": "cpp",
+      "title": "C++",
+      "description": "C++ – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 24
+    },
+    {
+      "slug": "rust",
+      "title": "Rust",
+      "description": "Rust – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 33
+    },
+    {
+      "slug": "golang",
+      "title": "Go",
+      "description": "Go – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 58
+    },
+    {
+      "slug": "cyber-security",
+      "title": "Cyber Security",
+      "description": "Cyber Security – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 11
+    },
+    {
+      "slug": "ux-design",
+      "title": "UX Design",
+      "description": "UX Design – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 20
+    },
+    {
+      "slug": "software-design-architecture",
+      "title": "Software Design and Architecture",
+      "description": "Software Design and Architecture – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 33
+    },
+    {
+      "slug": "graphql",
+      "title": "GraphQL",
+      "description": "GraphQL – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 24
+    },
+    {
+      "slug": "react-native",
+      "title": "React Native",
+      "description": "React Native – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 39
+    },
+    {
+      "slug": "design-system",
+      "title": "Design System",
+      "description": "Design System – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 20
+    },
+    {
+      "slug": "prompt-engineering",
+      "title": "Prompt Engineering",
+      "description": "Prompt Engineering – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 9
+    },
+    {
+      "slug": "mongodb",
+      "title": "MongoDB",
+      "description": "MongoDB – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 29
+    },
+    {
+      "slug": "linux",
+      "title": "Linux",
+      "description": "Linux – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 39
+    },
+    {
+      "slug": "kubernetes",
+      "title": "Kubernetes",
+      "description": "Kubernetes – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 23
+    },
+    {
+      "slug": "docker",
+      "title": "Docker",
+      "description": "Docker – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 24
+    },
+    {
+      "slug": "aws",
+      "title": "AWS",
+      "description": "AWS – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 38
+    },
+    {
+      "slug": "terraform",
+      "title": "Terraform",
+      "description": "Terraform – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 57
+    },
+    {
+      "slug": "technical-writer",
+      "title": "Technical Writer",
+      "description": "Technical Writer – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 39
+    },
+    {
+      "slug": "game-developer",
+      "title": "Game Developer",
+      "description": "Game Developer – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 27
+    },
+    {
+      "slug": "mlops",
+      "title": "MLOps",
+      "description": "MLOps – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 18
+    },
+    {
+      "slug": "datastructures-and-algorithms",
+      "title": "Data Structures & Algorithms",
+      "description": "Data Structures & Algorithms – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 41
+    },
+    {
+      "slug": "redis",
+      "title": "Redis",
+      "description": "Redis – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 29
+    },
+    {
+      "slug": "product-manager",
+      "title": "Product Manager",
+      "description": "Product Manager – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 84
+    },
+    {
+      "slug": "git-github",
+      "title": "Git and GitHub",
+      "description": "Git and GitHub – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 52
+    },
+    {
+      "slug": "php",
+      "title": "PHP",
+      "description": "PHP – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 27
+    },
+    {
+      "slug": "engineering-manager",
+      "title": "Engineering Manager",
+      "description": "Engineering Manager – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 2
+    },
+    {
+      "slug": "devrel",
+      "title": "Developer Relations",
+      "description": "Developer Relations – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 46
+    },
+    {
+      "slug": "cloudflare",
+      "title": "Cloudflare",
+      "description": "Cloudflare – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 29
+    },
+    {
+      "slug": "bi-analyst",
+      "title": "BI Analyst",
+      "description": "BI Analyst – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 103
+    },
+    {
+      "slug": "ai-agents",
+      "title": "AI Agents",
+      "description": "AI Agents – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 34
+    },
+    {
+      "slug": "nextjs",
+      "title": "Next.js",
+      "description": "Next.js – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 41
+    },
+    {
+      "slug": "code-review",
+      "title": "Code Review",
+      "description": "Code Review – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 3
+    },
+    {
+      "slug": "kotlin",
+      "title": "Kotlin",
+      "description": "Kotlin – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 72
+    },
+    {
+      "slug": "html",
+      "title": "HTML",
+      "description": "HTML – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 36
+    },
+    {
+      "slug": "css",
+      "title": "CSS",
+      "description": "CSS – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 46
+    },
+    {
+      "slug": "swift-ui",
+      "title": "Swift & Swift UI",
+      "description": "Swift & Swift UI – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 56
+    },
+    {
+      "slug": "shell-bash",
+      "title": "Shell / Bash",
+      "description": "Shell / Bash – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 38
+    },
+    {
+      "slug": "laravel",
+      "title": "Laravel",
+      "description": "Laravel – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 48
+    },
+    {
+      "slug": "elasticsearch",
+      "title": "Elasticsearch",
+      "description": "Elasticsearch – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 13
+    },
+    {
+      "slug": "wordpress",
+      "title": "WordPress",
+      "description": "WordPress – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 41
+    },
+    {
+      "slug": "django",
+      "title": "Django",
+      "description": "Django – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 41
+    },
+    {
+      "slug": "ruby",
+      "title": "Ruby",
+      "description": "Ruby – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 40
+    },
+    {
+      "slug": "ruby-on-rails",
+      "title": "Ruby on Rails",
+      "description": "Ruby on Rails – نقشه راه یادگیری",
+      "icon": "Map",
+      "color": "#6366f1",
+      "totalSteps": 34
     }
   ]
 }

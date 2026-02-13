@@ -1,0 +1,2559 @@
+{
+  "slug": "machine-learning",
+  "title": "Machine Learning",
+  "description": "Step by step guide to becoming a Machine Learning Engineer in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "skills-and-responsibilities",
+          "title": "Skills and Responsibilities",
+          "description": "مباحث و تمرین‌های مرتبط با «Skills and Responsibilities».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "ml-engineer-vs-ai-engineer",
+          "title": "ML Engineer vs AI Engineer",
+          "description": "مباحث و تمرین‌های مرتبط با «ML Engineer vs AI Engineer».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "AI VS ML Engineer What Do They Do?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Ff8HHBITvfs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AI vs Machine Learning",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=4RixMPF4xis",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-an-ml-engineer",
+          "title": "What is an ML Engineer?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is an ML Engineer?».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What Is a Machine Learning Engineer? (+ How to Get Started)",
+              "type": "article",
+              "url": "https://www.coursera.org/articles/what-is-machine-learning-engineer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Machine Learning?",
+          "type": "article",
+          "url": "https://www.ibm.com/topics/machine-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Machine Learning?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9gGnTQTYNaE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "linear-algebra",
+      "title": "Linear Algebra",
+      "description": "مباحث و تمرین‌های مرتبط با «Linear Algebra».",
+      "order": 2,
+      "children": [
+        {
+          "id": "data-loading",
+          "title": "Data Loading",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Loading».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Dataset loading utilities",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/datasets.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Scikit-Learn Full Crash Course - Python Machine Learning",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SIEaLBXr0rk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "scalars-vectors-tensors",
+          "title": "Scalars, Vectors, Tensors",
+          "description": "مباحث و تمرین‌های مرتبط با «Scalars, Vectors, Tensors».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "From Vectors to Tensors: Exploring the Mathematics of Tensor Algebra",
+              "type": "article",
+              "url": "https://towardsdatascience.com/what-are-tensors-in-machine-learning-5671814646ff/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Scalar, Vector, Tensor",
+              "type": "article",
+              "url": "https://e-magnetica.pl/doku.php/scalar_vector_tensor",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What the HECK is a Tensor?!?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=bpG3gqDM80w",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "singular-value-decomposition",
+          "title": "Singular Value Decomposition",
+          "description": "مباحث و تمرین‌های مرتبط با «Singular Value Decomposition».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Singular Value Decomposition",
+              "type": "article",
+              "url": "https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/book-chapter-4.pdf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Singular Value Decomposition",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Singular_value_decomposition",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Singular Value Decomposition (SVD): Overview",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=gXbThCXjZFM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "elasticnet-regularization",
+          "title": "ElasticNet Regularization",
+          "description": "مباحث و تمرین‌های مرتبط با «ElasticNet Regularization».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "ElasticNet| scikit-learn",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "https://www.youtube.com/watch?v=xl6KAAVytEk",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=xl6KAAVytEk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "eigenvalues-diagonalization",
+          "title": "Eigenvalues, Diagonalization",
+          "description": "مباحث و تمرین‌های مرتبط با «Eigenvalues, Diagonalization».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Eigenvalues and eigenvectors",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Matrix Diagonalization",
+              "type": "article",
+              "url": "https://www.statlect.com/matrix-algebra/matrix-diagonalization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Finding Eigenvalues and Eigenvectors",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=TQvxWaQnrqI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Diagonalization",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=WTLl03D4TNA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Linear algebra for data science",
+          "type": "article",
+          "url": "http://mitran-lab.amath.unc.edu/courses/MATH347DS/textbook.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linear Algebra Done Right",
+          "type": "article",
+          "url": "https://linear.axler.net/LADR4e.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How I learned Linear Algebra, Probability and Statistics for Data Science",
+          "type": "article",
+          "url": "https://towardsdatascience.com/how-i-learned-linear-algebra-probability-and-statistics-for-data-science-b9d1c34dfa56/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linear Algebra for Machine Learning",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QCPJ0VdpM00",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "calculus",
+      "title": "Calculus",
+      "description": "مباحث و تمرین‌های مرتبط با «Calculus».",
+      "order": 3,
+      "children": [
+        {
+          "id": "gradient-jacobian-hessian",
+          "title": "Gradient, Jacobian, Hessian",
+          "description": "مباحث و تمرین‌های مرتبط با «Gradient, Jacobian, Hessian».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Vector Calculus: Understanding the Gradient",
+              "type": "article",
+              "url": "https://betterexplained.com/articles/vector-calculus-understanding-the-gradient/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Gentle Introduction to the Jacobian",
+              "type": "article",
+              "url": "https://machinelearningmastery.com/a-gentle-introduction-to-the-jacobian/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Gentle Introduction To Hessian Matrices",
+              "type": "article",
+              "url": "https://www.machinelearningmastery.com/a-gentle-introduction-to-hessian-matrices/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Partial Derivatives and the Gradient of a Function",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=AXH9Xm6Rbfc&t=320s&pp=ygURZ3JhZGllbnQgY2FsY3VsdXM%3D",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Change of Variables and the Jacobian",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=hhFzJvaY__U",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Multivariable Calculus: Lecture 3 Hessian Matrix : Optimization for a three variable function",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zomvvohLwr4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Calculus Online Textbook",
+          "type": "article",
+          "url": "https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Calculus",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Calculus",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Calculus",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "discrete-mathematics",
+      "title": "Discrete Mathematics",
+      "description": "مباحث و تمرین‌های مرتبط با «Discrete Mathematics».",
+      "order": 4,
+      "children": [
+        {
+          "id": "discrete-mathematics-item",
+          "title": "Discrete Mathematics",
+          "description": "مباحث و تمرین‌های مرتبط با «Discrete Mathematics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Discrete Mathematics",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Discrete_mathematics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Discrete Math (Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc)",
+          "type": "article",
+          "url": "https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "description": "مباحث و تمرین‌های مرتبط با «Python».",
+      "order": 5,
+      "children": [
+        {
+          "id": "python-item",
+          "title": "Python",
+          "description": "مباحث و تمرین‌های مرتبط با «Python».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit the Dedicated Python Developer Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/python",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Website",
+          "type": "article",
+          "url": "https://www.python.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python - Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Tutorial Series: How to Code in Python",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Google's Python Class",
+          "type": "article",
+          "url": "https://developers.google.com/edu/python",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Python - Full Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4M87qBgpafk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "probability",
+      "title": "Probability",
+      "description": "مباحث و تمرین‌های مرتبط با «Probability».",
+      "order": 6,
+      "children": [
+        {
+          "id": "types-of-distribution",
+          "title": "Types of Distribution",
+          "description": "مباحث و تمرین‌های مرتبط با «Types of Distribution».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Probability Distribution | Formula, Types, & Examples",
+              "type": "article",
+              "url": "https://www.scribbr.com/statistics/probability-distributions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "List of probability distributions",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/List_of_probability_distributions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Probability: Types of Distributions",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=b9a27XN_6tg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Probability and Statistics: The Science of Uncertainty",
+          "type": "article",
+          "url": "https://utstat.utoronto.ca/mikevans/jeffrosenthal/book.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Probability for machine learning",
+          "type": "article",
+          "url": "https://towardsdatascience.com/probability-for-machine-learning-b4150953df09/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Probability for Data Science & Machine Learning",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=sEte4hXEgJ8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "statistics",
+      "title": "Statistics",
+      "description": "مباحث و تمرین‌های مرتبط با «Statistics».",
+      "order": 7,
+      "children": [
+        {
+          "id": "statistics-item",
+          "title": "Statistics",
+          "description": "مباحث و تمرین‌های مرتبط با «Statistics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introductory Statistics",
+          "type": "article",
+          "url": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP_i6tAI7e.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Statistics",
+          "type": "article",
+          "url": "https://imp.i384100.net/3eRv4v",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Statistics - A Full University Course on Data Science Basics",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=xxpc-HPKN28",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-syntax",
+      "title": "Basic Syntax",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Syntax».",
+      "order": 8,
+      "children": [
+        {
+          "id": "basic-syntax-item",
+          "title": "Basic Syntax",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Syntax».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "isit Dedicated Python Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/python",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Python - Full Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4M87qBgpafk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "object-oriented-programming",
+      "title": "Object Oriented Programming",
+      "description": "مباحث و تمرین‌های مرتبط با «Object Oriented Programming».",
+      "order": 9,
+      "children": [
+        {
+          "id": "object-oriented-programming-item",
+          "title": "Object Oriented Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Object Oriented Programming».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Object Oriented Programming in Python",
+          "type": "article",
+          "url": "https://realpython.com/python3-object-oriented-programming/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Object Oriented Programming with Python - Full Course for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Ej_02ICOIgs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Object Oriented Programming (OOP) In Python - Beginner Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-pEs-Bss8Wc/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python OOP Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IbMDCwVm63M",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "essential-libraries",
+      "title": "Essential libraries",
+      "description": "مباحث و تمرین‌های مرتبط با «Essential libraries».",
+      "order": 10,
+      "children": [
+        {
+          "id": "essential-libraries-item",
+          "title": "Essential libraries",
+          "description": "مباحث و تمرین‌های مرتبط با «Essential libraries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-sources",
+      "title": "Data Sources",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Sources».",
+      "order": 11,
+      "children": [
+        {
+          "id": "data-sources-item",
+          "title": "Data Sources",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Sources».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "data-formats",
+      "title": "Data Formats",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Formats».",
+      "order": 12,
+      "children": [
+        {
+          "id": "data-formats-item",
+          "title": "Data Formats",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Formats».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "preprocessing-techniques",
+      "title": "Preprocessing Techniques",
+      "description": "مباحث و تمرین‌های مرتبط با «Preprocessing Techniques».",
+      "order": 13,
+      "children": [
+        {
+          "id": "data-cleaning",
+          "title": "Data Cleaning",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Cleaning».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Data cleaning",
+              "type": "article",
+              "url": "https://www.tableau.com/learn/articles/what-is-data-cleaning",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Preprocessing: A Complete Guide with Python Examples",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/data-preprocessing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "16 Data Pre Processing Techniques in 20 Minutes | Data Preprocessing in machine learning",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=oggHzC_L9uc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-machine-learning",
+      "title": "What is Machine Learning?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Machine Learning?».",
+      "order": 14,
+      "children": [
+        {
+          "id": "basic-concepts",
+          "title": "Basic concepts",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic concepts».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Machine Learning: The Basics",
+          "type": "article",
+          "url": "https://alexjungaalto.github.io/MLBasicsBook.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Machine Learning (ML)?",
+          "type": "article",
+          "url": "https://www.ibm.com/topics/machine-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Machine Learning?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9gGnTQTYNaE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Complete Machine Learning in One Video | Machine Learning Tutorial For Beginners 2025 | Simplilearn",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=PtYRUoJRE9s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "types-of-machine-learning",
+      "title": "Types of Machine Learning",
+      "description": "مباحث و تمرین‌های مرتبط با «Types of Machine Learning».",
+      "order": 15,
+      "children": [
+        {
+          "id": "supervised-learning",
+          "title": "Supervised Learning",
+          "description": "مباحث و تمرین‌های مرتبط با «Supervised Learning».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Supervised Learning?",
+              "type": "article",
+              "url": "https://cloud.google.com/discover/what-is-supervised-learning",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Supervised Machine Learning",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/supervised-machine-learning",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Supervised Machine Learning Explained For Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Mu3POlNoLdc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "unsupervised-learning",
+          "title": "Unsupervised Learning",
+          "description": "مباحث و تمرین‌های مرتبط با «Unsupervised Learning».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is Unsupervised Learning?",
+              "type": "article",
+              "url": "https://cloud.google.com/discover/what-is-unsupervised-learning",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to Unsupervised Learning",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/introduction-to-unsupervised-learning",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unsupervised Machine Learning Explained For Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=yteYU_QpUxs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "5 types of machine learning",
+          "type": "article",
+          "url": "https://lumenalta.com/insights/5-types-of-machine-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "scikit-learn",
+      "title": "Scikit-learn",
+      "description": "مباحث و تمرین‌های مرتبط با «Scikit-learn».",
+      "order": 16,
+      "children": [
+        {
+          "id": "data-preparation",
+          "title": "Data Preparation",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Preparation».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Preprocessing data",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/preprocessing.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Scikit-learn Crash Course - Machine Learning Library for Python",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=0B5eIE_1vpU&t=188s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-loading-2",
+          "title": "Data Loading",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Loading».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Dataset loading utilities",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/datasets.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Scikit-Learn Full Crash Course - Python Machine Learning",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SIEaLBXr0rk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "train-test-data",
+          "title": "Train - Test Data",
+          "description": "مباحث و تمرین‌های مرتبط با «Train - Test Data».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "train_test_split",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Split Your Dataset With scikit-learn's train_test_split()",
+              "type": "article",
+              "url": "https://realpython.com/train-test-split-python-data/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Train Test Split with Python Machine Learning (Scikit-Learn)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SjOfbbfI2qY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "model-selection",
+          "title": "Model Selection",
+          "description": "مباحث و تمرین‌های مرتبط با «Model Selection».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Supervised Learning Models",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/supervised_learning.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unsupervised Learning Models",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/unsupervised_learning.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "tuning",
+          "title": "Tuning",
+          "description": "مباحث و تمرین‌های مرتبط با «Tuning».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Tuning the hyper-parameters of an estimator",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/grid_search.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Comprehensive Guide to Cross-Validation with Scikit-Learn and Python",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=glLNo1ZnmPA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hands-On Hyperparameter Tuning with Scikit-Learn: Tips and Tricks",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LrCylIe0RJM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "prediction",
+          "title": "Prediction",
+          "description": "مباحث و تمرین‌های مرتبط با «Prediction».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Metrics and scoring: quantifying the quality of predictions",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Make Predictions with scikit-learn",
+              "type": "article",
+              "url": "https://machinelearningmastery.com/make-predictions-scikit-learn/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "data-loading-3",
+          "title": "Data Loading",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Loading».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Dataset loading utilities",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/datasets.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Scikit-Learn Full Crash Course - Python Machine Learning",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SIEaLBXr0rk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "scikit-learn: machine learning in Python",
+          "type": "article",
+          "url": "https://scikit-learn.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "scikit-learn",
+          "type": "article",
+          "url": "https://github.com/scikit-learn/scikit-learn",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Scikit-learn Crash Course - Machine Learning Library for Python",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0B5eIE_1vpU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-supervised-learning",
+      "title": "What is Supervised Learning?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Supervised Learning?».",
+      "order": 17,
+      "children": [
+        {
+          "id": "what-is-supervised-learning-item",
+          "title": "What is Supervised Learning?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Supervised Learning?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Supervised Learning?",
+          "type": "article",
+          "url": "https://cloud.google.com/discover/what-is-supervised-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Supervised Machine Learning",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/supervised-machine-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Supervised Machine Learning Explained For Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Mu3POlNoLdc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "classification",
+      "title": "Classification",
+      "description": "مباحث و تمرین‌های مرتبط با «Classification».",
+      "order": 18,
+      "children": [
+        {
+          "id": "k-nearest-neighbors-knn",
+          "title": "K-Nearest Neighbors (KNN)",
+          "description": "مباحث و تمرین‌های مرتبط با «K-Nearest Neighbors (KNN)».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Nearest Neighbors | scikit-learn",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/neighbors.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "K-Nearest Neighbors (KNN) Classification with scikit-learn",
+              "type": "article",
+              "url": "https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Build Your First KNN Python Model in scikit-learn (K Nearest Neighbors)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Nz73vXn5afE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Classification - Google Crash Course",
+          "type": "course",
+          "url": "https://developers.google.com/machine-learning/crash-course/classification",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Classification in Machine Learning?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/classification-machine-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Classification in Machine Learning: A Guide for Beginners",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/classification-machine-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "regression",
+      "title": "Regression",
+      "description": "مباحث و تمرین‌های مرتبط با «Regression».",
+      "order": 19,
+      "children": [
+        {
+          "id": "regression-item",
+          "title": "Regression",
+          "description": "مباحث و تمرین‌های مرتبط با «Regression».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-unsupervised-learning",
+      "title": "What is Unsupervised Learning?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Unsupervised Learning?».",
+      "order": 20,
+      "children": [
+        {
+          "id": "what-is-unsupervised-learning-item",
+          "title": "What is Unsupervised Learning?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Unsupervised Learning?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Unsupervised Learning?",
+          "type": "article",
+          "url": "https://cloud.google.com/discover/what-is-unsupervised-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Unsupervised Learning",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/introduction-to-unsupervised-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Unsupervised Machine Learning Explained For Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=yteYU_QpUxs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "clustering",
+      "title": "Clustering",
+      "description": "مباحث و تمرین‌های مرتبط با «Clustering».",
+      "order": 21,
+      "children": [
+        {
+          "id": "clustering-item",
+          "title": "Clustering",
+          "description": "مباحث و تمرین‌های مرتبط با «Clustering».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Clustering | scikit-learn",
+          "type": "article",
+          "url": "https://scikit-learn.org/stable/modules/clustering.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is clustering?",
+          "type": "article",
+          "url": "https://developers.google.com/machine-learning/clustering/overview",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dimensionality-reduction",
+      "title": "Dimensionality Reduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Dimensionality Reduction».",
+      "order": 22,
+      "children": [
+        {
+          "id": "principal-component-analysis",
+          "title": "Principal Component Analysis ",
+          "description": "مباحث و تمرین‌های مرتبط با «Principal Component Analysis ».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "PCA | scikit-learn",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is principal component analysis (PCA)?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/principal-component-analysis",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PCA Analysis in Python Explained (Scikit - Learn)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=6uwa9EkUqpg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Dimensionality Reduction?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/dimensionality-reduction",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Machine Learning - Dimensionality Reduction",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=AU_hBML2H1c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-reinforcement-learning",
+      "title": "What is Reinforcement Learning?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Reinforcement Learning?».",
+      "order": 23,
+      "children": [
+        {
+          "id": "what-is-reinforcement-learning-item",
+          "title": "What is Reinforcement Learning?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Reinforcement Learning?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is reinforcement learning?",
+          "type": "article",
+          "url": "https://online.york.ac.uk/resources/what-is-reinforcement-learning/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Resources to Learn Reinforcement Learning",
+          "type": "article",
+          "url": "https://towardsdatascience.com/best-free-courses-and-resources-to-learn-reinforcement-learning-ed6633608cb2/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "https://huggingface.co/learn/deep-rl-course/unit0/introduction",
+          "type": "article",
+          "url": "https://huggingface.co/learn/deep-rl-course/unit0/introduction",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Reinforcement Learning in 3 Hours | Full Course using Python",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Mut_u40Sqz4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-model-evaluation",
+      "title": "What is Model Evaluation?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Model Evaluation?».",
+      "order": 24,
+      "children": [
+        {
+          "id": "what-is-model-evaluation-item",
+          "title": "What is Model Evaluation?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Model Evaluation?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "why-is-it-important",
+      "title": "Why is it important?",
+      "description": "مباحث و تمرین‌های مرتبط با «Why is it important?».",
+      "order": 25,
+      "children": [
+        {
+          "id": "why-is-it-important-item",
+          "title": "Why is it important?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why is it important?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "metrics-to-evaluate",
+      "title": "Metrics to Evaluate",
+      "description": "مباحث و تمرین‌های مرتبط با «Metrics to Evaluate».",
+      "order": 26,
+      "children": [
+        {
+          "id": "attention-models",
+          "title": "Attention Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Attention Models».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is an attention mechanism?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/attention-mechanism",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "roc-auc",
+          "title": "ROC-AUC",
+          "description": "مباحث و تمرین‌های مرتبط با «ROC-AUC».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "ROC-AUC score | scikit-learn",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AUC and the ROC Curve in Machine Learning",
+              "type": "article",
+              "url": "https://www.datacamp.com/tutorial/auc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Classification: ROC and AUC",
+              "type": "article",
+              "url": "https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "f1-score",
+          "title": "F1-Score",
+          "description": "مباحث و تمرین‌های مرتبط با «F1-Score».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "F1-score | scikit-learn",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "accuracy",
+          "title": "Accuracy",
+          "description": "مباحث و تمرین‌های مرتبط با «Accuracy».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Accuracy | scikit-learn",
+              "type": "article",
+              "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Machine Learning Model Accuracy",
+              "type": "article",
+              "url": "https://www.giskard.ai/glossary/machine-learning-model-accuracy",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Metrics and scoring: quantifying the quality of predictions | scikit-learn",
+          "type": "article",
+          "url": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "validation-techniques",
+      "title": "Validation Techniques",
+      "description": "مباحث و تمرین‌های مرتبط با «Validation Techniques».",
+      "order": 27,
+      "children": [
+        {
+          "id": "stemming",
+          "title": "Stemming",
+          "description": "مباحث و تمرین‌های مرتبط با «Stemming».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What are stemming and lemmatization?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/stemming-lemmatization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "tokenization",
+          "title": "Tokenization",
+          "description": "مباحث و تمرین‌های مرتبط با «Tokenization».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is Tokenization? Types, Use Cases, Implementation",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/what-is-tokenization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Art of Tokenization: Breaking Down Text for AI",
+              "type": "article",
+              "url": "https://towardsdatascience.com/the-art-of-tokenization-breaking-down-text-for-ai-43c7bccaed25/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cross-validation: evaluating estimator performance | scikit-learn",
+          "type": "article",
+          "url": "https://scikit-learn.org/stable/modules/cross_validation.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The 5 Stages of Machine Learning Validation",
+          "type": "article",
+          "url": "https://towardsdatascience.com/the-5-stages-of-machine-learning-validation-162193f8e5db/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is the Difference Between Test and Validation Datasets?",
+          "type": "article",
+          "url": "https://machinelearningmastery.com/difference-test-validation-datasets/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Validating Machine Learning Model and Avoiding Common Challenges",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=TnIh2b2Rw6",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "neural-network-nn-basics",
+      "title": "Neural Network (NN) Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Neural Network (NN) Basics».",
+      "order": 28,
+      "children": [
+        {
+          "id": "neural-network-nn-basics-item",
+          "title": "Neural Network (NN) Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Neural Network (NN) Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Practical Deep Learning",
+          "type": "course",
+          "url": "https://course.fast.ai/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Neural Networks Explained in 5 minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jmmW0F0biz0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deep-learning-architectures",
+      "title": "Deep Learning Architectures",
+      "description": "مباحث و تمرین‌های مرتبط با «Deep Learning Architectures».",
+      "order": 29,
+      "children": [
+        {
+          "id": "deep-learning-architectures-item",
+          "title": "Deep Learning Architectures",
+          "description": "مباحث و تمرین‌های مرتبط با «Deep Learning Architectures».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a neural network?",
+          "type": "article",
+          "url": "https://www.cloudflare.com/en-gb/learning/ai/what-is-neural-network/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deep-learning-libraries",
+      "title": "Deep Learning Libraries",
+      "description": "مباحث و تمرین‌های مرتبط با «Deep Learning Libraries».",
+      "order": 30,
+      "children": [
+        {
+          "id": "deep-learning-libraries-item",
+          "title": "Deep Learning Libraries",
+          "description": "مباحث و تمرین‌های مرتبط با «Deep Learning Libraries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "convolutional-neural-network",
+      "title": "Convolutional Neural Network",
+      "description": "مباحث و تمرین‌های مرتبط با «Convolutional Neural Network».",
+      "order": 31,
+      "children": [
+        {
+          "id": "pooling",
+          "title": "Pooling",
+          "description": "مباحث و تمرین‌های مرتبط با «Pooling».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "A Gentle Introduction to Pooling Layers for Convolutional Neural Networks",
+              "type": "article",
+              "url": "https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding CNN | Pooling in CNNN",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=azRi6Bz7yc0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "strides",
+          "title": "Strides",
+          "description": "مباحث و تمرین‌های مرتبط با «Strides».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Padding and Stride",
+              "type": "article",
+              "url": "https://d2l.ai/chapter_convolutional-neural-networks/padding-and-strides.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Convolution padding and stride",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=oDAPkZ53zKk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are Convolutional Neural Networks?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/convolutional-neural-networks",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An Introduction to Convolutional Neural Networks (CNNs)",
+          "type": "article",
+          "url": "https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Hot Dog or Not Hot Dog – Convolutional Neural Network Course for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=nVhau51w6dM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "applications-of-cnns",
+      "title": "Applications of CNNs",
+      "description": "مباحث و تمرین‌های مرتبط با «Applications of CNNs».",
+      "order": 32,
+      "children": [
+        {
+          "id": "applications-of-cnns-item",
+          "title": "Applications of CNNs",
+          "description": "مباحث و تمرین‌های مرتبط با «Applications of CNNs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Top 10 Real-World Applications of Convolutional Neural Networks",
+          "type": "article",
+          "url": "https://thedatascientist.com/top-10-real-world-applications-of-convolutional-neural-networks-in-2025/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "recurrent-neural-networks",
+      "title": "Recurrent Neural Networks",
+      "description": "مباحث و تمرین‌های مرتبط با «Recurrent Neural Networks».",
+      "order": 33,
+      "children": [
+        {
+          "id": "recurrent-neural-networks-item",
+          "title": "Recurrent Neural Networks",
+          "description": "مباحث و تمرین‌های مرتبط با «Recurrent Neural Networks».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a Recurrent Neural Network (RNN)?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/recurrent-neural-networks",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is RNN? - Recurrent Neural Networks Explained",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/recurrent-neural-network/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Recurrent Neural Networks (RNNs), Clearly Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=AsNTP8Kwu80",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "attention-mechanisms",
+      "title": "Attention Mechanisms",
+      "description": "مباحث و تمرین‌های مرتبط با «Attention Mechanisms».",
+      "order": 34,
+      "children": [
+        {
+          "id": "stemming-2",
+          "title": "Stemming",
+          "description": "مباحث و تمرین‌های مرتبط با «Stemming».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What are stemming and lemmatization?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/stemming-lemmatization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "tokenization-2",
+          "title": "Tokenization",
+          "description": "مباحث و تمرین‌های مرتبط با «Tokenization».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is Tokenization? Types, Use Cases, Implementation",
+              "type": "article",
+              "url": "https://www.datacamp.com/blog/what-is-tokenization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Art of Tokenization: Breaking Down Text for AI",
+              "type": "article",
+              "url": "https://towardsdatascience.com/the-art-of-tokenization-breaking-down-text-for-ai-43c7bccaed25/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "lemmatization",
+          "title": "Lemmatization",
+          "description": "مباحث و تمرین‌های مرتبط با «Lemmatization».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What Are Stemming and Lemmatization?",
+              "type": "article",
+              "url": "https://www.ibm.com/think/topics/stemming-lemmatization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Stemming, Lemmatization- Which One is Worth Going For?",
+              "type": "article",
+              "url": "https://towardsdatascience.com/stemming-lemmatization-which-one-is-worth-going-for-77e6ec01ad9c/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Attention Is All You Need",
+          "type": "article",
+          "url": "https://arxiv.org/abs/1706.03762",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is an attention mechanism?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/attention-mechanism",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Attention mechanism: Overview",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fjJOgb-E41w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "autoencoders",
+      "title": "Autoencoders",
+      "description": "مباحث و تمرین‌های مرتبط با «Autoencoders».",
+      "order": 35,
+      "children": [
+        {
+          "id": "autoencoders-item",
+          "title": "Autoencoders",
+          "description": "مباحث و تمرین‌های مرتبط با «Autoencoders».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is an autoencoder? | IBM",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/autoencoder",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intro to Autoencoders | TensorFLow",
+          "type": "article",
+          "url": "https://www.tensorflow.org/tutorials/generative/autoencoder",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Autoencoders",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=hZ4a4NgM3u0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "generative-adversarial-networks",
+      "title": "Generative Adversarial Networks",
+      "description": "مباحث و تمرین‌های مرتبط با «Generative Adversarial Networks».",
+      "order": 36,
+      "children": [
+        {
+          "id": "generative-adversarial-networks-item",
+          "title": "Generative Adversarial Networks",
+          "description": "مباحث و تمرین‌های مرتبط با «Generative Adversarial Networks».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GANs | Google",
+          "type": "course",
+          "url": "https://developers.google.com/machine-learning/gan",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a GAN? | AWS",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/gan/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Generative Adversarial Networks | HuggingFace",
+          "type": "article",
+          "url": "https://huggingface.co/learn/computer-vision-course/en/unit5/generative-models/gans",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are GANs (Generative Adversarial Networks)?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=TpMIssRdhco",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "natural-language-processing",
+      "title": "Natural Language Processing",
+      "description": "مباحث و تمرین‌های مرتبط با «Natural Language Processing».",
+      "order": 37,
+      "children": [
+        {
+          "id": "natural-language-processing-item",
+          "title": "Natural Language Processing",
+          "description": "مباحث و تمرین‌های مرتبط با «Natural Language Processing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Natural Language Processing with Python",
+          "type": "article",
+          "url": "https://tjzhifei.github.io/resources/NLTK.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Natural Language Processing",
+          "type": "article",
+          "url": "https://www.deeplearning.ai/resources/natural-language-processing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Natural Language Processing (NLP)? | AWS",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/nlp/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Stanford’s Natural Language Processing with Deep Learning",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "explainable-ai",
+      "title": "Explainable AI",
+      "description": "مباحث و تمرین‌های مرتبط با «Explainable AI».",
+      "order": 38,
+      "children": [
+        {
+          "id": "explainable-ai-item",
+          "title": "Explainable AI",
+          "description": "مباحث و تمرین‌های مرتبط با «Explainable AI».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Explainable AI (XAI)?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/explainable-ai",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explainable AI (XAI) | Giskard",
+          "type": "article",
+          "url": "https://www.giskard.ai/glossary/explainable-ai-xai",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explainable AI: Demystifying AI Agents Decision-Making",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=yJkCuEu3K68",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,2243 @@
+{
+  "slug": "software-architect",
+  "title": "Software Architect",
+  "description": "Step by step guide to becoming a Software Architect in 2026",
+  "steps": [
+    {
+      "id": "understand-the-basics",
+      "title": "Understand the Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Understand the Basics».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-software-architecture",
+          "title": "What is Software Architecture",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Software Architecture».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Software Architecture in Software Engineering?",
+              "type": "article",
+              "url": "https://www.computer.org/resources/software-architecture",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Software Architecture: It might not be what you think it is",
+              "type": "article",
+              "url": "https://www.infoq.com/articles/what-software-architecture/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Architecture",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/architecture?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-a-software-architect",
+          "title": "What is a Software Architect",
+          "description": "مباحث و تمرین‌های مرتبط با «What is a Software Architect».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "12 Skills a Software Architect Needs",
+              "type": "article",
+              "url": "https://www.redhat.com/architect/what-is-software-architect",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "levels-of-architecture",
+          "title": "Levels of Architecture",
+          "description": "مباحث و تمرین‌های مرتبط با «Levels of Architecture».",
+          "order": 3,
+          "children": [
+            {
+              "id": "application-architecture",
+              "title": "Application Architecture",
+              "description": "مباحث و تمرین‌های مرتبط با «Application Architecture».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "responsibilities",
+      "title": "Responsibilities",
+      "description": "مباحث و تمرین‌های مرتبط با «Responsibilities».",
+      "order": 2,
+      "children": [
+        {
+          "id": "responsibilities-item",
+          "title": "Responsibilities",
+          "description": "مباحث و تمرین‌های مرتبط با «Responsibilities».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Software Architect",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Software_architect",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "important-skills-to-learn",
+      "title": "Important Skills to Learn",
+      "description": "مباحث و تمرین‌های مرتبط با «Important Skills to Learn».",
+      "order": 3,
+      "children": [
+        {
+          "id": "how-to-code",
+          "title": "How to Code",
+          "description": "مباحث و تمرین‌های مرتبط با «How to Code».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How to Code – Coding for Beginners and How to Learn Programming for Free",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/how-to-code-coding-for-beginners-and-how-to-learn-programming-for-free/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Technology Radar",
+              "type": "article",
+              "url": "https://www.thoughtworks.com/radar",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "coding is easy, actually",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qkFYqY3vr84",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "documentation",
+          "title": "Documentation",
+          "description": "مباحث و تمرین‌های مرتبط با «Documentation».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Wikipedia",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Documentation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Ultimate Guide To Software Architecture Documentation",
+              "type": "article",
+              "url": "https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "technical-skills",
+      "title": "Technical Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Technical Skills».",
+      "order": 4,
+      "children": [
+        {
+          "id": "technical-skills-item",
+          "title": "Technical Skills",
+          "description": "مباحث و تمرین‌های مرتبط با «Technical Skills».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "programming-languages",
+      "title": "Programming Languages",
+      "description": "مباحث و تمرین‌های مرتبط با «Programming Languages».",
+      "order": 5,
+      "children": [
+        {
+          "id": "net-framework-based",
+          "title": ".NET Framework Based",
+          "description": "مباحث و تمرین‌های مرتبط با «.NET Framework Based».",
+          "order": 1,
+          "resources": [
+            {
+              "title": ".NET Website",
+              "type": "article",
+              "url": "https://dotnet.microsoft.com/en-us/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is .NET?",
+              "type": "article",
+              "url": "https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why Choose .NET?",
+              "type": "article",
+              "url": "https://dotnet.microsoft.com/en-us/platform/why-choose-dotnet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C# Documentation",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/dotnet/csharp/?WT.mc_id=dotnet-35129-website",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "F# Documentation",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/dotnet/fsharp/?WT.mc_id=dotnet-35129-website",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Visual Basic Documentation",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/dotnet/visual-basic/?WT.mc_id=dotnet-35129-website",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about .NET",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/.net?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Programming Language",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Programming_language",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "patterns-design-principles",
+      "title": "Patterns & Design Principles",
+      "description": "مباحث و تمرین‌های مرتبط با «Patterns & Design Principles».",
+      "order": 6,
+      "children": [
+        {
+          "id": "mvc-mvp-mvvm",
+          "title": "MVC, MVP, MVVM",
+          "description": "مباحث و تمرین‌های مرتبط با «MVC, MVP, MVVM».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "MVC, MVP and MVVM Design Pattern",
+              "type": "article",
+              "url": "https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about General Programming",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/general-programming?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "tools",
+      "title": "Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Tools».",
+      "order": 7,
+      "children": [
+        {
+          "id": "git",
+          "title": "Git",
+          "description": "مباحث و تمرین‌های مرتبط با «Git».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit Dedicated Git & GitHub Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/git-github",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git Cheat Sheet",
+              "type": "article",
+              "url": "https://cs.fyi/guide/git-cheatsheet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial: Git for Absolutely Everyone",
+              "type": "article",
+              "url": "https://thenewstack.io/tutorial-git-for-absolutely-everyone/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git & GitHub Crash Course For Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Git",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/git?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "slack",
+          "title": "Slack",
+          "description": "مباحث و تمرین‌های مرتبط با «Slack».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Slack",
+              "type": "article",
+              "url": "https://slack.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Slack",
+              "type": "article",
+              "url": "https://slack.com/intl/en-in/help/categories/360000049043",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Slack?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=q19RtuCHt1Q",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Slack",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/slack?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "trello",
+          "title": "Trello",
+          "description": "مباحث و تمرین‌های مرتبط با «Trello».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Trello",
+              "type": "article",
+              "url": "https://trello.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Trello Guide",
+              "type": "article",
+              "url": "https://trello.com/guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Tour Of Trello",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=AyfupeWS0yY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "atlassian-tools",
+          "title": "Atlassian Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Atlassian Tools».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Jira Service Desk",
+              "type": "article",
+              "url": "https://www.atlassian.com/software/jira/service-management/features/service-desk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Jira Core",
+              "type": "article",
+              "url": "https://www.atlassian.com/software/jira/work-management",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Confluence",
+              "type": "article",
+              "url": "https://www.atlassian.com/wac/software/confluence?",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bitbucket",
+              "type": "article",
+              "url": "https://bitbucket.org/product/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Statuspage",
+              "type": "article",
+              "url": "https://www.atlassian.com/software/statuspage",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Opsgenie",
+              "type": "article",
+              "url": "https://www.atlassian.com/software/opsgenie",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Advanced Roadmaps for Jira",
+              "type": "article",
+              "url": "https://www.atlassian.com/software/jira/features/roadmaps",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Jira Align",
+              "type": "article",
+              "url": "https://www.atlassian.com/software/jira/align",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Atlassian",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/atlassian?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "tools-2",
+      "title": "Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Tools».",
+      "order": 8,
+      "children": [
+        {
+          "id": "tools-2-item",
+          "title": "Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Tools».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "architecture",
+      "title": "Architecture",
+      "description": "مباحث و تمرین‌های مرتبط با «Architecture».",
+      "order": 9,
+      "children": [
+        {
+          "id": "microservices",
+          "title": "Microservices",
+          "description": "مباحث و تمرین‌های مرتبط با «Microservices».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Pattern: Microservice Architecture",
+              "type": "article",
+              "url": "https://microservices.io/patterns/microservices.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Microservices?",
+              "type": "article",
+              "url": "https://smartbear.com/solutions/microservices/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Microservices 101",
+              "type": "article",
+              "url": "https://thenewstack.io/microservices-101/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Primer: Microservices Explained",
+              "type": "article",
+              "url": "https://thenewstack.io/primer-microservices-explained/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Articles about Microservices",
+              "type": "article",
+              "url": "https://thenewstack.io/category/microservices/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Microservices",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/microservices?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Security».",
+      "order": 10,
+      "children": [
+        {
+          "id": "hashing-algorithms",
+          "title": "Hashing Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Hashing Algorithms».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Hashing?",
+              "type": "article",
+              "url": "https://www.codecademy.com/resources/blog/what-is-hashing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hashing Algorithms and Security - Computerphile",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=b4b8ktEV4Bg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Top Hashing Algorithms In Cryptography | MD5 and SHA 256 Algorithms Expalined | Simplilearn",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Plp4F3ZfC7A",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SHA: Secure Hashing Algorithm - Computerphile",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=DMtFhACPnTY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Algorithms",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/algorithms?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pki",
+          "title": "PKI",
+          "description": "مباحث و تمرین‌های مرتبط با «PKI».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "PKI - Wikipedia",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Public_key_infrastructure",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PKI - DoD Cyber Exchange",
+              "type": "article",
+              "url": "https://public.cyber.mil/pki-pke/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "auth-strategies",
+          "title": "Auth Strategies",
+          "description": "مباحث و تمرین‌های مرتبط با «Auth Strategies».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "JSON Web Token - Handbook",
+              "type": "article",
+              "url": "https://auth0.com/resources/ebooks/jwt-handbook",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Authentication vs Authorization",
+              "type": "article",
+              "url": "https://www.cerbos.dev/blog/authentication-vs-authorization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SAML Overview",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=i8wFExDSZv0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Developers Guide to SAML",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=l-6QSEqDJPo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SAML 2.0: Technical Overview",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SvppXbpv-5k",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "An Illustrated Guide to OAuth and OpenID Connect",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=t18YB3xDfXI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OAuth 2.0 & OpenID Connect (OIDC): Technical Overview",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rTzlF-U9Y6Y",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Security - Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Architect Security",
+          "type": "article",
+          "url": "https://aws.amazon.com/blogs/architecture/lets-architect-security-in-software-architectures/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "working-with-data",
+      "title": "Working with Data",
+      "description": "مباحث و تمرین‌های مرتبط با «Working with Data».",
+      "order": 11,
+      "children": [
+        {
+          "id": "nosql-databases",
+          "title": "NoSQL Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «NoSQL Databases».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "NoSQL Database - AWS",
+              "type": "article",
+              "url": "https://aws.amazon.com/nosql/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "NoSQL Databases",
+              "type": "article",
+              "url": "https://www.mongodb.com/resources/basics/databases/nosql-explained",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about NoSQL",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/nosql?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sql-databases",
+          "title": "SQL Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «SQL Databases».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Visit Dedicated SQL Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is SQL? - AWS",
+              "type": "article",
+              "url": "https://aws.amazon.com/what-is/sql/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SQL Databases",
+              "type": "article",
+              "url": "https://www.openlogic.com/blog/what-sql-database",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about SQL",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/sql?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "etl-datawarehouses",
+          "title": "ETL, Datawarehouses",
+          "description": "مباحث و تمرین‌های مرتبط با «ETL, Datawarehouses».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is ETL?",
+              "type": "article",
+              "url": "https://www.snowflake.com/guides/what-etl",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ETL Explained",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=OW5OgsLpDCQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about ETL",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/etl?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hadoop-spark-mapreduce",
+          "title": "Hadoop, Spark, MapReduce",
+          "description": "مباحث و تمرین‌های مرتبط با «Hadoop, Spark, MapReduce».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Apache Spark",
+              "type": "article",
+              "url": "https://spark.apache.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Spark vs Hadoop MapReduce",
+              "type": "article",
+              "url": "https://www.integrate.io/blog/apache-spark-vs-hadoop-mapreduce",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hadoop explained in 5 minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=aReuLtY0YMI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Apache Spark",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/spark?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Databases",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/conceptual-articles/an-introduction-to-databases",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "apis-integrations",
+      "title": "APIs & Integrations",
+      "description": "مباحث و تمرین‌های مرتبط با «APIs & Integrations».",
+      "order": 12,
+      "children": [
+        {
+          "id": "grpc",
+          "title": "gRPC",
+          "description": "مباحث و تمرین‌های مرتبط با «gRPC».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "gRPC Website",
+              "type": "article",
+              "url": "https://grpc.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "gRPC Introduction",
+              "type": "article",
+              "url": "https://grpc.io/docs/what-is-grpc/introduction/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "gRPC Core Concepts",
+              "type": "article",
+              "url": "https://grpc.io/docs/what-is-grpc/core-concepts/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Stephane Maarek - gRPC Introduction",
+              "type": "video",
+              "url": "https://youtu.be/XRXTsQwyZSU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about gRPC",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/grpc?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is API Integration",
+          "type": "article",
+          "url": "https://www.ibm.com/topics/api-integration",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "API Integration - Postman",
+          "type": "article",
+          "url": "https://www.postman.com/api-platform/api-integration/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "API First Integration",
+          "type": "article",
+          "url": "https://www.infoq.com/articles/api-first-integration/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "web-mobile",
+      "title": "Web, Mobile",
+      "description": "مباحث و تمرین‌های مرتبط با «Web, Mobile».",
+      "order": 13,
+      "children": [
+        {
+          "id": "reactive-programming",
+          "title": "Reactive Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Reactive Programming».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Reactive Programming?",
+              "type": "article",
+              "url": "https://www.techtarget.com/searchapparchitecture/definition/reactive-programming",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "functional-programming",
+          "title": "Functional Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Functional Programming».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Functional Programming",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Functional_programming",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Functional Programming with JavaScript",
+              "type": "article",
+              "url": "https://www.telerik.com/blogs/functional-programming-javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learning Functional Programming",
+              "type": "video",
+              "url": "https://youtube.com/watch?v=e-5obm1G_FY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "react-vue-angular",
+          "title": "React, Vue, Angular",
+          "description": "مباحث و تمرین‌های مرتبط با «React, Vue, Angular».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Visit Dedicated React Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/react",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Visit Dedicated Vue Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/vue",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Visit Dedicated Angular Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/angular",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React",
+              "type": "article",
+              "url": "https://react.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vue.js",
+              "type": "article",
+              "url": "https://vuejs.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Angular",
+              "type": "article",
+              "url": "https://angular.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React JS Course for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=nTeuhbP7wdE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vue.js Course for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=FXpIoQ_rT_c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Angular Course for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=3qBXWUpoPHo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Angular",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/angular?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "spa-ssr-ssg",
+          "title": "SPA, SSR, SSG",
+          "description": "مباحث و تمرین‌های مرتبط با «SPA, SSR, SSG».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Web Design Patterns — SSR, SSG, and SPA",
+              "type": "article",
+              "url": "https://medium.com/codex/web-design-patterns-ssr-ssg-and-spa-fadad7673dfe",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rendering on the Web",
+              "type": "article",
+              "url": "https://web.dev/rendering-on-the-web/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Web Development",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/webdev?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "microfrontends",
+          "title": "Microfrontends",
+          "description": "مباحث و تمرین‌های مرتبط با «Microfrontends».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Micro Frontends",
+              "type": "article",
+              "url": "https://micro-frontends.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Micro-Frontends Course - Beginner to Expert",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lKKsjpH09dU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Web Development",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/webdev?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "w3c-and-whatwg",
+          "title": "W3C and WHATWG",
+          "description": "مباحث و تمرین‌های مرتبط با «W3C and WHATWG».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "W3C Standards",
+              "type": "article",
+              "url": "https://www.w3.org/standards/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WHATWG Standards",
+              "type": "article",
+              "url": "https://spec.whatwg.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Web vs Mobile",
+          "type": "article",
+          "url": "https://buildfire.com/difference-between-web-app-and-mobile-app/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "frameworks",
+      "title": "Frameworks",
+      "description": "مباحث و تمرین‌های مرتبط با «Frameworks».",
+      "order": 14,
+      "children": [
+        {
+          "id": "babok",
+          "title": "BABOK",
+          "description": "مباحث و تمرین‌های مرتبط با «BABOK».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Babok",
+              "type": "article",
+              "url": "https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Wikipedia",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/A_Guide_to_the_Business_Analysis_Body_of_Knowledge",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Architect Frameworks",
+          "type": "article",
+          "url": "https://www.techtarget.com/searchapparchitecture/definition/enterprise-architecture-framework",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Common Software Architecture Frameworks",
+          "type": "article",
+          "url": "https://medium.com/@publicapplicationcenter/tutorial-notes-common-software-architecture-frameworks-1a9915e1d806",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "management",
+      "title": "Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Management».",
+      "order": 15,
+      "children": [
+        {
+          "id": "management-item",
+          "title": "Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networks",
+      "title": "Networks",
+      "description": "مباحث و تمرین‌های مرتبط با «Networks».",
+      "order": 16,
+      "children": [
+        {
+          "id": "osi",
+          "title": "OSI",
+          "description": "مباحث و تمرین‌های مرتبط با «OSI».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Cloudflare - What is the OSI model",
+              "type": "article",
+              "url": "https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Networking - IBM",
+          "type": "article",
+          "url": "https://www.ibm.com/topics/networking",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Networking - Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Networking",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Networking Basics",
+          "type": "article",
+          "url": "https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/networking-basics.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "operations-knowledge",
+      "title": "Operations Knowledge",
+      "description": "مباحث و تمرین‌های مرتبط با «Operations Knowledge».",
+      "order": 17,
+      "children": [
+        {
+          "id": "infrastructure-as-code",
+          "title": "Infrastructure as Code",
+          "description": "مباحث و تمرین‌های مرتبط با «Infrastructure as Code».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Infrastructure as Code",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GUIs, CLI, APIs: Learn Basic Terms of Infrastructure-as-Code",
+              "type": "article",
+              "url": "https://thenewstack.io/guis-cli-apis-learn-basic-terms-of-infrastructure-as-code/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Infrastructure as Code?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zWw2wuiKd5o",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Infrastructure as Code? Difference of Infrastructure as Code Tools",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=POPP2WTJ8es",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Infrastructure",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/infrastructure?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cloud-providers",
+          "title": "Cloud Providers",
+          "description": "مباحث و تمرین‌های مرتبط با «Cloud Providers».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Cloud Service Provider",
+              "type": "article",
+              "url": "https://www.techtarget.com/searchitchannel/definition/cloud-service-provider-cloud-provider",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Cloud Providers?",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Cloud",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/cloud?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "serverless-concepts",
+          "title": "Serverless Concepts",
+          "description": "مباحث و تمرین‌های مرتبط با «Serverless Concepts».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is Serverless?",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Serverless Computing?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/learning/serverless/what-is-serverless/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Serverless on AWS",
+              "type": "article",
+              "url": "https://aws.amazon.com/serverless/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Serverless",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/serverless?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "linux-unix",
+          "title": "Linux / Unix",
+          "description": "مباحث و تمرین‌های مرتبط با «Linux / Unix».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Visit Dedicated Linux Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/linux",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Coursera - Unix Courses",
+              "type": "course",
+              "url": "https://www.coursera.org/courses?query=unix",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unix & Linux Tutorial",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/unix/index.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux Basics ",
+              "type": "article",
+              "url": "https://dev.to/rudrakshi99/linux-basics-2onj",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux Operating System - Crash Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ROjZy1WbCIA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Linux",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/linux?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "service-mesh",
+          "title": "Service Mesh",
+          "description": "مباحث و تمرین‌های مرتبط با «Service Mesh».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Red Hat - What is a Service Mesh?",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubernetes Service Mesh - Blog Post",
+              "type": "article",
+              "url": "https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Service Mesh explained in 15 Minutes",
+              "type": "video",
+              "url": "https://youtu.be/16fgzklcF7Y",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Service Mesh",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/service-mesh?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ci-cd",
+          "title": "CI / CD",
+          "description": "مباحث و تمرین‌های مرتبط با «CI / CD».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "CI/CID - GitHub",
+              "type": "article",
+              "url": "https://github.com/resources/articles/devops/ci-cd",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is CI/CD? - Redhat",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/devops/what-is-ci-cd",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Continuous Integration and Continuous Delivery Explained",
+              "type": "article",
+              "url": "https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about CI/CD",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/cicd?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "containers",
+          "title": "Containers",
+          "description": "مباحث و تمرین‌های مرتبط با «Containers».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "cgroups",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Cgroups",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "namespaces",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Linux_namespaces",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "chroot",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Chroot",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Containers?",
+              "type": "article",
+              "url": "https://cloud.google.com/learn/what-are-containers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Container?",
+              "type": "article",
+              "url": "https://www.docker.com/resources/what-container/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Articles about Containers - The New Stack",
+              "type": "article",
+              "url": "https://thenewstack.io/category/containers/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are Containers?",
+              "type": "video",
+              "url": "https://www.youtube.com/playlist?list=PLawsLZMfND4nz-WDBZIj8-nbzGFD4S9oz",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Containers",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/containers?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cloud-design-patterns",
+          "title": "Cloud Design Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Cloud Design Patterns».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Cloud Design Patterns",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Cloud",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/cloud?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "enterprise-software",
+      "title": "Enterprise Software",
+      "description": "مباحث و تمرین‌های مرتبط با «Enterprise Software».",
+      "order": 18,
+      "children": [
+        {
+          "id": "ms-dynamics",
+          "title": "MS Dynamics",
+          "description": "مباحث و تمرین‌های مرتبط با «MS Dynamics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Everything you ever wanted to know about Microsoft Dynamics",
+              "type": "article",
+              "url": "https://www.nigelfrank.com/insights/everything-you-ever-wanted-to-know-about-dynamics-crm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Microsoft Dynamics?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ogfclHWgqgE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sap-erp-hana-business-objects",
+          "title": "SAP ERP, HANA, Business Objects",
+          "description": "مباحث و تمرین‌های مرتبط با «SAP ERP, HANA, Business Objects».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "SAP",
+              "type": "article",
+              "url": "https://www.sap.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ibm-bpm",
+          "title": "IBM BPM",
+          "description": "مباحث و تمرین‌های مرتبط با «IBM BPM».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Overview BPM",
+              "type": "article",
+              "url": "https://www.ibm.com/docs/en/bpm/8.5.5?topic=manager-business-process-overview",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "BPM Demo",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=6yn4nCWMNLI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about IBM",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/ibm?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "salesforce",
+          "title": "Salesforce",
+          "description": "مباحث و تمرین‌های مرتبط با «Salesforce».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What is Salesforce and what is it used for?",
+              "type": "article",
+              "url": "https://ascendix.com/blog/what-is-salesforce-what-salesforce-is-used-for/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Salesforce?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=xx2sK-QiBjw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Salesforce",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/salesforce?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Enterprise Softwares",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Enterprise_software",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,2550 @@
+{
+  "slug": "terraform",
+  "title": "Terraform",
+  "description": "Step by step guide to learn Terraform in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-infrastructure-as-code",
+          "title": "What is Infrastructure as Code?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Infrastructure as Code?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What Is It? Why Is It Important?",
+              "type": "article",
+              "url": "https://www.hashicorp.com/resources/what-is-infrastructure-as-code",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Infrastructure as Code?",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Infrastructure as Code?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zWw2wuiKd5o",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "basic-syntax",
+          "title": "Basic Syntax",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Syntax».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "HCL Native Syntax Specification",
+              "type": "article",
+              "url": "https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "usecases-and-benefits",
+          "title": "Usecases and Benefits",
+          "description": "مباحث و تمرین‌های مرتبط با «Usecases and Benefits».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Use Cases of Terraform",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/intro/use-cases#use-cases",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "9 Terraform Use Cases for Your Infrastructure as Code",
+              "type": "article",
+              "url": "https://spacelift.io/blog/terraform-use-cases",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What are the Benefits of Using Terraform?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=0M4IvedbLJ4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "installing-terraform",
+          "title": "Installing Terraform",
+          "description": "مباحث و تمرین‌های مرتبط با «Installing Terraform».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Install Terraform",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/install",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Installing Terraform CLI",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Install Terraform on Ubuntu",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LM3RLgNu7tU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Install Terraform on MacOS",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ViMwnReV1A8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Install Terraform on Windows 10/11",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qj4cOSYr7po",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Terraform Website",
+          "type": "article",
+          "url": "https://www.terraform.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform Documentation",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SLB_c_ayRMo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Terraform",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/terraform?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "hashicorp-config-language-hcl",
+      "title": "Hashicorp Config. Language (HCL)",
+      "description": "مباحث و تمرین‌های مرتبط با «Hashicorp Config. Language (HCL)».",
+      "order": 2,
+      "children": [
+        {
+          "id": "basic-syntax-2",
+          "title": "Basic Syntax",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Syntax».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "HCL Native Syntax Specification",
+              "type": "article",
+              "url": "https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "basic-syntax-3",
+          "title": "Basic Syntax",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Syntax».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "HCL Native Syntax Specification",
+              "type": "article",
+              "url": "https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Terraform Language Documentation",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HCL Repository",
+          "type": "article",
+          "url": "https://github.com/hashicorp/hcl",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "providers",
+      "title": "Providers",
+      "description": "مباحث و تمرین‌های مرتبط با «Providers».",
+      "order": 3,
+      "children": [
+        {
+          "id": "providers-item",
+          "title": "Providers",
+          "description": "مباحث و تمرین‌های مرتبط با «Providers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Providers Documentation",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/providers#providers",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Terraform Providers",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/getting-started-terraform/providers.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are terraform providers and how to use them?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Kd7ddHBR2ec",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "project-initialization",
+      "title": "Project Initialization",
+      "description": "مباحث و تمرین‌های مرتبط با «Project Initialization».",
+      "order": 4,
+      "children": [
+        {
+          "id": "meta-arguments",
+          "title": "Meta Arguments",
+          "description": "مباحث و تمرین‌های مرتبط با «Meta Arguments».",
+          "order": 1,
+          "children": [
+            {
+              "id": "sensitive-outputs",
+              "title": "Sensitive Outputs",
+              "description": "مباحث و تمرین‌های مرتبط با «Sensitive Outputs».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "type-constraints",
+              "title": "Type Constraints",
+              "description": "مباحث و تمرین‌های مرتبط با «Type Constraints».",
+              "order": 2,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "local-values",
+              "title": "Local Values",
+              "description": "مباحث و تمرین‌های مرتبط با «Local Values».",
+              "order": 3,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Meta Arguments in Terraform",
+              "type": "article",
+              "url": "https://muditmathur121.medium.com/meta-arguments-in-terraform-aaaa6e3734e6",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Meta-Arguments",
+              "type": "article",
+              "url": "https://www.devopsschool.com/blog/terraform-tutorials-meta-arguments/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Resource Meta Arguments",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7JraLCfroyE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Init Command",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/cli/commands/init",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Initialize Terraform Configuration",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/tutorials/cli/init",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform Init",
+          "type": "article",
+          "url": "https://spacelift.io/blog/terraform-init",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Terraform: The Init Command",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=82lsMLqWjS4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "resources",
+      "title": "Resources",
+      "description": "مباحث و تمرین‌های مرتبط با «Resources».",
+      "order": 5,
+      "children": [
+        {
+          "id": "resources-item",
+          "title": "Resources",
+          "description": "مباحث و تمرین‌های مرتبط با «Resources».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Resource Blocks",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/resources/syntax",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Define Infrastructure With Terraform Resources",
+          "type": "video",
+          "url": "https://developer.hashicorp.com/terraform/tutorials/configuration-language/resource",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "outputs",
+      "title": "Outputs",
+      "description": "مباحث و تمرین‌های مرتبط با «Outputs».",
+      "order": 6,
+      "children": [
+        {
+          "id": "preconditions",
+          "title": "Preconditions",
+          "description": "مباحث و تمرین‌های مرتبط با «Preconditions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Custom Condition Checks",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/values/outputs#custom-condition-checks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using Precondition and Post-condition Blocks in Terraform",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=55ZLu8tSnvk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Output Values",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/values/outputs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform Output Values",
+          "type": "article",
+          "url": "https://spacelift.io/blog/terraform-output",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Terraform Outputs in 4 Minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=i-Ky1Tut_2I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "variables",
+      "title": "Variables",
+      "description": "مباحث و تمرین‌های مرتبط با «Variables».",
+      "order": 7,
+      "children": [
+        {
+          "id": "resource-behavior",
+          "title": "Resource Behavior",
+          "description": "مباحث و تمرین‌های مرتبط با «Resource Behavior».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Behaviour",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/resources/behavior",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Resource Syntax, Behavior and State",
+              "type": "article",
+              "url": "https://terraformguru.com/terraform-certification-using-azure-cloud/09-Resource-Syntax-and-Behavior/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "resource-lifecycle",
+          "title": "Resource Lifecycle",
+          "description": "مباحث و تمرین‌های مرتبط با «Resource Lifecycle».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "How Terraform Applies a Configuration",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/resources/behavior#how-terraform-applies-a-configuration",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The lifecycle Meta-Argument",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "@Article@Terraform Resource Lifecycle Meta-Argument",
+              "type": "article",
+              "url": "https://spacelift.io/blog/terraform-resource-lifecycle",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "meta-arguments-2",
+          "title": "Meta Arguments",
+          "description": "مباحث و تمرین‌های مرتبط با «Meta Arguments».",
+          "order": 3,
+          "children": [
+            {
+              "id": "sensitive-outputs-2",
+              "title": "Sensitive Outputs",
+              "description": "مباحث و تمرین‌های مرتبط با «Sensitive Outputs».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "type-constraints-2",
+              "title": "Type Constraints",
+              "description": "مباحث و تمرین‌های مرتبط با «Type Constraints».",
+              "order": 2,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "local-values-2",
+              "title": "Local Values",
+              "description": "مباحث و تمرین‌های مرتبط با «Local Values».",
+              "order": 3,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Meta Arguments in Terraform",
+              "type": "article",
+              "url": "https://muditmathur121.medium.com/meta-arguments-in-terraform-aaaa6e3734e6",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Meta-Arguments",
+              "type": "article",
+              "url": "https://www.devopsschool.com/blog/terraform-tutorials-meta-arguments/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Resource Meta Arguments",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7JraLCfroyE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Input Variables",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/values/variables",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Use Terraform Variables",
+          "type": "article",
+          "url": "https://spacelift.io/blog/how-to-use-terraform-variables",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn How to Use Terraform Variable",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=oArutYYvQ_Y",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "format-validate",
+      "title": "Format & Validate",
+      "description": "مباحث و تمرین‌های مرتبط با «Format & Validate».",
+      "order": 8,
+      "children": [
+        {
+          "id": "terraform-fmt",
+          "title": "terraform fmt",
+          "description": "مباحث و تمرین‌های مرتبط با «terraform fmt».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Terraform fmt Documentation",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cli/commands/fmt",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using Terraform fmt Command to Format Your Terraform Code",
+              "type": "article",
+              "url": "https://spacelift.io/blog/terraform-fmt",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to auto-format Terraform code",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=kZX3KLOZvhY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "terraform-validate",
+          "title": "terraform validate",
+          "description": "مباحث و تمرین‌های مرتبط با «terraform validate».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Terraform Validate Examples",
+              "type": "article",
+              "url": "https://www.env0.com/blog/terraform-validate-command-practical-examples-and-best-practices",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "tflint",
+          "title": "TFLint",
+          "description": "مباحث و تمرین‌های مرتبط با «TFLint».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "TFLint Documentation",
+              "type": "article",
+              "url": "https://github.com/terraform-linters/tflint",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is TFLint and How to Lint Your Terraform Code",
+              "type": "article",
+              "url": "https://spacelift.io/blog/what-is-tflint",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Quick Tech - TFLint",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=-BKWpI4Olpw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Terraform Validate - Documentation",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/cli/commands/validate",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform Format - Documentation",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/cli/commands/fmt",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Validate, format, lint, secure, and test Terraform IaC",
+          "type": "article",
+          "url": "https://tech.aabouzaid.com/2020/04/validate-format-lint-and-test-terraform-iac-ci.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform Validate Command – Validate Configuration Locally",
+          "type": "article",
+          "url": "https://spacelift.io/blog/terraform-validate",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "state",
+      "title": "State",
+      "description": "مباحث و تمرین‌های مرتبط با «State».",
+      "order": 9,
+      "children": [
+        {
+          "id": "remote-state",
+          "title": "Remote State",
+          "description": "مباحث و تمرین‌های مرتبط با «Remote State».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Remote state",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/state/remote",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The terraform_remote_state Data Source",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/state/remote-state-data",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform remote state backends explained",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=jSoMQCBxp7E",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "State",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/state",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Purpose of Terraform state",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/state/purpose",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Managing Terraform state files",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=UDBVCzg2IRo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "best-practices-for-state",
+      "title": "Best Practices for State",
+      "description": "مباحث و تمرین‌های مرتبط با «Best Practices for State».",
+      "order": 10,
+      "children": [
+        {
+          "id": "sensitive-data",
+          "title": "Sensitive Data",
+          "description": "مباحث و تمرین‌های مرتبط با «Sensitive Data».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Sensitive data in state",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/state/sensitive-data",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Handling Sensitive Values in State",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/plugin/best-practices/sensitive-state",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform — Protecting Sensitive Data",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=yLc1YkB7DFo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Managing Terraform State – Best Practices & Examples",
+          "type": "article",
+          "url": "https://spacelift.io/blog/terraform-state",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Best Practices for Terraform State File Management",
+          "type": "article",
+          "url": "https://www.cloudthat.com/resources/blog/best-practices-for-terraform-state-file-management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Managing Terraform State Files - What are your options?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=keiIyarEKf8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "inspect-modify-state",
+      "title": "Inspect / Modify State",
+      "description": "مباحث و تمرین‌های مرتبط با «Inspect / Modify State».",
+      "order": 11,
+      "children": [
+        {
+          "id": "inspect-modify-state-item",
+          "title": "Inspect / Modify State",
+          "description": "مباحث و تمرین‌های مرتبط با «Inspect / Modify State».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Inspecting State",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/cli/state/inspect",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Manage Terraform State: A Step-by-Step Guide",
+          "type": "article",
+          "url": "https://meriemterki.medium.com/how-to-manage-terraform-state-a-step-by-step-guide-b615bd6ee0de",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deployment",
+      "title": "Deployment",
+      "description": "مباحث و تمرین‌های مرتبط با «Deployment».",
+      "order": 12,
+      "children": [
+        {
+          "id": "terraform-destroy",
+          "title": "terraform destroy",
+          "description": "مباحث و تمرین‌های مرتبط با «terraform destroy».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Destroy infrastructure",
+              "type": "course",
+              "url": "https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-destroy",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Destroy Documentation",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cli/commands/destroy",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to destroy Terraform resources",
+              "type": "article",
+              "url": "https://spacelift.io/blog/how-to-destroy-terraform-resources",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "local-values-3",
+          "title": "Local Values",
+          "description": "مباحث و تمرین‌های مرتبط با «Local Values».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Local Values",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/values/locals",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Locals",
+              "type": "article",
+              "url": "https://spacelift.io/blog/terraform-locals",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sensitive-data-2",
+          "title": "Sensitive Data",
+          "description": "مباحث و تمرین‌های مرتبط با «Sensitive Data».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Sensitive data in state",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/state/sensitive-data",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Handling Sensitive Values in State",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/plugin/best-practices/sensitive-state",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform — Protecting Sensitive Data",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=yLc1YkB7DFo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Core Terraform Workflow",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/intro/core-workflow",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "clean-up",
+      "title": "Clean Up",
+      "description": "مباحث و تمرین‌های مرتبط با «Clean Up».",
+      "order": 13,
+      "children": [
+        {
+          "id": "clean-up-item",
+          "title": "Clean Up",
+          "description": "مباحث و تمرین‌های مرتبط با «Clean Up».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Destroy Terraform Resources",
+          "type": "article",
+          "url": "https://spacelift.io/blog/how-to-destroy-terraform-resources",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "modules",
+      "title": "Modules",
+      "description": "مباحث و تمرین‌های مرتبط با «Modules».",
+      "order": 14,
+      "children": [
+        {
+          "id": "when-to-use",
+          "title": "When to Use?",
+          "description": "مباحث و تمرین‌های مرتبط با «When to Use?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Why You should Use Terraform Provisioners as a Final Option",
+              "type": "article",
+              "url": "https://thomasthornton.cloud/2023/05/11/my-thoughts-on-why-you-should-use-terraform-provisioners-as-a-final-option/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why Terraform Provisioners Are The Last Resort?",
+              "type": "article",
+              "url": "https://k21academy.com/terraform-iac/terraform-provisioners/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Modules Overview - Configuration Language | Terraform",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/modules",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Modules - Terraform Registry",
+          "type": "article",
+          "url": "https://registry.terraform.io/browse/modules",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "provisioners",
+      "title": "Provisioners",
+      "description": "مباحث و تمرین‌های مرتبط با «Provisioners».",
+      "order": 15,
+      "children": [
+        {
+          "id": "when-to-use-2",
+          "title": "When to Use?",
+          "description": "مباحث و تمرین‌های مرتبط با «When to Use?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Why You should Use Terraform Provisioners as a Final Option",
+              "type": "article",
+              "url": "https://thomasthornton.cloud/2023/05/11/my-thoughts-on-why-you-should-use-terraform-provisioners-as-a-final-option/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why Terraform Provisioners Are The Last Resort?",
+              "type": "article",
+              "url": "https://k21academy.com/terraform-iac/terraform-provisioners/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "local-exec-provisioner",
+          "title": "local-exec provisioner",
+          "description": "مباحث و تمرین‌های مرتبط با «local-exec provisioner».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "local-exec Provisioner",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/resources/provisioners/local-exec",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Local-Exec Provisioner",
+              "type": "article",
+              "url": "https://learning-ocean.com/tutorials/terraform/terraform-local-exec-provisioner/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform - Local exec",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=2dVq8L2LBc0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "remote-exec-provisioner",
+          "title": "remote-exec provisioner",
+          "description": "مباحث و تمرین‌های مرتبط با «remote-exec provisioner».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Remote-exec provisioner",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/resources/provisioners/remote-exec",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform remote-exec provisioner",
+              "type": "article",
+              "url": "https://learning-ocean.com/tutorials/terraform/terraform-remote-exec-provisioner/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform - remote-exec",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=kjDXbGeLvRw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "custom-provisioners",
+          "title": "Custom Provisioners",
+          "description": "مباحث و تمرین‌های مرتبط با «Custom Provisioners».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Terraform Provisioners",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/resources/provisioners/syntax",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Provisioners - Why you should avoid them",
+              "type": "article",
+              "url": "https://spacelift.io/blog/terraform-provisioners",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "custom-provisioners-2",
+          "title": "Custom Provisioners",
+          "description": "مباحث و تمرین‌های مرتبط با «Custom Provisioners».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Terraform Provisioners",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/resources/provisioners/syntax",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Provisioners - Why you should avoid them",
+              "type": "article",
+              "url": "https://spacelift.io/blog/terraform-provisioners",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "custom-provisioners-3",
+          "title": "Custom Provisioners",
+          "description": "مباحث و تمرین‌های مرتبط با «Custom Provisioners».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Terraform Provisioners",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/resources/provisioners/syntax",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Provisioners - Why you should avoid them",
+              "type": "article",
+              "url": "https://spacelift.io/blog/terraform-provisioners",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Provisioners - Terraform",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/resources/provisioners/syntax",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-sources",
+      "title": "Data Sources",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Sources».",
+      "order": 16,
+      "children": [
+        {
+          "id": "data-sources-item",
+          "title": "Data Sources",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Sources».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Terraform data sources",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/data-sources",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform Data Sources – How They Are Utilized",
+          "type": "article",
+          "url": "https://spacelift.io/blog/terraform-data-sources-how-they-are-utilised",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Sources in Terraform",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Y92Q5nW5-5g",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "template-files",
+      "title": "Template Files",
+      "description": "مباحث و تمرین‌های مرتبط با «Template Files».",
+      "order": 17,
+      "children": [
+        {
+          "id": "template-files-item",
+          "title": "Template Files",
+          "description": "مباحث و تمرین‌های مرتبط با «Template Files».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "templatefile function",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/functions/templatefile",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Terraform templates?",
+          "type": "article",
+          "url": "https://spacelift.io/blog/terraform-templates",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Using templatefile in Terraform",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cRYYFCekOIk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "workspaces",
+      "title": "Workspaces",
+      "description": "مباحث و تمرین‌های مرتبط با «Workspaces».",
+      "order": 18,
+      "children": [
+        {
+          "id": "workspaces-item",
+          "title": "Workspaces",
+          "description": "مباحث و تمرین‌های مرتبط با «Workspaces».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Workspaces",
+          "type": "article",
+          "url": "https://developer.hashicorp.com/terraform/language/state/workspaces",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Terraform workspaces?",
+          "type": "article",
+          "url": "https://spacelift.io/blog/terraform-workspaces",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Structuring Repositories for Terraform Workspaces - Hashicorp",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IDLGpkRmDXg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ci-cd-integration",
+      "title": "CI / CD Integration",
+      "description": "مباحث و تمرین‌های مرتبط با «CI / CD Integration».",
+      "order": 19,
+      "children": [
+        {
+          "id": "ci-cd-integration-item",
+          "title": "CI / CD Integration",
+          "description": "مباحث و تمرین‌های مرتبط با «CI / CD Integration».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 20,
+      "children": [
+        {
+          "id": "splitting-large-state",
+          "title": "Splitting Large State",
+          "description": "مباحث و تمرین‌های مرتبط با «Splitting Large State».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "contract-testing",
+          "title": "Contract Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Contract Testing».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Terraform Contract Tests",
+              "type": "article",
+              "url": "https://www.hashicorp.com/blog/testing-hashicorp-terraform#contract-tests",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Contract Testing: An Introduction and Guide",
+              "type": "article",
+              "url": "https://www.blazemeter.com/blog/contract-testing#:~:text=Contract%20testing%20focuses%20on%20verifying,services%20that%20rely%20on%20it.",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Contract testing for microservices is a must!",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Fh8CqZtghQw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "integration-testing",
+          "title": "Integration Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Integration Testing».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Integration Testing or Unit Testing",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/tests#integration-or-unit-testing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Integration tests",
+              "type": "article",
+              "url": "https://www.hashicorp.com/blog/testing-hashicorp-terraform#integration-tests",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Terraform - Integration and End-to-End Testing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=gdcc1WBzMwY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "testing-modules",
+          "title": "Testing Modules",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing Modules».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Write Terraform Tests",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/tutorials/configuration-language/test",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Test",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/tests",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Module Testing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=1LInIWM_2UQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "scaling-terraform",
+      "title": "Scaling Terraform",
+      "description": "مباحث و تمرین‌های مرتبط با «Scaling Terraform».",
+      "order": 21,
+      "children": [
+        {
+          "id": "unit-testing",
+          "title": "Unit Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Unit Testing».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Integration or Unit Testing",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/tests#integration-or-unit-testing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Unit Tests",
+              "type": "article",
+              "url": "https://www.hashicorp.com/blog/testing-hashicorp-terraform#unit-tests",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "contract-testing-2",
+          "title": "Contract Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Contract Testing».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Terraform Contract Tests",
+              "type": "article",
+              "url": "https://www.hashicorp.com/blog/testing-hashicorp-terraform#contract-tests",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Contract Testing: An Introduction and Guide",
+              "type": "article",
+              "url": "https://www.blazemeter.com/blog/contract-testing#:~:text=Contract%20testing%20focuses%20on%20verifying,services%20that%20rely%20on%20it.",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Contract testing for microservices is a must!",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Fh8CqZtghQw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "integration-testing-2",
+          "title": "Integration Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Integration Testing».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Integration Testing or Unit Testing",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/tests#integration-or-unit-testing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Integration tests",
+              "type": "article",
+              "url": "https://www.hashicorp.com/blog/testing-hashicorp-terraform#integration-tests",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Terraform - Integration and End-to-End Testing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=gdcc1WBzMwY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "testing-modules-2",
+          "title": "Testing Modules",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing Modules».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Write Terraform Tests",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/tutorials/configuration-language/test",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Test",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/tests",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Module Testing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=1LInIWM_2UQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "testing-modules-3",
+          "title": "Testing Modules",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing Modules».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Write Terraform Tests",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/tutorials/configuration-language/test",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Test",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/language/tests",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Module Testing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=1LInIWM_2UQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Security».",
+      "order": 22,
+      "children": [
+        {
+          "id": "splitting-large-state-2",
+          "title": "Splitting Large State",
+          "description": "مباحث و تمرین‌های مرتبط با «Splitting Large State».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "terragrunt",
+          "title": "Terragrunt",
+          "description": "مباحث و تمرین‌های مرتبط با «Terragrunt».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Terragrunt Website",
+              "type": "article",
+              "url": "https://terragrunt.gruntwork.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "gruntwork-io/terragrunt",
+              "type": "article",
+              "url": "https://github.com/gruntwork-io/terragrunt",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terragrunt Tutorial: Examples and Use Cases",
+              "type": "article",
+              "url": "https://www.env0.com/blog/terragrunt",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "infracost",
+          "title": "Infracost",
+          "description": "مباحث و تمرین‌های مرتبط با «Infracost».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Infracost Website",
+              "type": "article",
+              "url": "https://www.infracost.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "infracost/infracost",
+              "type": "article",
+              "url": "https://github.com/infracost/infracost",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Shifting FinOps Left: A live demo",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=BQeO137DDo8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "secret-management",
+          "title": "Secret Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Secret Management».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Inject Secrets with Vault",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/tutorials/secrets",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Secrets - How to manage them",
+              "type": "article",
+              "url": "https://spacelift.io/blog/terraform-secrets",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A comprehensive guide to managing secrets in your Terraform code",
+              "type": "article",
+              "url": "https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "terrascan",
+          "title": "Terrascan",
+          "description": "مباحث و تمرین‌های مرتبط با «Terrascan».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Terrascan Website",
+              "type": "article",
+              "url": "https://runterrascan.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "tenable/terrascan",
+              "type": "article",
+              "url": "https://github.com/tenable/terrascan",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Terrascan?",
+              "type": "article",
+              "url": "https://spacelift.io/blog/what-is-terrascan",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Terraform Security",
+          "type": "article",
+          "url": "https://www.terraform.io/cloud-docs/architectural-details/security-model",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "12 Terraform Security Best Practices",
+          "type": "article",
+          "url": "https://spacelift.io/blog/terraform-security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "hcp",
+      "title": "HCP",
+      "description": "مباحث و تمرین‌های مرتبط با «HCP».",
+      "order": 23,
+      "children": [
+        {
+          "id": "what-and-when-to-use-hcp",
+          "title": "What and when to use HCP?",
+          "description": "مباحث و تمرین‌های مرتبط با «What and when to use HCP?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Use Cases",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/intro/use-cases",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "checkov",
+          "title": "Checkov",
+          "description": "مباحث و تمرین‌های مرتبط با «Checkov».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Checkov",
+              "type": "article",
+              "url": "https://www.checkov.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "bridgecrewio/checkov",
+              "type": "article",
+              "url": "https://github.com/bridgecrewio/checkov",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Scanning Terraform Code with Checkov",
+              "type": "article",
+              "url": "https://devopscube.com/terraform-checkov-scan/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "enterprise-features",
+          "title": "Enterprise Features",
+          "description": "مباحث و تمرین‌های مرتبط با «Enterprise Features».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "HashiCorp Cloud Platform",
+              "type": "article",
+              "url": "https://www.hashicorp.com/cloud",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HCP Terraform Plans and Features",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cloud-docs/overview",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How does The Infrastructure Cloud work?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zWWGsJrWj5E",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "authentication",
+          "title": "Authentication",
+          "description": "مباحث و تمرین‌های مرتبط با «Authentication».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "HCP Authentication",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/hcp/docs/cli/commands/auth/login",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Authenticate with HCP",
+              "type": "article",
+              "url": "https://registry.terraform.io/providers/hashicorp/hcp/latest/docs/guides/auth",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "hashicorp/hcp-auth-login",
+              "type": "article",
+              "url": "https://github.com/hashicorp/hcp-auth-action",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "workspaces-2",
+          "title": "Workspaces",
+          "description": "مباحث و تمرین‌های مرتبط با «Workspaces».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Workspaces",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cloud-docs/workspaces",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Organize workspaces with projects",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/tutorials/cloud/projects",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Organize your Terraform Cloud workspaces using Projects",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=J1T1tbU6wAU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "vcs-integration",
+          "title": "VCS Integration",
+          "description": "مباحث و تمرین‌های مرتبط با «VCS Integration».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Connecting VCS Providers to HCP Terraform",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cloud-docs/vcs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Use VCS-driven workflow",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-vcs-change",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Configuring Workspace VCS Connections",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cloud-docs/workspaces/settings/vcs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "run-tasks",
+          "title": "Run Tasks",
+          "description": "مباحث و تمرین‌های مرتبط با «Run Tasks».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Run Tasks",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cloud-docs/workspaces/settings/run-tasks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Registry - Run Tasks",
+              "type": "article",
+              "url": "https://registry.terraform.io/browse/run-tasks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Run Tasks API",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cloud-docs/api-docs/run-tasks/run-tasks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "run-tasks-2",
+          "title": "Run Tasks",
+          "description": "مباحث و تمرین‌های مرتبط با «Run Tasks».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Run Tasks",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cloud-docs/workspaces/settings/run-tasks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Registry - Run Tasks",
+              "type": "article",
+              "url": "https://registry.terraform.io/browse/run-tasks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Run Tasks API",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cloud-docs/api-docs/run-tasks/run-tasks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "run-tasks-3",
+          "title": "Run Tasks",
+          "description": "مباحث و تمرین‌های مرتبط با «Run Tasks».",
+          "order": 9,
+          "resources": [
+            {
+              "title": "Run Tasks",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cloud-docs/workspaces/settings/run-tasks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Terraform Registry - Run Tasks",
+              "type": "article",
+              "url": "https://registry.terraform.io/browse/run-tasks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Run Tasks API",
+              "type": "article",
+              "url": "https://developer.hashicorp.com/terraform/cloud-docs/api-docs/run-tasks/run-tasks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

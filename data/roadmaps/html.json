@@ -1,0 +1,1754 @@
+{
+  "slug": "html",
+  "title": "HTML",
+  "description": "Step by step guide to learning HTML",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-are-markup-languages",
+          "title": "What are markup languages?",
+          "description": "مباحث و تمرین‌های مرتبط با «What are markup languages?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What Is a Markup Language?",
+              "type": "article",
+              "url": "https://www.semrush.com/blog/markup-language/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Theory - Markup Languages",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=6PWOswN4lgg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "frontend-development",
+          "title": "Frontend Development",
+          "description": "مباحث و تمرین‌های مرتبط با «Frontend Development».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Visit the dedicated Frontend Developer Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/frontend",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Front-End Development?",
+              "type": "article",
+              "url": "https://cloudinary.com/guides/front-end-development/front-end-development-the-complete-guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Frontend web development - a complete overview",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=WG5ikvJ2TKA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Frontend Development Handbook",
+              "type": "article",
+              "url": "https://github.com/FrontendMasters/front-end-handbook-2019/blob/master/exports/Front-end%20Developer%20Handbook%202019.pdf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "HTML & CSS: design and build websites",
+          "type": "article",
+          "url": "https://sites.math.duke.edu/courses/math_everywhere/assets/techRefs/HTML%20and%20CSS-%20Design%20and%20Build%20Websites_Jon%20Duckett_2011.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML MDN Docs",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is HTML – Definition and Meaning of Hypertext Markup Language",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/what-is-html-definition-and-meaning/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML Tutorial for Beginners: HTML Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "how-the-web-works",
+      "title": "How the web works",
+      "description": "مباحث و تمرین‌های مرتبط با «How the web works».",
+      "order": 2,
+      "children": [
+        {
+          "id": "what-is-http",
+          "title": "What is HTTP?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is HTTP?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Everything you need to know about HTTP",
+              "type": "article",
+              "url": "https://cs.fyi/guide/http-in-depth",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is HTTP?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How HTTPS Works",
+              "type": "article",
+              "url": "https://howhttps.works/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTTP/3 Is Now a Standard: Why Use It and How to Get Started",
+              "type": "article",
+              "url": "https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "domain-names",
+          "title": "Domain names",
+          "description": "مباحث و تمرین‌های مرتبط با «Domain names».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is a Domain Name?",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a domain name? | Domain name vs. URL",
+              "type": "article",
+              "url": "https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is a Domain Name | Domain Names Explained",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lMHzpBwPuG8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hosting",
+          "title": "Hosting",
+          "description": "مباحث و تمرین‌های مرتبط با «Hosting».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is Web Hosting?",
+              "type": "article",
+              "url": "https://www.namecheap.com/guru-guides/what-is-web-hosting/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Different Types of Web Hosting Explained",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=AXVZYzw8geg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Where to Host a Fullstack Project on a Budget",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Kx_1NYYJS7Q",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "dns",
+          "title": "DNS",
+          "description": "مباحث و تمرین‌های مرتبط با «DNS».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What is DNS?",
+              "type": "article",
+              "url": "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mess with DNS - DNS Playground",
+              "type": "article",
+              "url": "https://messwithdns.net/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How DNS works (comic)",
+              "type": "article",
+              "url": "https://howdns.works/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DNS and How does it Work?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Wj0od2ag5sk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about DNS",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/dns?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "browsers",
+          "title": "Browsers",
+          "description": "مباحث و تمرین‌های مرتبط با «Browsers».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "How Browsers Work",
+              "type": "article",
+              "url": "https://www.ramotion.com/blog/what-is-web-browser/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Populating the Page: How Browsers Work",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Do Web Browsers Work?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=5rLFYtXHo9s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Browsers",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/browsers?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-seo",
+          "title": "What is SEO?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is SEO?».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Search Engine Optimization (SEO) Starter Guide",
+              "type": "article",
+              "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is SEO?",
+              "type": "article",
+              "url": "https://exposureninja.com/blog/what-is-seo/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GEO (Generative Engine Optimization) vs SEO (Search Engine Optimization): What’s The Difference?",
+              "type": "article",
+              "url": "https://writesonic.com/blog/geo-vs-seo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SEO In 5 Minutes | What Is SEO And How Does It Work",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=MYE6T_gd7H0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why Generative Engine Optimisation (GEO) is the FUTURE of SEO",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=FoIc8LkSETo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to the Internet",
+          "type": "article",
+          "url": "https://roadmap.sh/guides/what-is-internet",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How does the Internet Work?",
+          "type": "article",
+          "url": "https://cs.fyi/guide/how-does-internet-work",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How does the Internet work? | MDN Dcos",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How the Internet Works in 5 Minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7_LPdttKXPc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-tags",
+      "title": "Basic Tags",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Tags».",
+      "order": 3,
+      "children": [
+        {
+          "id": "doctype",
+          "title": "!DOCTYPE",
+          "description": "مباحث و تمرین‌های مرتبط با «!DOCTYPE».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Doctype | DMN docs",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Glossary/Doctype",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is the DOCTYPE Declaration in HTML?",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/what-is-the-doctype-declaration-in-html/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML DOCTYPE | Standards vs Quirks mode | HTML 5 Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=G1MOlh5uJYE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "html",
+          "title": "html",
+          "description": "مباحث و تمرین‌های مرتبط با «html».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "<html>: The HTML Document / Root element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML <html> Tag",
+              "type": "article",
+              "url": "https://www.w3schools.com/tags/tag_html.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "head",
+          "title": "head",
+          "description": "مباحث و تمرین‌های مرتبط با «head».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "<head>: The Document Metadata (Header) element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/head",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Head Tag in HTML | An HTML5 Head Element Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=QRvA8Mp-uME",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "HTML Basic Tags: A Guide for Complete Beginners with Examples",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/html/html_basic_tags.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "textual-tags",
+      "title": "Textual Tags",
+      "description": "مباحث و تمرین‌های مرتبط با «Textual Tags».",
+      "order": 4,
+      "children": [
+        {
+          "id": "h1-to-h6",
+          "title": "h1 to h6",
+          "description": "مباحث و تمرین‌های مرتبط با «h1 to h6».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "<h1>–<h6>: The HTML Section Heading elements",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML - Headings | W3Schools",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=9gHPpwq6IaY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "p",
+          "title": "p",
+          "description": "مباحث و تمرین‌های مرتبط با «p».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "<p>: The Paragraph element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/p",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML - Paragraphs | W3Schools",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qis4kAOThLw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "br",
+          "title": "br",
+          "description": "مباحث و تمرین‌های مرتبط با «br».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "<br>: The Line Break element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/br",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "hr & br tags in HTML",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=B1UCE3nfLww",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pre",
+          "title": "pre",
+          "description": "مباحث و تمرین‌های مرتبط با «pre».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "<pre>: The Preformatted Text element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/pre",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "<pre> Tag in HTML – Example Code",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/pre-tag-in-html-example-code/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML pre tag (Preformatted Text Element)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=9jZLg2CIgQQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "mark",
+          "title": "mark",
+          "description": "مباحث و تمرین‌های مرتبط با «mark».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "<mark>: The Mark Text element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/mark",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mark Tag Example HTML | Master When and How to Use Mark Tag properly!",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=uJc-UUgZ-UM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sup",
+          "title": "sup",
+          "description": "مباحث و تمرین‌های مرتبط با «sup».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "<sup>: The Superscript element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sup",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML sub Tag | HTML sup Tag",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7GBTIHoWZko",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "links",
+          "title": "Links",
+          "description": "مباحث و تمرین‌های مرتبط با «Links».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "<a>: The Anchor element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The HTML <a> Tag – Anchor Tag Example Code",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/the-html-a-tag-anchor-tag-example-code/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML a Tag Tutorial: Easy Guide for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=J0jqBqFd7Ro",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "grouping-text",
+      "title": "Grouping text",
+      "description": "مباحث و تمرین‌های مرتبط با «Grouping text».",
+      "order": 5,
+      "children": [
+        {
+          "id": "grouping-text-item",
+          "title": "Grouping text",
+          "description": "مباحث و تمرین‌های مرتبط با «Grouping text».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "standard-attributes",
+      "title": "Standard attributes",
+      "description": "مباحث و تمرین‌های مرتبط با «Standard attributes».",
+      "order": 6,
+      "children": [
+        {
+          "id": "data-attributes",
+          "title": "Data Attributes",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Attributes».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Use data attributes",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/Use_data_attributes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML Data Attributes Guide",
+              "type": "article",
+              "url": "https://css-tricks.com/a-complete-guide-to-data-attributes/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using HTML5 Data Attributes in JavaScript and CSS Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cTe5vQAm2So",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "style",
+          "title": "style",
+          "description": "مباحث و تمرین‌های مرتبط با «style».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "HTML style global attribute",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/style",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML style",
+              "type": "article",
+              "url": "https://www.codecademy.com/resources/docs/html/attributes/style",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML Style Attribute | Mastering of Web development",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zk97ve9JM6A",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "class",
+          "title": "class",
+          "description": "مباحث و تمرین‌های مرتبط با «class».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "HTML class global attribute",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/class",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML Class",
+              "type": "article",
+              "url": "https://www.codecademy.com/resources/docs/html/attributes/class",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML - Classes | W3Schools",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tWIkDOJo0Ts",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "lists-and-types",
+      "title": "Lists and Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Lists and Types».",
+      "order": 7,
+      "children": [
+        {
+          "id": "ordered-lists",
+          "title": "Ordered lists",
+          "description": "مباحث و تمرین‌های مرتبط با «Ordered lists».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "<ol>: The Ordered List element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ol",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "<li>: The List Item element",
+              "type": "article",
+              "url": "http://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "HTML Lists",
+          "type": "article",
+          "url": "https://www.w3schools.com/html/html_lists.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn HTML lists in 4 minutes 📋",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-kXZvKxs9oA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "table-tag",
+      "title": "Table Tag",
+      "description": "مباحث و تمرین‌های مرتبط با «Table Tag».",
+      "order": 8,
+      "children": [
+        {
+          "id": "table-tag-item",
+          "title": "Table Tag",
+          "description": "مباحث و تمرین‌های مرتبط با «Table Tag».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "<table>: The Table element",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML table basics",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_table_basics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML Table (With Examples)",
+          "type": "article",
+          "url": "https://www.programiz.com/html/table",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Create Tables in HTML",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=e23RA_Uo99o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "embedding-media",
+      "title": "Embedding Media",
+      "description": "مباحث و تمرین‌های مرتبط با «Embedding Media».",
+      "order": 9,
+      "children": [
+        {
+          "id": "video",
+          "title": "Video",
+          "description": "مباحث و تمرین‌های مرتبط با «Video».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "<video>: The Video Embed element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn HTML video in 4 minutes!",
+              "type": "article",
+              "url": "https://www.youtube.com/watch?v=BAx2GaMW2qA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML & CSS - How to Embed a YouTube Video in Your Website",
+              "type": "course",
+              "url": "https://www.youtube.com/watch?v=ly36kn0ug4k",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "images",
+          "title": "Images",
+          "description": "مباحث و تمرین‌های مرتبط با «Images».",
+          "order": 2,
+          "children": [
+            {
+              "id": "img-vs-figure",
+              "title": "img vs figure",
+              "description": "مباحث و تمرین‌های مرتبط با «img vs figure».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "HTML images",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_images",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "<img>: The Image Embed element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML - Images | W3Schools",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=FmoYRiepmOE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "iframe",
+          "title": "iframe",
+          "description": "مباحث و تمرین‌های مرتبط با «iframe».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "<iframe>: The Inline Frame element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is an iframe, and how do you use it on your website?",
+              "type": "article",
+              "url": "https://world.siteground.com/kb/what-is-iframe/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn HTML iframes in 3 minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=aRGdDy18qfY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Adding Media",
+          "type": "article",
+          "url": "https://learn.shayhowe.com/html-css/adding-media/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "using-forms",
+      "title": "Using Forms",
+      "description": "مباحث و تمرین‌های مرتبط با «Using Forms».",
+      "order": 10,
+      "children": [
+        {
+          "id": "labels-and-inputs",
+          "title": "Labels and Inputs",
+          "description": "مباحث و تمرین‌های مرتبط با «Labels and Inputs».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "<label>: The Label element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/label",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "<input>: The HTML Input element",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML Inputs and Labels: A Love Story",
+              "type": "article",
+              "url": "https://css-tricks.com/html-inputs-and-labels-a-love-story/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "file-uploads",
+          "title": "File Uploads",
+          "description": "مباحث و تمرین‌های مرتبط با «File Uploads».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Input type file",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/file",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Upload Files with HTML",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/upload-files-with-html/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML File Uploads in 5 Minutes (Plus Some JavaScript Features)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=iAxUpo0aJSk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Uploading Files to the Web with HTML",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=s2TTck1sj4s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "form-validation",
+          "title": "Form Validation",
+          "description": "مباحث و تمرین‌های مرتبط با «Form Validation».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Client-side form validation",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using HTML form validation and the Constraint Validation API",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML Form Validation: Techniques, Tips, and Tools",
+              "type": "article",
+              "url": "https://www.dhiwise.com/post/html-form-validation-techniques-tips-and-tools",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "file-uploads-2",
+          "title": "File Uploads",
+          "description": "مباحث و تمرین‌های مرتبط با «File Uploads».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Input type file",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/file",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Upload Files with HTML",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/upload-files-with-html/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML File Uploads in 5 Minutes (Plus Some JavaScript Features)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=iAxUpo0aJSk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Uploading Files to the Web with HTML",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=s2TTck1sj4s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Your first form",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Your_first_form",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "<form>: The Form element",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn HTML forms in 8 minutes 📝",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=2O8pkybH6po",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "semantic-markup",
+      "title": "Semantic Markup",
+      "description": "مباحث و تمرین‌های مرتبط با «Semantic Markup».",
+      "order": 11,
+      "children": [
+        {
+          "id": "semantic-markup-item",
+          "title": "Semantic Markup",
+          "description": "مباحث و تمرین‌های مرتبط با «Semantic Markup».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Semantics",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Glossary/Semantics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML Semantic Elements",
+          "type": "article",
+          "url": "https://www.w3schools.com/html/html5_semantic_elements.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML & CSS for Absolute Beginners: Semantic HTML",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=YOsMJQfwqow",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "styling-basics",
+      "title": "Styling Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Styling Basics».",
+      "order": 12,
+      "children": [
+        {
+          "id": "inline-css",
+          "title": "Inline CSS",
+          "description": "مباحث و تمرین‌های مرتبط با «Inline CSS».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Inline Style in HTML – CSS Inline Styles",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/inline-style-in-html/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "HTML & CSS for Absolute Beginners: Inline CSS and Internal stylesheets",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=5vf7rtzil9M",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Getting started with CSS",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Getting_started",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML and CSS – Inline Style, External Stylesheet, CSS Code Examples",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/html-and-css-inline-style-external-stylesheet-css-code-examples/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CSS - How to add CSS to HTML | W3Schools",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=VSwaoQ3TFkQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "including-javascript",
+      "title": "Including JavaScript",
+      "description": "مباحث و تمرین‌های مرتبط با «Including JavaScript».",
+      "order": 13,
+      "children": [
+        {
+          "id": "including-javascript-item",
+          "title": "Including JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «Including JavaScript».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit the Dedicated JavaScript Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/javascript",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Add JavaScript to your web page",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/Add_JavaScript_to_your_web_page",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Link JavaScript to HTML: How to run your JavaScript code in the browser",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=821C5aJ3SLM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "accesibility",
+      "title": "Accesibility",
+      "description": "مباحث و تمرین‌های مرتبط با «Accesibility».",
+      "order": 14,
+      "children": [
+        {
+          "id": "accesibility-item",
+          "title": "Accesibility",
+          "description": "مباحث و تمرین‌های مرتبط با «Accesibility».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "HTML: A good basis for accessibility",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/HTML",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "HTML Accessibility: Programming with an Inclusive Perspective",
+          "type": "article",
+          "url": "https://www.a11y-collective.com/blog/html-accessibility-programming-with-an-inclusive-perspective/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Accessibility Savvy: Semantic HTML and Accessibility",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qSNUi7pRmWg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basics-of-seo",
+      "title": "Basics of SEO",
+      "description": "مباحث و تمرین‌های مرتبط با «Basics of SEO».",
+      "order": 15,
+      "children": [
+        {
+          "id": "basics-of-seo-item",
+          "title": "Basics of SEO",
+          "description": "مباحث و تمرین‌های مرتبط با «Basics of SEO».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Search Engine Optimization (SEO) Starter Guide",
+          "type": "article",
+          "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is SEO?",
+          "type": "article",
+          "url": "https://exposureninja.com/blog/what-is-seo/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GEO (Generative Engine Optimization) vs SEO (Search Engine Optimization): What’s The Difference?",
+          "type": "article",
+          "url": "https://writesonic.com/blog/geo-vs-seo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SEO In 5 Minutes | What Is SEO And How Does It Work",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MYE6T_gd7H0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Why Generative Engine Optimisation (GEO) is the FUTURE of SEO",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=FoIc8LkSETo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,975 @@
+{
+  "slug": "postgresql-dba",
+  "title": "PostgreSQL",
+  "description": "Step by step guide to becoming a modern PostgreSQL DB Administrator in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "postgresql-vs-nosql-databases",
+          "title": "PostgreSQL vs NoSQL Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «PostgreSQL vs NoSQL Databases».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What’s the Difference Between MongoDB and PostgreSQL?",
+              "type": "article",
+              "url": "https://aws.amazon.com/compare/the-difference-between-mongodb-and-postgresql/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoDB vs PostgreSQL: 15 Critical Differences",
+              "type": "article",
+              "url": "https://kinsta.com/blog/mongodb-vs-postgresql/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-are-relational-databases",
+          "title": "What are Relational Databases?",
+          "description": "مباحث و تمرین‌های مرتبط با «What are Relational Databases?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Databases and SQL",
+              "type": "course",
+              "url": "https://www.edx.org/course/databases-5-sql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Relational Databases",
+              "type": "article",
+              "url": "https://www.ibm.com/cloud/learn/relational-databases",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Intro To Relational Databases",
+              "type": "article",
+              "url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Relational Databases: Concept and History",
+              "type": "article",
+              "url": "https://www.ibm.com/topics/relational-databases",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Relational Databases",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/relational-databases?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "rdbms-benefits-and-limitations",
+          "title": "RDBMS Benefits and Limitations",
+          "description": "مباحث و تمرین‌های مرتبط با «RDBMS Benefits and Limitations».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "15 Advantages and Disadvantages of RDBMS",
+              "type": "article",
+              "url": "https://trainings.internshala.com/blog/advantages-and-disadvantages-of-rdbms/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Top 11 Advantages and Disadvantages of RDBMS You Should Know",
+              "type": "article",
+              "url": "https://webandcrafts.com/blog/advantages-disadvantages-rdbms",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Limitations of Relational Databases",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=t62DXEfIFy4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "postgresql-vs-other-rdbms",
+          "title": "PostgreSQL vs Other RDBMS",
+          "description": "مباحث و تمرین‌های مرتبط با «PostgreSQL vs Other RDBMS».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "PostgreSQL vs MySQL: The Critical Differences",
+              "type": "article",
+              "url": "https://www.integrate.io/blog/postgresql-vs-mysql-which-one-is-better-for-your-use-case/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Whats the difference between PostgreSQL and MySQL?",
+              "type": "article",
+              "url": "https://aws.amazon.com/compare/the-difference-between-mysql-vs-postgresql/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "PostgreSQL",
+          "type": "article",
+          "url": "https://www.postgresql.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "PostgreSQL Documentation",
+          "type": "article",
+          "url": "https://www.postgresql.org/docs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "History of POSTGRES to PostgreSQL",
+          "type": "article",
+          "url": "https://www.postgresql.org/docs/current/history.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-rdbms-concepts",
+      "title": "Basic RDBMS Concepts",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic RDBMS Concepts».",
+      "order": 2,
+      "children": [
+        {
+          "id": "basic-rdbms-concepts-item",
+          "title": "Basic RDBMS Concepts",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic RDBMS Concepts».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding Relational Database Management Systems",
+          "type": "article",
+          "url": "https://www.essentialsql.com/understanding-relational-databases-a-beginners-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "object-model",
+      "title": "Object Model",
+      "description": "مباحث و تمرین‌های مرتبط با «Object Model».",
+      "order": 3,
+      "children": [
+        {
+          "id": "object-model-item",
+          "title": "Object Model",
+          "description": "مباحث و تمرین‌های مرتبط با «Object Model».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Object Model",
+          "type": "article",
+          "url": "https://www.postgresql.org/docs/current/tutorial-concepts.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding PostgreSQL: The Power of an Object-Relational",
+          "type": "article",
+          "url": "https://medium.com/@asadbukhari886/understanding-of-postgresql-the-power-of-an-object-relational-database-b6ae349c3f40",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "PostgreSQL Server and Database Objects",
+          "type": "article",
+          "url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-server-and-database-objects/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "high-level-database-concepts",
+      "title": "High Level Database Concepts",
+      "description": "مباحث و تمرین‌های مرتبط با «High Level Database Concepts».",
+      "order": 4,
+      "children": [
+        {
+          "id": "high-level-database-concepts-item",
+          "title": "High Level Database Concepts",
+          "description": "مباحث و تمرین‌های مرتبط با «High Level Database Concepts».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Demystifying PostgreSQL: 10 Crucial Concepts and Files",
+          "type": "article",
+          "url": "https://medium.com/@RohitAjaygupta/demystifying-postgresql-10-crucial-concepts-and-files-explained-with-practical-examples-a5a70cd2b848",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "relational-model",
+      "title": "Relational Model",
+      "description": "مباحث و تمرین‌های مرتبط با «Relational Model».",
+      "order": 5,
+      "children": [
+        {
+          "id": "relational-model-item",
+          "title": "Relational Model",
+          "description": "مباحث و تمرین‌های مرتبط با «Relational Model».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is the Relational Model?",
+          "type": "article",
+          "url": "https://www.postgresql.org/docs/7.1/relmodel-oper.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "installation-and-setup",
+      "title": "Installation and Setup",
+      "description": "مباحث و تمرین‌های مرتبط با «Installation and Setup».",
+      "order": 6,
+      "children": [
+        {
+          "id": "installation-and-setup-item",
+          "title": "Installation and Setup",
+          "description": "مباحث و تمرین‌های مرتبط با «Installation and Setup».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Installing PostgreSQL",
+          "type": "article",
+          "url": "https://www.postgresql.org/download/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "PostgreSQL - Installation",
+          "type": "article",
+          "url": "https://www.postgresql.org/docs/current/tutorial-install.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "learn-sql",
+      "title": "Learn SQL",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn SQL».",
+      "order": 7,
+      "children": [
+        {
+          "id": "learn-sql-item",
+          "title": "Learn SQL",
+          "description": "مباحث و تمرین‌های مرتبط با «Learn SQL».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated SQL Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/sql",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SQL Tutorial - Essential SQL For The Beginners",
+          "type": "article",
+          "url": "https://www.sqltutorial.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "configuring",
+      "title": "Configuring",
+      "description": "مباحث و تمرین‌های مرتبط با «Configuring».",
+      "order": 8,
+      "children": [
+        {
+          "id": "reporting-logging-statistics",
+          "title": "Reporting Logging & Statistics",
+          "description": "مباحث و تمرین‌های مرتبط با «Reporting Logging & Statistics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Error Reporting and Logging",
+              "type": "article",
+              "url": "https://www.postgresql.org/docs/current/runtime-config-logging.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PostgreSQL Logging: Everything You Need to Know",
+              "type": "article",
+              "url": "https://betterstack.com/community/guides/logging/how-to-start-logging-with-postgresql/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Configuring PostgreSQL",
+          "type": "article",
+          "url": "https://www.postgresql.org/docs/current/runtime-config.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Install and Configure PostgreSQL",
+          "type": "article",
+          "url": "https://ubuntu.com/server/docs/install-and-configure-postgresql",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Security».",
+      "order": 9,
+      "children": [
+        {
+          "id": "authentication-models",
+          "title": "Authentication Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Authentication Models».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Authentication Methods",
+              "type": "article",
+              "url": "https://www.postgresql.org/docs/current/auth-methods.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "An Introduction to Authorization and Authentication in PostgreSQL",
+              "type": "article",
+              "url": "https://www.prisma.io/dataguide/postgresql/authentication-and-authorization/intro-to-authn-and-authz",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "roles",
+          "title": "Roles",
+          "description": "مباحث و تمرین‌های مرتبط با «Roles».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Database Roles",
+              "type": "article",
+              "url": "https://www.postgresql.org/docs/current/user-manag.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Predefined Roles",
+              "type": "article",
+              "url": "https://www.postgresql.org/docs/current/predefined-roles.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "For Your Eyes Only: Roles, Privileges, and Security in PostgreSQL",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=mtPM3iZFE04",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ssl-settings",
+          "title": "SSL Settings",
+          "description": "مباحث و تمرین‌های مرتبط با «SSL Settings».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "SSL Support",
+              "type": "article",
+              "url": "https://www.postgresql.org/docs/current/libpq-ssl.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Configure SSL on PostgreSQL",
+              "type": "article",
+              "url": "https://www.cherryservers.com/blog/how-to-configure-ssl-on-postgresql",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to use SSL in PostgreSQL The Right Way",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Y1lsbF9NWW0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "PostgreSQL Database Security Best Practices",
+          "type": "article",
+          "url": "https://www.percona.com/blog/postgresql-database-security-best-practices/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Security - Azure Database for PostgreSQL",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/concepts-security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "infrastructure-skills",
+      "title": "Infrastructure Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Infrastructure Skills».",
+      "order": 10,
+      "children": [
+        {
+          "id": "infrastructure-skills-item",
+          "title": "Infrastructure Skills",
+          "description": "مباحث و تمرین‌های مرتبط با «Infrastructure Skills».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "learn-to-automate",
+      "title": "Learn to Automate",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn to Automate».",
+      "order": 11,
+      "children": [
+        {
+          "id": "learn-to-automate-item",
+          "title": "Learn to Automate",
+          "description": "مباحث و تمرین‌های مرتبط با «Learn to Automate».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "PostgreSQL - Automation",
+          "type": "article",
+          "url": "https://www.postgresql.org/docs/current/maintenance.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Autoscaling Azure PostgreSQL Server with Automation Tasks",
+          "type": "article",
+          "url": "https://techcommunity.microsoft.com/blog/adforpostgresql/autoscaling-azure-postgresql-server-with-automation-tasks/3911718",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "sql-query-patterns-anti-patterns",
+      "title": "SQL Query Patterns / Anti-patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «SQL Query Patterns / Anti-patterns».",
+      "order": 12,
+      "children": [
+        {
+          "id": "sql-query-patterns-anti-patterns-item",
+          "title": "SQL Query Patterns / Anti-patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «SQL Query Patterns / Anti-patterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "PostgreSQL - Query Patterns",
+          "type": "article",
+          "url": "https://www.postgresql.org/docs/current/functions-matching.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "schema-design-patterns-anti-patterns",
+      "title": "Schema Design Patterns / Anti-patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Schema Design Patterns / Anti-patterns».",
+      "order": 13,
+      "children": [
+        {
+          "id": "schema-design-patterns-anti-patterns-item",
+          "title": "Schema Design Patterns / Anti-patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Schema Design Patterns / Anti-patterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Design Your PostgreSQL Database: Two Schema Examples",
+          "type": "article",
+          "url": "https://www.timescale.com/learn/how-to-design-postgresql-database-two-schema-examples",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is STAR schema | Star vs Snowflake Schema",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=hQvCOBv_-LE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "indexes-and-their-usecases",
+      "title": "Indexes and their Usecases",
+      "description": "مباحث و تمرین‌های مرتبط با «Indexes and their Usecases».",
+      "order": 14,
+      "children": [
+        {
+          "id": "b-tree",
+          "title": "B-Tree",
+          "description": "مباحث و تمرین‌های مرتبط با «B-Tree».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "B-Tree",
+              "type": "article",
+              "url": "https://www.postgresql.org/docs/current/indexes-types.html#INDEXES-TYPES-BTREE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "B-Tree Indexes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=NI9wYuVIYcA&t=109s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "gist",
+          "title": "GiST",
+          "description": "مباحث و تمرین‌های مرتبط با «GiST».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "GIST Indexes",
+              "type": "article",
+              "url": "https://www.postgresql.org/docs/8.1/gist.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Generalized Search Trees for Database Systems",
+              "type": "article",
+              "url": "https://www.vldb.org/conf/1995/P562.PDF",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sp-gist",
+          "title": "SP-GiST",
+          "description": "مباحث و تمرین‌های مرتبط با «SP-GiST».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "PostgreSQL SP-GiST",
+              "type": "article",
+              "url": "https://www.slingacademy.com/article/postgresql-sp-gist-space-partitioned-generalized-search-tree/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "(The Many) Spatial Indexes of PostGIS",
+              "type": "article",
+              "url": "https://www.crunchydata.com/blog/the-many-spatial-indexes-of-postgis",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "get-involved-in-development",
+      "title": "Get Involved in Development",
+      "description": "مباحث و تمرین‌های مرتبط با «Get Involved in Development».",
+      "order": 15,
+      "children": [
+        {
+          "id": "mailing-lists",
+          "title": "Mailing Lists",
+          "description": "مباحث و تمرین‌های مرتبط با «Mailing Lists».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Mailing List Etiquette",
+              "type": "article",
+              "url": "https://www.postgresql.org/community/lists/etiquette/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "pgsql-hackers Subscription",
+              "type": "article",
+              "url": "https://www.postgresql.org/list/pgsql-hackers/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "pgsql-announce Subscription",
+              "type": "article",
+              "url": "https://www.postgresql.org/list/pgsql-announce/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "pgsql-general Subscription",
+              "type": "article",
+              "url": "https://www.postgresql.org/list/pgsql-general/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "pgsql-novice Subscription",
+              "type": "article",
+              "url": "https://www.postgresql.org/list/pgsql-novice/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "pgsql-docs Subscription",
+              "type": "article",
+              "url": "https://www.postgresql.org/list/pgsql-docs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PostgreSQL Mailing Lists page",
+              "type": "article",
+              "url": "https://www.postgresql.org/list/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "reviewing-patches",
+          "title": "Reviewing Patches",
+          "description": "مباحث و تمرین‌های مرتبط با «Reviewing Patches».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "pgsql-hackers Mailing List",
+              "type": "article",
+              "url": "https://www.postgresql.org/list/pgsql-hackers/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Commitfest Schedule",
+              "type": "article",
+              "url": "https://commitfest.postgresql.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "writing-patches",
+          "title": "Writing Patches",
+          "description": "مباحث و تمرین‌های مرتبط با «Writing Patches».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

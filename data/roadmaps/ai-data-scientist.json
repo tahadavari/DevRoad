@@ -1,0 +1,171 @@
+{
+  "slug": "ai-data-scientist",
+  "title": "AI and Data Scientist",
+  "description": "Step by step roadmap guide to becoming an AI and Data Scientist in 2026",
+  "steps": [
+    {
+      "id": "mathematics",
+      "title": "Mathematics",
+      "description": "مباحث و تمرین‌های مرتبط با «Mathematics».",
+      "order": 1,
+      "children": [
+        {
+          "id": "mathematics-item",
+          "title": "Mathematics",
+          "description": "مباحث و تمرین‌های مرتبط با «Mathematics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Linear Algebra Done Right - Sheldon Axler",
+          "type": "article",
+          "url": "https://linear.axler.net/LADR4e.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "statistics",
+      "title": "Statistics",
+      "description": "مباحث و تمرین‌های مرتبط با «Statistics».",
+      "order": 2,
+      "children": [
+        {
+          "id": "statistics-item",
+          "title": "Statistics",
+          "description": "مباحث و تمرین‌های مرتبط با «Statistics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "econometrics",
+      "title": "Econometrics",
+      "description": "مباحث و تمرین‌های مرتبط با «Econometrics».",
+      "order": 3,
+      "children": [
+        {
+          "id": "econometrics-item",
+          "title": "Econometrics",
+          "description": "مباحث و تمرین‌های مرتبط با «Econometrics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "coding",
+      "title": "Coding",
+      "description": "مباحث و تمرین‌های مرتبط با «Coding».",
+      "order": 4,
+      "children": [
+        {
+          "id": "coding-item",
+          "title": "Coding",
+          "description": "مباحث و تمرین‌های مرتبط با «Coding».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "exploratory-data-analysis",
+      "title": "Exploratory Data Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Exploratory Data Analysis».",
+      "order": 5,
+      "children": [
+        {
+          "id": "exploratory-data-analysis-item",
+          "title": "Exploratory Data Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Exploratory Data Analysis».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "machine-learning",
+      "title": "Machine Learning",
+      "description": "مباحث و تمرین‌های مرتبط با «Machine Learning».",
+      "order": 6,
+      "children": [
+        {
+          "id": "machine-learning-item",
+          "title": "Machine Learning",
+          "description": "مباحث و تمرین‌های مرتبط با «Machine Learning».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "deep-learning",
+      "title": "Deep Learning",
+      "description": "مباحث و تمرین‌های مرتبط با «Deep Learning».",
+      "order": 7,
+      "children": [
+        {
+          "id": "deep-learning-item",
+          "title": "Deep Learning",
+          "description": "مباحث و تمرین‌های مرتبط با «Deep Learning».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "mlops",
+      "title": "MLOps",
+      "description": "مباحث و تمرین‌های مرتبط با «MLOps».",
+      "order": 8,
+      "children": [
+        {
+          "id": "mlops-item",
+          "title": "MLOps",
+          "description": "مباحث و تمرین‌های مرتبط با «MLOps».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

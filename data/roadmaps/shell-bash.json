@@ -1,0 +1,2006 @@
+{
+  "slug": "shell-bash",
+  "title": "Shell / Bash",
+  "description": "Learn to master Shell and Bash in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "cli-vs-gui",
+          "title": "CLI vs GUI",
+          "description": "مباحث و تمرین‌های مرتبط با «CLI vs GUI».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is a CLI (Command Line Interface)?",
+              "type": "article",
+              "url": "https://aws.amazon.com/what-is/cli/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is a GUI?",
+              "type": "article",
+              "url": "https://www.coursera.org/articles/gui",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What's the difference between a GUI and a CLI?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=w9u0d4C95Zs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-scripting",
+          "title": "What is scripting?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is scripting?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Scripting language - Wikipedia",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Scripting_language",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is scripting?",
+              "type": "article",
+              "url": "https://coralogix.com/blog/what-is-scripting/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What's the difference between Programming and Scripting?",
+              "type": "article",
+              "url": "https://www.youtube.com/watch?v=7-0iBZxNq74",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Scripting on Linux",
+              "type": "video",
+              "url": "https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Scripting Languages",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=yFWKYs_5DBg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-bash",
+          "title": "What is Bash?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Bash?».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Bash Guide for Beginners",
+              "type": "article",
+              "url": "https://tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Docs",
+              "type": "article",
+              "url": "https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Bash?",
+              "type": "article",
+              "url": "https://opensource.com/resources/what-bash",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Bash Used For?",
+              "type": "article",
+              "url": "https://www.codecademy.com/resources/blog/what-is-bash-used-for",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Tutorial",
+              "type": "article",
+              "url": "https://www.w3schools.com/bash/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Scripting Tutorial for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tK9Oc6AEnR4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Beginner's Guide to the Bash Terminal",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=oxuRxtrO2Ag",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Shell - Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Shell_(computing)",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Shell?",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/what-is-shell",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Shell Scripting Tutorial",
+          "type": "article",
+          "url": "https://www.shellscript.sh/philosophy.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is a Shell ? | Learn How Shell Commands Work in the Terminal",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-qLrgCFynzE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Shell Scripting Tutorial for Beginners 1 - Introduction",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "popular-shells",
+      "title": "Popular Shells",
+      "description": "مباحث و تمرین‌های مرتبط با «Popular Shells».",
+      "order": 2,
+      "children": [
+        {
+          "id": "bash",
+          "title": "bash",
+          "description": "مباحث و تمرین‌های مرتبط با «bash».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "https://en.wikipedia.org/wiki/Bash_(Unix_shell)#:~:text=Bash (short for \"Bourne Again,Chet Ramey)",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Bash_(Unix_shell)#:~:text=Bash%20(short%20for%20%22Bourne%20Again,Chet%20Ramey)",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Tutorial",
+              "type": "article",
+              "url": "https://www.w3schools.com/bash/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Scripting Full Course 3 Hours",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=e7BufAVwDiM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Scripting Tutorial for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tK9Oc6AEnR4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "fish",
+          "title": "fish",
+          "description": "مباحث و تمرین‌های مرتبط با «fish».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "fish-shell",
+              "type": "article",
+              "url": "https://github.com/fish-shell/fish-shell",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Finally, a command line shell for the 90s",
+              "type": "article",
+              "url": "https://fishshell.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why I use Fish Shell",
+              "type": "article",
+              "url": "https://medium.com/@desjoerdhaan/why-i-use-fish-shell-e5272e0770bf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "FISH (Friendly Interactive Shell) by Bash Boomer",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=C2a7jJTh3kU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The BEST Shell You’re Not Using - Fish",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lzTDo1KsL-I",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ksh",
+          "title": "ksh",
+          "description": "مباحث و تمرین‌های مرتبط با «ksh».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "ksh",
+              "type": "article",
+              "url": "http://www.kornshell.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ksh - Wikipedia",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/KornShell",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "powershell",
+          "title": "PowerShell",
+          "description": "مباحث و تمرین‌های مرتبط با «PowerShell».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "What is PowerShell?",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.5",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PowerShell Docs",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/powershell/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PowerShell",
+              "type": "article",
+              "url": "https://github.com/PowerShell/PowerShell",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn PowerShell in Less Than 2 Hours",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ZOoCaWyifmI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PowerShell Made Easy",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=b7SGPchYRn0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "8 Types of Linux Shells",
+          "type": "article",
+          "url": "https://phoenixnap.com/kb/linux-shells",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are the Different Types of Shells in Linux?",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/different-types-of-shells-in-linux",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "setting-up-bash",
+      "title": "Setting Up Bash",
+      "description": "مباحث و تمرین‌های مرتبط با «Setting Up Bash».",
+      "order": 3,
+      "children": [
+        {
+          "id": "setting-up-bash-item",
+          "title": "Setting Up Bash",
+          "description": "مباحث و تمرین‌های مرتبط با «Setting Up Bash».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Setting up the Bash Environment",
+          "type": "article",
+          "url": "https://letsdefend.io/blog/how-to-install-bash-on-windows",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to configure or customize Bash: My first steps for my setup",
+          "type": "article",
+          "url": "https://www.youtube.com/watch?v=wy1q5egFW6I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "files-directories",
+      "title": "Files & Directories",
+      "description": "مباحث و تمرین‌های مرتبط با «Files & Directories».",
+      "order": 4,
+      "children": [
+        {
+          "id": "files-directories-item",
+          "title": "Files & Directories",
+          "description": "مباحث و تمرین‌های مرتبط با «Files & Directories».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "tab-completion",
+      "title": "Tab Completion",
+      "description": "مباحث و تمرین‌های مرتبط با «Tab Completion».",
+      "order": 5,
+      "children": [
+        {
+          "id": "tab-completion-item",
+          "title": "Tab Completion",
+          "description": "مباحث و تمرین‌های مرتبط با «Tab Completion».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "https://www.gnu.org/software/gnuastro/manual/html_node/Bash-TAB-completion-tutorial.html",
+          "type": "article",
+          "url": "https://www.gnu.org/software/gnuastro/manual/html_node/Bash-TAB-completion-tutorial.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "repeat-commands",
+      "title": "Repeat Commands",
+      "description": "مباحث و تمرین‌های مرتبط با «Repeat Commands».",
+      "order": 6,
+      "children": [
+        {
+          "id": "repeat-commands-item",
+          "title": "Repeat Commands",
+          "description": "مباحث و تمرین‌های مرتبط با «Repeat Commands».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How To Use Bash History Commands and Expansions on a Linux VPS",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-use-bash-history-commands-and-expansions-on-a-linux-vps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Bash History | Your Linux Command History Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Bth-1rLKjGU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "help-commands",
+      "title": "Help Commands",
+      "description": "مباحث و تمرین‌های مرتبط با «Help Commands».",
+      "order": 7,
+      "children": [
+        {
+          "id": "help-commands-item",
+          "title": "Help Commands",
+          "description": "مباحث و تمرین‌های مرتبط با «Help Commands».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bash man Command - User Manual",
+          "type": "article",
+          "url": "https://www.w3schools.com/bash/bash_man.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to get help in Bash",
+          "type": "article",
+          "url": "https://nipunarat1997.medium.com/how-to-get-help-in-bash-9b101ee7d65a",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "07 The Help Command Linux Shell Tutorials",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=D4bSUqqaX3c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "bash-alias",
+      "title": "Bash Alias",
+      "description": "مباحث و تمرین‌های مرتبط با «Bash Alias».",
+      "order": 8,
+      "children": [
+        {
+          "id": "bash-alias-item",
+          "title": "Bash Alias",
+          "description": "مباحث و تمرین‌های مرتبط با «Bash Alias».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bash Alias",
+          "type": "article",
+          "url": "https://www.w3schools.com/bash/bash_alias.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Crash Course - Bash Aliases",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Ok_kD_sgNcs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "stop-execution",
+      "title": "Stop Execution",
+      "description": "مباحث و تمرین‌های مرتبط با «Stop Execution».",
+      "order": 9,
+      "children": [
+        {
+          "id": "stop-execution-item",
+          "title": "Stop Execution",
+          "description": "مباحث و تمرین‌های مرتبط با «Stop Execution».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bash kill Command - Terminate Processes",
+          "type": "article",
+          "url": "https://www.w3schools.com/bash/bash_kill.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to exit from Bash script",
+          "type": "article",
+          "url": "https://linuxconfig.org/how-to-exit-from-bash-script",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Killing Processes Linux Shell Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=03umJo33aQg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "redirects-pipelines",
+      "title": "Redirects & Pipelines",
+      "description": "مباحث و تمرین‌های مرتبط با «Redirects & Pipelines».",
+      "order": 10,
+      "children": [
+        {
+          "id": "redirects-pipelines-item",
+          "title": "Redirects & Pipelines",
+          "description": "مباحث و تمرین‌های مرتبط با «Redirects & Pipelines».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redirections",
+          "type": "article",
+          "url": "https://www.gnu.org/software/bash/manual/html_node/Redirections.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Unix / Linux - Shell Input/Output Redirections",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/unix/unix-io-redirections.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "IO Redirection in Bash EXPLAINED",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7VaO2dxs_kg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-editor-ops",
+      "title": "Basic Editor Ops.",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Editor Ops.».",
+      "order": 11,
+      "children": [
+        {
+          "id": "basic-editor-ops-item",
+          "title": "Basic Editor Ops.",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Editor Ops.».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Beginner's Guide to Nano Text Editor",
+          "type": "article",
+          "url": "https://itsfoss.com/nano-editor-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GNU Emacs - Guided Tour",
+          "type": "article",
+          "url": "https://www.gnu.org/software/emacs/tour/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Classic SysAdmin: Vim 101: A Beginner’s Guide to Vim",
+          "type": "article",
+          "url": "https://www.linuxfoundation.org/blog/blog/classic-sysadmin-vim-101-a-beginners-guide-to-vim",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An introduction to the vi editor",
+          "type": "article",
+          "url": "https://www.redhat.com/en/blog/introduction-vi-editor",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Crash Course - nano (command-line text editor)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=DLeATFgGM-A",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Basics of Emacs as a Text Editor",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jPkIaqSh3cA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Vim As Your Editor - Introduction",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=X6AR2RMB5tE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Basics of VI editor in under 8 minutes | Vi editor Tutorial | Linux Tutorial for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-_DvfdgR-LA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "text-editors",
+      "title": "Text Editors",
+      "description": "مباحث و تمرین‌های مرتبط با «Text Editors».",
+      "order": 12,
+      "children": [
+        {
+          "id": "text-editors-item",
+          "title": "Text Editors",
+          "description": "مباحث و تمرین‌های مرتبط با «Text Editors».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "bash-script-anatomy",
+      "title": "Bash Script Anatomy",
+      "description": "مباحث و تمرین‌های مرتبط با «Bash Script Anatomy».",
+      "order": 13,
+      "children": [
+        {
+          "id": "bash-script-anatomy-item",
+          "title": "Bash Script Anatomy",
+          "description": "مباحث و تمرین‌های مرتبط با «Bash Script Anatomy».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bash Scripting",
+          "type": "course",
+          "url": "https://linuxhandbook.com/courses/bash/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Bash Script",
+          "type": "article",
+          "url": "https://www.w3schools.com/bash/bash_script.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Write a Bash Script: A Simple Bash Scripting Tutorial | DataCamp",
+          "type": "article",
+          "url": "https://www.datacamp.com/tutorial/how-to-write-bash-script-tutorial",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Bash Scripting Tutorial for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=tK9Oc6AEnR4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "running-shell-scripts",
+      "title": "Running Shell Scripts",
+      "description": "مباحث و تمرین‌های مرتبط با «Running Shell Scripts».",
+      "order": 14,
+      "children": [
+        {
+          "id": "direct-execution",
+          "title": "Direct Execution",
+          "description": "مباحث و تمرین‌های مرتبط با «Direct Execution».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Sourcing vs Executing Script Directly",
+              "type": "article",
+              "url": "https://dillionmegida.com/p/sourcing-vs-executing-script-directly/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Source Shell Script vs Executing Shell Script - The Real Difference",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ZIqRmp-XBRY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "running-with-bash",
+          "title": "Running with Bash",
+          "description": "مباحث و تمرین‌های مرتبط با «Running with Bash».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to run bash script in Linux | Linux in a Minute",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=iViofyFir9o",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "running-with-source",
+          "title": "Running with Source",
+          "description": "مباحث و تمرین‌های مرتبط با «Running with Source».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "https://dillionmegida.com/p/sourcing-vs-executing-script-directly/",
+              "type": "article",
+              "url": "https://dillionmegida.com/p/sourcing-vs-executing-script-directly/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Source Shell Script vs Executing Shell Script - The Real Difference",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ZIqRmp-XBRY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to run the .sh file in Linux",
+          "type": "article",
+          "url": "https://www.hostinger.com/tutorials/how-to-run-sh-file-in-linux",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Run the .sh File Shell Script In Linux / UNIX",
+          "type": "article",
+          "url": "https://www.cyberciti.biz/faq/run-execute-sh-shell-script/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to run bash script in Linux | Linux in a Minute",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=iViofyFir9o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "bash-data-types",
+      "title": "Bash Data Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Bash Data Types».",
+      "order": 15,
+      "children": [
+        {
+          "id": "associative-arrays",
+          "title": "Associative Arrays",
+          "description": "مباحث و تمرین‌های مرتبط با «Associative Arrays».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Associative arrays in Bash",
+              "type": "article",
+              "url": "https://rednafi.com/misc/associative-arrays-in-bash/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating And Using An Associative Array In A Bash Script | by Linux Root Room",
+              "type": "article",
+              "url": "https://medium.com/@linuxrootroom/create-and-use-associative-array-in-bash-script-5f4e32a00577",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Arrays in Bash Explained in 7 Minutes! - Indexed, Associative, and Nested / Multi-Dimensional",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=asHJ-xfuyno",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bash Data Types",
+          "type": "article",
+          "url": "https://www.w3schools.com/bash/bash_data_types.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Type System of Bash",
+          "type": "article",
+          "url": "https://www.celantur.com/blog/bash-type-system/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "input-output",
+      "title": "Input/Output",
+      "description": "مباحث و تمرین‌های مرتبط با «Input/Output».",
+      "order": 16,
+      "children": [
+        {
+          "id": "here-strings",
+          "title": "Here strings",
+          "description": "مباحث و تمرین‌های مرتبط با «Here strings».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Here Strings",
+              "type": "article",
+              "url": "https://tldp.org/LDP/abs/html/x17837.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Here Strings in Bash! Redirecting a string into stdin. You Suck at Programming",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=0cWuZvw8lXc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "comments",
+      "title": "Comments",
+      "description": "مباحث و تمرین‌های مرتبط با «Comments».",
+      "order": 17,
+      "children": [
+        {
+          "id": "comments-item",
+          "title": "Comments",
+          "description": "مباحث و تمرین‌های مرتبط با «Comments».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Writing Comments in Bash Scripts",
+          "type": "article",
+          "url": "https://linuxize.com/post/bash-comments/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Comment in Bash",
+          "type": "article",
+          "url": "https://phoenixnap.com/kb/bash-comment",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Comments - Bash Scripting",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Ky9AiwIeORA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "bash-operators",
+      "title": "Bash Operators",
+      "description": "مباحث و تمرین‌های مرتبط با «Bash Operators».",
+      "order": 18,
+      "children": [
+        {
+          "id": "arithmetic",
+          "title": "Arithmetic",
+          "description": "مباحث و تمرین‌های مرتبط با «Arithmetic».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Bash Math Operations (Bash Arithmetic) Explained",
+              "type": "article",
+              "url": "https://phoenixnap.com/kb/bash-math",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Operators",
+              "type": "article",
+              "url": "https://www.w3schools.com/bash/bash_operators.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Arithmetic Expressions - Bash Programing Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rjuB3X8MOQc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bash Operators",
+          "type": "article",
+          "url": "https://www.w3schools.com/bash/bash_operators.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Operators",
+          "type": "article",
+          "url": "https://tldp.org/LDP/abs/html/ops.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "string-manipulation",
+      "title": "String Manipulation",
+      "description": "مباحث و تمرین‌های مرتبط با «String Manipulation».",
+      "order": 19,
+      "children": [
+        {
+          "id": "string-length",
+          "title": "String length",
+          "description": "مباحث و تمرین‌های مرتبط با «String length».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How to Find Length of String in Bash [Quick Tip]",
+              "type": "article",
+              "url": "https://linuxhandbook.com/bash-string-length/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash String Manipulation Examples – Length, Substring, Find and Replace",
+              "type": "article",
+              "url": "https://www.thegeekstuff.com/2010/07/bash-string-manipulation/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Counting Characters in a Bash String - Quick Tip",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=mK7hutk2yCE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Manipulating Strings",
+          "type": "article",
+          "url": "https://tldp.org/LDP/abs/html/string-manipulation.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "script-arguments",
+      "title": "Script Arguments",
+      "description": "مباحث و تمرین‌های مرتبط با «Script Arguments».",
+      "order": 20,
+      "children": [
+        {
+          "id": "script-arguments-item",
+          "title": "Script Arguments",
+          "description": "مباحث و تمرین‌های مرتبط با «Script Arguments».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Using Arguments in Bash Scripts",
+          "type": "article",
+          "url": "https://refine.dev/blog/bash-script-arguments/#introduction",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Adding arguments and options to your Bash scripts",
+          "type": "article",
+          "url": "https://www.redhat.com/en/blog/arguments-options-bash-scripts",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Passing Arguments to the Script | Shell Scripting Tutorial for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Gexu9M7p5aU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "exit-codes",
+      "title": "Exit Codes",
+      "description": "مباحث و تمرین‌های مرتبط با «Exit Codes».",
+      "order": 21,
+      "children": [
+        {
+          "id": "exit-codes-item",
+          "title": "Exit Codes",
+          "description": "مباحث و تمرین‌های مرتبط با «Exit Codes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Linux bash exit status and how to set exit status in bash",
+          "type": "article",
+          "url": "https://www.cyberciti.biz/faq/linux-bash-exit-status-set-exit-statusin-bash/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "file-permissions",
+      "title": "File Permissions",
+      "description": "مباحث و تمرین‌های مرتبط با «File Permissions».",
+      "order": 22,
+      "children": [
+        {
+          "id": "file-permissions-item",
+          "title": "File Permissions",
+          "description": "مباحث و تمرین‌های مرتبط با «File Permissions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "File permissions",
+          "type": "article",
+          "url": "https://linuxcommand.org/lc3_lts0090.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux File Permissions in 5 Minutes | MUST Know!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=LnKoncbQBsM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "conditionals",
+      "title": "Conditionals",
+      "description": "مباحث و تمرین‌های مرتبط با «Conditionals».",
+      "order": 23,
+      "children": [
+        {
+          "id": "conditionals-item",
+          "title": "Conditionals",
+          "description": "مباحث و تمرین‌های مرتبط با «Conditionals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bash Conditional Expressions (Bash Reference Manual)",
+          "type": "article",
+          "url": "https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Bash If...Else",
+          "type": "article",
+          "url": "https://www.w3schools.com/bash/bash_conditions.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Write Bash Scripts In Linux - Complete Guide (Part 5 - If Statements)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=YrE1Qg-Aw0Q",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "loops",
+      "title": "Loops",
+      "description": "مباحث و تمرین‌های مرتبط با «Loops».",
+      "order": 24,
+      "children": [
+        {
+          "id": "break-continue",
+          "title": "break, continue",
+          "description": "مباحث و تمرین‌های مرتبط با «break, continue».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Bash Loops",
+              "type": "article",
+              "url": "https://www.w3schools.com/bash/bash_loops.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash break and continue",
+              "type": "article",
+              "url": "https://linuxize.com/post/bash-break-continue/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Break and continue",
+              "type": "article",
+              "url": "https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_05.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Shell Scripting Tutorial - Break & Continue Statement",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=3Dg6j_zSk_0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bash Loops",
+          "type": "article",
+          "url": "https://www.w3schools.com/bash/bash_loops.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "functions",
+      "title": "Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Functions».",
+      "order": 25,
+      "children": [
+        {
+          "id": "recursive-functions",
+          "title": "Recursive Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Recursive Functions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Recursive function",
+              "type": "article",
+              "url": "https://bash.cyberciti.biz/guide/Recursive_function",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to implement a recursive function in a Bash script?",
+              "type": "article",
+              "url": "https://labex.io/questions/how-to-implement-a-recursive-function-in-a-bash-script-18293",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Recursion in bash (Bash 23)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=K_BgGxtK2gE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bash Functions",
+          "type": "article",
+          "url": "https://www.w3schools.com/bash/bash_functions.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Crash-Course! Functions in Bash quickly explained and demystified!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0tycTrpbWKs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "debugging",
+      "title": "Debugging",
+      "description": "مباحث و تمرین‌های مرتبط با «Debugging».",
+      "order": 26,
+      "children": [
+        {
+          "id": "bash-debug",
+          "title": "Bash Debug",
+          "description": "مباحث و تمرین‌های مرتبط با «Bash Debug».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "vscode-bash-debug",
+              "type": "article",
+              "url": "https://github.com/rogalmic/vscode-bash-debug",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Debug",
+              "type": "article",
+              "url": "https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Debugging Bash scripts",
+          "type": "article",
+          "url": "https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_03.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "error-handling",
+      "title": "Error Handling",
+      "description": "مباحث و تمرین‌های مرتبط با «Error Handling».",
+      "order": 27,
+      "children": [
+        {
+          "id": "error-handling-item",
+          "title": "Error Handling",
+          "description": "مباحث و تمرین‌های مرتبط با «Error Handling».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Error handling in Bash scripts",
+          "type": "article",
+          "url": "https://www.redhat.com/en/blog/error-handling-bash-scripting",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Writing Bash Scripts Like A Pro - Part 2 - Error Handling",
+          "type": "article",
+          "url": "https://dev.to/unfor19/writing-bash-scripts-like-a-pro-part-2-error-handling-46ff",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Shell Script Error Handling: Master Bash Scripting for Robust Code",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=uFJiDD1B5I4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "regular-expressions",
+      "title": "Regular Expressions",
+      "description": "مباحث و تمرین‌های مرتبط با «Regular Expressions».",
+      "order": 28,
+      "children": [
+        {
+          "id": "basic-regex-syntax",
+          "title": "Basic regex syntax",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic regex syntax».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Regular expressions",
+              "type": "article",
+              "url": "https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_01.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Regular expressions",
+              "type": "article",
+              "url": "https://computing.stat.berkeley.edu/tutorial-using-bash/regex.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bash Regex Tutorial for Beginners (regular expressions)",
+              "type": "article",
+              "url": "https://www.fullstackfoundations.com/blog/bash-regex",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Regular Expressions for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=NhcaKdt3NdM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "extended-regex",
+          "title": "Extended regex",
+          "description": "مباحث و تمرین‌های مرتبط با «Extended regex».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Extended Regular Expressions",
+              "type": "article",
+              "url": "https://pressbooks.senecapolytechnic.ca/uli101/chapter/extended-regular-expressions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Advanced Bash regex with examples",
+              "type": "article",
+              "url": "https://linuxconfig.org/advanced-bash-regex-with-examples",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Regular expressions",
+          "type": "article",
+          "url": "https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_01.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Bash Regex: How to Use Regex in a Shell Script",
+          "type": "article",
+          "url": "https://kodekloud.com/blog/regex-shell-script/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Beginners Guide to Bash Regex (With Code Examples)",
+          "type": "article",
+          "url": "https://zerotomastery.io/blog/bash-regex/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "process-management",
+      "title": "Process Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Process Management».",
+      "order": 29,
+      "children": [
+        {
+          "id": "process-management-item",
+          "title": "Process Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Process Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Managing processes",
+          "type": "article",
+          "url": "https://computing.stat.berkeley.edu/tutorial-using-bash/managing-processes.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "ProcessManagement - Greg's Wiki  Greg's",
+          "type": "article",
+          "url": "https://mywiki.wooledge.org/ProcessManagement",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Bash Process Management: How to Tame Your Shell Like a Pro",
+          "type": "article",
+          "url": "https://itldc.com/en/blog/bash-process-management-how-to-tame-your-shell-like-a-pro/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "#4 - Bash command for Process Management",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=O4C6_TJ-iws",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "package-management",
+      "title": "Package Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Package Management».",
+      "order": 30,
+      "children": [
+        {
+          "id": "package-management-item",
+          "title": "Package Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Package Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,1818 @@
+{
+  "slug": "ai-agents",
+  "title": "AI Agents",
+  "description": "Learn to design, build and ship AI agents in 2026",
+  "steps": [
+    {
+      "id": "basic-backend-development",
+      "title": "Basic Backend Development",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Backend Development».",
+      "order": 1,
+      "children": [
+        {
+          "id": "basic-backend-development-item",
+          "title": "Basic Backend Development",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Backend Development».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to the server-side",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a REST API? - Red Hat",
+          "type": "article",
+          "url": "https://www.redhat.com/en/topics/api/what-is-a-rest-api",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Database? - Oracle",
+          "type": "article",
+          "url": "https://www.oracle.com/database/what-is-database/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "git-and-terminal-usage",
+      "title": "Git and Terminal Usage",
+      "description": "مباحث و تمرین‌های مرتبط با «Git and Terminal Usage».",
+      "order": 2,
+      "children": [
+        {
+          "id": "git-and-terminal-usage-item",
+          "title": "Git and Terminal Usage",
+          "description": "مباحث و تمرین‌های مرتبط با «Git and Terminal Usage».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Git Basics",
+          "type": "article",
+          "url": "https://git-scm.com/doc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to the Terminal",
+          "type": "article",
+          "url": "https://ubuntu.com/tutorials/command-line-for-beginners#1-overview",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git and Terminal Basics Crash Course (YouTube)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=HVsySz-h9r4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "streamed-vs-unstreamed-responses",
+      "title": "Streamed vs Unstreamed Responses",
+      "description": "مباحث و تمرین‌های مرتبط با «Streamed vs Unstreamed Responses».",
+      "order": 3,
+      "children": [
+        {
+          "id": "streamed-vs-unstreamed-responses-item",
+          "title": "Streamed vs Unstreamed Responses",
+          "description": "مباحث و تمرین‌های مرتبط با «Streamed vs Unstreamed Responses».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Streaming Responses in AI: How AI Outputs Are Generated in Real Time",
+          "type": "article",
+          "url": "https://dev.to/pranshu_kabra_fe98a73547a/streaming-responses-in-ai-how-ai-outputs-are-generated-in-real-time-18kb",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AI for Web Devs: Faster Responses with HTTP Streaming",
+          "type": "article",
+          "url": "https://austingil.com/ai-for-web-devs-streaming/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Master the OpenAI API: Stream Responses",
+          "type": "article",
+          "url": "https://www.toolify.ai/gpts/master-the-openai-api-stream-responses-139447",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "rest-api-knowledge",
+      "title": "REST API Knowledge",
+      "description": "مباحث و تمرین‌های مرتبط با «REST API Knowledge».",
+      "order": 4,
+      "children": [
+        {
+          "id": "rest-api-knowledge-item",
+          "title": "REST API Knowledge",
+          "description": "مباحث و تمرین‌های مرتبط با «REST API Knowledge».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is RESTful API? - RESTful API Explained - AWS",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/restful-api/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is a REST API? Examples, Uses & Challenges ",
+          "type": "article",
+          "url": "https://blog.postman.com/rest-api-examples/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "reasoning-vs-standard-models",
+      "title": "Reasoning vs Standard Models",
+      "description": "مباحث و تمرین‌های مرتبط با «Reasoning vs Standard Models».",
+      "order": 5,
+      "children": [
+        {
+          "id": "reasoning-vs-standard-models-item",
+          "title": "Reasoning vs Standard Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Reasoning vs Standard Models».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "type": "article",
+          "url": "https://react-lm.github.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "ReAct Systems: Enhancing LLMs with Reasoning and Action",
+          "type": "article",
+          "url": "https://learnprompting.org/docs/agents/react",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "fine-tuning-vs-prompt-engineering",
+      "title": "Fine-tuning vs Prompt Engineering",
+      "description": "مباحث و تمرین‌های مرتبط با «Fine-tuning vs Prompt Engineering».",
+      "order": 6,
+      "children": [
+        {
+          "id": "fine-tuning-vs-prompt-engineering-item",
+          "title": "Fine-tuning vs Prompt Engineering",
+          "description": "مباحث و تمرین‌های مرتبط با «Fine-tuning vs Prompt Engineering».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OpenAI Fine Tuning",
+          "type": "article",
+          "url": "https://platform.openai.com/docs/guides/fine-tuning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Prompt Engineering Guide",
+          "type": "article",
+          "url": "https://www.promptingguide.ai/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Prompt Engineering vs Prompt Tuning: A Detailed Explanation",
+          "type": "article",
+          "url": "https://medium.com/@aabhi02/prompt-engineering-vs-prompt-tuning-a-detailed-explanation-19ea8ce62ac4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models",
+          "type": "video",
+          "url": "https://youtu.be/zYGDpG-pTho?si=pFeWqbjSN1RM4WiZ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "transformer-models-and-llms",
+      "title": "Transformer Models and LLMs",
+      "description": "مباحث و تمرین‌های مرتبط با «Transformer Models and LLMs».",
+      "order": 7,
+      "children": [
+        {
+          "id": "transformer-models-and-llms-item",
+          "title": "Transformer Models and LLMs",
+          "description": "مباحث و تمرین‌های مرتبط با «Transformer Models and LLMs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Exploring Open Source AI Models: LLMs and Transformer Architectures",
+          "type": "article",
+          "url": "https://llmmodels.org/blog/exploring-open-source-ai-models-llms-and-transformer-architectures/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How Transformer LLMs Work",
+          "type": "article",
+          "url": "https://www.deeplearning.ai/short-courses/how-transformer-llms-work/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "embeddings-and-vector-search",
+      "title": "Embeddings and Vector Search",
+      "description": "مباحث و تمرین‌های مرتبط با «Embeddings and Vector Search».",
+      "order": 8,
+      "children": [
+        {
+          "id": "embeddings-and-vector-search-item",
+          "title": "Embeddings and Vector Search",
+          "description": "مباحث و تمرین‌های مرتبط با «Embeddings and Vector Search».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OpenAI Embeddings API Documentation",
+          "type": "article",
+          "url": "https://platform.openai.com/docs/guides/embeddings/what-are-embeddings",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Embeddings and Vector Search (Pinecone Blog)",
+          "type": "article",
+          "url": "https://www.pinecone.io/learn/vector-embeddings/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "open-weight-models",
+      "title": "Open Weight Models",
+      "description": "مباحث و تمرین‌های مرتبط با «Open Weight Models».",
+      "order": 9,
+      "children": [
+        {
+          "id": "open-weight-models-item",
+          "title": "Open Weight Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Open Weight Models».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "BLOOM BigScience",
+          "type": "article",
+          "url": "https://bigscience.huggingface.co/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Falcon LLM – Technology Innovation Institute (TII)",
+          "type": "article",
+          "url": "https://falconllm.tii.ae/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Llama 2 – Meta's Official Announcement",
+          "type": "article",
+          "url": "https://ai.meta.com/llama/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Hugging Face – Open LLM Leaderboard (Top Open Models)",
+          "type": "article",
+          "url": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "EleutherAI – Open Research Collective (GPT-Neo, GPT-J, etc.)",
+          "type": "article",
+          "url": "https://www.eleuther.ai/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "understand-the-basics-of-rag",
+      "title": "Understand the Basics of RAG",
+      "description": "مباحث و تمرین‌های مرتبط با «Understand the Basics of RAG».",
+      "order": 10,
+      "children": [
+        {
+          "id": "understand-the-basics-of-rag-item",
+          "title": "Understand the Basics of RAG",
+          "description": "مباحث و تمرین‌های مرتبط با «Understand the Basics of RAG».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is RAG in AI and How to Use It?",
+          "type": "article",
+          "url": "https://www.v7labs.com/blog/what-is-rag",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An Introduction to RAG and Simple & Complex RAG",
+          "type": "article",
+          "url": "https://medium.com/enterprise-rag/an-introduction-to-rag-and-simple-complex-rag-9c3aa9bd017b",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn RAG From Scratch",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Retrieval-Augmented Generation (RAG)?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=T-D1OfcDW1M",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "closed-weight-models",
+      "title": "Closed Weight Models",
+      "description": "مباحث و تمرین‌های مرتبط با «Closed Weight Models».",
+      "order": 11,
+      "children": [
+        {
+          "id": "closed-weight-models-item",
+          "title": "Closed Weight Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Closed Weight Models».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Open AI's GPT-4",
+          "type": "article",
+          "url": "https://openai.com/gpt-4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Claude",
+          "type": "article",
+          "url": "https://www.anthropic.com/claude",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Gemini",
+          "type": "article",
+          "url": "https://deepmind.google/technologies/gemini/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Open-Source LLMs vs Closed LLMs",
+          "type": "article",
+          "url": "https://hatchworks.com/blog/gen-ai/open-source-vs-closed-llms-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "2024 Comparison of Open-Source Vs Closed-Source LLMs",
+          "type": "article",
+          "url": "https://blog.spheron.network/choosing-the-right-llm-2024-comparison-of-open-source-vs-closed-source-llms",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pricing-of-common-models",
+      "title": "Pricing of Common Models",
+      "description": "مباحث و تمرین‌های مرتبط با «Pricing of Common Models».",
+      "order": 12,
+      "children": [
+        {
+          "id": "pricing-of-common-models-item",
+          "title": "Pricing of Common Models",
+          "description": "مباحث و تمرین‌های مرتبط با «Pricing of Common Models».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OpenAI Pricing",
+          "type": "article",
+          "url": "https://openai.com/api/pricing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Executive Guide To AI Agent Pricing",
+          "type": "article",
+          "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2025/01/28/executive-guide-to-ai-agent-pricing-winning-strategies-and-models-to-drive-growth/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AI Pricing: How Much Does Artificial Intelligence Cost In 2025?",
+          "type": "article",
+          "url": "https://www.internetsearchinc.com/ai-pricing-how-much-does-artificial-intelligence-cost/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "agent-loop",
+      "title": "Agent Loop",
+      "description": "مباحث و تمرین‌های مرتبط با «Agent Loop».",
+      "order": 13,
+      "children": [
+        {
+          "id": "observation-reflection",
+          "title": "Observation & Reflection",
+          "description": "مباحث و تمرین‌های مرتبط با «Observation & Reflection».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Best Practices for Prompting and Self-checking",
+              "type": "article",
+              "url": "https://platform.openai.com/docs/guides/prompt-engineering",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Self-Reflective AI: Building Agents That Learn by Observing Themselves",
+              "type": "article",
+              "url": "https://arxiv.org/abs/2302.14045",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is an Agent Loop?",
+          "type": "article",
+          "url": "https://huggingface.co/learn/agents-course/en/unit1/agent-steps-and-structure",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Let's Build your Own Agentic Loop",
+          "type": "article",
+          "url": "https://www.reddit.com/r/AI_Agents/comments/1js1xjz/lets_build_our_own_agentic_loop_running_in_our/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-prompt-engineering",
+      "title": "What is Prompt Engineering",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Prompt Engineering».",
+      "order": 14,
+      "children": [
+        {
+          "id": "what-is-prompt-engineering-item",
+          "title": "What is Prompt Engineering",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Prompt Engineering».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated Prompt Engineering Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/prompt-engineering",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Prompt Engineering? - AI Prompt Engineering Explained - AWS",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/prompt-engineering/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Prompt Engineering? A Detailed Guide For 2025",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/what-is-prompt-engineering-the-future-of-ai-communication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "tool-definition",
+      "title": "Tool Definition",
+      "description": "مباحث و تمرین‌های مرتبط با «Tool Definition».",
+      "order": 15,
+      "children": [
+        {
+          "id": "tool-definition-item",
+          "title": "Tool Definition",
+          "description": "مباحث و تمرین‌های مرتبط با «Tool Definition».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding the Agent Function in AI: Key Roles and Responsibilities",
+          "type": "article",
+          "url": "https://pingax.com/ai/agent/function/understanding-the-agent-function-in-ai-key-roles-and-responsibilities/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is an AI Tool?",
+          "type": "article",
+          "url": "https://www.synthesia.io/glossary/ai-tool",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "model-context-protocol-mcp",
+      "title": "Model Context Protocol (MCP)",
+      "description": "مباحث و تمرین‌های مرتبط با «Model Context Protocol (MCP)».",
+      "order": 16,
+      "children": [
+        {
+          "id": "model-context-protocol-mcp-item",
+          "title": "Model Context Protocol (MCP)",
+          "description": "مباحث و تمرین‌های مرتبط با «Model Context Protocol (MCP)».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "MCP: Build Rich-Context AI Apps with Anthropic",
+          "type": "course",
+          "url": "https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Model Context Protocol",
+          "type": "article",
+          "url": "https://modelcontextprotocol.io/introduction",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Model Context Protocol",
+          "type": "article",
+          "url": "https://github.com/modelcontextprotocol/modelcontextprotocol",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introducing the Azure MCP Server ",
+          "type": "article",
+          "url": "https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-mcp-server/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Ultimate Guide to MCP",
+          "type": "article",
+          "url": "https://guangzhengli.com/blog/en/model-context-protocol",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "creating-mcp-servers",
+      "title": "Creating MCP Servers",
+      "description": "مباحث و تمرین‌های مرتبط با «Creating MCP Servers».",
+      "order": 17,
+      "children": [
+        {
+          "id": "creating-mcp-servers-item",
+          "title": "Creating MCP Servers",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating MCP Servers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Model Context Protocol (MCP) Specification",
+          "type": "article",
+          "url": "https://www.anthropic.com/news/model-context-protocol",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Build and Host Your Own MCP Servers in Easy Steps?",
+          "type": "article",
+          "url": "https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-agent-memory",
+      "title": "What is Agent Memory?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Agent Memory?».",
+      "order": 18,
+      "children": [
+        {
+          "id": "what-is-agent-memory-item",
+          "title": "What is Agent Memory?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Agent Memory?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Agentic Memory for LLM Agents",
+          "type": "article",
+          "url": "https://arxiv.org/abs/2502.12110",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Memory Management in AI Agents",
+          "type": "article",
+          "url": "https://python.langchain.com/docs/how_to/chatbots_memory/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Storing and Retrieving Knowledge for Agents",
+          "type": "article",
+          "url": "https://www.pinecone.io/learn/langchain-retrieval-augmentation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Short-Term vs Long-Term Memory in AI Agents",
+          "type": "article",
+          "url": "https://adasci.org/short-term-vs-long-term-memory-in-ai-agents/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building Brain-Like Memory for AI Agents",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=VKPngyO0iKg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "short-term-memory",
+      "title": "Short Term  Memory",
+      "description": "مباحث و تمرین‌های مرتبط با «Short Term  Memory».",
+      "order": 19,
+      "children": [
+        {
+          "id": "short-term-memory-item",
+          "title": "Short Term  Memory",
+          "description": "مباحث و تمرین‌های مرتبط با «Short Term  Memory».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Memory Management in AI Agents",
+          "type": "article",
+          "url": "https://python.langchain.com/docs/how_to/chatbots_memory/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Build Smarter AI Agents: Manage Short-term and Long-term Memory",
+          "type": "article",
+          "url": "https://redis.io/blog/build-smarter-ai-agents-manage-short-term-and-long-term-memory-with-redis/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Storing and Retrieving Knowledge for Agents",
+          "type": "article",
+          "url": "https://www.pinecone.io/learn/langchain-retrieval-augmentation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Short-Term vs Long-Term Memory in AI Agents",
+          "type": "article",
+          "url": "https://adasci.org/short-term-vs-long-term-memory-in-ai-agents/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building Brain-Like Memory for AI Agents",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=VKPngyO0iKg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "episodic-vs-semantic-memory",
+      "title": "Episodic vs Semantic Memory",
+      "description": "مباحث و تمرین‌های مرتبط با «Episodic vs Semantic Memory».",
+      "order": 20,
+      "children": [
+        {
+          "id": "episodic-vs-semantic-memory-item",
+          "title": "Episodic vs Semantic Memory",
+          "description": "مباحث و تمرین‌های مرتبط با «Episodic vs Semantic Memory».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is AI Agent Memory? - IBM",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/ai-agent-memory",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Episodic Memory vs. Semantic Memory: The Key Differences",
+          "type": "article",
+          "url": "https://www.magneticmemorymethod.com/episodic-vs-semantic-memory/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Memory Systems in LangChain",
+          "type": "article",
+          "url": "https://python.langchain.com/docs/how_to/chatbots_memory/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "long-term-memory",
+      "title": "Long Term Memory",
+      "description": "مباحث و تمرین‌های مرتبط با «Long Term Memory».",
+      "order": 21,
+      "children": [
+        {
+          "id": "long-term-memory-item",
+          "title": "Long Term Memory",
+          "description": "مباحث و تمرین‌های مرتبط با «Long Term Memory».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Long Term Memory in AI Agents",
+          "type": "article",
+          "url": "https://medium.com/@alozie_igbokwe/ai-101-long-term-memory-in-ai-agents-35f87f2d0ce0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Memory Management in AI Agents",
+          "type": "article",
+          "url": "https://python.langchain.com/docs/how_to/chatbots_memory/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Storing and Retrieving Knowledge for Agents",
+          "type": "article",
+          "url": "https://www.pinecone.io/learn/langchain-retrieval-augmentation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Short-Term vs Long-Term Memory in AI Agents",
+          "type": "article",
+          "url": "https://adasci.org/short-term-vs-long-term-memory-in-ai-agents/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building Brain-Like Memory for AI Agents",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=VKPngyO0iKg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "rag-agent",
+      "title": "RAG Agent",
+      "description": "مباحث و تمرین‌های مرتبط با «RAG Agent».",
+      "order": 22,
+      "children": [
+        {
+          "id": "rag-agent-item",
+          "title": "RAG Agent",
+          "description": "مباحث و تمرین‌های مرتبط با «RAG Agent».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is RAG? - Retrieval-Augmented Generation AI Explained",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/retrieval-augmented-generation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is Retrieval-Augmented Generation, aka RAG?",
+          "type": "article",
+          "url": "https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "react-reason-act",
+      "title": "ReAct (Reason + Act)",
+      "description": "مباحث و تمرین‌های مرتبط با «ReAct (Reason + Act)».",
+      "order": 23,
+      "children": [
+        {
+          "id": "react-reason-act-item",
+          "title": "ReAct (Reason + Act)",
+          "description": "مباحث و تمرین‌های مرتبط با «ReAct (Reason + Act)».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+          "type": "article",
+          "url": "https://react-lm.github.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "ReAct Systems: Enhancing LLMs with Reasoning and Action",
+          "type": "article",
+          "url": "https://learnprompting.org/docs/agents/react",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "chain-of-thought-cot",
+      "title": "Chain of Thought (CoT)",
+      "description": "مباحث و تمرین‌های مرتبط با «Chain of Thought (CoT)».",
+      "order": 24,
+      "children": [
+        {
+          "id": "chain-of-thought-cot-item",
+          "title": "Chain of Thought (CoT)",
+          "description": "مباحث و تمرین‌های مرتبط با «Chain of Thought (CoT)».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+          "type": "article",
+          "url": "https://arxiv.org/abs/2201.11903",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Evoking Chain of Thought Reasoning in LLMs - Prompting Guide",
+          "type": "article",
+          "url": "https://www.promptingguide.ai/techniques/cot",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "manual-from-scratch",
+      "title": "Manual (from scratch)",
+      "description": "مباحث و تمرین‌های مرتبط با «Manual (from scratch)».",
+      "order": 25,
+      "children": [
+        {
+          "id": "manual-from-scratch-item",
+          "title": "Manual (from scratch)",
+          "description": "مباحث و تمرین‌های مرتبط با «Manual (from scratch)».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "A Step-by-Step Guide to Building an AI Agent From Scratch",
+          "type": "article",
+          "url": "https://www.neurond.com/blog/how-to-build-an-ai-agent",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Build AI Agents",
+          "type": "article",
+          "url": "https://wotnot.io/blog/build-ai-agents",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Build Your Own AI Agent from Scratch in 30 Minutes",
+          "type": "article",
+          "url": "https://medium.com/@gurpartap.sandhu3/build-you-own-ai-agent-from-scratch-in-30-mins-using-simple-python-1458f8099da0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building an AI Agent From Scratch",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=bTMPwUgLZf0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "planner-executor",
+      "title": "Planner Executor",
+      "description": "مباحث و تمرین‌های مرتبط با «Planner Executor».",
+      "order": 26,
+      "children": [
+        {
+          "id": "planner-executor-item",
+          "title": "Planner Executor",
+          "description": "مباحث و تمرین‌های مرتبط با «Planner Executor».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Plan-and-Execute Agents",
+          "type": "article",
+          "url": "https://blog.langchain.dev/planning-agents/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Plan and Execute: AI Agents Architecture",
+          "type": "article",
+          "url": "https://medium.com/@shubham.ksingh.cer14/plan-and-execute-ai-agents-architecture-f6c60b5b9598",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dag-agents",
+      "title": "DAG Agents",
+      "description": "مباحث و تمرین‌های مرتبط با «DAG Agents».",
+      "order": 27,
+      "children": [
+        {
+          "id": "dag-agents-item",
+          "title": "DAG Agents",
+          "description": "مباحث و تمرین‌های مرتبط با «DAG Agents».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Airflow: Directed Acyclic Graphs Documentation",
+          "type": "article",
+          "url": "https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are DAGs in AI Systems?",
+          "type": "article",
+          "url": "https://www.restack.io/p/version-control-for-ai-answer-what-is-dag-in-ai-cat-ai",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DAGs Explained Simply",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1Yh5S-S6wsI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "tree-of-thought",
+      "title": "Tree-of-Thought",
+      "description": "مباحث و تمرین‌های مرتبط با «Tree-of-Thought».",
+      "order": 28,
+      "children": [
+        {
+          "id": "tree-of-thought-item",
+          "title": "Tree-of-Thought",
+          "description": "مباحث و تمرین‌های مرتبط با «Tree-of-Thought».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Tree of Thoughts (ToT) | Prompt Engineering Guide",
+          "type": "article",
+          "url": "https://www.promptingguide.ai/techniques/tot",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is tree-of-thoughts? - IBM",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/tree-of-thoughts",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Revolutionary Approach of Tree-of-Thought Prompting in AI",
+          "type": "article",
+          "url": "https://medium.com/@WeavePlatform/the-revolutionary-approach-of-tree-of-thought-prompting-in-ai-eb7c0872247b",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "llm-native-function-calling",
+      "title": "LLM Native \"Function Calling\"",
+      "description": "مباحث و تمرین‌های مرتبط با «LLM Native \"Function Calling\"».",
+      "order": 29,
+      "children": [
+        {
+          "id": "openai-functions-calling",
+          "title": "OpenAI Functions Calling",
+          "description": "مباحث و تمرین‌های مرتبط با «OpenAI Functions Calling».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "OpenAI Documentation – Function Calling",
+              "type": "article",
+              "url": "https://platform.openai.com/docs/guides/function-calling",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OpenAI Cookbook – Using Functions with GPT Models",
+              "type": "article",
+              "url": "https://github.com/openai/openai-cookbook/blob/main/examples/How_to_call_functions_with_chat_models.ipynb",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "@officialOpenAI Blog – Announcing Function Calling and Other Updates",
+              "type": "article",
+              "url": "https://openai.com/blog/function-calling-and-other-api-updates",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "@officialOpenAI API Reference – Functions Section",
+              "type": "article",
+              "url": "https://platform.openai.com/docs/api-reference/chat/create#functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "@officialOpenAI Community – Discussions and Examples on Function Calling",
+              "type": "article",
+              "url": "https://community.openai.com/tag/function-calling",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "A Comprehensive Guide to Function Calling in LLMs",
+          "type": "article",
+          "url": "https://thenewstack.io/a-comprehensive-guide-to-function-calling-in-llms/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Function Calling with LLMs | Prompt Engineering Guide",
+          "type": "article",
+          "url": "https://www.promptingguide.ai/applications/function_calling",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Function Calling with Open-Source LLMs",
+          "type": "article",
+          "url": "https://medium.com/@rushing_andrei/function-calling-with-open-source-llms-594aa5b3a304",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "prompt-injection-jailbreaks",
+      "title": "Prompt Injection / Jailbreaks",
+      "description": "مباحث و تمرین‌های مرتبط با «Prompt Injection / Jailbreaks».",
+      "order": 30,
+      "children": [
+        {
+          "id": "prompt-injection-jailbreaks-item",
+          "title": "Prompt Injection / Jailbreaks",
+          "description": "مباحث و تمرین‌های مرتبط با «Prompt Injection / Jailbreaks».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Prompt Injection vs. Jailbreaking: What's the Difference?",
+          "type": "article",
+          "url": "https://learnprompting.org/blog/injection_jailbreaking",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Prompt Injection vs Prompt Jailbreak",
+          "type": "article",
+          "url": "https://codoid.com/ai/prompt-injection-vs-prompt-jailbreak-a-detailed-comparison/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How Prompt Attacks Exploit GenAI and How to Fight Back",
+          "type": "article",
+          "url": "https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "tool-sandboxing-permissioning",
+      "title": "Tool sandboxing / Permissioning",
+      "description": "مباحث و تمرین‌های مرتبط با «Tool sandboxing / Permissioning».",
+      "order": 31,
+      "children": [
+        {
+          "id": "tool-sandboxing-permissioning-item",
+          "title": "Tool sandboxing / Permissioning",
+          "description": "مباحث و تمرین‌های مرتبط با «Tool sandboxing / Permissioning».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "AI Sandbox | Harvard University Information Technology",
+          "type": "article",
+          "url": "https://www.huit.harvard.edu/ai-sandbox",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Set Up AI Sandboxes to Maximize Adoption",
+          "type": "article",
+          "url": "https://medium.com/@emilholmegaard/how-to-set-up-ai-sandboxes-to-maximize-adoption-without-compromising-ethics-and-values-637c70626130",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Sandboxes for AI - The Datasphere Initiative",
+          "type": "article",
+          "url": "https://www.thedatasphere.org/datasphere-publish/sandboxes-for-ai/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-privacy-pii-redaction",
+      "title": "Data Privacy + PII Redaction",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Privacy + PII Redaction».",
+      "order": 32,
+      "children": [
+        {
+          "id": "data-privacy-pii-redaction-item",
+          "title": "Data Privacy + PII Redaction",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Privacy + PII Redaction».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GDPR Compliance Overview",
+          "type": "article",
+          "url": "https://gdpr.eu/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Protect Sensitive Data with PII Redaction Software",
+          "type": "article",
+          "url": "https://redactor.ai/blog/pii-redaction-software-guide",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Complete Guide on PII Redaction",
+          "type": "article",
+          "url": "https://enthu.ai/blog/what-is-pii-redaction/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "bias-toxicity-guardrails",
+      "title": "Bias & Toxicity Guardrails",
+      "description": "مباحث و تمرین‌های مرتبط با «Bias & Toxicity Guardrails».",
+      "order": 33,
+      "children": [
+        {
+          "id": "bias-toxicity-guardrails-item",
+          "title": "Bias & Toxicity Guardrails",
+          "description": "مباحث و تمرین‌های مرتبط با «Bias & Toxicity Guardrails».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Define the Agent Guardrails",
+          "type": "article",
+          "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-planning/define-the-agent-guardrails",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Build Safe AI Agents: Best Practices for Guardrails",
+          "type": "article",
+          "url": "https://medium.com/@sahin.samia/how-to-build-safe-ai-agents-best-practices-for-guardrails-and-oversight-a0085b50c022",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "safety-red-team-testing",
+      "title": "Safety + Red Team Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Safety + Red Team Testing».",
+      "order": 34,
+      "children": [
+        {
+          "id": "safety-red-team-testing-item",
+          "title": "Safety + Red Team Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Safety + Red Team Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated AI Red Teaming Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/ai-red-teaming",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Enhancing AI safety: Insights and lessons from red teaming",
+          "type": "article",
+          "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/01/14/enhancing-ai-safety-insights-and-lessons-from-red-teaming/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AI Safety Testing in the Absence of Regulations",
+          "type": "article",
+          "url": "https://aisecuritycentral.com/ai-safety-testing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Guide to AI Red Teaming - HiddenLayer",
+          "type": "article",
+          "url": "https://hiddenlayer.com/innovation-hub/a-guide-to-ai-red-teaming/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

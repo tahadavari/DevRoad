@@ -1,0 +1,1013 @@
+{
+  "slug": "devrel",
+  "title": "Developer Relations",
+  "description": "Step by step guide to becoming a Developer Advocate in 2026",
+  "steps": [
+    {
+      "id": "what-is-devrel",
+      "title": "What is DevRel?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is DevRel?».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-devrel-item",
+          "title": "What is DevRel?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is DevRel?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "public-speaking",
+      "title": "Public Speaking",
+      "description": "مباحث و تمرین‌های مرتبط با «Public Speaking».",
+      "order": 2,
+      "children": [
+        {
+          "id": "public-speaking-item",
+          "title": "Public Speaking",
+          "description": "مباحث و تمرین‌های مرتبط با «Public Speaking».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "presentation-techniques",
+      "title": "Presentation Techniques",
+      "description": "مباحث و تمرین‌های مرتبط با «Presentation Techniques».",
+      "order": 3,
+      "children": [
+        {
+          "id": "presentation-techniques-item",
+          "title": "Presentation Techniques",
+          "description": "مباحث و تمرین‌های مرتبط با «Presentation Techniques».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "writing-skills",
+      "title": "Writing Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Writing Skills».",
+      "order": 4,
+      "children": [
+        {
+          "id": "event-participation",
+          "title": "Event Participation",
+          "description": "مباحث و تمرین‌های مرتبط با «Event Participation».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "importance-of-devrel",
+          "title": "Importance of DevRel",
+          "description": "مباحث و تمرین‌های مرتبط با «Importance of DevRel».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What is Developer Relations? The Ultimate Guide for DevTool GTM Teams",
+              "type": "article",
+              "url": "https://www.doc-e.ai/post/what-is-developer-relations-the-ultimate-guide-for-devtool-gtm-teams",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DevRel - Why is it important?",
+              "type": "article",
+              "url": "https://developers.onelogin.com/blog/devrel",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The role of developer advocacy in driving innovation",
+              "type": "article",
+              "url": "https://leaddev.com/process/role-developer-advocacy-driving-innovation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "the-hook",
+          "title": "The Hook",
+          "description": "مباحث و تمرین‌های مرتبط با «The Hook».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "contrast-principle",
+          "title": "Contrast Principle",
+          "description": "مباحث و تمرین‌های مرتبط با «Contrast Principle».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "How to have influence",
+              "type": "article",
+              "url": "https://www.ethosdebate.com/influence-part-2-contrast-principle/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Psychology of perceptual contrast",
+              "type": "article",
+              "url": "https://www.linkedin.com/pulse/psychology-perceptual-contrast-devender-kumar/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "handouts",
+          "title": "Handouts",
+          "description": "مباحث و تمرین‌های مرتبط با «Handouts».",
+          "order": 5,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "repetition-reinforcement",
+          "title": "Repetition & Reinforcement",
+          "description": "مباحث و تمرین‌های مرتبط با «Repetition & Reinforcement».",
+          "order": 6,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "visualization",
+          "title": "Visualization",
+          "description": "مباحث و تمرین‌های مرتبط با «Visualization».",
+          "order": 7,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Putting Ideas into Words",
+          "type": "article",
+          "url": "https://www.paulgraham.com/words.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Patterns in confusing explanations",
+          "type": "article",
+          "url": "https://jvns.ca/blog/confusing-explanations/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Signposting: How to reduce cognitive load for your reader",
+          "type": "article",
+          "url": "https://newsletter.weskao.com/p/sign-posting-how-to-reduce-cognitive",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-programming-skills",
+      "title": "Basic Programming Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Programming Skills».",
+      "order": 5,
+      "children": [
+        {
+          "id": "understanding-apis",
+          "title": "Understanding APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «Understanding APIs».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "TheNewStack.io - Devrel",
+          "type": "article",
+          "url": "https://thenewstack.io/devrel-for-beginners-how-to-get-started/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started With Devrel- Dev.to",
+          "type": "article",
+          "url": "https://dev.to/rejoice/getting-started-with-devrel-22n3",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to become a DevRel",
+          "type": "article",
+          "url": "https://www.pluralsight.com/resources/blog/tech-operations/developer-relations-getting-a-devrel-job",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "community-engagement",
+      "title": "Community Engagement",
+      "description": "مباحث و تمرین‌های مرتبط با «Community Engagement».",
+      "order": 6,
+      "children": [
+        {
+          "id": "understanding-apis-2",
+          "title": "Understanding APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «Understanding APIs».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Ultimate Guide to Developer Engagement and Community Building: Unlocking the Power of Developer-Centric Growth",
+          "type": "article",
+          "url": "https://www.doc-e.ai/post/the-ultimate-guide-to-developer-engagement-and-community-building-unlocking-the-power-of-developer-centric-growth",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Fostering a Positive Developer Experience Through Community Engagement: A Blueprint for DevTool Success",
+          "type": "article",
+          "url": "https://www.doc-e.ai/post/fostering-a-positive-developer-experience-through-community-engagement-a-blueprint-for-devtool-success",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ides",
+      "title": "IDEs",
+      "description": "مباحث و تمرین‌های مرتبط با «IDEs».",
+      "order": 7,
+      "children": [
+        {
+          "id": "managing-discussions",
+          "title": "Managing Discussions",
+          "description": "مباحث و تمرین‌های مرتبط با «Managing Discussions».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visual Studio Code",
+          "type": "article",
+          "url": "https://code.visualstudio.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "JetBrains IDEs",
+          "type": "article",
+          "url": "https://www.jetbrains.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "History of IDEs",
+          "type": "article",
+          "url": "https://multiqos.com/blogs/guide-to-integrated-development-environment/#:~:text=While%20TurboPascal%20may%20have%20popularized,significant%20popularity%20in%20the%201980s.",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "engaging-audience",
+      "title": "Engaging Audience",
+      "description": "مباحث و تمرین‌های مرتبط با «Engaging Audience».",
+      "order": 8,
+      "children": [
+        {
+          "id": "engaging-audience-item",
+          "title": "Engaging Audience",
+          "description": "مباحث و تمرین‌های مرتبط با «Engaging Audience».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "apis-sdks",
+      "title": "APIs & SDKs",
+      "description": "مباحث و تمرین‌های مرتبط با «APIs & SDKs».",
+      "order": 9,
+      "children": [
+        {
+          "id": "apis-sdks-item",
+          "title": "APIs & SDKs",
+          "description": "مباحث و تمرین‌های مرتبط با «APIs & SDKs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "handling-q-a",
+      "title": "Handling Q&A",
+      "description": "مباحث و تمرین‌های مرتبط با «Handling Q&A».",
+      "order": 10,
+      "children": [
+        {
+          "id": "handling-q-a-item",
+          "title": "Handling Q&A",
+          "description": "مباحث و تمرین‌های مرتبط با «Handling Q&A».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "version-control",
+      "title": "Version Control",
+      "description": "مباحث و تمرین‌های مرتبط با «Version Control».",
+      "order": 11,
+      "children": [
+        {
+          "id": "understanding-apis-3",
+          "title": "Understanding APIs",
+          "description": "مباحث و تمرین‌های مرتبط با «Understanding APIs».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "building-a-community",
+      "title": "Building a Community",
+      "description": "مباحث و تمرین‌های مرتبط با «Building a Community».",
+      "order": 12,
+      "children": [
+        {
+          "id": "identifying-audience",
+          "title": "Identifying Audience",
+          "description": "مباحث و تمرین‌های مرتبط با «Identifying Audience».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "platform-selection",
+          "title": "Platform Selection",
+          "description": "مباحث و تمرین‌های مرتبط با «Platform Selection».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "initial-outreach",
+          "title": "Initial Outreach",
+          "description": "مباحث و تمرین‌های مرتبط با «Initial Outreach».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "technical-setup",
+          "title": "Technical Setup",
+          "description": "مباحث و تمرین‌های مرتبط با «Technical Setup».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Building and Nurturing Online Developer Communities: The Ultimate Guide",
+          "type": "article",
+          "url": "https://www.doc-e.ai/post/building-and-nurturing-online-developer-communities-the-ultimate-guide",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "10 Proven Strategies for Building a Developer Community That Thrives: A Guide to Inclusion & Engagement",
+          "type": "article",
+          "url": "https://dev.to/swati1267/10-proven-strategies-for-building-a-developer-community-that-thrives-a-guide-to-inclusion-engagement-21cm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "community-management",
+      "title": "Community Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Community Management».",
+      "order": 13,
+      "children": [
+        {
+          "id": "moderation",
+          "title": "Moderation",
+          "description": "مباحث و تمرین‌های مرتبط با «Moderation».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Ultimate Guide to Community Management",
+          "type": "article",
+          "url": "https://blog.hubspot.com/marketing/community-management-expert-advice",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Online Community Management Tactics",
+          "type": "article",
+          "url": "https://www.higherlogic.com/blog/online-community-management-guide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "event-management",
+      "title": "Event Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Event Management».",
+      "order": 14,
+      "children": [
+        {
+          "id": "event-management-item",
+          "title": "Event Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Event Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "A step-by-step guide to organising unforgettable professional events for developers",
+          "type": "article",
+          "url": "https://weezevent.com/en-gb/blog/organising-events-for-developers/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Anatomy of a Developer Conference",
+          "type": "article",
+          "url": "https://shiloh-events.com/anatomy-of-a-developer-conference/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "blogging",
+      "title": "Blogging",
+      "description": "مباحث و تمرین‌های مرتبط با «Blogging».",
+      "order": 15,
+      "children": [
+        {
+          "id": "blogging-item",
+          "title": "Blogging",
+          "description": "مباحث و تمرین‌های مرتبط با «Blogging».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "video-production",
+      "title": "Video Production",
+      "description": "مباحث و تمرین‌های مرتبط با «Video Production».",
+      "order": 16,
+      "children": [
+        {
+          "id": "scripting",
+          "title": "Scripting",
+          "description": "مباحث و تمرین‌های مرتبط با «Scripting».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "video-production-2",
+      "title": "Video Production",
+      "description": "مباحث و تمرین‌های مرتبط با «Video Production».",
+      "order": 17,
+      "children": [
+        {
+          "id": "video-production-2-item",
+          "title": "Video Production",
+          "description": "مباحث و تمرین‌های مرتبط با «Video Production».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "live-streaming",
+      "title": "Live Streaming",
+      "description": "مباحث و تمرین‌های مرتبط با «Live Streaming».",
+      "order": 18,
+      "children": [
+        {
+          "id": "live-streaming-item",
+          "title": "Live Streaming",
+          "description": "مباحث و تمرین‌های مرتبط با «Live Streaming».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "social-media",
+      "title": "Social Media",
+      "description": "مباحث و تمرین‌های مرتبط با «Social Media».",
+      "order": 19,
+      "children": [
+        {
+          "id": "example-apps",
+          "title": "Example Apps",
+          "description": "مباحث و تمرین‌های مرتبط با «Example Apps».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "documentation",
+      "title": "Documentation",
+      "description": "مباحث و تمرین‌های مرتبط با «Documentation».",
+      "order": 20,
+      "children": [
+        {
+          "id": "tutorials",
+          "title": "Tutorials",
+          "description": "مباحث و تمرین‌های مرتبط با «Tutorials».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "api-references",
+          "title": "API References",
+          "description": "مباحث و تمرین‌های مرتبط با «API References».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "What Is API Documentation?",
+              "type": "article",
+              "url": "https://blog.hubspot.com/website/api-documentation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "API Documentation and Why it Matters",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=39Tt1IkLiQQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "user-guides",
+          "title": "User Guides",
+          "description": "مباحث و تمرین‌های مرتبط با «User Guides».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "sample-projects",
+      "title": "Sample Projects",
+      "description": "مباحث و تمرین‌های مرتبط با «Sample Projects».",
+      "order": 21,
+      "children": [
+        {
+          "id": "thought-leadership",
+          "title": "Thought Leadership",
+          "description": "مباحث و تمرین‌های مرتبط با «Thought Leadership».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "issue-tracking",
+          "title": "Issue Tracking",
+          "description": "مباحث و تمرین‌های مرتبط با «Issue Tracking».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "faqs",
+          "title": "FAQs",
+          "description": "مباحث و تمرین‌های مرتبط با «FAQs».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "12 Crystal-Clear FAQ Page Examples & How to Make Your Own",
+              "type": "article",
+              "url": "https://blog.hubspot.com/service/faq-page",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to write an FAQ page",
+              "type": "article",
+              "url": "https://uk.indeed.com/career-advice/career-development/how-to-write-faq-page",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "support",
+      "title": "Support",
+      "description": "مباحث و تمرین‌های مرتبط با «Support».",
+      "order": 22,
+      "children": [
+        {
+          "id": "forums",
+          "title": "Forums",
+          "description": "مباحث و تمرین‌های مرتبط با «Forums».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "issue-tracking-2",
+          "title": "Issue Tracking",
+          "description": "مباحث و تمرین‌های مرتبط با «Issue Tracking».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "faqs-2",
+          "title": "FAQs",
+          "description": "مباحث و تمرین‌های مرتبط با «FAQs».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "12 Crystal-Clear FAQ Page Examples & How to Make Your Own",
+              "type": "article",
+              "url": "https://blog.hubspot.com/service/faq-page",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to write an FAQ page",
+              "type": "article",
+              "url": "https://uk.indeed.com/career-advice/career-development/how-to-write-faq-page",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "key-metrics",
+      "title": "Key Metrics",
+      "description": "مباحث و تمرین‌های مرتبط با «Key Metrics».",
+      "order": 23,
+      "children": [
+        {
+          "id": "key-metrics-item",
+          "title": "Key Metrics",
+          "description": "مباحث و تمرین‌های مرتبط با «Key Metrics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "tools",
+      "title": "Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Tools».",
+      "order": 24,
+      "children": [
+        {
+          "id": "google-analytics",
+          "title": "Google Analytics",
+          "description": "مباحث و تمرین‌های مرتبط با «Google Analytics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Google Analytics Academy",
+              "type": "article",
+              "url": "https://developers.google.com/analytics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Get started with Google Analytics",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=UuE37-MM1ws",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "reporting",
+      "title": "Reporting",
+      "description": "مباحث و تمرین‌های مرتبط با «Reporting».",
+      "order": 25,
+      "children": [
+        {
+          "id": "publishing",
+          "title": "Publishing",
+          "description": "مباحث و تمرین‌های مرتبط با «Publishing».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "thought-leadership-2",
+      "title": "Thought Leadership",
+      "description": "مباحث و تمرین‌های مرتبط با «Thought Leadership».",
+      "order": 26,
+      "children": [
+        {
+          "id": "thought-leadership-2-item",
+          "title": "Thought Leadership",
+          "description": "مباحث و تمرین‌های مرتبط با «Thought Leadership».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "building-a-personal-brand",
+      "title": "Building a Personal Brand",
+      "description": "مباحث و تمرین‌های مرتبط با «Building a Personal Brand».",
+      "order": 27,
+      "children": [
+        {
+          "id": "building-a-personal-brand-item",
+          "title": "Building a Personal Brand",
+          "description": "مباحث و تمرین‌های مرتبط با «Building a Personal Brand».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "A New Approach to Building Your Personal Brand",
+          "type": "article",
+          "url": "https://hbr.org/2023/05/a-new-approach-to-building-your-personal-brand",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "5 Steps to Building a Personal Brand You Feel Good About",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ozMCb0wOnMU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking-strategies",
+      "title": "Networking Strategies",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking Strategies».",
+      "order": 28,
+      "children": [
+        {
+          "id": "open-source",
+          "title": "Open-Source",
+          "description": "مباحث و تمرین‌های مرتبط با «Open-Source».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "continuous-learning",
+      "title": "Continuous Learning",
+      "description": "مباحث و تمرین‌های مرتبط با «Continuous Learning».",
+      "order": 29,
+      "children": [
+        {
+          "id": "meetups",
+          "title": "Meetups",
+          "description": "مباحث و تمرین‌های مرتبط با «Meetups».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "online-communities",
+          "title": "Online Communities",
+          "description": "مباحث و تمرین‌های مرتبط با «Online Communities».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "open-source-2",
+          "title": "Open-Source",
+          "description": "مباحث و تمرین‌های مرتبط با «Open-Source».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

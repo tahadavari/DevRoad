@@ -1,0 +1,189 @@
+{
+  "slug": "prompt-engineering",
+  "title": "Prompt Engineering",
+  "description": "Step by step guide to learning Prompt Engineering",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "llms-and-how-they-work",
+          "title": "LLMs and how they work?",
+          "description": "مباحث و تمرین‌های مرتبط با «LLMs and how they work?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How Large Language Models Work",
+              "type": "video",
+              "url": "https://youtu.be/5sLYAQS9sWQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-a-prompt",
+          "title": "What is a Prompt?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is a Prompt?».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-prompt-engineering",
+          "title": "What is Prompt Engineering?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Prompt Engineering?».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models",
+              "type": "video",
+              "url": "https://youtu.be/zYGDpG-pTho?si=yov4dDrcsHBAkey-&t=522",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "sampling-parameters",
+      "title": "Sampling Parameters",
+      "description": "مباحث و تمرین‌های مرتبط با «Sampling Parameters».",
+      "order": 2,
+      "children": [
+        {
+          "id": "sampling-parameters-item",
+          "title": "Sampling Parameters",
+          "description": "مباحث و تمرین‌های مرتبط با «Sampling Parameters».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "output-control",
+      "title": "Output Control",
+      "description": "مباحث و تمرین‌های مرتبط با «Output Control».",
+      "order": 3,
+      "children": [
+        {
+          "id": "output-control-item",
+          "title": "Output Control",
+          "description": "مباحث و تمرین‌های مرتبط با «Output Control».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "repetition-penalties",
+      "title": "Repetition Penalties",
+      "description": "مباحث و تمرین‌های مرتبط با «Repetition Penalties».",
+      "order": 4,
+      "children": [
+        {
+          "id": "repetition-penalties-item",
+          "title": "Repetition Penalties",
+          "description": "مباحث و تمرین‌های مرتبط با «Repetition Penalties».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "structured-outputs",
+      "title": "Structured Outputs",
+      "description": "مباحث و تمرین‌های مرتبط با «Structured Outputs».",
+      "order": 5,
+      "children": [
+        {
+          "id": "structured-outputs-item",
+          "title": "Structured Outputs",
+          "description": "مباحث و تمرین‌های مرتبط با «Structured Outputs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Generating Structured Outputs from LLMs",
+          "type": "article",
+          "url": "https://towardsdatascience.com/generating-structured-outputs-from-llms/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "automatic-prompt-engineering",
+      "title": "Automatic Prompt Engineering",
+      "description": "مباحث و تمرین‌های مرتبط با «Automatic Prompt Engineering».",
+      "order": 6,
+      "children": [
+        {
+          "id": "automatic-prompt-engineering-item",
+          "title": "Automatic Prompt Engineering",
+          "description": "مباحث و تمرین‌های مرتبط با «Automatic Prompt Engineering».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "ai-red-teaming",
+      "title": "AI Red Teaming",
+      "description": "مباحث و تمرین‌های مرتبط با «AI Red Teaming».",
+      "order": 7,
+      "children": [
+        {
+          "id": "ai-red-teaming-item",
+          "title": "AI Red Teaming",
+          "description": "مباحث و تمرین‌های مرتبط با «AI Red Teaming».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

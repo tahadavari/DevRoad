@@ -1,0 +1,1423 @@
+{
+  "slug": "react-native",
+  "title": "React Native",
+  "description": "Step by step guide to becoming a React Native developer in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "why-use-react-native",
+          "title": "Why use React Native?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why use React Native?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Why You Should Choose React Native?",
+              "type": "article",
+              "url": "https://www.geeksforgeeks.org/why-you-should-choose-react-native/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Native: What is it? and, Why is it used?",
+              "type": "article",
+              "url": "https://medium.com/@thinkwik/react-native-what-is-it-and-why-is-it-used-b132c3581df",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-react-native",
+          "title": "What is React Native?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is React Native?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Getting Started with React Native",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/getting-started",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "react-native-alternatives",
+          "title": "React Native Alternatives",
+          "description": "مباحث و تمرین‌های مرتبط با «React Native Alternatives».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Flutter",
+              "type": "article",
+              "url": "https://flutter.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ionic",
+              "type": "article",
+              "url": "https://ionicframework.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Xamarin",
+              "type": "article",
+              "url": "https://dotnet.microsoft.com/apps/xamarin",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about React",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/react?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "React Native",
+          "type": "article",
+          "url": "https://reactnative.dev/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started with React Native",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/getting-started",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React Native Course for Beginners in 2025 | Build a Full Stack React Native App",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=f8Z9JyB2EIE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "learn-the-pre-requisites",
+      "title": "Learn the Pre-requisites",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn the Pre-requisites».",
+      "order": 2,
+      "children": [
+        {
+          "id": "css-basics",
+          "title": "CSS Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «CSS Basics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "CSS - W3.org",
+              "type": "article",
+              "url": "https://www.w3.org/Style/CSS/Overview.en.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSS - MDN",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about CSS",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/css?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "javascript-basics",
+          "title": "JavaScript Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «JavaScript Basics».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Visit Dedicated JavaScript Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated JavaScript Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/javascript",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visit Dedicated React Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/react",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "React Native Basics",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/getting-started",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "environment-setup",
+      "title": "Environment Setup",
+      "description": "مباحث و تمرین‌های مرتبط با «Environment Setup».",
+      "order": 3,
+      "children": [
+        {
+          "id": "metro-bundler",
+          "title": "Metro Bundler",
+          "description": "مباحث و تمرین‌های مرتبط با «Metro Bundler».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Metro Bundler",
+              "type": "article",
+              "url": "https://facebook.github.io/metro/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "react-native-cli",
+          "title": "React Native CLI",
+          "description": "مباحث و تمرین‌های مرتبط با «React Native CLI».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "React Native CLI",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/environment-setup?guide=native",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "expo",
+          "title": "Expo",
+          "description": "مباحث و تمرین‌های مرتبط با «Expo».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Expo Documentation",
+              "type": "article",
+              "url": "https://docs.expo.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "React Native CLI",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/environment-setup?guide=native",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Expo CLI Quickstart",
+          "type": "article",
+          "url": "https://docs.expo.dev/get-started/create-a-project",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "development-workflow",
+      "title": "Development Workflow",
+      "description": "مباحث و تمرین‌های مرتبط با «Development Workflow».",
+      "order": 4,
+      "children": [
+        {
+          "id": "running-on-device",
+          "title": "Running on Device",
+          "description": "مباحث و تمرین‌های مرتبط با «Running on Device».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Running on Device",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/running-on-device",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Running on Device",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/running-on-device",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Continuous Integration and Deployment for React Native Apps",
+          "type": "article",
+          "url": "https://dev.to/medaimane/continuous-integration-and-deployment-for-react-native-apps-streamlining-development-workflow-4i04",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "core-components",
+      "title": "Core Components",
+      "description": "مباحث و تمرین‌های مرتبط با «Core Components».",
+      "order": 5,
+      "children": [
+        {
+          "id": "imagebackground",
+          "title": "ImageBackground",
+          "description": "مباحث و تمرین‌های مرتبط با «ImageBackground».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Image Background",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/imagebackground",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "button",
+          "title": "Button",
+          "description": "مباحث و تمرین‌های مرتبط با «Button».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Button",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/button",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "text",
+          "title": "Text",
+          "description": "مباحث و تمرین‌های مرتبط با «Text».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Text",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/text",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "activityindicator",
+          "title": "ActivityIndicator",
+          "description": "مباحث و تمرین‌های مرتبط با «ActivityIndicator».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Activity Indicator",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/activityindicator",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "modal",
+          "title": "Modal",
+          "description": "مباحث و تمرین‌های مرتبط با «Modal».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Modal",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/modal",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "listings",
+          "title": "Listings",
+          "description": "مباحث و تمرین‌های مرتبط با «Listings».",
+          "order": 6,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Core Components and APIs",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/components-and-apis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Core Components and Native Components",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/intro-react-native-components",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "writing-platform-specific-code",
+      "title": "Writing Platform Specific Code",
+      "description": "مباحث و تمرین‌های مرتبط با «Writing Platform Specific Code».",
+      "order": 6,
+      "children": [
+        {
+          "id": "writing-platform-specific-code-item",
+          "title": "Writing Platform Specific Code",
+          "description": "مباحث و تمرین‌های مرتبط با «Writing Platform Specific Code».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Platform-Specific Code",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/platform-specific-code",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "App Extensions",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/app-extensions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "styling",
+      "title": "Styling",
+      "description": "مباحث و تمرین‌های مرتبط با «Styling».",
+      "order": 7,
+      "children": [
+        {
+          "id": "stylesheets",
+          "title": "Stylesheets",
+          "description": "مباحث و تمرین‌های مرتبط با «Stylesheets».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Stylesheets",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/stylesheet",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Styling",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/style",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking",
+      "title": "Networking",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+      "order": 8,
+      "children": [
+        {
+          "id": "networking-item",
+          "title": "Networking",
+          "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Networking",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/network",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Fetch API",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Axios",
+          "type": "article",
+          "url": "https://axios-http.com/docs/intro",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Managing network connection status in React Native",
+          "type": "article",
+          "url": "https://blog.logrocket.com/managing-network-connection-status-in-react-native/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "push-notifications",
+      "title": "Push Notifications",
+      "description": "مباحث و تمرین‌های مرتبط با «Push Notifications».",
+      "order": 9,
+      "children": [
+        {
+          "id": "push-notifications-item",
+          "title": "Push Notifications",
+          "description": "مباحث و تمرین‌های مرتبط با «Push Notifications».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "PushNotificationIOS",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/pushnotificationios",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Expo Notifications",
+          "type": "article",
+          "url": "https://docs.expo.dev/versions/latest/sdk/notifications/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Expo push notifications setup",
+          "type": "article",
+          "url": "https://docs.expo.dev/push-notifications/push-notifications-setup/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Expo Notifications with EAS | Complete Guide",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=BCCjGtKtBjE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "interactions",
+      "title": "Interactions",
+      "description": "مباحث و تمرین‌های مرتبط با «Interactions».",
+      "order": 10,
+      "children": [
+        {
+          "id": "scrolling-swiping",
+          "title": "Scrolling & Swiping",
+          "description": "مباحث و تمرین‌های مرتبط با «Scrolling & Swiping».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Handling Touches",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/handling-touches",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using a ScrollView",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/using-a-scrollview",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Native Gesture Handler: Swipe, long-press, and more",
+              "type": "article",
+              "url": "https://blog.logrocket.com/react-native-gesture-handler-tutorial-examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "screen-navigation",
+          "title": "Screen Navigation",
+          "description": "مباحث و تمرین‌های مرتبط با «Screen Navigation».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "React Navigation",
+              "type": "article",
+              "url": "https://reactnavigation.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "gesture-handling",
+          "title": "Gesture Handling",
+          "description": "مباحث و تمرین‌های مرتبط با «Gesture Handling».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Animations",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/animations",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "LayoutAnimations",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/layoutanimation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Animated",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/animated",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "animations",
+          "title": "Animations",
+          "description": "مباحث و تمرین‌های مرتبط با «Animations».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Animations",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/animations",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "LayoutAnimations",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/layoutanimation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Animated",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/animated",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "touchables",
+          "title": "Touchables",
+          "description": "مباحث و تمرین‌های مرتبط با «Touchables».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Handling Touches",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/handling-touches",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TouchableOpacity",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/touchableopacity",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Animations",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/animations",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "LayoutAnimations",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/layoutanimation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deeplinking",
+      "title": "DeepLinking",
+      "description": "مباحث و تمرین‌های مرتبط با «DeepLinking».",
+      "order": 11,
+      "children": [
+        {
+          "id": "deeplinking-item",
+          "title": "DeepLinking",
+          "description": "مباحث و تمرین‌های مرتبط با «DeepLinking».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding deep linking in React Native",
+          "type": "article",
+          "url": "https://blog.logrocket.com/understanding-deep-linking-in-react-native/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Deep Linking in React Native: Navigating to Specific App Screens",
+          "type": "article",
+          "url": "https://clouddevs.com/react-native/deep-linking/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Complete Guide to Deep Linking with Custom domain in React Native",
+          "type": "article",
+          "url": "https://dev.to/amitkumar13/a-complete-guide-to-deep-linking-with-custom-domain-in-react-native-bj3",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Security».",
+      "order": 12,
+      "children": [
+        {
+          "id": "storage",
+          "title": "Storage",
+          "description": "مباحث و تمرین‌های مرتبط با «Storage».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "AsyncStorage",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/asyncstorage",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Best Data Storage Option for React Native Apps",
+              "type": "article",
+              "url": "https://dev.to/ammarahmed/best-data-storage-option-for-react-native-apps-42k",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "networking-2",
+          "title": "Networking",
+          "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Networking",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/network",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Efficient Network Communication",
+              "type": "article",
+              "url": "https://medium.com/@Blochware/efficient-network-communication-best-practices-for-handling-api-calls-in-react-native-b5bebbc8ba71",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "authentication",
+          "title": "Authentication",
+          "description": "مباحث و تمرین‌های مرتبط با «Authentication».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Authentication and Deep Linking",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/security#authentication-and-deep-linking",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Authentication",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/authentication?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "permissions",
+          "title": "Permissions",
+          "description": "مباحث و تمرین‌های مرتبط با «Permissions».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "PermissionsAndroid",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/permissionsandroid",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "react-native-permissions",
+              "type": "article",
+              "url": "https://github.com/zoontek/react-native-permissions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Managing app permissions in React Native",
+              "type": "article",
+              "url": "https://blog.logrocket.com/react-native-permissions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Permission handling in React Native",
+              "type": "article",
+              "url": "https://medium.com/@uddishverma22/mastering-permission-handling-in-react-native-2076862c7e7b",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Native Permissions Tutorial (react-native-permissions)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ZQzcVY3CoFQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Native Permissions: A Guide to Implementation",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cUWGLik3nYQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Security",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/security",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Secure Authentication and Authorization in React Native",
+          "type": "article",
+          "url": "https://medium.com/@christopherobocha/secure-authentication-and-authorisation-in-react-native-a260f1787a89",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "storage-2",
+      "title": "Storage",
+      "description": "مباحث و تمرین‌های مرتبط با «Storage».",
+      "order": 13,
+      "children": [
+        {
+          "id": "storage-2-item",
+          "title": "Storage",
+          "description": "مباحث و تمرین‌های مرتبط با «Storage».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Best Data Storage Option for React Native Apps",
+          "type": "article",
+          "url": "https://dev.to/ammarahmed/best-data-storage-option-for-react-native-apps-42k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 14,
+      "children": [
+        {
+          "id": "testing-item",
+          "title": "Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "performance",
+      "title": "Performance",
+      "description": "مباحث و تمرین‌های مرتبط با «Performance».",
+      "order": 15,
+      "children": [
+        {
+          "id": "speeding-up-builds",
+          "title": "Speeding up Builds",
+          "description": "مباحث و تمرین‌های مرتبط با «Speeding up Builds».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Speeding up your Build phase",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/build-speed",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "optimizing-flatlist-config",
+          "title": "Optimizing Flatlist Config",
+          "description": "مباحث و تمرین‌های مرتبط با «Optimizing Flatlist Config».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Optimizing Flatlist Configuration",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/optimizing-flatlist-configuration",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "common-problem-sources",
+          "title": "Common Problem Sources",
+          "description": "مباحث و تمرین‌های مرتبط با «Common Problem Sources».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Performance Problems",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/performance#common-sources-of-performance-problems",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "understand-frame-rates",
+          "title": "Understand Frame Rates",
+          "description": "مباحث و تمرین‌های مرتبط با «Understand Frame Rates».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "ram-bundles-inline-requires",
+          "title": "RAM Bundles + Inline Requires",
+          "description": "مباحث و تمرین‌های مرتبط با «RAM Bundles + Inline Requires».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "RAM Bundles and Inline Requires",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/ram-bundles-inline-requires",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "profiling",
+          "title": "Profiling",
+          "description": "مباحث و تمرین‌های مرتبط با «Profiling».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Profiling React Native",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/profiling",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Performance",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/performance",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "using-native-modules",
+      "title": "Using Native Modules",
+      "description": "مباحث و تمرین‌های مرتبط با «Using Native Modules».",
+      "order": 16,
+      "children": [
+        {
+          "id": "using-native-modules-item",
+          "title": "Using Native Modules",
+          "description": "مباحث و تمرین‌های مرتبط با «Using Native Modules».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Native Modules Introduction",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/native-platform",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "publishing-apps",
+      "title": "Publishing Apps",
+      "description": "مباحث و تمرین‌های مرتبط با «Publishing Apps».",
+      "order": 17,
+      "children": [
+        {
+          "id": "apple-app-store",
+          "title": "Apple App store",
+          "description": "مباحث و تمرین‌های مرتبط با «Apple App store».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Publishing to Apple App Store",
+              "type": "article",
+              "url": "https://reactnative.dev/docs/publishing-to-app-store",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about App Store",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/app-store?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Publishing to Apple App Store",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/publishing-to-app-store",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Publishing to Google Play Store",
+          "type": "article",
+          "url": "https://reactnative.dev/docs/signed-apk-android",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

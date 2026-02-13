@@ -1,0 +1,1967 @@
+{
+  "slug": "flutter",
+  "title": "Flutter",
+  "description": "Step by step guide to becoming a Flutter developer in 2026",
+  "steps": [
+    {
+      "id": "basics-of-dart",
+      "title": "Basics of Dart",
+      "description": "مباحث و تمرین‌های مرتبط با «Basics of Dart».",
+      "order": 1,
+      "children": [
+        {
+          "id": "dart-pad",
+          "title": "Dart Pad",
+          "description": "مباحث و تمرین‌های مرتبط با «Dart Pad».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "DartPad",
+              "type": "article",
+              "url": "https://dart.dev/tools/dartpad",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DartPad in Tutorials",
+              "type": "article",
+              "url": "https://dart.dev/resources/dartpad-best-practices",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Dart",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/dart?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "control-flow-statements",
+          "title": "Control Flow Statements",
+          "description": "مباحث و تمرین‌های مرتبط با «Control Flow Statements».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Branches",
+              "type": "article",
+              "url": "https://dart.dev/language/branches",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Loops",
+              "type": "article",
+              "url": "https://dart.dev/language/loops",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "functions",
+          "title": "Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Functions».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Functions",
+              "type": "article",
+              "url": "https://dart.dev/guides/language/language-tour#functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "built-in-types",
+          "title": "Built-in Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Built-in Types».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Built-in types",
+              "type": "article",
+              "url": "https://dart.dev/language/built-in-types",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Dart and Flutter Complete Guide — Mastering “Built-In Types”",
+              "type": "article",
+              "url": "https://medium.com/flutter-line/dart-and-flutter-mastering-built-in-types-b080ac72abfd",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "variables",
+          "title": "Variables",
+          "description": "مباحث و تمرین‌های مرتبط با «Variables».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Variables",
+              "type": "article",
+              "url": "https://dart.dev/guides/language/language-tour#variables",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Dart Overview",
+          "type": "article",
+          "url": "https://dart.dev/overview",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Dart?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=sOSd6G1qXoY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dart in 100 Seconds",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NrO0CJCbYLA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Dart",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/dart?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "development-environment",
+      "title": "Development Environment",
+      "description": "مباحث و تمرین‌های مرتبط با «Development Environment».",
+      "order": 2,
+      "children": [
+        {
+          "id": "development-environment-item",
+          "title": "Development Environment",
+          "description": "مباحث و تمرین‌های مرتبط با «Development Environment».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Get Started with Flutter",
+          "type": "article",
+          "url": "https://docs.flutter.dev/get-started/install",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Installing Dart SDK",
+          "type": "article",
+          "url": "https://dart.dev/get-dart",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "widgets",
+      "title": "Widgets",
+      "description": "مباحث و تمرین‌های مرتبط با «Widgets».",
+      "order": 3,
+      "children": [
+        {
+          "id": "responsive-widgets",
+          "title": "Responsive Widgets",
+          "description": "مباحث و تمرین‌های مرتبط با «Responsive Widgets».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Responsive Widget",
+              "type": "article",
+              "url": "https://docs.flutter.dev/ui/layout/adaptive-responsive",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "inherited-widgets",
+          "title": "Inherited Widgets",
+          "description": "مباحث و تمرین‌های مرتبط با «Inherited Widgets».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Inherited Widgets",
+              "type": "article",
+              "url": "https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "stateless-widgets",
+          "title": "Stateless Widgets",
+          "description": "مباحث و تمرین‌های مرتبط با «Stateless Widgets».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "StatelessWidget Class",
+              "type": "article",
+              "url": "https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Create Stateless Widgets",
+              "type": "article",
+              "url": "https://medium.com/flutter/how-to-create-stateless-widgets-6f33931d859",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "stateful-widgets",
+          "title": "Stateful Widgets",
+          "description": "مباحث و تمرین‌های مرتبط با «Stateful Widgets».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "StatefulWidget",
+              "type": "article",
+              "url": "https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Flutter Tutorial - Stateful Widgets",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=p5dkB3Mrxdo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "styled-widgets",
+          "title": "Styled Widgets",
+          "description": "مباحث و تمرین‌های مرتبط با «Styled Widgets».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Use themes to share colors and font styles",
+              "type": "article",
+              "url": "https://docs.flutter.dev/cookbook/design/themes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Styling widgets",
+              "type": "article",
+              "url": "https://docs.flutter.dev/ui/widgets/styling",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Material theming",
+              "type": "article",
+              "url": "https://docs.flutter.dev/ui/design/material",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cupertino theming",
+              "type": "article",
+              "url": "https://docs.flutter.dev/ui/design/cupertino",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "styled_widget",
+              "type": "article",
+              "url": "https://pub.dev/packages/styled_widget",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Flutter",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/flutter?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Widgets",
+          "type": "article",
+          "url": "https://docs.flutter.dev/development/ui/widgets-intro",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Widget Catalog",
+          "type": "article",
+          "url": "https://docs.flutter.dev/development/ui/widgets",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Flutter Widgets Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=FU2Eeizo95o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "working-with-assets",
+      "title": "Working with Assets",
+      "description": "مباحث و تمرین‌های مرتبط با «Working with Assets».",
+      "order": 4,
+      "children": [
+        {
+          "id": "working-with-assets-item",
+          "title": "Working with Assets",
+          "description": "مباحث و تمرین‌های مرتبط با «Working with Assets».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Adding Assets in Flutter",
+          "type": "article",
+          "url": "https://docs.flutter.dev/development/ui/assets-and-images",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Flutter Tutorial - Assets",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Hxh6nNHSUjo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "version-control-systems",
+      "title": "Version Control Systems",
+      "description": "مباحث و تمرین‌های مرتبط با «Version Control Systems».",
+      "order": 5,
+      "children": [
+        {
+          "id": "version-control-systems-item",
+          "title": "Version Control Systems",
+          "description": "مباحث و تمرین‌های مرتبط با «Version Control Systems».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Version Control? - GitHub",
+          "type": "article",
+          "url": "https://github.com/resources/articles/software-development/what-is-version-control",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Version Control? - Atlassian",
+          "type": "article",
+          "url": "https://www.atlassian.com/git/tutorials/what-is-version-control",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Version Control System Introduction",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=zbKdDsNNOhg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git & GitHub Crash Course For Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Git in 20 Minutes",
+          "type": "video",
+          "url": "https://youtu.be/Y9XZQO1n_7c?t=21",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "repo-hosting-services",
+      "title": "Repo Hosting Services",
+      "description": "مباحث و تمرین‌های مرتبط با «Repo Hosting Services».",
+      "order": 6,
+      "children": [
+        {
+          "id": "github",
+          "title": "GitHub",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit Dedicated GitHub Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/git-github",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GitHub",
+              "type": "article",
+              "url": "https://github.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GitHub Documentation",
+              "type": "article",
+              "url": "https://docs.github.com/en/get-started/quickstart",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is GitHub?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=w3jLJU7DT5E",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Git and GitHub for Beginners - Crash Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about GitHub",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/github?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GitHub",
+          "type": "article",
+          "url": "https://github.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "GitLab",
+          "type": "article",
+          "url": "https://gitlab.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Azure",
+          "type": "article",
+          "url": "https://azure.microsoft.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Deploy a Flutter Web App?",
+          "type": "article",
+          "url": "https://medium.com/solute-labs/flutter-for-web-how-to-deploy-a-flutter-web-app-c7d9db7ced2e",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Deploying - Flutter",
+          "type": "article",
+          "url": "https://docs.flutter.dev/deployment/web#deploying-to-the-web",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Host Flutter Website On GitHub Pages",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=z-yOqoQ2q6s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "design-principles",
+      "title": "Design Principles",
+      "description": "مباحث و تمرین‌های مرتبط با «Design Principles».",
+      "order": 7,
+      "children": [
+        {
+          "id": "dependency-injection",
+          "title": "Dependency Injection",
+          "description": "مباحث و تمرین‌های مرتبط با «Dependency Injection».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Dependency Injection",
+              "type": "article",
+              "url": "https://docs.flutter.dev/app-architecture/case-study/dependency-injection",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Dependency Injection In Flutter",
+              "type": "article",
+              "url": "https://medium.com/@rk0936626/dependency-injection-in-flutter-3e489ba1b988",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Flutter Dependency Injection For Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=vBT-FhgMaWM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Dependency Injection",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/dependency-injection?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "oop",
+          "title": "OOP",
+          "description": "مباحث و تمرین‌های مرتبط با «OOP».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Discover Object Oriented Programming",
+              "type": "article",
+              "url": "https://blog.hubspot.com/website/object-oriented-programming",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Software Development Tutorial - What is object-oriented languages?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?app=desktop&v=SS-9y0H3Si8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Fundamental Concepts of Object Oriented Programming",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=m_MQYyJpIjg&ab_channel=ComputerScience",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "solid-principles",
+          "title": "SOLID Principles",
+          "description": "مباحث و تمرین‌های مرتبط با «SOLID Principles».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "SOLID: The First 5 Principles of Object Oriented Design",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Overview of S.O.L.I.D Principles In Dart",
+              "type": "article",
+              "url": "https://medium.flutterdevs.com/s-o-l-i-d-principles-in-dart-e6c0c8d1f8f1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The S.O.L.I.D Principles in Pictures",
+              "type": "article",
+              "url": "https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "S.O.L.I.D Principles",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fvNTJang7l4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about General Programming",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/general-programming?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "design-patterns",
+          "title": "Design Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Design Patterns».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Flutter - Design",
+              "type": "article",
+              "url": "https://dart.dev/guides/language/effective-dart/design",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cookbook Designs in Flutter",
+              "type": "article",
+              "url": "https://docs.flutter.dev/cookbook/design",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Design Patterns Explained in 10 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tv-_1er1mWI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Design Patterns",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/design-patterns?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Design - Principles",
+          "type": "article",
+          "url": "https://docs.flutter.dev/cookbook/design",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "package-managers",
+      "title": "Package Managers",
+      "description": "مباحث و تمرین‌های مرتبط با «Package Managers».",
+      "order": 8,
+      "children": [
+        {
+          "id": "package-managers-item",
+          "title": "Package Managers",
+          "description": "مباحث و تمرین‌های مرتبط با «Package Managers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Packages and Plugins",
+          "type": "article",
+          "url": "https://docs.flutter.dev/development/packages-and-plugins",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dart Package Manager (pub.dev) in Flutter",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=F1VRO0_MKLs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "working-with-apis",
+      "title": "Working with APIs",
+      "description": "مباحث و تمرین‌های مرتبط با «Working with APIs».",
+      "order": 9,
+      "children": [
+        {
+          "id": "json-serialize-deserialize",
+          "title": "JSON Serialize / Deserialize",
+          "description": "مباحث و تمرین‌های مرتبط با «JSON Serialize / Deserialize».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "JSON and serialization",
+              "type": "article",
+              "url": "https://docs.flutter.dev/development/data-and-backend/json",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using JSON",
+              "type": "article",
+              "url": "https://dart.dev/guides/json",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Using Google APIs",
+          "type": "article",
+          "url": "https://dart.dev/guides/google-apis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to work with APIs in Flutter?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=uVo7HDWDUEQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "storage",
+      "title": "Storage",
+      "description": "مباحث و تمرین‌های مرتبط با «Storage».",
+      "order": 10,
+      "children": [
+        {
+          "id": "sqlite",
+          "title": "SQLite",
+          "description": "مباحث و تمرین‌های مرتبط با «SQLite».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "sqflite - pub.dev package",
+              "type": "article",
+              "url": "https://pub.dev/packages/sqflite",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "drift - pub.dev package",
+              "type": "article",
+              "url": "https://pub.dev/packages/drift",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about SQLite",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/sqlite?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "shared-preferences",
+          "title": "Shared Preferences",
+          "description": "مباحث و تمرین‌های مرتبط با «Shared Preferences».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "How do I Access Shared Preferences?",
+              "type": "article",
+              "url": "https://docs.flutter.dev/get-started/flutter-for/android-devs#how-do-i-access-shared-preferences",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "shared_preferences - pub.dev package",
+              "type": "article",
+              "url": "https://pub.dev/packages/shared_preferences",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "firebase",
+          "title": "Firebase",
+          "description": "مباحث و تمرین‌های مرتبط با «Firebase».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloud Storage in Flutter",
+          "type": "article",
+          "url": "https://firebase.flutter.dev/docs/storage/overview/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Storage - Flutter Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=UpKrhZ0Hppks",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Storage",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/storage?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "advanced-dart",
+      "title": "Advanced Dart",
+      "description": "مباحث و تمرین‌های مرتبط با «Advanced Dart».",
+      "order": 11,
+      "children": [
+        {
+          "id": "functional-programming",
+          "title": "Functional Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Functional Programming».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Functional Programming - Flutter",
+              "type": "article",
+              "url": "https://docs.flutter.dev/resources/faq",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Brief Overview of Functional Programming",
+              "type": "article",
+              "url": "https://buildflutter.com/functional-programming-with-flutter/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Functional Programming in Dart & Flutter",
+              "type": "article",
+              "url": "https://yogi-6.medium.com/list/functional-programming-in-dart-flutter-2f3ac9d7fa39",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Functional Programming",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/functional-programming?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "provider",
+          "title": "Provider",
+          "description": "مباحث و تمرین‌های مرتبط با «Provider».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Provider",
+              "type": "article",
+              "url": "https://pub.dev/packages/provider",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Simple App State Management",
+              "type": "article",
+              "url": "https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "opacity",
+          "title": "Opacity",
+          "description": "مباحث و تمرین‌های مرتبط با «Opacity».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Fade a Widget in and out",
+              "type": "article",
+              "url": "https://docs.flutter.dev/cookbook/animation/opacity-animation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AnimatedOpacity widget",
+              "type": "article",
+              "url": "https://docs.flutter.dev/codelabs/implicit-animations#animate-opacity-with-animatedopacity-widgets",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Tutorials - Dart",
+          "type": "article",
+          "url": "https://dart.dev/tutorials",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Advanced Dart",
+          "type": "article",
+          "url": "https://techdynasty.medium.com/advanced-dart-in-flutter-elevating-your-development-skills-1c8ec309266f",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Dart",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/dart?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "state-management",
+      "title": "State Management",
+      "description": "مباحث و تمرین‌های مرتبط با «State Management».",
+      "order": 12,
+      "children": [
+        {
+          "id": "valuenotifier",
+          "title": "ValueNotifier",
+          "description": "مباحث و تمرین‌های مرتبط با «ValueNotifier».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "ValueNotifier Class - Flutter",
+              "type": "article",
+              "url": "https://api.flutter.dev/flutter/foundation/ValueNotifier-class.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ValuerNotifier & ValueListenableBuilder",
+              "type": "article",
+              "url": "https://medium.com/@avnishnishad/flutter-communication-between-widgets-using-valuenotifier-and-valuelistenablebuilder-b51ef627a58b",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "riverpod",
+          "title": "Riverpod",
+          "description": "مباحث و تمرین‌های مرتبط با «Riverpod».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "riverpod",
+              "type": "article",
+              "url": "https://pub.dev/packages/riverpod",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Riverpod in Flutter",
+              "type": "article",
+              "url": "https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#riverpod",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "riverpod Documentation",
+              "type": "article",
+              "url": "https://riverpod.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Documentation v2 is in progress",
+              "type": "article",
+              "url": "https://docs-v2.riverpod.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Flutter Riverpod 2.0: The Ultimate Guide",
+              "type": "article",
+              "url": "https://codewithandrea.com/articles/flutter-state-management-riverpod/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "guidelines-protocols",
+          "title": "Guidelines & Protocols",
+          "description": "مباحث و تمرین‌های مرتبط با «Guidelines & Protocols».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Flutter - Protocols",
+              "type": "article",
+              "url": "https://api.flutter.dev/objcdoc/Protocols.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "State Management in Flutter",
+          "type": "article",
+          "url": "https://docs.flutter.dev/development/data-and-backend/state-mgmt",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "reactive-programming",
+      "title": "Reactive Programming",
+      "description": "مباحث و تمرین‌های مرتبط با «Reactive Programming».",
+      "order": 13,
+      "children": [
+        {
+          "id": "reactive-programming-item",
+          "title": "Reactive Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Reactive Programming».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Get Started with Reactive Programming",
+          "type": "article",
+          "url": "https://www.didierboelens.com/2018/12/reactive-programming-streams-bloc-practical-use-cases/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Reactive Programming in Flutter",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=x4FKXw4Uvls",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Reactive Programming",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/reactive-programming?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "animations",
+      "title": "Animations",
+      "description": "مباحث و تمرین‌های مرتبط با «Animations».",
+      "order": 14,
+      "children": [
+        {
+          "id": "animated-widget",
+          "title": "Animated Widget",
+          "description": "مباحث و تمرین‌های مرتبط با «Animated Widget».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Simplifying with Animated­Widget",
+              "type": "article",
+              "url": "https://docs.flutter.dev/development/ui/animations/tutorial#simplifying-with-animatedwidgets",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AnimatedWidget Class",
+              "type": "article",
+              "url": "https://api.flutter.dev/flutter/widgets/AnimatedWidget-class.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "animated-builder",
+          "title": "Animated Builder",
+          "description": "مباحث و تمرین‌های مرتبط با «Animated Builder».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "AnimatedBuilder Class",
+              "type": "article",
+              "url": "https://api.flutter.dev/flutter/widgets/AnimatedBuilder-class.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Refactoring with AnimatedBuilders",
+              "type": "article",
+              "url": "https://docs.flutter.dev/development/ui/animations/tutorial#refactoring-with-animatedbuilder",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "curved-animation",
+          "title": "Curved Animation",
+          "description": "مباحث و تمرین‌های مرتبط با «Curved Animation».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Curved­Animation",
+              "type": "article",
+              "url": "https://docs.flutter.dev/development/ui/animations/tutorial",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CurvedAnimation Class",
+              "type": "article",
+              "url": "https://api.flutter.dev/flutter/animation/CurvedAnimation-class.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "guidelines-protocols-2",
+          "title": "Guidelines & Protocols",
+          "description": "مباحث و تمرین‌های مرتبط با «Guidelines & Protocols».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Flutter - Protocols",
+              "type": "article",
+              "url": "https://api.flutter.dev/objcdoc/Protocols.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Animations",
+          "type": "article",
+          "url": "https://docs.flutter.dev/development/ui/animations",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Animation library",
+          "type": "article",
+          "url": "https://api.flutter.dev/flutter/animation/animation-library.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 15,
+      "children": [
+        {
+          "id": "integration-testing",
+          "title": "Integration Testing",
+          "description": "مباحث و تمرین‌های مرتبط با «Integration Testing».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Introduction to Integration Testing",
+              "type": "article",
+              "url": "https://docs.flutter.dev/cookbook/testing/integration/introduction",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Integration Tests",
+              "type": "article",
+              "url": "https://docs.flutter.dev/testing#integration-tests",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Testing",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Dart Testing",
+          "type": "article",
+          "url": "https://dart.dev/guides/testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Testing Flutter Apps",
+          "type": "article",
+          "url": "https://docs.flutter.dev/testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Testing",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/testing?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dev-tools",
+      "title": "Dev Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Dev Tools».",
+      "order": 16,
+      "children": [
+        {
+          "id": "flutter-inspector",
+          "title": "Flutter Inspector",
+          "description": "مباحث و تمرین‌های مرتبط با «Flutter Inspector».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Using the Flutter Inspector",
+              "type": "article",
+              "url": "https://docs.flutter.dev/development/tools/devtools/inspector",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use the Flutter Inspector",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=CcLfGJZS8ns",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Flutter",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/flutter?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Flutter - DevTools",
+          "type": "article",
+          "url": "https://docs.flutter.dev/development/tools/devtools/overview",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Dart DevTools",
+          "type": "article",
+          "url": "https://dart.dev/tools/dart-devtools",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Tools",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/tools?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "flutter-internals",
+      "title": "Flutter Internals",
+      "description": "مباحث و تمرین‌های مرتبط با «Flutter Internals».",
+      "order": 17,
+      "children": [
+        {
+          "id": "flutter-internals-item",
+          "title": "Flutter Internals",
+          "description": "مباحث و تمرین‌های مرتبط با «Flutter Internals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Flutter - Internals",
+          "type": "article",
+          "url": "https://www.didierboelens.com/2019/09/flutter-internals/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Overview of Flutter Internals",
+          "type": "article",
+          "url": "https://flutter.megathink.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Guide To Flutter Internals",
+          "type": "article",
+          "url": "https://medium.com/@subroto.2003/a-guide-to-flutter-internals-ce8d64d01c50",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Flutter and Dart | Widget & Flutter Internals",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=FBXMvOmiOLE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Flutter",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/flutter?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ci-cd",
+      "title": "CI / CD",
+      "description": "مباحث و تمرین‌های مرتبط با «CI / CD».",
+      "order": 18,
+      "children": [
+        {
+          "id": "ci-cd-item",
+          "title": "CI / CD",
+          "description": "مباحث و تمرین‌های مرتبط با «CI / CD».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "CI/CD - Flutter",
+          "type": "article",
+          "url": "https://docs.flutter.dev/deployment/cd",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about CI/CD",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/cicd?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "analytics",
+      "title": "Analytics",
+      "description": "مباحث و تمرین‌های مرتبط با «Analytics».",
+      "order": 19,
+      "children": [
+        {
+          "id": "firebase-analytics",
+          "title": "Firebase Analytics",
+          "description": "مباحث و تمرین‌های مرتبط با «Firebase Analytics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Flutter - Firebase",
+              "type": "article",
+              "url": "https://docs.flutter.dev/development/data-and-backend/firebase",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Add Firebase Analytics in Flutter",
+              "type": "article",
+              "url": "https://medium.datadriveninvestor.com/how-to-add-firebase-analytics-to-your-flutter-app-641fbda1d224?gi=ad489389a531",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Firebase",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/firebase?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Top Flutter Analytics",
+          "type": "article",
+          "url": "https://fluttergems.dev/analytics-consumer-insights/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Flutter Analytics using Firebase",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=31KpJXqCayo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deployment",
+      "title": "Deployment",
+      "description": "مباحث و تمرین‌های مرتبط با «Deployment».",
+      "order": 20,
+      "children": [
+        {
+          "id": "deployment-item",
+          "title": "Deployment",
+          "description": "مباحث و تمرین‌های مرتبط با «Deployment».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Web Deployment",
+          "type": "article",
+          "url": "https://dart.dev/web/deployment",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about CI/CD",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/cicd?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

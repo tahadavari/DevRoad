@@ -1,0 +1,1819 @@
+{
+  "slug": "nextjs",
+  "title": "Next.js",
+  "description": "Learn everything you need to master Next.js",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "javascript-basics",
+          "title": "JavaScript Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «JavaScript Basics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit Dedicated JavaScript Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/javascript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Modern JavaScript Tutorial",
+              "type": "article",
+              "url": "https://javascript.info/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "JavaScript Crash Course for Beginners",
+              "type": "video",
+              "url": "https://youtu.be/hdI2bqOjy3c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "spa-vs-ssr",
+          "title": "SPA vs SSR",
+          "description": "مباحث و تمرین‌های مرتبط با «SPA vs SSR».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "How to build single-page applications with Next.js",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/guides/single-page-applications",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Server-side Rendering (SSR)",
+              "type": "article",
+              "url": "https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439",
+              "type": "article",
+              "url": "https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-react",
+          "title": "Why React",
+          "description": "مباحث و تمرین‌های مرتبط با «Why React».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Visit Dedicated React Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/react",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Website",
+              "type": "article",
+              "url": "https://react.dev",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Full Stack React Developer Course",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Bvwq_S0n2pk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about React",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/react?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-frontend-frameworks",
+          "title": "Why Frontend Frameworks",
+          "description": "مباحث و تمرین‌های مرتبط با «Why Frontend Frameworks».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Web3 Frontend – Everything You Need to Learn About Building Dapp Frontends",
+              "type": "article",
+              "url": "https://moralis.io/web3-frontend-everything-you-need-to-learn-about-building-dapp-frontends/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is the difference between a framework and a library?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=D_MO9vIRBcA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Which JS Framework is best?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cuHDQhDhvPE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Frontend Development",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/frontend?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Next.js",
+          "type": "article",
+          "url": "https://nextjs.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js Docs",
+          "type": "article",
+          "url": "https://nextjs.org/docs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js Course",
+          "type": "article",
+          "url": "https://nextjs.org/learn",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js",
+          "type": "article",
+          "url": "https://github.com/vercel/next.js",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "react-frameworks",
+      "title": "React Frameworks",
+      "description": "مباحث و تمرین‌های مرتبط با «React Frameworks».",
+      "order": 2,
+      "children": [
+        {
+          "id": "react-frameworks-item",
+          "title": "React Frameworks",
+          "description": "مباحث و تمرین‌های مرتبط با «React Frameworks».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Comparing The Top React Frameworks",
+          "type": "article",
+          "url": "https://dev.to/surajondev/comparing-the-top-cra-alternatives-9cg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "create-next-app",
+      "title": "create-next-app",
+      "description": "مباحث و تمرین‌های مرتبط با «create-next-app».",
+      "order": 3,
+      "children": [
+        {
+          "id": "create-next-app-item",
+          "title": "create-next-app",
+          "description": "مباحث و تمرین‌های مرتبط با «create-next-app».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "create-next-app",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/api-reference/cli/create-next-app",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Create Next App | Create Next Js Project",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=o1cRvsrHbfo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "next-js-routing-basics",
+      "title": "Next.js Routing Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Next.js Routing Basics».",
+      "order": 4,
+      "children": [
+        {
+          "id": "next-js-routing-basics-item",
+          "title": "Next.js Routing Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Next.js Routing Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "https://nextjs.org/docs/pages/building-your-application/routing",
+          "type": "article",
+          "url": "https://nextjs.org/docs/pages/building-your-application/routing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Defining Routes",
+          "type": "article",
+          "url": "https://nextjs.org/docs/14/app/building-your-application/routing/defining-routes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Routing Explained For Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qivq_vDYFGk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "rendering-strategies",
+      "title": "Rendering Strategies",
+      "description": "مباحث و تمرین‌های مرتبط با «Rendering Strategies».",
+      "order": 5,
+      "children": [
+        {
+          "id": "rendering-strategies-item",
+          "title": "Rendering Strategies",
+          "description": "مباحث و تمرین‌های مرتبط با «Rendering Strategies».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Rendering Strategies",
+          "type": "article",
+          "url": "https://nextjs.org/learn/seo/rendering-strategies",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to build single-page applications with Next.js",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/guides/single-page-applications",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js Rendering Strategies: SSR, SSG, and ISR Compared",
+          "type": "article",
+          "url": "https://hybridheroes.de/blog/2023-05-31-next-js-rendering-strategies/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "types-of-routers",
+      "title": "Types of routers",
+      "description": "مباحث و تمرین‌های مرتبط با «Types of routers».",
+      "order": 6,
+      "children": [
+        {
+          "id": "types-of-routers-item",
+          "title": "Types of routers",
+          "description": "مباحث و تمرین‌های مرتبط با «Types of routers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Next.js Docs",
+          "type": "article",
+          "url": "https://nextjs.org/docs#app-router-and-pages-router",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js App vs. Pages Router - Which One is Better?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=EYDOXzpTRvw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "routing-terminology",
+      "title": "Routing Terminology",
+      "description": "مباحث و تمرین‌های مرتبط با «Routing Terminology».",
+      "order": 7,
+      "children": [
+        {
+          "id": "routing-terminology-item",
+          "title": "Routing Terminology",
+          "description": "مباحث و تمرین‌های مرتبط با «Routing Terminology».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Project structure and organization",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/project-structure",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Routing",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9602Yzvd7i",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Nested Routes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=H7JjKjkC33c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Dynamic Routes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=k9g6aVLH3p4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Nested Dynamic Routes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=edrJf0GKfAI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "rendering-pages",
+      "title": "Rendering Pages",
+      "description": "مباحث و تمرین‌های مرتبط با «Rendering Pages».",
+      "order": 8,
+      "children": [
+        {
+          "id": "rendering-pages-item",
+          "title": "Rendering Pages",
+          "description": "مباحث و تمرین‌های مرتبط با «Rendering Pages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Rendering Strategies",
+          "type": "article",
+          "url": "https://nextjs.org/learn/seo/rendering-strategies",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Partial Prerendering",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/partial-prerendering",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Rendering User Interfaces (UI)",
+          "type": "article",
+          "url": "https://nextjs.org/learn/react-foundations/rendering-ui",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "layouts-and-templates",
+      "title": "Layouts and Templates",
+      "description": "مباحث و تمرین‌های مرتبط با «Layouts and Templates».",
+      "order": 9,
+      "children": [
+        {
+          "id": "layouts-and-templates-item",
+          "title": "Layouts and Templates",
+          "description": "مباحث و تمرین‌های مرتبط با «Layouts and Templates».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Layouts for App Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/api-reference/file-conventions/layout#root-layouts",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Layouts for Pages Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/pages/building-your-application/routing/pages-and-layouts",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Templates for App Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/api-reference/file-conventions/template",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A guide to Next.js layouts and nested layouts",
+          "type": "article",
+          "url": "https://blog.logrocket.com/guide-next-js-layouts-nested-layouts/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Layouts",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NK-8a8EzWrU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Templates",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=yfww2kplO-k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "loading-and-streaming",
+      "title": "Loading and Streaming",
+      "description": "مباحث و تمرین‌های مرتبط با «Loading and Streaming».",
+      "order": 10,
+      "children": [
+        {
+          "id": "loading-and-streaming-item",
+          "title": "Loading and Streaming",
+          "description": "مباحث و تمرین‌های مرتبط با «Loading and Streaming».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Loading UI and Streaming",
+          "type": "article",
+          "url": "https://nextjs.org/docs/14/app/building-your-application/routing/loading-ui-and-streaming",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Instant Loading States",
+          "type": "article",
+          "url": "https://nextjs.org/docs/14/app/building-your-application/routing/loading-ui-and-streaming#instant-loading-states",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Suspense",
+          "type": "article",
+          "url": "https://react.dev/reference/react/Suspense",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Loading UI",
+          "type": "article",
+          "url": "https://www.youtube.com/watch?v=0OVg4ikUaz0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "error-states",
+      "title": "Error States",
+      "description": "مباحث و تمرین‌های مرتبط با «Error States».",
+      "order": 11,
+      "children": [
+        {
+          "id": "error-states-item",
+          "title": "Error States",
+          "description": "مباحث و تمرین‌های مرتبط با «Error States».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Error Handling",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/error-handling#handling-expected-errors",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Error Handling",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fWV5WPSbgdg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "routing-patterns",
+      "title": "Routing Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Routing Patterns».",
+      "order": 12,
+      "children": [
+        {
+          "id": "routing-patterns-item",
+          "title": "Routing Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Routing Patterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Advanced Routing Patterns",
+          "type": "article",
+          "url": "https://nextjs.org/docs/13/app/building-your-application/routing#advanced-routing-patterns",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-endpoints",
+      "title": "API Endpoints",
+      "description": "مباحث و تمرین‌های مرتبط با «API Endpoints».",
+      "order": 13,
+      "children": [
+        {
+          "id": "static-vs-dynamic",
+          "title": "Static vs Dynamic",
+          "description": "مباحث و تمرین‌های مرتبط با «Static vs Dynamic».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Route Handlers and Middleware",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/getting-started/route-handlers-and-middleware",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Dynamic API Routes for Pages Routers",
+              "type": "article",
+              "url": "https://nextjs.org/docs/pages/building-your-application/routing/api-routes#dynamic-api-routes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building APIs with Next.js",
+              "type": "article",
+              "url": "https://nextjs.org/blog/building-apis-with-nextjs#12-app-router-vs-pages-router",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Route Handlers and Middleware",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/route-handlers-and-middleware",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "API Routes for Pages Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/pages/building-your-application/routing/api-routes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building APIs with Next.js",
+          "type": "article",
+          "url": "https://nextjs.org/blog/building-apis-with-nextjs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Route Handlers",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=27Uj6BeIDV0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "structuring-routes",
+      "title": "Structuring Routes",
+      "description": "مباحث و تمرین‌های مرتبط با «Structuring Routes».",
+      "order": 14,
+      "children": [
+        {
+          "id": "structuring-routes-item",
+          "title": "Structuring Routes",
+          "description": "مباحث و تمرین‌های مرتبط با «Structuring Routes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Project structure and organization for App Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/project-structure",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Project Structure and Organization for Pages Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/pages/getting-started/project-structure",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Project Structure",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=L0g87N0piT0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "middelware",
+      "title": "Middelware",
+      "description": "مباحث و تمرین‌های مرتبط با «Middelware».",
+      "order": 15,
+      "children": [
+        {
+          "id": "setting-headers",
+          "title": "Setting Headers",
+          "description": "مباحث و تمرین‌های مرتبط با «Setting Headers».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Setting Headers for App Router",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/api-reference/file-conventions/middleware#setting-headers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Setting Headers for Pages Router",
+              "type": "article",
+              "url": "https://nextjs.org/docs/pages/api-reference/file-conventions/middleware#setting-headers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "using-cookies",
+          "title": "Using Cookies",
+          "description": "مباحث و تمرین‌های مرتبط با «Using Cookies».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Using Cookies for App Router",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/api-reference/file-conventions/middleware#using-cookies",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using Cookies for Pages Router",
+              "type": "article",
+              "url": "https://nextjs.org/docs/pages/api-reference/file-conventions/middleware#using-cookies",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "route-matcher",
+          "title": "Route Matcher",
+          "description": "مباحث و تمرین‌های مرتبط با «Route Matcher».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Matcher for App Router",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/api-reference/file-conventions/middleware#matcher",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Matcher for Pages Router",
+              "type": "article",
+              "url": "https://nextjs.org/docs/pages/api-reference/file-conventions/middleware#matcher",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "use-cases",
+          "title": "Use cases",
+          "description": "مباحث و تمرین‌های مرتبط با «Use cases».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Middleware for App Router",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/api-reference/file-conventions/middleware",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Middleware for Pages Router",
+              "type": "article",
+              "url": "https://nextjs.org/docs/pages/api-reference/file-conventions/middleware",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Middleware for App Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/api-reference/file-conventions/middleware",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Middleware for Pages Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/pages/api-reference/file-conventions/middleware",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Middleware",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=t1KTTZbqCm0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "internationalization",
+      "title": "Internationalization",
+      "description": "مباحث و تمرین‌های مرتبط با «Internationalization».",
+      "order": 16,
+      "children": [
+        {
+          "id": "internationalization-item",
+          "title": "Internationalization",
+          "description": "مباحث و تمرین‌های مرتبط با «Internationalization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to implement internationalization in Next.js for App Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/guides/internationalization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to implement internationalization in Next.js for Pages Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/pages/guides/internationalization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "fetching-locations",
+      "title": "Fetching Locations",
+      "description": "مباحث و تمرین‌های مرتبط با «Fetching Locations».",
+      "order": 17,
+      "children": [
+        {
+          "id": "fetching-locations-item",
+          "title": "Fetching Locations",
+          "description": "مباحث و تمرین‌های مرتبط با «Fetching Locations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Fetching Data",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/fetching-data",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Data Fetching",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=DRsU93Lde2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "caching-data",
+      "title": "Caching Data",
+      "description": "مباحث و تمرین‌های مرتبط با «Caching Data».",
+      "order": 18,
+      "children": [
+        {
+          "id": "memoization-in-fetch",
+          "title": "Memoization in Fetch",
+          "description": "مباحث و تمرین‌های مرتبط با «Memoization in Fetch».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Request Memoization",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/guides/caching#request-memoization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Next.js 14 Tutorial - vRequest Memoization",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tcLe3Xi0fJE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Caching and Revalidating",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/caching-and-revalidating",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-fetching-patterns",
+      "title": "Data Fetching Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Fetching Patterns».",
+      "order": 19,
+      "children": [
+        {
+          "id": "parallel-vs-sequential",
+          "title": "Parallel vs Sequential",
+          "description": "مباحث و تمرین‌های مرتبط با «Parallel vs Sequential».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Parallel and sequential data fetching",
+              "type": "article",
+              "url": "https://nextjs.org/docs/14/app/building-your-application/data-fetching/patterns#parallel-and-sequential-data-fetching",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Patterns and Best Practices",
+          "type": "article",
+          "url": "https://nextjs.org/docs/14/app/building-your-application/data-fetching/patterns#fetching-data-on-the-server",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "handling-sensitive-data",
+      "title": "Handling Sensitive Data",
+      "description": "مباحث و تمرین‌های مرتبط با «Handling Sensitive Data».",
+      "order": 20,
+      "children": [
+        {
+          "id": "handling-sensitive-data-item",
+          "title": "Handling Sensitive Data",
+          "description": "مباحث و تمرین‌های مرتبط با «Handling Sensitive Data».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to think about data security in Next.js",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/guides/data-security#data-fetching-approaches",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Think About Security in Next.js",
+          "type": "article",
+          "url": "https://nextjs.org/blog/security-nextjs-server-components-actions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "server-actions",
+      "title": "Server Actions",
+      "description": "مباحث و تمرین‌های مرتبط با «Server Actions».",
+      "order": 21,
+      "children": [
+        {
+          "id": "server-actions-item",
+          "title": "Server Actions",
+          "description": "مباحث و تمرین‌های مرتبط با «Server Actions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are Server Functions?",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/updating-data",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js Server Actions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=gQ2bVQPFS4U",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "runtimes-and-types",
+      "title": "Runtimes and Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Runtimes and Types».",
+      "order": 22,
+      "children": [
+        {
+          "id": "runtimes-and-types-item",
+          "title": "Runtimes and Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Runtimes and Types».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "https://nextjs.org/docs/app/api-reference/edge",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/api-reference/edge",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "client-rendered",
+      "title": "Client Rendered",
+      "description": "مباحث و تمرین‌های مرتبط با «Client Rendered».",
+      "order": 23,
+      "children": [
+        {
+          "id": "client-rendered-item",
+          "title": "Client Rendered",
+          "description": "مباحث و تمرین‌های مرتبط با «Client Rendered».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Server and Client Components for App Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/server-and-client-components",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Client-side Rendering for Pages Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/pages/building-your-application/rendering/client-side-rendering",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Client Components",
+          "type": "article",
+          "url": "https://nextjs.org/docs/14/app/building-your-application/rendering/client-components",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Server and Client Components",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=dMCSiA5gzkU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "server-rendered",
+      "title": "Server Rendered",
+      "description": "مباحث و تمرین‌های مرتبط با «Server Rendered».",
+      "order": 24,
+      "children": [
+        {
+          "id": "server-rendered-item",
+          "title": "Server Rendered",
+          "description": "مباحث و تمرین‌های مرتبط با «Server Rendered».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Server and Client Components for App Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/server-and-client-components#when-to-use-server-and-client-components",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Server-side Rendering (SSR) for App Router",
+          "type": "article",
+          "url": "https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Server Components",
+          "type": "article",
+          "url": "https://nextjs.org/docs/14/app/building-your-application/rendering/server-components",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Server and Client Components",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=dMCSiA5gzkU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "global-css",
+      "title": "Global CSS",
+      "description": "مباحث و تمرین‌های مرتبط با «Global CSS».",
+      "order": 25,
+      "children": [
+        {
+          "id": "global-css-item",
+          "title": "Global CSS",
+          "description": "مباحث و تمرین‌های مرتبط با «Global CSS».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Global CSS",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/css#global-css",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "composition",
+      "title": "Composition",
+      "description": "مباحث و تمرین‌های مرتبط با «Composition».",
+      "order": 26,
+      "children": [
+        {
+          "id": "composition-item",
+          "title": "Composition",
+          "description": "مباحث و تمرین‌های مرتبط با «Composition».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Server and Client Composition Patterns",
+          "type": "article",
+          "url": "https://nextjs.org/docs/14/app/building-your-application/rendering/composition-patterns",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Server and Client Components",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/server-and-client-components#how-do-server-and-client-components-work-in-nextjs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js 15 Tutorial - Server and Client Components",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=dMCSiA5gzkU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "setting-things-up",
+      "title": "Setting things Up",
+      "description": "مباحث و تمرین‌های مرتبط با «Setting things Up».",
+      "order": 27,
+      "children": [
+        {
+          "id": "setting-things-up-item",
+          "title": "Setting things Up",
+          "description": "مباحث و تمرین‌های مرتبط با «Setting things Up».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Configuration",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/api-reference/config",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "environment-variables",
+      "title": "Environment Variables",
+      "description": "مباحث و تمرین‌های مرتبط با «Environment Variables».",
+      "order": 28,
+      "children": [
+        {
+          "id": "environment-variables-item",
+          "title": "Environment Variables",
+          "description": "مباحث و تمرین‌های مرتبط با «Environment Variables».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to use environment variables in Next.js",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/guides/environment-variables",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "markdown-and-mdx",
+      "title": "Markdown and MDX",
+      "description": "مباحث و تمرین‌های مرتبط با «Markdown and MDX».",
+      "order": 29,
+      "children": [
+        {
+          "id": "markdown-and-mdx-item",
+          "title": "Markdown and MDX",
+          "description": "مباحث و تمرین‌های مرتبط با «Markdown and MDX».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to use markdown and MDX in Next.js",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/guides/mdx",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "custom-server",
+      "title": "Custom Server",
+      "description": "مباحث و تمرین‌های مرتبط با «Custom Server».",
+      "order": 30,
+      "children": [
+        {
+          "id": "custom-server-item",
+          "title": "Custom Server",
+          "description": "مباحث و تمرین‌های مرتبط با «Custom Server».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to set up a custom server in Next.js",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/guides/custom-server",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "preparing-for-production",
+      "title": "Preparing for Production",
+      "description": "مباحث و تمرین‌های مرتبط با «Preparing for Production».",
+      "order": 31,
+      "children": [
+        {
+          "id": "preparing-for-production-item",
+          "title": "Preparing for Production",
+          "description": "مباحث و تمرین‌های مرتبط با «Preparing for Production».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to optimize your Next.js application for production",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/guides/production-checklist",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "deployment-options",
+      "title": "Deployment Options",
+      "description": "مباحث و تمرین‌های مرتبط با «Deployment Options».",
+      "order": 32,
+      "children": [
+        {
+          "id": "docker-container",
+          "title": "Docker Container",
+          "description": "مباحث و تمرین‌های مرتبط با «Docker Container».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit the Dedicated Docker Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/docker",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Deployment with Docker",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/getting-started/deploying#nodejs-server",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "static-export",
+          "title": "Static Export",
+          "description": "مباحث و تمرین‌های مرتبط با «Static Export».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Static Export Deployment",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/getting-started/deploying#static-export",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "adapters",
+          "title": "Adapters",
+          "description": "مباحث و تمرین‌های مرتبط با «Adapters».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Deployment with Adapters",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/getting-started/deploying#adapters",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "node-js-server",
+          "title": "Node.js Server",
+          "description": "مباحث و تمرین‌های مرتبط با «Node.js Server».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Node.js Server",
+              "type": "article",
+              "url": "https://nextjs.org/docs/app/getting-started/deploying#nodejs-server",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Deploying in Next.js",
+          "type": "article",
+          "url": "https://nextjs.org/docs/app/getting-started/deploying",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

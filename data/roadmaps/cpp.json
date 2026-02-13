@@ -1,0 +1,604 @@
+{
+  "slug": "cpp",
+  "title": "C++",
+  "description": "Step by step guide to becoming a C++ developer in 2026",
+  "steps": [
+    {
+      "id": "introduction-to-language",
+      "title": "Introduction to Language",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction to Language».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-c",
+          "title": "What is C++?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is C++?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Learn C++",
+              "type": "article",
+              "url": "https://www.learncpp.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C++ Tutorial for Beginners - Full Course",
+              "type": "video",
+              "url": "https://youtu.be/vLnPwxZdW4Y",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about C++",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/c++?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-use-c",
+          "title": "Why use C++",
+          "description": "مباحث و تمرین‌های مرتبط با «Why use C++».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "c-vs-c",
+          "title": "C vs C++",
+          "description": "مباحث و تمرین‌های مرتبط با «C vs C++».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "LearnC++",
+          "type": "article",
+          "url": "https://www.learncpp.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "C++ Full Course by freeCodeCamp",
+          "type": "video",
+          "url": "https://youtu.be/vLnPwxZdW4Y",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "C++ C++ Programming Course - Beginner to Advanced",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "setting-up-your-environment",
+      "title": "Setting up your Environment",
+      "description": "مباحث و تمرین‌های مرتبط با «Setting up your Environment».",
+      "order": 2,
+      "children": [
+        {
+          "id": "installing-c",
+          "title": "Installing C++",
+          "description": "مباحث و تمرین‌های مرتبط با «Installing C++».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-operations",
+      "title": "Basic Operations",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Operations».",
+      "order": 3,
+      "children": [
+        {
+          "id": "arithmetic-operators",
+          "title": "Arithmetic Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Arithmetic Operators».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "control-flow-statements",
+      "title": "Control Flow & Statements",
+      "description": "مباحث و تمرین‌های مرتبط با «Control Flow & Statements».",
+      "order": 4,
+      "children": [
+        {
+          "id": "for-while-do-while-loops",
+          "title": "for / while / do while loops",
+          "description": "مباحث و تمرین‌های مرتبط با «for / while / do while loops».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "C++ For Loop",
+              "type": "article",
+              "url": "https://www.w3schools.com/cpp/cpp_for_loop.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "functions",
+      "title": "Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Functions».",
+      "order": 5,
+      "children": [
+        {
+          "id": "operator-overloading",
+          "title": "Operator Overloading",
+          "description": "مباحث و تمرین‌های مرتبط با «Operator Overloading».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Operator Overloading - Microsoft Learn",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/cpp/cpp/operator-overloading",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "operator overloading - cppreference.com",
+              "type": "article",
+              "url": "https://en.cppreference.com/w/cpp/language/operators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "introduction to functions in c++",
+          "type": "article",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-functions/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-types",
+      "title": "Data Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Types».",
+      "order": 6,
+      "children": [
+        {
+          "id": "static-typing",
+          "title": "Static Typing",
+          "description": "مباحث و تمرین‌های مرتبط با «Static Typing».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Type-Coversion",
+              "type": "article",
+              "url": "https://www.programiz.com/cpp-programming/type-conversion",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Static Vs Dynamic",
+              "type": "article",
+              "url": "https://www.techtarget.com/searchapparchitecture/tip/Static-vs-dynamic-typing-The-details-and-differences",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "pointers-and-references",
+      "title": "Pointers and References",
+      "description": "مباحث و تمرین‌های مرتبط با «Pointers and References».",
+      "order": 7,
+      "children": [
+        {
+          "id": "references",
+          "title": "References",
+          "description": "مباحث و تمرین‌های مرتبط با «References».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Function Pointer in C++",
+          "type": "article",
+          "url": "https://www.scaler.com/topics/cpp/function-pointer-cpp/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "structuring-codebase",
+      "title": "Structuring Codebase",
+      "description": "مباحث و تمرین‌های مرتبط با «Structuring Codebase».",
+      "order": 8,
+      "children": [
+        {
+          "id": "scope",
+          "title": "Scope",
+          "description": "مباحث و تمرین‌های مرتبط با «Scope».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "structures-and-classes",
+      "title": "Structures and Classes",
+      "description": "مباحث و تمرین‌های مرتبط با «Structures and Classes».",
+      "order": 9,
+      "children": [
+        {
+          "id": "structures-and-classes-item",
+          "title": "Structures and Classes",
+          "description": "مباحث و تمرین‌های مرتبط با «Structures and Classes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "exception-handling",
+      "title": "Exception Handling",
+      "description": "مباحث و تمرین‌های مرتبط با «Exception Handling».",
+      "order": 10,
+      "children": [
+        {
+          "id": "exit-codes",
+          "title": "Exit Codes",
+          "description": "مباحث و تمرین‌های مرتبط با «Exit Codes».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "language-concepts",
+      "title": "Language Concepts",
+      "description": "مباحث و تمرین‌های مرتبط با «Language Concepts».",
+      "order": 11,
+      "children": [
+        {
+          "id": "auto-automatic-type-deduction",
+          "title": "auto (Automatic Type Deduction)",
+          "description": "مباحث و تمرین‌های مرتبط با «auto (Automatic Type Deduction)».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "standard-library-stl",
+      "title": "Standard Library + STL",
+      "description": "مباحث و تمرین‌های مرتبط با «Standard Library + STL».",
+      "order": 12,
+      "children": [
+        {
+          "id": "standard-library-stl-item",
+          "title": "Standard Library + STL",
+          "description": "مباحث و تمرین‌های مرتبط با «Standard Library + STL».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Mastering STL in C++23: New Features, Updates, and Best Practices",
+          "type": "article",
+          "url": "https://simplifycpp.org/books/Mastering_STL.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "C++ Standard Template Library (STL) Short Overview",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Id6ZEb_Lg58",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "templates",
+      "title": "Templates",
+      "description": "مباحث و تمرین‌های مرتبط با «Templates».",
+      "order": 13,
+      "children": [
+        {
+          "id": "templates-item",
+          "title": "Templates",
+          "description": "مباحث و تمرین‌های مرتبط با «Templates».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "idioms",
+      "title": "Idioms",
+      "description": "مباحث و تمرین‌های مرتبط با «Idioms».",
+      "order": 14,
+      "children": [
+        {
+          "id": "non-copyable-non-moveable",
+          "title": "Non-Copyable / Non-Moveable",
+          "description": "مباحث و تمرین‌های مرتبط با «Non-Copyable / Non-Moveable».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "standards",
+      "title": "Standards",
+      "description": "مباحث و تمرین‌های مرتبط با «Standards».",
+      "order": 15,
+      "children": [
+        {
+          "id": "c-11-14",
+          "title": "C++ 11 / 14",
+          "description": "مباحث و تمرین‌های مرتبط با «C++ 11 / 14».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "c-23",
+          "title": "C++ 23",
+          "description": "مباحث و تمرین‌های مرتبط با «C++ 23».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "The Standard",
+              "type": "article",
+              "url": "https://isocpp.org/std/the-standard",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C++23",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/C%2B%2B23",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Overview of New Features in C++23",
+              "type": "article",
+              "url": "https://medium.com/@threehappyer/overview-of-new-features-in-c-23-68c5bc668958",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C++23: An Overview of Almost All New and Updated Features - Marc Gregoire - CppCon 2023",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Cttb8vMuq-Y",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "debuggers",
+      "title": "Debuggers",
+      "description": "مباحث و تمرین‌های مرتبط با «Debuggers».",
+      "order": 16,
+      "children": [
+        {
+          "id": "debuggers-item",
+          "title": "Debuggers",
+          "description": "مباحث و تمرین‌های مرتبط با «Debuggers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "compilers",
+      "title": "Compilers",
+      "description": "مباحث و تمرین‌های مرتبط با «Compilers».",
+      "order": 17,
+      "children": [
+        {
+          "id": "compiler-stages",
+          "title": "Compiler Stages",
+          "description": "مباحث و تمرین‌های مرتبط با «Compiler Stages».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "compilers-and-features",
+          "title": "Compilers and Features",
+          "description": "مباحث و تمرین‌های مرتبط با «Compilers and Features».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "build-systems",
+      "title": "Build Systems",
+      "description": "مباحث و تمرین‌های مرتبط با «Build Systems».",
+      "order": 18,
+      "children": [
+        {
+          "id": "cmake",
+          "title": "CMAKE",
+          "description": "مباحث و تمرین‌های مرتبط با «CMAKE».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "package-managers",
+      "title": "Package Managers",
+      "description": "مباحث و تمرین‌های مرتبط با «Package Managers».",
+      "order": 19,
+      "children": [
+        {
+          "id": "package-managers-item",
+          "title": "Package Managers",
+          "description": "مباحث و تمرین‌های مرتبط با «Package Managers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "working-with-libraries",
+      "title": "Working with Libraries",
+      "description": "مباحث و تمرین‌های مرتبط با «Working with Libraries».",
+      "order": 20,
+      "children": [
+        {
+          "id": "library-inclusion",
+          "title": "Library Inclusion",
+          "description": "مباحث و تمرین‌های مرتبط با «Library Inclusion».",
+          "order": 1,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

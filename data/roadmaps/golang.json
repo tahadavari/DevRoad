@@ -1,0 +1,2926 @@
+{
+  "slug": "golang",
+  "title": "Go",
+  "description": "Step by step guide to becoming a Go developer in 2026",
+  "steps": [
+    {
+      "id": "introduction-to-go",
+      "title": "Introduction to Go",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction to Go».",
+      "order": 1,
+      "children": [
+        {
+          "id": "why-use-go",
+          "title": "Why use Go",
+          "description": "مباحث و تمرین‌های مرتبط با «Why use Go».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Why Go - The Go Programming Language",
+              "type": "article",
+              "url": "https://go.dev/solutions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why Go: The benefits of Golang",
+              "type": "article",
+              "url": "https://medium.com/@julienetienne/why-go-the-benefits-of-golang-6c39ea6cff7e",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Golang Used For? 7 Examples of Go Applications",
+              "type": "article",
+              "url": "https://trio.dev/what-is-golang-used-for/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "setting-up-the-environment",
+          "title": "Setting up the Environment",
+          "description": "مباحث و تمرین‌های مرتبط با «Setting up the Environment».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Golang",
+              "type": "article",
+              "url": "https://go.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Setting up the Environment",
+              "type": "article",
+              "url": "https://go.dev/doc/install",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Set Up a Go Development Environment?",
+              "type": "article",
+              "url": "https://medium.com/codex/how-to-set-up-a-go-development-environment-67b4b002182e",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hello-world-in-go",
+          "title": "Hello World in Go",
+          "description": "مباحث و تمرین‌های مرتبط با «Hello World in Go».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Go Documentation",
+              "type": "article",
+              "url": "https://go.dev/doc/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Get Started with Go",
+              "type": "article",
+              "url": "https://go.dev/doc/tutorial/getting-started",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Go and the Web",
+              "type": "article",
+              "url": "https://dev.to/markmunyaka/getting-started-with-go-and-the-web-hello-world-nal",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Golang: A Comprehensive Guide",
+              "type": "article",
+              "url": "https://www.learn-golang.org/en/Hello%2C_World%21",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Go",
+          "type": "article",
+          "url": "https://go.dev/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Go Documentation",
+          "type": "article",
+          "url": "https://go.dev/doc/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Get Started with Go",
+          "type": "article",
+          "url": "https://go.dev/doc/tutorial/getting-started",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Getting Started with Go and the Web",
+          "type": "article",
+          "url": "https://dev.to/markmunyaka/getting-started-with-go-and-the-web-hello-world-nal",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "variables-constants",
+      "title": "Variables & Constants",
+      "description": "مباحث و تمرین‌های مرتبط با «Variables & Constants».",
+      "order": 2,
+      "children": [
+        {
+          "id": "var-vs",
+          "title": "var vs :=",
+          "description": "مباحث و تمرین‌های مرتبط با «var vs :=».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Go Tour: Short variable declarations",
+              "type": "article",
+              "url": "https://go.dev/tour/basics/10",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go Specification: Short Variable Declarations",
+              "type": "article",
+              "url": "https://go.dev/ref/spec#Short_variable_declarations",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Shorthand Assignment",
+          "type": "article",
+          "url": "https://go.dev/tour/basics/10",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Var Assignment",
+          "type": "article",
+          "url": "https://go.dev/tour/basics/8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Use Variables and Constants in Go",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-use-variables-and-constants-in-go",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-types",
+      "title": "Data Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Types».",
+      "order": 3,
+      "children": [
+        {
+          "id": "data-types-item",
+          "title": "Data Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Types».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Go Basics",
+          "type": "article",
+          "url": "https://go.dev/tour/basics/11",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Basic Data Types in Go",
+          "type": "article",
+          "url": "https://golangbot.com/types/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Data Types in Go",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/understanding-data-types-in-go",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "commands-docs",
+      "title": "Commands & Docs",
+      "description": "مباحث و تمرین‌های مرتبط با «Commands & Docs».",
+      "order": 4,
+      "children": [
+        {
+          "id": "commands-docs-item",
+          "title": "Commands & Docs",
+          "description": "مباحث و تمرین‌های مرتبط با «Commands & Docs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "A Guide to Effective Go Documentation",
+          "type": "article",
+          "url": "https://nirdoshgautam.medium.com/a-guide-to-effective-go-documentation-952f346d073f",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "arrays",
+      "title": "Arrays",
+      "description": "مباحث و تمرین‌های مرتبط با «Arrays».",
+      "order": 5,
+      "children": [
+        {
+          "id": "arrays-item",
+          "title": "Arrays",
+          "description": "مباحث و تمرین‌های مرتبط با «Arrays».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Arrays",
+          "type": "article",
+          "url": "https://go.dev/tour/moretypes/6",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Complete Guide to Arrays in Golang",
+          "type": "article",
+          "url": "https://www.kelche.co/blog/go/golang-arrays/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "slices",
+      "title": "Slices",
+      "description": "مباحث و تمرین‌های مرتبط با «Slices».",
+      "order": 6,
+      "children": [
+        {
+          "id": "capacity-and-growth",
+          "title": "Capacity and Growth",
+          "description": "مباحث و تمرین‌های مرتبط با «Capacity and Growth».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Understanding Go's Slice Data Structure and Its Growth Pattern",
+              "type": "article",
+              "url": "https://medium.com/@arjun.devb25/understanding-gos-slice-data-structure-and-its-growth-pattern-48fe6dd914b4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Increase Slice Capacity in Go",
+              "type": "article",
+              "url": "https://thekoreanguy.medium.com/how-does-the-capacity-change-when-you-append-to-a-slice-in-go-46289dad4730",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Manage Slice Length and Capacity",
+              "type": "article",
+              "url": "https://labex.io/tutorials/go-how-to-manage-slice-length-and-capacity-418932",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "make",
+          "title": "make()",
+          "description": "مباحث و تمرین‌های مرتبط با «make()».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "make",
+              "type": "article",
+              "url": "https://go.dev/tour/moretypes/13",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The new() vs make() Functions in Go",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/new-vs-make-functions-in-go/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding the make Function in Golang",
+              "type": "article",
+              "url": "https://www.zetcode.com/golang/builtins-make/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Make vs New in Golang - Video",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=1rBhOCh7ojg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "slice-to-array-conversion",
+          "title": "Slice to Array Conversion",
+          "description": "مباحث و تمرین‌های مرتبط با «Slice to Array Conversion».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Slice Arrays Correctly",
+              "type": "article",
+              "url": "https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go - Create Slice From Array - 3 Examples",
+              "type": "article",
+              "url": "https://www.tutorialkart.com/golang-tutorial/golang-create-slice-from-array/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "array-to-slice-conversion",
+          "title": "Array to Slice Conversion",
+          "description": "مباحث و تمرین‌های مرتبط با «Array to Slice Conversion».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Slice Arrays Correctly",
+              "type": "article",
+              "url": "https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go - Create Slice From Array - 3 Examples",
+              "type": "article",
+              "url": "https://www.tutorialkart.com/golang-tutorial/golang-create-slice-from-array/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "array-to-slice-conversion-2",
+          "title": "Array to Slice Conversion",
+          "description": "مباحث و تمرین‌های مرتبط با «Array to Slice Conversion».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Slice Arrays Correctly",
+              "type": "article",
+              "url": "https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go - Create Slice From Array - 3 Examples",
+              "type": "article",
+              "url": "https://www.tutorialkart.com/golang-tutorial/golang-create-slice-from-array/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "make",
+          "type": "article",
+          "url": "https://go.dev/tour/moretypes/13",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The new() vs make() Functions in Go",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/new-vs-make-functions-in-go/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Slice Arrays Correctly",
+          "type": "article",
+          "url": "https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "strings",
+      "title": "Strings",
+      "description": "مباحث و تمرین‌های مرتبط با «Strings».",
+      "order": 7,
+      "children": [
+        {
+          "id": "strings-item",
+          "title": "Strings",
+          "description": "مباحث و تمرین‌های مرتبط با «Strings».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "String",
+          "type": "article",
+          "url": "https://go.dev/blog/strings",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Go Speculation",
+          "type": "article",
+          "url": "https://go.dev/ref/spec",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Golang Quick Reference: Strings. Introduction",
+          "type": "article",
+          "url": "https://medium.com/@golangda/golang-quick-reference-strings-0d68bb036c29",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "maps",
+      "title": "Maps",
+      "description": "مباحث و تمرین‌های مرتبط با «Maps».",
+      "order": 8,
+      "children": [
+        {
+          "id": "comma-ok-idiom",
+          "title": "Comma-Ok Idiom",
+          "description": "مباحث و تمرین‌های مرتبط با «Comma-Ok Idiom».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "The Comma Ok Idiom",
+              "type": "article",
+              "url": "https://dev.to/saurabh975/comma-ok-in-go-l4f",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How the Comma Ok Idiom and Package System Work in Go",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Statement Idioms in Go",
+              "type": "article",
+              "url": "https://medium.com/@nateogbonna/statement-idioms-in-go-writing-clean-idiomatic-go-code-6fe92e6e8ab4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Maps",
+          "type": "article",
+          "url": "https://go.dev/blog/maps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Go Maps: Best Practices & Pro Tips",
+          "type": "article",
+          "url": "https://blog.stackademic.com/golang-use-maps-like-pro-the-proper-way-to-use-maps-in-golang-7a20c805540c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding HashMaps in DSA",
+          "type": "article",
+          "url": "https://medium.com/@nikhil.cse16/understanding-hashmaps-in-dsa-5450c6ec2e75",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "structs",
+      "title": "Structs",
+      "description": "مباحث و تمرین‌های مرتبط با «Structs».",
+      "order": 9,
+      "children": [
+        {
+          "id": "embedding-structs",
+          "title": "Embedding Structs",
+          "description": "مباحث و تمرین‌های مرتبط با «Embedding Structs».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Struct Embedding",
+              "type": "article",
+              "url": "https://gobyexample.com/struct-embedding",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Interfaces and Embedding in Golang (Go)",
+              "type": "article",
+              "url": "https://dev.to/diwakarkashyap/interfaces-and-embedding-in-golang-go-2em4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "struct-tags-json",
+          "title": "Struct Tags & JSON",
+          "description": "مباحث و تمرین‌های مرتبط با «Struct Tags & JSON».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Well known struct tags",
+              "type": "article",
+              "url": "https://go.dev/wiki/Well-known-struct-tags",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Working with JSON and Struct Tags",
+              "type": "article",
+              "url": "https://medium.com/@sanyamdubey28/working-with-json-and-struct-tags-in-go-0e6a7c4fc6b0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Struct Tags and JSON Encoding in Go",
+              "type": "article",
+              "url": "https://towardsdev.com/understanding-struct-tags-and-json-encoding-in-go-9e51d551c0ce",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Structs",
+          "type": "article",
+          "url": "https://go.dev/tour/moretypes/2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Go Struct: A Deep Dive",
+          "type": "article",
+          "url": "https://leapcell.medium.com/deep-dive-into-go-struct-103961431c64",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "conditionals",
+      "title": "Conditionals",
+      "description": "مباحث و تمرین‌های مرتبط با «Conditionals».",
+      "order": 10,
+      "children": [
+        {
+          "id": "conditionals-item",
+          "title": "Conditionals",
+          "description": "مباحث و تمرین‌های مرتبط با «Conditionals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Flow Control",
+          "type": "article",
+          "url": "https://go.dev/tour/flowcontrol/6",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Write Conditional Statements in Go",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-write-conditional-statements-in-go",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to handle conditional logic in Go",
+          "type": "article",
+          "url": "https://labex.io/tutorials/go-how-to-handle-conditional-logic-in-go-418319",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "loops",
+      "title": "Loops",
+      "description": "مباحث و تمرین‌های مرتبط با «Loops».",
+      "order": 11,
+      "children": [
+        {
+          "id": "continue",
+          "title": "continue",
+          "description": "مباحث و تمرین‌های مرتبط با «continue».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Using Break and Continue Statements When Working with Loop",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/using-break-and-continue-statements-when-working-with-loops-in-go",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Demystifying the Break and Continue Statements in Golang",
+              "type": "article",
+              "url": "https://medium.com/@kiruu1238/break-continue-bc35e9f3802d",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "iterating-maps",
+          "title": "Iterating Maps",
+          "description": "مباحث و تمرین‌های مرتبط با «Iterating Maps».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Iterating Over Maps in Go: Methods, Order, and Best Practices",
+              "type": "article",
+              "url": "https://leapcell.io/blog/iterating-over-maps-in-go-methods-order-and-best-practices",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to iterate over and order a map in Go",
+              "type": "article",
+              "url": "https://freshman.tech/snippets/go/iterate-over-map/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "iterating-strings",
+          "title": "Iterating Strings",
+          "description": "مباحث و تمرین‌های مرتبط با «Iterating Strings».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Iterators in GoLang",
+              "type": "article",
+              "url": "https://blog.alexoglou.com/posts/iterators-golang/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to iterate string in Go",
+              "type": "article",
+              "url": "https://labex.io/tutorials/go-how-to-iterate-string-in-go-446115",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Golang String Manipulation: Functions and Examples",
+              "type": "article",
+              "url": "https://learngolanguage.com/mastering-golang-string-manipulation-essential-functions-and-techniques-for-2024/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "continue-2",
+          "title": "continue",
+          "description": "مباحث و تمرین‌های مرتبط با «continue».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Using Break and Continue Statements When Working with Loop",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/using-break-and-continue-statements-when-working-with-loops-in-go",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Demystifying the Break and Continue Statements in Golang",
+              "type": "article",
+              "url": "https://medium.com/@kiruu1238/break-continue-bc35e9f3802d",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "goto-discouraged",
+          "title": "goto (discouraged)",
+          "description": "مباحث و تمرین‌های مرتبط با «goto (discouraged)».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Label scopes",
+              "type": "article",
+              "url": "https://go.dev/ref/spec#Label_scopes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Goto statements",
+              "type": "article",
+              "url": "https://go.dev/ref/spec#Goto_statements",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Goto Statement Usage",
+              "type": "article",
+              "url": "https://labex.io/tutorials/go-goto-statement-usage-149074",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GoLang — Jumping in the code using goto",
+              "type": "article",
+              "url": "https://medium.com/@rajasoni1995/golang-jumping-in-the-code-using-goto-a36116831396",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Goto Hell With Labels in Golang",
+              "type": "article",
+              "url": "https://programmingpercy.tech/blog/goto-hell-with-labels-in-golang/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Loops",
+          "type": "article",
+          "url": "https://go.dev/tour/flowcontrol/1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Loops in GoLang. GoLang Loops, For Loop, While loop",
+          "type": "article",
+          "url": "https://nitish08.medium.com/loops-in-golang-d44fb39b08e",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Everything You Need to Know About for Loops in Go",
+          "type": "article",
+          "url": "https://www.bytesizego.com/blog/golang-for-loop",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "functions",
+      "title": "Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Functions».",
+      "order": 12,
+      "children": [
+        {
+          "id": "functions-item",
+          "title": "Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Functions",
+          "type": "article",
+          "url": "https://go.dev/tour/basics/4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Functions in Golang: Complete Guide with Examples",
+          "type": "article",
+          "url": "https://medium.com/backend-forge/functions-in-golang-complete-guide-with-examples-2025-e07db0f98fd3",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Go Functions",
+          "type": "article",
+          "url": "https://www.learn-golang.org/en/Functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pointers",
+      "title": "Pointers",
+      "description": "مباحث و تمرین‌های مرتبط با «Pointers».",
+      "order": 13,
+      "children": [
+        {
+          "id": "pointers-basics",
+          "title": "Pointers Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Pointers Basics».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Pointers",
+              "type": "article",
+              "url": "https://go.dev/tour/moretypes/1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pointers-with-structs",
+          "title": "Pointers with Structs ",
+          "description": "مباحث و تمرین‌های مرتبط با «Pointers with Structs ».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Pointers to structs",
+              "type": "article",
+              "url": "https://go.dev/tour/moretypes/4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "When should I use pointer and struct in golang?",
+              "type": "article",
+              "url": "https://medium.com/@wasiualhasib/working-with-structs-and-pointers-in-go-32a00a460cea",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "with-maps-slices",
+          "title": "With Maps & Slices",
+          "description": "مباحث و تمرین‌های مرتبط با «With Maps & Slices».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Maps",
+              "type": "article",
+              "url": "https://go.dev/blog/maps",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Pointers",
+              "type": "article",
+              "url": "https://go.dev/tour/moretypes/1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Slice Arrays Correctly",
+              "type": "article",
+              "url": "https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pointers",
+          "type": "article",
+          "url": "https://go.dev/tour/moretypes/1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Value and Pointer Receivers in Golang",
+          "type": "article",
+          "url": "https://medium.com/the-bug-shots/understanding-value-and-pointer-receivers-in-golang-82dd73a3eef9",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "methods-vs-functions",
+      "title": "Methods vs Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Methods vs Functions».",
+      "order": 14,
+      "children": [
+        {
+          "id": "methods-vs-functions-item",
+          "title": "Methods vs Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Methods vs Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Methods",
+          "type": "article",
+          "url": "https://go.dev/tour/methods/1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Golang Methods Tutorial [Practical Examples]",
+          "type": "article",
+          "url": "https://www.golinuxcloud.com/golang-methods/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Golang Functions vs Methods, why and when to use them",
+          "type": "article",
+          "url": "https://medium.com/@yuseferi/golang-functions-vs-methods-why-and-when-to-use-them-5b63fa1dc7f3",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pointer-receivers",
+      "title": "Pointer Receivers",
+      "description": "مباحث و تمرین‌های مرتبط با «Pointer Receivers».",
+      "order": 15,
+      "children": [
+        {
+          "id": "pointer-receivers-item",
+          "title": "Pointer Receivers",
+          "description": "مباحث و تمرین‌های مرتبط با «Pointer Receivers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pointer Receivers",
+          "type": "article",
+          "url": "https://go.dev/tour/methods/4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Value and Pointer Receivers in Golang",
+          "type": "article",
+          "url": "https://medium.com/the-bug-shots/understanding-value-and-pointer-receivers-in-golang-82dd73a3eef9",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to define methods with pointer receivers",
+          "type": "article",
+          "url": "https://labex.io/tutorials/go-how-to-define-methods-with-pointer-receivers-437937",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "value-receivers",
+      "title": "Value Receivers",
+      "description": "مباحث و تمرین‌های مرتبط با «Value Receivers».",
+      "order": 16,
+      "children": [
+        {
+          "id": "value-receivers-item",
+          "title": "Value Receivers",
+          "description": "مباحث و تمرین‌های مرتبط با «Value Receivers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Value Receivers",
+          "type": "article",
+          "url": "https://go.dev/tour/methods/8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Value and Pointer Receivers in Go Interfaces",
+          "type": "article",
+          "url": "https://afdz.medium.com/understanding-value-and-pointer-receivers-in-go-interfaces-e97a824fdded",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Go Method Receivers: Understanding Value vs. Pointer and When to Use",
+          "type": "article",
+          "url": "https://blog.stackademic.com/go-method-receivers-understanding-value-vs-pointer-and-when-to-use-each-74ef82d66a5c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "generics",
+      "title": "Generics",
+      "description": "مباحث و تمرین‌های مرتبط با «Generics».",
+      "order": 17,
+      "children": [
+        {
+          "id": "generics-item",
+          "title": "Generics",
+          "description": "مباحث و تمرین‌های مرتبط با «Generics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Generic Functions",
+          "type": "article",
+          "url": "https://go.dev/doc/tutorial/generics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Generics",
+          "type": "article",
+          "url": "https://blog.logrocket.com/understanding-generics-go-1-18/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "interfaces",
+      "title": "Interfaces",
+      "description": "مباحث و تمرین‌های مرتبط با «Interfaces».",
+      "order": 18,
+      "children": [
+        {
+          "id": "type-inference",
+          "title": "Type Inference",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Inference».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Type Inference",
+              "type": "article",
+              "url": "https://go.dev/blog/type-inference",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is Type Inference? What It Is and How It Work",
+              "type": "article",
+              "url": "https://hackernoon.com/what-is-type-inference-what-it-is-and-how-it-works",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Chapter 4: Interface and Type Systems in Go",
+              "type": "article",
+              "url": "https://medium.com/@omidahn/chapter-4-interface-and-type-systems-in-go-75b52392cc38",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "type-assertions",
+          "title": "Type Assertions",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Assertions».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Type Assertions",
+              "type": "article",
+              "url": "https://go.dev/tour/methods/15",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Type assertions and type switches in Golang",
+              "type": "article",
+              "url": "https://www.educative.io/answers/type-assertions-and-type-switches-in-golang",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Type Assertion in Go",
+              "type": "article",
+              "url": "https://medium.com/@jamal.kaksouri/mastering-type-assertion-in-go-a-comprehensive-guide-216864b4ea4d",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "embedding-interfaces",
+          "title": "Embedding Interfaces",
+          "description": "مباحث و تمرین‌های مرتبط با «Embedding Interfaces».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Struct Embedding",
+              "type": "article",
+              "url": "https://gobyexample.com/struct-embedding",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Interfaces and Embedding in Golang (Go)",
+              "type": "article",
+              "url": "https://dev.to/diwakarkashyap/interfaces-and-embedding-in-golang-go-2em4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "empty-interfaces",
+          "title": "Empty Interfaces",
+          "description": "مباحث و تمرین‌های مرتبط با «Empty Interfaces».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Empty Interface",
+              "type": "article",
+              "url": "https://go.dev/tour/methods/14",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding the empty interface in Go",
+              "type": "article",
+              "url": "https://dev.to/flrnd/understanding-the-empty-interface-in-go-4652",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "interfaces-basics",
+          "title": "Interfaces Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Interfaces Basics».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Understanding Interfaces in Go",
+              "type": "article",
+              "url": "https://golang.ntxm.org/docs/structs-and-interfaces/understanding-interfaces-in-go/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Interfaces - Go by Example",
+              "type": "article",
+              "url": "https://gobyexample.com/interfaces",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Go Interfaces: From Basics to Best Practices",
+              "type": "article",
+              "url": "https://abubakardev0.medium.com/mastering-go-interfaces-from-basics-to-best-practices-36912b65aa3d",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "channels",
+          "title": "Channels",
+          "description": "مباحث و تمرین‌های مرتبط با «Channels».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Channels in Golang",
+              "type": "article",
+              "url": "https://golangdocs.com/channels-in-golang",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Concurrency in Go: Channels and WaitGroups",
+              "type": "article",
+              "url": "https://medium.com/goturkiye/concurrency-in-go-channels-and-waitgroups-25dd43064d1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go Channels Explained: More than Just a Beginner's Guide",
+              "type": "article",
+              "url": "https://blog.devtrovert.com/p/go-channels-explained-more-than-just",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Interfaces - Go by Example",
+          "type": "article",
+          "url": "https://gobyexample.com/interfaces",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Go Interfaces: From Basics to Best Practices",
+          "type": "article",
+          "url": "https://abubakardev0.medium.com/mastering-go-interfaces-from-basics-to-best-practices-36912b65aa3d",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "modules-dependencies",
+      "title": "Modules & Dependencies",
+      "description": "مباحث و تمرین‌های مرتبط با «Modules & Dependencies».",
+      "order": 19,
+      "children": [
+        {
+          "id": "go-mod-tidy",
+          "title": "go mod tidy",
+          "description": "مباحث و تمرین‌های مرتبط با «go mod tidy».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "go mod create",
+              "type": "article",
+              "url": "https://go.dev/doc/tutorial/create-module",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "go mod reference",
+              "type": "article",
+              "url": "https://go.dev/ref/mod",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "go mod commands",
+              "type": "article",
+              "url": "https://blog.devtrovert.com/p/go-get-go-mod-tidy-commands",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What does go mod tidy do?",
+              "type": "article",
+              "url": "https://golangbyexamples.com/go-mod-tidy/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "go-mod-vendor",
+          "title": "go mod vendor",
+          "description": "مباحث و تمرین‌های مرتبط با «go mod vendor».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Vendoring, or go mod vendor: What Is It?",
+              "type": "article",
+              "url": "https://victoriametrics.com/blog/vendoring-go-mod-vendor/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "go mod commands",
+              "type": "article",
+              "url": "https://blog.devtrovert.com/p/go-get-go-mod-tidy-commands",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go Modules and Vendors: Simplify Dependency Management",
+              "type": "article",
+              "url": "https://mahmoudaljadan.medium.com/go-modules-and-vendors-simplify-dependency-management-in-your-golang-project-a29689eb26b1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "go-mod-init",
+          "title": "go mod init",
+          "description": "مباحث و تمرین‌های مرتبط با «go mod init».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "go mod",
+              "type": "article",
+              "url": "https://go.dev/doc/tutorial/create-module",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "go mod reference",
+              "type": "article",
+              "url": "https://go.dev/ref/mod",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Initiating Go Modules with Go Mod Init Explained Simply",
+              "type": "article",
+              "url": "https://go.dev/blog/using-go-modules",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "go mod",
+          "type": "article",
+          "url": "https://go.dev/doc/tutorial/create-module",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "go mod reference",
+          "type": "article",
+          "url": "https://go.dev/ref/mod",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "go mod commands",
+          "type": "article",
+          "url": "https://blog.devtrovert.com/p/go-get-go-mod-tidy-commands",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What does go mod tidy do?",
+          "type": "article",
+          "url": "https://golangbyexamples.com/go-mod-tidy/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "packages",
+      "title": "Packages",
+      "description": "مباحث و تمرین‌های مرتبط با «Packages».",
+      "order": 20,
+      "children": [
+        {
+          "id": "packages-item",
+          "title": "Packages",
+          "description": "مباحث و تمرین‌های مرتبط با «Packages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "os package",
+          "type": "article",
+          "url": "https://pkg.go.dev/os",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Importing Packages in Go",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/importing-packages-in-go",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Comprehensive Guide to Importing and Using Packages",
+          "type": "article",
+          "url": "https://learnscripting.org/a-comprehensive-guide-to-importing-and-using-packages-in-go/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "package-import-rules",
+      "title": "Package Import Rules",
+      "description": "مباحث و تمرین‌های مرتبط با «Package Import Rules».",
+      "order": 21,
+      "children": [
+        {
+          "id": "package-import-rules-item",
+          "title": "Package Import Rules",
+          "description": "مباحث و تمرین‌های مرتبط با «Package Import Rules».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "os package",
+          "type": "article",
+          "url": "https://pkg.go.dev/os",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Importing Packages in Go",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/importing-packages-in-go",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Comprehensive Guide to Importing and Using Packages",
+          "type": "article",
+          "url": "https://learnscripting.org/a-comprehensive-guide-to-importing-and-using-packages-in-go/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "using-3rd-party-packages",
+      "title": "Using 3rd Party Packages",
+      "description": "مباحث و تمرین‌های مرتبط با «Using 3rd Party Packages».",
+      "order": 22,
+      "children": [
+        {
+          "id": "using-3rd-party-packages-item",
+          "title": "Using 3rd Party Packages",
+          "description": "مباحث و تمرین‌های مرتبط با «Using 3rd Party Packages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Import and Use a Third-Party Package in Golang",
+          "type": "article",
+          "url": "https://thenewstack.io/import-and-use-a-third-party-package-in-golang/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Using Third-Party Packages and Libraries in Golang",
+          "type": "article",
+          "url": "https://medium.com/@bramahendramahendra1/using-third-party-packages-and-libraries-in-golang-efbf0046f574",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "goroutines",
+      "title": "Goroutines",
+      "description": "مباحث و تمرین‌های مرتبط با «Goroutines».",
+      "order": 23,
+      "children": [
+        {
+          "id": "goroutines-item",
+          "title": "Goroutines",
+          "description": "مباحث و تمرین‌های مرتبط با «Goroutines».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Goroutines",
+          "type": "article",
+          "url": "https://go.dev/tour/concurrency/1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Goroutines - Concurrency in Golang",
+          "type": "article",
+          "url": "https://golangbot.com/goroutines/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Goroutines in Golang: Understanding and Implementing",
+          "type": "article",
+          "url": "https://medium.com/@jamal.kaksouri/goroutines-in-golang-understanding-and-implementing-concurrent-programming-in-go-600187bcfaa2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "publishing-modules",
+      "title": "Publishing Modules",
+      "description": "مباحث و تمرین‌های مرتبط با «Publishing Modules».",
+      "order": 24,
+      "children": [
+        {
+          "id": "publishing-modules-item",
+          "title": "Publishing Modules",
+          "description": "مباحث و تمرین‌های مرتبط با «Publishing Modules».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Publishing Modules",
+          "type": "article",
+          "url": "https://go.dev/doc/modules/publishing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Create & Publish a Go Public Package",
+          "type": "article",
+          "url": "https://medium.com/the-godev-corner/how-to-create-publish-a-go-public-package-9034e6bfe4a9",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "channels-2",
+      "title": "Channels",
+      "description": "مباحث و تمرین‌های مرتبط با «Channels».",
+      "order": 25,
+      "children": [
+        {
+          "id": "channels-2-item",
+          "title": "Channels",
+          "description": "مباحث و تمرین‌های مرتبط با «Channels».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Channels in Golang",
+          "type": "article",
+          "url": "https://golangdocs.com/channels-in-golang",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Concurrency in Go: Channels and WaitGroups",
+          "type": "article",
+          "url": "https://medium.com/goturkiye/concurrency-in-go-channels-and-waitgroups-25dd43064d1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Go Channels Explained: More than Just a Beginner's Guide",
+          "type": "article",
+          "url": "https://blog.devtrovert.com/p/go-channels-explained-more-than-just",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "worker-pools",
+      "title": "Worker Pools",
+      "description": "مباحث و تمرین‌های مرتبط با «Worker Pools».",
+      "order": 26,
+      "children": [
+        {
+          "id": "worker-pools-item",
+          "title": "Worker Pools",
+          "description": "مباحث و تمرین‌های مرتبط با «Worker Pools».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "GO: How to Write a Worker Pool",
+          "type": "article",
+          "url": "https://dev.to/justlorain/go-how-to-write-a-worker-pool-1h3b",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Efficient Concurrency in Go: A Deep Dive into the Worker Pool",
+          "type": "article",
+          "url": "https://rksurwase.medium.com/efficient-concurrency-in-go-a-deep-dive-into-the-worker-pool-pattern-for-batch-processing-73cac5a5bdca",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "context-package",
+      "title": "`context` Package",
+      "description": "مباحث و تمرین‌های مرتبط با «`context` Package».",
+      "order": 27,
+      "children": [
+        {
+          "id": "common-usecases",
+          "title": "Common Usecases",
+          "description": "مباحث و تمرین‌های مرتبط با «Common Usecases».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Use Cases",
+              "type": "article",
+              "url": "https://go.dev/solutions/use-cases",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Versatility of Go: Ideal Use Cases for the Golang Programming",
+              "type": "article",
+              "url": "https://dev.to/adityabhuyan/the-versatility-of-go-ideal-use-cases-for-the-golang-programming-language-7co",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Go Concurrency Patterns: Context",
+          "type": "article",
+          "url": "https://go.dev/blog/context",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Complete Guide to Context in Golang",
+          "type": "article",
+          "url": "https://medium.com/@jamal.kaksouri/the-complete-guide-to-context-in-golang-efficient-concurrency-management-43d722f6eaea",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "concurrency-patterns",
+      "title": "Concurrency Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Concurrency Patterns».",
+      "order": 28,
+      "children": [
+        {
+          "id": "concurrency-patterns-item",
+          "title": "Concurrency Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Concurrency Patterns».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Go Concurrency Patterns: Pipelines and Cancellation",
+          "type": "article",
+          "url": "https://go.dev/blog/pipelines",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Go Concurrency Patterns: A Deep Dive",
+          "type": "article",
+          "url": "https://medium.com/@gopinathr143/go-concurrency-patterns-a-deep-dive-a2750f98a102",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Concurrency in Go",
+          "type": "article",
+          "url": "https://dev.to/santoshanand/mastering-concurrency-in-go-a-comprehensive-guide-5chi",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "sync-package",
+      "title": "`sync` Package",
+      "description": "مباحث و تمرین‌های مرتبط با «`sync` Package».",
+      "order": 29,
+      "children": [
+        {
+          "id": "sync-package-item",
+          "title": "`sync` Package",
+          "description": "مباحث و تمرین‌های مرتبط با «`sync` Package».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "sync package",
+          "type": "article",
+          "url": "https://pkg.go.dev/sync",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Golang Sync Package",
+          "type": "article",
+          "url": "https://medium.com/@asgrr/golang-sync-4787b18fee41",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Use of synchronization techniques in Golang",
+          "type": "article",
+          "url": "https://lebum.medium.com/use-of-synchronization-techniques-in-golang-53d75bc0a646",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "race-detection",
+      "title": "Race Detection",
+      "description": "مباحث و تمرین‌های مرتبط با «Race Detection».",
+      "order": 30,
+      "children": [
+        {
+          "id": "race-detection-item",
+          "title": "Race Detection",
+          "description": "مباحث و تمرین‌های مرتبط با «Race Detection».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Race Detection",
+          "type": "article",
+          "url": "https://go.dev/doc/articles/race_detector",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Go: Race Detector with ThreadSanitizer",
+          "type": "article",
+          "url": "https://medium.com/a-journey-with-go/go-race-detector-with-threadsanitizer-8e497f9e42db",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Race Detection and Data Race Patterns in Golang",
+          "type": "article",
+          "url": "https://www.sobyte.net/post/2022-06/go-data-race/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "standard-library",
+      "title": "Standard Library",
+      "description": "مباحث و تمرین‌های مرتبط با «Standard Library».",
+      "order": 31,
+      "children": [
+        {
+          "id": "i-o-file-handling",
+          "title": "I/O & File Handling",
+          "description": "مباحث و تمرین‌های مرتبط با «I/O & File Handling».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Building High-Performance File Processing Pipelines in Go",
+              "type": "article",
+              "url": "https://dev.to/aaravjoshi/building-high-performance-file-processing-pipelines-in-go-a-complete-guide-3opm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering File I/O in Go: A Complete Guide",
+              "type": "article",
+              "url": "https://thelinuxcode.com/golang-os-open/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Golang Fundamentals: File Handling and I/O",
+              "type": "article",
+              "url": "https://medium.com/@nagarjun_nagesh/golang-fundamentals-file-handling-and-i-o-502d50b96795",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "std package",
+          "type": "article",
+          "url": "https://pkg.go.dev/stds",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building Robust APIs with Go's Standard Library",
+          "type": "article",
+          "url": "https://dev.to/aaravjoshi/building-robust-apis-with-gos-standard-library-a-comprehensive-guide-3036",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use standard library packages in Golang",
+          "type": "article",
+          "url": "https://labex.io/tutorials/go-how-to-use-standard-library-packages-in-golang-446140",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "building-clis",
+      "title": "Building CLIs",
+      "description": "مباحث و تمرین‌های مرتبط با «Building CLIs».",
+      "order": 32,
+      "children": [
+        {
+          "id": "bubbletea",
+          "title": "bubbletea",
+          "description": "مباحث و تمرین‌های مرتبط با «bubbletea».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "charmbracelet/bubbletea",
+              "type": "article",
+              "url": "https://github.com/charmbracelet/bubbletea",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building UI of Golang CLI app with Bubble Tea",
+              "type": "article",
+              "url": "https://medium.com/@originalrad50/building-ui-of-golang-cli-app-with-bubble-tea-68b61e25445e",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Intro to Bubble Tea in Go",
+              "type": "article",
+              "url": "https://dev.to/andyhaskell/intro-to-bubble-tea-in-go-21lg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "urfave-cli",
+          "title": "urfave/cli",
+          "description": "مباحث و تمرین‌های مرتبط با «urfave/cli».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "urfave/cli",
+              "type": "article",
+              "url": "https://cli.urfave.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building Command Line Tools in Go with urfave/cli",
+              "type": "article",
+              "url": "https://zetcode.com/golang/urfave-cli/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Command-line Interfaces (CLIs)",
+          "type": "article",
+          "url": "https://go.dev/solutions/clis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building a Command Line Interface (CLI) tool in Golang",
+          "type": "article",
+          "url": "https://medium.com/@mgm06bm/building-a-command-line-interface-cli-tool-in-golang-a-step-by-step-guide-44a7aad488e4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building a feature rich Command Line Interface (CLI) in GO",
+          "type": "article",
+          "url": "https://blog.stackademic.com/building-a-feature-rich-command-line-interface-cli-in-go-42a127b090c8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "web-development",
+      "title": "Web Development",
+      "description": "مباحث و تمرین‌های مرتبط با «Web Development».",
+      "order": 33,
+      "children": [
+        {
+          "id": "net-http-standard",
+          "title": "net/http (standard)",
+          "description": "مباحث و تمرین‌های مرتبط با «net/http (standard)».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "http package",
+              "type": "article",
+              "url": "https://pkg.go.dev/net/http",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "net/http package in Go",
+              "type": "article",
+              "url": "https://medium.com/@emonemrulhasan35/net-http-package-in-go-e178c67d87f1",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Make an HTTP Server in Go",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-make-an-http-server-in-go",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "grpc-protocol-buffers",
+          "title": "gRPC & Protocol Buffers",
+          "description": "مباحث و تمرین‌های مرتبط با «gRPC & Protocol Buffers».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "gRPC package",
+              "type": "article",
+              "url": "https://pkg.go.dev/google.golang.org/grpc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building a GRPC Micro-Service in Go: A Comprehensive Guide",
+              "type": "article",
+              "url": "https://medium.com/@leodahal4/building-a-grpc-micro-service-in-go-a-comprehensive-guide-82b6812ed253",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding gRPC in Golang: A Comprehensive Guide",
+              "type": "article",
+              "url": "https://dev.to/madhusgowda/understanding-grpc-in-golang-a-comprehensive-guide-with-examples-84c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "http package",
+          "type": "article",
+          "url": "https://pkg.go.dev/net/http",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "net/http package in Go",
+          "type": "article",
+          "url": "https://medium.com/@emonemrulhasan35/net-http-package-in-go-e178c67d87f1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Concurrency in Golang",
+          "type": "article",
+          "url": "https://thelinuxcode.com/mastering-concurrency-in-golang-a-deep-dive-into-the-waitgroup/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "orms-db-access",
+      "title": "ORMs & DB Access",
+      "description": "مباحث و تمرین‌های مرتبط با «ORMs & DB Access».",
+      "order": 34,
+      "children": [
+        {
+          "id": "pgx",
+          "title": "pgx",
+          "description": "مباحث و تمرین‌های مرتبط با «pgx».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "pgx package",
+              "type": "article",
+              "url": "https://pkg.go.dev/github.com/jackc/pgx",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with PostgreSQL in Go using PGX",
+              "type": "article",
+              "url": "https://betterstack.com/community/guides/scaling-go/postgresql-pgx-golang/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Go ORMs Compared",
+          "type": "article",
+          "url": "https://dev.to/encore/go-orms-compared-2c8g",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Master Data Management in Go: ORM & Libraries Guide",
+          "type": "article",
+          "url": "https://medium.com/@romulo.gatto/master-data-management-in-go-orm-libraries-guide-cd30cd65cba0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "logging",
+      "title": "Logging",
+      "description": "مباحث و تمرین‌های مرتبط با «Logging».",
+      "order": 35,
+      "children": [
+        {
+          "id": "zerolog",
+          "title": "Zerolog",
+          "description": "مباحث و تمرین‌های مرتبط با «Zerolog».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "zerolog package",
+              "type": "article",
+              "url": "https://pkg.go.dev/github.com/rs/zerolog",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Complete Guide to Logging in Go with Zerolog",
+              "type": "article",
+              "url": "https://betterstack.com/community/guides/logging/zerolog/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Zerolog Golang - Complete Guide to Logging",
+              "type": "article",
+              "url": "https://signoz.io/guides/zerolog-golang/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Structured Logging with slog",
+          "type": "article",
+          "url": "https://go.dev/blog/slog",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Logging in Go with Slog: The Ultimate Guide",
+          "type": "article",
+          "url": "https://betterstack.com/community/guides/logging/logging-in-go/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Effective Logging in Go: Best Practices and Implementation",
+          "type": "article",
+          "url": "https://dev.to/fazal_mansuri_/effective-logging-in-go-best-practices-and-implementation-guide-23hp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "realtime-communication",
+      "title": "Realtime Communication",
+      "description": "مباحث و تمرین‌های مرتبط با «Realtime Communication».",
+      "order": 36,
+      "children": [
+        {
+          "id": "melody",
+          "title": "Melody",
+          "description": "مباحث و تمرین‌های مرتبط با «Melody».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Melody Package",
+              "type": "article",
+              "url": "https://pkg.go.dev/github.com/olahol/melody",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "olahol/melody: Minimalist websocket framework",
+              "type": "article",
+              "url": "https://github.com/olahol/melody",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Build a Realtime Chat Server With Go and WebSockets",
+              "type": "article",
+              "url": "https://gabrieltanner.org/blog/realtime-chat-go-websockets/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "http package",
+          "type": "article",
+          "url": "https://pkg.go.dev/net/http",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Implementing WebSockets in Golang",
+          "type": "article",
+          "url": "https://medium.com/wisemonks/implementing-websockets-in-golang-d3e8e219733b",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

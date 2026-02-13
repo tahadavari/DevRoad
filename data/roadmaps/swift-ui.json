@@ -1,0 +1,3103 @@
+{
+  "slug": "swift-ui",
+  "title": "Swift & Swift UI",
+  "description": "Step by step guide to learning Swift and Swift UI in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "swift-vs-objective-c",
+          "title": "Swift vs Objective-C",
+          "description": "مباحث و تمرین‌های مرتبط با «Swift vs Objective-C».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Objective-C vs Swift: iOS Comparison [2025 Update]",
+              "type": "article",
+              "url": "https://www.netguru.com/blog/objective-c-vs-swift",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Swift and Objective-C: An In-Depth Comparison of iOS Programming Languages",
+              "type": "article",
+              "url": "https://shakuro.com/blog/swift-vs-objective-c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-use-swift",
+          "title": "Why use Swift?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why use Swift?».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "About Swift",
+              "type": "article",
+              "url": "https://www.swift.org/about/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Programming in Swift: Benefits of This Popular Coding Language",
+              "type": "article",
+              "url": "https://www.coursera.org/articles/programming-in-swift",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why learn Swift – Swift for Complete Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ug6T-iFk5OY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-is-swift",
+          "title": "What is Swift?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Swift?».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Learn Swift | Codeacademy",
+              "type": "course",
+              "url": "https://www.codecademy.com/learn/learn-swift",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Swift Docs",
+              "type": "article",
+              "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutswift",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Swift",
+              "type": "article",
+              "url": "https://developer.apple.com/swift/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Swift Programming Tutorial – Full Course for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=8Xg7E9shq0U",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "where-swift-is-used",
+          "title": "Where Swift is used?",
+          "description": "مباحث و تمرین‌های مرتبط با «Where Swift is used?».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Develop for iOS",
+              "type": "article",
+              "url": "https://developer.apple.com/ios/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Develop for macOS",
+              "type": "article",
+              "url": "https://developer.apple.com/macos/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Swift on the Server",
+              "type": "article",
+              "url": "https://www.swift.org/documentation/server/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What You Can Do with Swift Outside the Apple Ecosystem",
+              "type": "article",
+              "url": "https://arc-sosangyo.medium.com/what-you-can-do-with-swift-outside-the-apple-ecosystem-a201778a7830",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Swift",
+          "type": "article",
+          "url": "https://www.swift.org/about/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SwiftUI",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/swiftui",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What’s the difference between Swift and SwiftUI?",
+          "type": "article",
+          "url": "https://www.hackingwithswift.com/quick-start/understanding-swift/whats-the-difference-between-swift-and-swiftui",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift in 100 Seconds",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=nAchMctX4YA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is SwiftUI? | In Under 10 Minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=K_OaH4nUI_Q",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "constants-variables",
+      "title": "Constants & Variables",
+      "description": "مباحث و تمرین‌های مرتبط با «Constants & Variables».",
+      "order": 2,
+      "children": [
+        {
+          "id": "constants-variables-item",
+          "title": "Constants & Variables",
+          "description": "مباحث و تمرین‌های مرتبط با «Constants & Variables».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Constants & Variables",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Constants-and-Variables",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to create constants and variables – Swift for Complete Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jlkcxTyM8m4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "installing-swift",
+      "title": "Installing Swift",
+      "description": "مباحث و تمرین‌های مرتبط با «Installing Swift».",
+      "order": 3,
+      "children": [
+        {
+          "id": "installing-swift-item",
+          "title": "Installing Swift",
+          "description": "مباحث و تمرین‌های مرتبط با «Installing Swift».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Installing Swift",
+          "type": "article",
+          "url": "https://www.swift.org/install/macos/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Quick and Easy Guide to Install Swift on Your System",
+          "type": "article",
+          "url": "https://www.dhiwise.com/post/quick-and-easy-guide-to-install-swift-on-your-system",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "type-annotations",
+      "title": "Type Annotations",
+      "description": "مباحث و تمرین‌های مرتبط با «Type Annotations».",
+      "order": 4,
+      "children": [
+        {
+          "id": "type-annotations-item",
+          "title": "Type Annotations",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Annotations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Type Annotations",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Type-Annotations",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use type annotations – Swift for Complete Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_FX8xCBmbeA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "print-string-interpolation",
+      "title": "Print & String Interpolation",
+      "description": "مباحث و تمرین‌های مرتبط با «Print & String Interpolation».",
+      "order": 5,
+      "children": [
+        {
+          "id": "print-string-interpolation-item",
+          "title": "Print & String Interpolation",
+          "description": "مباحث و تمرین‌های مرتبط با «Print & String Interpolation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Printing Constants and Variables",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Printing-Constants-and-Variables",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "String Interpolation",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters#String-Interpolation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Swift: String interpolation",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=3-I43GvrzsA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "comments",
+      "title": "Comments",
+      "description": "مباحث و تمرین‌های مرتبط با «Comments».",
+      "order": 6,
+      "children": [
+        {
+          "id": "comments-item",
+          "title": "Comments",
+          "description": "مباحث و تمرین‌های مرتبط با «Comments».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Comments",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Comments",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Comments",
+          "type": "article",
+          "url": "https://www.programiz.com/swift-programming/comments",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "semicolons",
+      "title": "Semicolons",
+      "description": "مباحث و تمرین‌های مرتبط با «Semicolons».",
+      "order": 7,
+      "children": [
+        {
+          "id": "semicolons-item",
+          "title": "Semicolons",
+          "description": "مباحث و تمرین‌های مرتبط با «Semicolons».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Semicolons",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Semicolons",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "operators",
+      "title": "Operators",
+      "description": "مباحث و تمرین‌های مرتبط با «Operators».",
+      "order": 8,
+      "children": [
+        {
+          "id": "operators-item",
+          "title": "Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Operators».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Basic operators",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Advanced Operators",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Operators",
+          "type": "article",
+          "url": "https://www.programiz.com/swift-programming/operators",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Ultimate Guide to Operators in Swift",
+          "type": "article",
+          "url": "https://www.appypievibe.ai/blog/swift-code/operators-swift-how-to/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Swift: Operators",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Svaq3jVy8sU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "if-else",
+      "title": "if / else",
+      "description": "مباحث و تمرین‌های مرتبط با «if / else».",
+      "order": 9,
+      "children": [
+        {
+          "id": "if-else-item",
+          "title": "if / else",
+          "description": "مباحث و تمرین‌های مرتبط با «if / else».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Conditional Statements",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Conditional-Statements",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift if, else statements",
+          "type": "article",
+          "url": "https://www.programiz.com/swift-programming/if-else-statement",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Tutorial for Beginners: Lesson 3 IF Statements",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=H_xErt38mWg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-functions",
+      "title": "Basic Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Functions».",
+      "order": 10,
+      "children": [
+        {
+          "id": "basic-functions-item",
+          "title": "Basic Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Functions",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Defining-and-Calling-Functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Functions",
+          "type": "article",
+          "url": "https://www.programiz.com/swift-programming/functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use Functions in Swift | Swift Basics #5",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=kr3SSplrJlw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "switch-case",
+      "title": "switch / case",
+      "description": "مباحث و تمرین‌های مرتبط با «switch / case».",
+      "order": 11,
+      "children": [
+        {
+          "id": "switch-case-item",
+          "title": "switch / case",
+          "description": "مباحث و تمرین‌های مرتبط با «switch / case».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Switch",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Switch",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use switch statements to check multiple conditions – Swift for Complete Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=cDpJy4Y7OYE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "parameters",
+      "title": "Parameters ",
+      "description": "مباحث و تمرین‌های مرتبط با «Parameters ».",
+      "order": 12,
+      "children": [
+        {
+          "id": "parameters-item",
+          "title": "Parameters ",
+          "description": "مباحث و تمرین‌های مرتبط با «Parameters ».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Function Parameters and Return Values",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Functions-With-Multiple-Parameters",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use Functions in Swift | Swift Basics #5",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=kr3SSplrJlw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "return-types",
+      "title": "Return Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Return Types».",
+      "order": 13,
+      "children": [
+        {
+          "id": "return-types-item",
+          "title": "Return Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Return Types».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Functions with Multiple Return Values",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Defining-and-Calling-Functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Use Function Return Types in Swift",
+          "type": "article",
+          "url": "https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/2-use-function-return-types-in-swift",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to use Functions in Swift | Swift Basics #5",
+          "type": "video",
+          "url": "http://youtube.com/watch?v=kr3SSplrJlw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "loops",
+      "title": "Loops",
+      "description": "مباحث و تمرین‌های مرتبط با «Loops».",
+      "order": 14,
+      "children": [
+        {
+          "id": "loops-item",
+          "title": "Loops",
+          "description": "مباحث و تمرین‌های مرتبط با «Loops».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Loops",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Loops in Swift",
+          "type": "article",
+          "url": "https://medium.com/icommunity/loops-in-swift-8a9181fb364a",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "error-handling",
+      "title": "Error Handling",
+      "description": "مباحث و تمرین‌های مرتبط با «Error Handling».",
+      "order": 15,
+      "children": [
+        {
+          "id": "propagating",
+          "title": "propagating",
+          "description": "مباحث و تمرین‌های مرتبط با «propagating».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Propagating Errors Using Throwing Functions",
+              "type": "article",
+              "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#Propagating-Errors-Using-Throwing-Functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Propagate Swift Errors Using Throwing Functions",
+              "type": "article",
+              "url": "https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/2-propagate-swift-errors-using-throwing-functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Error Handling",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Error Handling Made Easy: A Practical Guide with Code Examples",
+          "type": "article",
+          "url": "https://vikramios.medium.com/swift-error-handling-4a206acd9710",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Error Handling: Try, Throw & Do-Catch Explained",
+          "type": "article",
+          "url": "https://bugfender.com/blog/swift-error-handling/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "function-types",
+      "title": "Function Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Function Types».",
+      "order": 16,
+      "children": [
+        {
+          "id": "function-types-item",
+          "title": "Function Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Function Types».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Function Types",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions#Function-Types",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "#55 Swift Programming - Using Functions Types",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=UhE1VZjDK_c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "nested-functions",
+      "title": "Nested Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Nested Functions».",
+      "order": 17,
+      "children": [
+        {
+          "id": "nested-functions-item",
+          "title": "Nested Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Nested Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Nested Functions",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions#Nested-Functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Nested Functions",
+          "type": "article",
+          "url": "https://www.programiz.com/swift-programming/nested-functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "closures",
+      "title": "Closures",
+      "description": "مباحث و تمرین‌های مرتبط با «Closures».",
+      "order": 18,
+      "children": [
+        {
+          "id": "closures-item",
+          "title": "Closures",
+          "description": "مباحث و تمرین‌های مرتبط با «Closures».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Closures",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to create and use closures – Swift for Complete Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=F68lyXkkfCY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Closures Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ND44vQ5iJyc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "trailing-closures",
+      "title": "Trailing Closures",
+      "description": "مباحث و تمرین‌های مرتبط با «Trailing Closures».",
+      "order": 19,
+      "children": [
+        {
+          "id": "trailing-closures-item",
+          "title": "Trailing Closures",
+          "description": "مباحث و تمرین‌های مرتبط با «Trailing Closures».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Trailing Closures",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures#Trailing-Closures",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Trailing closure syntax",
+          "type": "video",
+          "url": "https://www.hackingwithswift.com/sixty/6/5/trailing-closure-syntax",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "enumerations",
+      "title": "Enumerations",
+      "description": "مباحث و تمرین‌های مرتبط با «Enumerations».",
+      "order": 20,
+      "children": [
+        {
+          "id": "enumerations-item",
+          "title": "Enumerations",
+          "description": "مباحث و تمرین‌های مرتبط با «Enumerations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Enumerations",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Swift: Enumerations",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1Deixr4KQ3Q&embeds_referring_euri=https%3A%2F%2Fwww.hackingwithswift.com%2F&source_ve_path=MjM4NTE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "protocols",
+      "title": "Protocols",
+      "description": "مباحث و تمرین‌های مرتبط با «Protocols».",
+      "order": 21,
+      "children": [
+        {
+          "id": "protocols-item",
+          "title": "Protocols",
+          "description": "مباحث و تمرین‌های مرتبط با «Protocols».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Protocols",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Protocols",
+          "type": "article",
+          "url": "https://www.programiz.com/swift-programming/protocols",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Power of Protocols in Swift",
+          "type": "article",
+          "url": "https://medium.com/@mumensh/the-power-of-protocols-in-swift-4cffcfa62ab1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Protocols - An Introduction",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=vmQnTMWaDiY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Protocol in Swift and SwiftUI View protocol | Swift Basics #17",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=nJmrkRlRu88",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "structures-classes",
+      "title": "Structures & Classes",
+      "description": "مباحث و تمرین‌های مرتبط با «Structures & Classes».",
+      "order": 22,
+      "children": [
+        {
+          "id": "structures-classes-item",
+          "title": "Structures & Classes",
+          "description": "مباحث و تمرین‌های مرتبط با «Structures & Classes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Structures & Classes",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Choosing Between Structures and Classes",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/swift/choosing-between-structures-and-classes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Class vs Struct in swift",
+          "type": "article",
+          "url": "https://medium.com/@muhammad.cse11/class-vs-struct-in-swift-dcc7ad6f5a99",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Swift: Structs",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=d13uCPrmEXM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Swift: Classes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=s_x49coTM4g",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift - Class vs. Struct Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=LtlbB4-6k_U",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "generics",
+      "title": "Generics",
+      "description": "مباحث و تمرین‌های مرتبط با «Generics».",
+      "order": 23,
+      "children": [
+        {
+          "id": "generics-item",
+          "title": "Generics",
+          "description": "مباحث و تمرین‌های مرتبط با «Generics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Generics",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Generics in Swift explained with code examples",
+          "type": "article",
+          "url": "https://www.avanderlee.com/swift/generics-constraints/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Generics for Beginners - Eliminate Code Duplication",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=a3AH0ItFTKU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "what-is-swiftui",
+      "title": "What is SwiftUI",
+      "description": "مباحث و تمرین‌های مرتبط با «What is SwiftUI».",
+      "order": 24,
+      "children": [
+        {
+          "id": "uikit-vs-swiftui",
+          "title": "UIKit vs SwiftUI",
+          "description": "مباحث و تمرین‌های مرتبط با «UIKit vs SwiftUI».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "UIKit",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/uikit",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Answering the big question: should you learn SwiftUI, UIKit, or both?",
+              "type": "article",
+              "url": "https://www.hackingwithswift.com/quick-start/swiftui/answering-the-big-question-should-you-learn-swiftui-uikit-or-both",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Really Are The Differences Between SwiftUI and UIKit?",
+              "type": "article",
+              "url": "https://dev.to/raphacmartin/what-really-are-the-differences-between-swiftui-and-uikit-1o2j",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Should I Learn SwiftUI or UIKit?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=HIiVxbEbK1s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "SwiftUI",
+          "type": "article",
+          "url": "https://developer.apple.com/swiftui/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SwiftUI essentials",
+          "type": "article",
+          "url": "https://developer.apple.com/videos/play/wwdc2024/10150/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SwiftUI Docs",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/swiftui",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SwiftUI Fundamentals | FULL COURSE | Beginner Friendly",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=b1oC7sLIgpI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn SwiftUI online for FREE | Bootcamp #0",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-Yp0LS61Nxk&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "app-lifecycle",
+      "title": "App lifecycle",
+      "description": "مباحث و تمرین‌های مرتبط با «App lifecycle».",
+      "order": 25,
+      "children": [
+        {
+          "id": "app-lifecycle-item",
+          "title": "App lifecycle",
+          "description": "مباحث و تمرین‌های مرتبط با «App lifecycle».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Simple Life(cycle) of a SwiftUI View in 2025",
+          "type": "article",
+          "url": "https://captainswiftui.substack.com/p/the-simple-lifecycle-of-a-swiftui",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SwiftUI View Lifecycle",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5pqc7y43auQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "views",
+      "title": "Views",
+      "description": "مباحث و تمرین‌های مرتبط با «Views».",
+      "order": 26,
+      "children": [
+        {
+          "id": "views-item",
+          "title": "Views",
+          "description": "مباحث و تمرین‌های مرتبط با «Views».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "View fundamentals",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/swiftui/view-fundamentals",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "View",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/swiftui/view",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Creating and combining views Tuttorial",
+          "type": "article",
+          "url": "https://developer.apple.com/tutorials/swiftui/creating-and-combining-views",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "5 SwiftUI Concepts Every Beginning SwiftUI Developer Needs To Know (2020)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=51xIHDm_BDs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-flow",
+      "title": "Data Flow",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Flow».",
+      "order": 27,
+      "children": [
+        {
+          "id": "data-flow-item",
+          "title": "Data Flow",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Flow».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Managing data flow between views",
+          "type": "article",
+          "url": "https://developer.apple.com/tutorials/app-dev-training/managing-data-flow-between-views",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Model Data",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/swiftui/model-data",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SwiftUI Data Flow: Passing Data Between Views",
+          "type": "article",
+          "url": "https://matteomanferdini.com/swiftui-data-flow/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Flow Through SwiftUI",
+          "type": "video",
+          "url": "https://developer.apple.com/la/videos/play/wwdc2019/226/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "animations",
+      "title": "Animations",
+      "description": "مباحث و تمرین‌های مرتبط با «Animations».",
+      "order": 28,
+      "children": [
+        {
+          "id": "implicit-animations",
+          "title": "Implicit animations",
+          "description": "مباحث و تمرین‌های مرتبط با «Implicit animations».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Animation",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/animation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Difference Between Implicit and Explicit Animations in SwiftUI",
+              "type": "article",
+              "url": "https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating implicit animations",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=D3N-GA_J73g",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "transitions",
+          "title": "Transitions",
+          "description": "مباحث و تمرین‌های مرتبط با «Transitions».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Transition",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/transition",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Animating views and transitions",
+              "type": "article",
+              "url": "https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating view transitions in SwiftUI",
+              "type": "article",
+              "url": "https://www.createwithswift.com/creating-view-transitions-in-swiftui/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to add and remove views with a transition",
+              "type": "article",
+              "url": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-and-remove-views-with-a-transition",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to use Transition in SwiftUI | Bootcamp #27",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=X6FAIa0nJoA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "animatable-protocol",
+          "title": "Animatable Protocol",
+          "description": "مباحث و تمرین‌های مرتبط با «Animatable Protocol».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Animatable",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/SwiftUI/Animatable",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to create animatable views, modifiers, and more",
+              "type": "article",
+              "url": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-animatable-views-modifiers-and-more",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The magic of Animatable values in SwiftUI",
+              "type": "article",
+              "url": "https://swiftwithmajid.com/2020/06/17/the-magic-of-animatable-values-in-swiftui/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Animate Custom shapes with AnimateableData in SwiftUI | Advanced Learning #7",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=kzrtiPbR3LQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Animations",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/swiftui/animations",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Animating views and transitions",
+          "type": "article",
+          "url": "https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WWDC23: Explore SwiftUI animation | Apple",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IuSuHJs5-KE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Customizing animations in SwiftUI – Animation SwiftUI Tutorial 2/8",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8TG_dMF0s7g",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "user-interaction",
+      "title": "User Interaction",
+      "description": "مباحث و تمرین‌های مرتبط با «User Interaction».",
+      "order": 29,
+      "children": [
+        {
+          "id": "ui-controls",
+          "title": "UI Controls",
+          "description": "مباحث و تمرین‌های مرتبط با «UI Controls».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Controls and indicators",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/controls-and-indicators",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Working with UI controls",
+              "type": "article",
+              "url": "https://developer.apple.com/tutorials/swiftui/working-with-ui-controls",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Populating SwiftUI menus with adaptive controls",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/populating-swiftui-menus-with-adaptive-controls",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Button",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/button",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Toggle",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/toggle",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Slider",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/slider",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Divider",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/divider",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "gestures",
+          "title": "Gestures",
+          "description": "مباحث و تمرین‌های مرتبط با «Gestures».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Gerstures",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/gestures",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Adding interactivity with gestures",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/adding-interactivity-with-gestures",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to use gestures in SwiftUI – Flashzilla SwiftUI Tutorial 1/13",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Kl_3xrZBEFY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "localization",
+          "title": "Localization",
+          "description": "مباحث و تمرین‌های مرتبط با «Localization».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Preparing views for localization",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/SwiftUI/Preparing-views-for-localization",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Localize Your Apps to Support Multiple Languages — iOS Localization in SwiftUI",
+              "type": "article",
+              "url": "https://medium.com/simform-engineering/localize-your-apps-to-support-multiple-languages-ios-localization-in-swiftui-c72d891a3e9",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Step-by-Step SwiftUI Tutorial",
+              "type": "article",
+              "url": "https://phrase.com/blog/posts/swiftui-tutorial-localization/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WWDC25: Code-along: Explore localization with Xcode | Apple",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=dcfrrz9iCEE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to translate and localize an iOS app with string catalogs in Xcode 15",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=slOQbTacj4k&t=182s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "drag-drop",
+          "title": "Drag & Drop",
+          "description": "مباحث و تمرین‌های مرتبط با «Drag & Drop».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Drag & Drop",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/drag-and-drop",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Adopting drag and drop using SwiftUI",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/SwiftUI/Adopting-drag-and-drop-using-SwiftUI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Making a view into a drag source",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/making-a-view-into-a-drag-source",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Drag and Drop in SwiftUI",
+              "type": "article",
+              "url": "https://medium.com/@jpmtech/drag-and-drop-in-swiftui-2ff65c263d2e",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SwiftUI Drag and Drop with Transferable Custom Object",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lsXqJKm4l-U",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "accessibility",
+          "title": "Accessibility",
+          "description": "مباحث و تمرین‌های مرتبط با «Accessibility».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Accessibility modifiers",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/view-accessibility",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Accessibility: Introduction",
+              "type": "article",
+              "url": "https://www.hackingwithswift.com/books/ios-swiftui/accessibility-introduction",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering SwiftUI Accessibility: A Comprehensive Guide",
+              "type": "article",
+              "url": "https://medium.com/@GetInRhythm/mastering-swiftui-accessibility-a-comprehensive-guide-919358e9c01a",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Catch up on accessibility in SwiftUI",
+              "type": "video",
+              "url": "https://developer.apple.com/videos/play/wwdc2024/10073/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "access-control",
+      "title": "Access Control",
+      "description": "مباحث و تمرین‌های مرتبط با «Access Control».",
+      "order": 30,
+      "children": [
+        {
+          "id": "access-control-item",
+          "title": "Access Control",
+          "description": "مباحث و تمرین‌های مرتبط با «Access Control».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Access Control",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Access Control",
+          "type": "article",
+          "url": "https://www.programiz.com/swift-programming/access-control",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Access Control: A Developer’s Guide to open, public, internal, fileprivate and private",
+          "type": "article",
+          "url": "https://mehrdad-ahmadian.medium.com/swift-access-control-a-developers-guide-to-open-public-internal-fileprivate-and-private-79d2dd595287",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Swift: Access control",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SVXtWw63C8k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "arc",
+      "title": "ARC",
+      "description": "مباحث و تمرین‌های مرتبط با «ARC».",
+      "order": 31,
+      "children": [
+        {
+          "id": "arc-item",
+          "title": "ARC",
+          "description": "مباحث و تمرین‌های مرتبط با «ARC».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Automatic Reference Counting",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A detailed explanation of how ARC works in Swift",
+          "type": "article",
+          "url": "https://medium.com/@ahmed044/a-detailed-explanation-of-how-arc-works-in-swift-8076fc79e03b",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Swift ARC: The Complete Guide to Memory Management",
+          "type": "article",
+          "url": "https://www.dhiwise.com/post/understanding-swift-arc-complete-guide-to-memory-management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WWDC21: ARC in Swift: Basics and beyond | Apple",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=GFq6sV2jD_c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "result-builders",
+      "title": "Result Builders",
+      "description": "مباحث و تمرین‌های مرتبط با «Result Builders».",
+      "order": 32,
+      "children": [
+        {
+          "id": "result-builders-item",
+          "title": "Result Builders",
+          "description": "مباحث و تمرین‌های مرتبط با «Result Builders».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Result-Building Methods",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#resultBuilder",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Result builders",
+          "type": "article",
+          "url": "https://www.hackingwithswift.com/swift/5.4/result-builders",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Result builders in Swift explained with code examples",
+          "type": "article",
+          "url": "https://www.avanderlee.com/swift/result-builders/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Result Builders in Action: Simplifying HTML Generation in Swift",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=kZ7JPFUVv1w",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WWDC21: Write a DSL in Swift using result builders | Apple",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=JODl427Ff_0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "macros",
+      "title": "Macros",
+      "description": "مباحث و تمرین‌های مرتبط با «Macros».",
+      "order": 33,
+      "children": [
+        {
+          "id": "macros-item",
+          "title": "Macros",
+          "description": "مباحث و تمرین‌های مرتبط با «Macros».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Macros",
+          "type": "article",
+          "url": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#resultBuilder",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Applying Macros",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/swift/applying-macros",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Macros: Extend Swift with New Kinds of Expressions",
+          "type": "article",
+          "url": "https://www.avanderlee.com/swift/macros/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Macros",
+          "type": "article",
+          "url": "https://www.hackingwithswift.com/swift/5.9/macros",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Macros 101: Your Step-by-Step Guide To Crafting Your First Macro!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NGpM9-t9tgs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-persistance",
+      "title": "Data persistance",
+      "description": "مباحث و تمرین‌های مرتبط با «Data persistance».",
+      "order": 34,
+      "children": [
+        {
+          "id": "userdefaults-appstorage",
+          "title": "UserDefaults, AppStorage",
+          "description": "مباحث و تمرین‌های مرتبط با «UserDefaults, AppStorage».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "UserDefaults",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/foundation/userdefaults",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AppStorage",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/swiftui/appstorage",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "User Defaults reading and writing in Swift",
+              "type": "article",
+              "url": "https://www.avanderlee.com/swift/user-defaults-preferences/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is the @AppStorage property wrapper?",
+              "type": "article",
+              "url": "https://www.hackingwithswift.com/quick-start/swiftui/what-is-the-appstorage-property-wrapper",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "@AppStorage explained and replicated for a better alternative",
+              "type": "article",
+              "url": "https://www.avanderlee.com/swift/appstorage-explained/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Storing user settings with UserDefaults",
+              "type": "video",
+              "url": "https://www.hackingwithswift.com/books/ios-swiftui/storing-user-settings-with-userdefaults",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to use @AppStorage in SwiftUI | Bootcamp #52",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zyuSUrfelw8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Persisting data",
+          "type": "article",
+          "url": "https://developer.apple.com/tutorials/app-dev-training/persisting-data",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Adding and editing persistent data in your app",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/SwiftData/Adding-and-editing-persistent-data-in-your-app",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Guide to Persistence Storage in iOS",
+          "type": "article",
+          "url": "https://medium.com/mobile-app-development-publication/a-guide-to-persistence-storage-in-ios-a8b4f7355486",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "iOS Data Persistence: A Guide for Swift Developers",
+          "type": "article",
+          "url": "https://bugfender.com/blog/ios-data-persistence/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "swift-package-manager",
+      "title": "Swift Package Manager",
+      "description": "مباحث و تمرین‌های مرتبط با «Swift Package Manager».",
+      "order": 35,
+      "children": [
+        {
+          "id": "plugins",
+          "title": "Plugins",
+          "description": "مباحث و تمرین‌های مرتبط با «Plugins».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Plugins",
+              "type": "article",
+              "url": "https://docs.swift.org/swiftpm/documentation/packagemanagerdocs/plugins/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Meet Swift Package plugins",
+              "type": "article",
+              "url": "https://wwdcnotes.com/documentation/wwdcnotes/wwdc22-110359-meet-swift-package-plugins/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WWDC22: Create Swift Package plugins | Apple",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=JiyZmB6aX30",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WWDC22: Meet Swift Package plugins | Apple",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Oe5JPnVNhRo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Swift Package Manager",
+          "type": "article",
+          "url": "https://docs.swift.org/swiftpm/documentation/packagemanagerdocs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "swift-package-manager",
+          "type": "article",
+          "url": "https://github.com/swiftlang/swift-package-manager",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering Swift Package Manager: A Comprehensive Guide",
+          "type": "article",
+          "url": "https://medium.com/@dipenapanchasara/mastering-swift-package-manager-a-comprehensive-guide-5e06f29d812d",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "app-architecture",
+      "title": "App Architecture",
+      "description": "مباحث و تمرین‌های مرتبط با «App Architecture».",
+      "order": 36,
+      "children": [
+        {
+          "id": "mvvm",
+          "title": "MVVM",
+          "description": "مباحث و تمرین‌های مرتبط با «MVVM».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Swift Tutorial: An Introduction to the MVVM Design Pattern",
+              "type": "article",
+              "url": "https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introducing MVVM into your SwiftUI project",
+              "type": "article",
+              "url": "https://www.hackingwithswift.com/books/ios-swiftui/introducing-mvvm-into-your-swiftui-project",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SwiftUI - Intro to MVVM | Example Refactor | Model View ViewModel",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=FwGMU_Grnf8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Exploring the structure of a SwiftUI app",
+          "type": "article",
+          "url": "https://developer.apple.com/tutorials/swiftui-concepts/exploring-the-structure-of-a-swiftui-app",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "xChoosing a Design Pattern for your SwiftUI App",
+          "type": "article",
+          "url": "https://medium.com/@alexanderson_16451/choosing-a-design-pattern-for-your-swiftui-app-163c06ffcd9b",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "swift-package-index",
+      "title": "Swift Package Index",
+      "description": "مباحث و تمرین‌های مرتبط با «Swift Package Index».",
+      "order": 37,
+      "children": [
+        {
+          "id": "swift-package-index-item",
+          "title": "Swift Package Index",
+          "description": "مباحث و تمرین‌های مرتبط با «Swift Package Index».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Swift Package Index",
+          "type": "article",
+          "url": "https://swiftpackageindex.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Swift Package Index - How To Use It",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ePzGOuvjlpI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 38,
+      "children": [
+        {
+          "id": "xctest",
+          "title": "XCTest",
+          "description": "مباحث و تمرین‌های مرتبط با «XCTest».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "XCTest",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/xctest",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Migrating a test from XCTest",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/Testing/MigratingFromXCTest",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating our first unit test using XCTest",
+              "type": "article",
+              "url": "https://www.hackingwithswift.com/read/39/8/user-interface-testing-with-xctest",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hello Swift Testing, Goodbye XCTest",
+              "type": "article",
+              "url": "https://leocoout.medium.com/welcome-swift-testing-goodbye-xctest-7501b7a5b304",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unit Testing in iOS with XCTest",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=YR3PgwKKraw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "server-frameworks",
+      "title": "Server Frameworks",
+      "description": "مباحث و تمرین‌های مرتبط با «Server Frameworks».",
+      "order": 39,
+      "children": [
+        {
+          "id": "mongokitten",
+          "title": "MongoKitten",
+          "description": "مباحث و تمرین‌های مرتبط با «MongoKitten».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "MongoKitten",
+              "type": "article",
+              "url": "https://github.com/orlandos-nl/MongoKitten",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with MongoDB in Swift using MongoKitten",
+              "type": "article",
+              "url": "https://swiftonserver.com/getting-started-with-mongokitten/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MongoKitten Tutorial",
+              "type": "article",
+              "url": "https://swiftpackageindex.com/orlandos-nl/mongokitten/7.9.8/tutorials/intro",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "logging-debugging",
+      "title": "Logging & Debugging",
+      "description": "مباحث و تمرین‌های مرتبط با «Logging & Debugging».",
+      "order": 40,
+      "children": [
+        {
+          "id": "xcode-debugging",
+          "title": "XCode debugging",
+          "description": "مباحث و تمرین‌های مرتبط با «XCode debugging».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Debugging",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/xcode/debugging",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Stepping through code and inspecting variables to isolate bugs",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/xcode/stepping-through-code-and-inspecting-variables-to-isolate-bugs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building your app to include debugging information",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/xcode/building-your-app-to-include-debugging-information",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Xcode 16 Debugging Tutorial for Beginners (2025)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ZJmUeOT6c-Y",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WWDC24: Xcode essentials | Apple",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=EN7-6Oj7cL0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "swiftui-inspector",
+          "title": "SwiftUI inspector",
+          "description": "مباحث و تمرین‌های مرتبط با «SwiftUI inspector».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "inspector",
+              "type": "article",
+              "url": "https://developer.apple.com/documentation/SwiftUI/View/inspector(isPresented:content:)",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to add an inspector to any view",
+              "type": "article",
+              "url": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-an-inspector-to-any-view",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Presenting an Inspector with SwiftUI",
+              "type": "article",
+              "url": "https://www.createwithswift.com/presenting-an-inspector-with-swiftui/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Inspectors in SwiftUI: Discover the details",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=l0ksmCylJRc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cocoalumberjack",
+          "title": "CocoaLumberjack",
+          "description": "مباحث و تمرین‌های مرتبط با «CocoaLumberjack».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "CocoaLumberjack",
+              "type": "article",
+              "url": "https://github.com/CocoaLumberjack/CocoaLumberjack",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "iOS — How to Setup Logging Correctly with CocoaLumberjack",
+              "type": "article",
+              "url": "https://canopas.com/ios-how-to-setup-logging-correctly-with-cocoalumberjack-37836ec821b0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "https://developer.apple.com/documentation/os/logging",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/os/logging",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Diagnosing and resolving bugs in your running app",
+          "type": "article",
+          "url": "https://developer.apple.com/documentation/xcode/diagnosing-and-resolving-bugs-in-your-running-app",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Xcode 16 Debugging Tutorial for Beginners (2025)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ZJmUeOT6c-Y",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking-libraries",
+      "title": "Networking Libraries",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking Libraries».",
+      "order": 41,
+      "children": [
+        {
+          "id": "alamofire",
+          "title": "Alamofire",
+          "description": "مباحث و تمرین‌های مرتبط با «Alamofire».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Alamofire",
+              "type": "article",
+              "url": "https://github.com/Alamofire/Alamofire",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Alamofire Tutorial with Swift (Quickstart)",
+              "type": "article",
+              "url": "https://codewithchris.com/alamofire/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "ides",
+      "title": "IDEs",
+      "description": "مباحث و تمرین‌های مرتبط با «IDEs».",
+      "order": 42,
+      "children": [
+        {
+          "id": "ides-item",
+          "title": "IDEs",
+          "description": "مباحث و تمرین‌های مرتبط با «IDEs».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "5 Best Swift IDEs & Text Editors",
+          "type": "article",
+          "url": "https://www.bairesdev.com/blog/best-swift-ide-text-editor/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "static-linux-sdk",
+      "title": "Static Linux SDK",
+      "description": "مباحث و تمرین‌های مرتبط با «Static Linux SDK».",
+      "order": 43,
+      "children": [
+        {
+          "id": "static-linux-sdk-item",
+          "title": "Static Linux SDK",
+          "description": "مباحث و تمرین‌های مرتبط با «Static Linux SDK».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Getting Started withStatic Linux SDK",
+          "type": "article",
+          "url": "https://www.swift.org/documentation/articles/static-linux-getting-started.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "sdks-for-wasm",
+      "title": "SDKs for Wasm",
+      "description": "مباحث و تمرین‌های مرتبط با «SDKs for Wasm».",
+      "order": 44,
+      "children": [
+        {
+          "id": "sdks-for-wasm-item",
+          "title": "SDKs for Wasm",
+          "description": "مباحث و تمرین‌های مرتبط با «SDKs for Wasm».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Getting Started with Swift SDKs for WebAssembly",
+          "type": "article",
+          "url": "https://www.swift.org/documentation/articles/wasm-getting-started.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "swift-for-server-apps",
+      "title": "Swift for Server Apps",
+      "description": "مباحث و تمرین‌های مرتبط با «Swift for Server Apps».",
+      "order": 45,
+      "children": [
+        {
+          "id": "swift-for-server-apps-item",
+          "title": "Swift for Server Apps",
+          "description": "مباحث و تمرین‌های مرتبط با «Swift for Server Apps».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Swift on Server",
+          "type": "article",
+          "url": "https://www.swift.org/documentation/server/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,1279 @@
+{
+  "slug": "vue",
+  "title": "Vue",
+  "description": "Everything that is there to learn about Vue and the ecosystem in 2026.",
+  "steps": [
+    {
+      "id": "app-configurations",
+      "title": "App Configurations",
+      "description": "مباحث و تمرین‌های مرتبط با «App Configurations».",
+      "order": 1,
+      "children": [
+        {
+          "id": "error-warn-handler",
+          "title": "Error / Warn Handler",
+          "description": "مباحث و تمرین‌های مرتبط با «Error / Warn Handler».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Debugging Documentation",
+              "type": "article",
+              "url": "https://vuejs.org/v2/cookbook/debugging-in-vscode.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "global-properties",
+          "title": "Global Properties",
+          "description": "مباحث و تمرین‌های مرتبط با «Global Properties».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Application API - globalProperties",
+              "type": "article",
+              "url": "https://vuejs.org/api/application.html#app-config-globalproperties",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vue.js Global Properties",
+              "type": "article",
+              "url": "https://blog.logrocket.com/vue-js-globalproperties/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "performance",
+          "title": "Performance",
+          "description": "مباحث و تمرین‌های مرتبط با «Performance».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "How to Optimize Performance in Vue.js Applications: Beginner to Advanced Guide",
+              "type": "article",
+              "url": "https://dev.to/delia_code/how-to-optimize-performance-in-vuejs-applications-beginner-to-advanced-guide-53db",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vue Directives Basics",
+              "type": "article",
+              "url": "https://vuejs.org/guide/best-practices/performance.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Pinia Documentation",
+              "type": "article",
+              "url": "https://pinia.vuejs.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Webpack Documentation",
+              "type": "article",
+              "url": "https://webpack.js.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vue Virtual Scroller",
+              "type": "article",
+              "url": "https://github.com/Akryum/vue-virtual-scroller",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vue Devtools Documentation",
+              "type": "article",
+              "url": "https://devtools.vuejs.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vue Best Practices",
+              "type": "article",
+              "url": "https://vuejs.org/guide/best-practices/overview.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Vue.js Documentation",
+          "type": "article",
+          "url": "https://vuejs.org/api/application.html#app-config",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "components",
+      "title": "Components",
+      "description": "مباحث و تمرین‌های مرتبط با «Components».",
+      "order": 2,
+      "children": [
+        {
+          "id": "component-registration",
+          "title": "Component Registration",
+          "description": "مباحث و تمرین‌های مرتبط با «Component Registration».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Component Registration",
+              "type": "article",
+              "url": "https://vuejs.org/guide/components/registration.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "single-file-components",
+          "title": "Single File Components",
+          "description": "مباحث و تمرین‌های مرتبط با «Single File Components».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Single File Components",
+              "type": "article",
+              "url": "https://vuejs.org/guide/scaling-up/sfc.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "v-model",
+          "title": "v-model",
+          "description": "مباحث و تمرین‌های مرتبط با «v-model».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Vue.js Guide",
+              "type": "article",
+              "url": "https://vuejs.org/guide/components/v-model.html#component-v-model",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "attribute-inheritance",
+          "title": "Attribute Inheritance",
+          "description": "مباحث و تمرین‌های مرتبط با «Attribute Inheritance».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Fallthrough Attributes",
+              "type": "article",
+              "url": "https://vuejs.org/guide/components/attrs.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Components Basics",
+          "type": "article",
+          "url": "https://vuejs.org/guide/essentials/component-basics.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Components in Depth",
+          "type": "article",
+          "url": "https://vuejs.org/guide/components/registration.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "templates",
+      "title": "Templates",
+      "description": "مباحث و تمرین‌های مرتبط با «Templates».",
+      "order": 3,
+      "children": [
+        {
+          "id": "templates-item",
+          "title": "Templates",
+          "description": "مباحث و تمرین‌های مرتبط با «Templates».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Template Syntax",
+          "type": "article",
+          "url": "https://vuejs.org/guide/essentials/template-syntax.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-styles",
+      "title": "API Styles",
+      "description": "مباحث و تمرین‌های مرتبط با «API Styles».",
+      "order": 4,
+      "children": [
+        {
+          "id": "options-api",
+          "title": "Options API",
+          "description": "مباحث و تمرین‌های مرتبط با «Options API».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "TypeScript with Options API",
+              "type": "article",
+              "url": "https://vuejs.org/guide/typescript/options-api.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Options API Documentation",
+              "type": "article",
+              "url": "https://vuejs.org/api/#options-api",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "composition-api",
+          "title": "Composition API",
+          "description": "مباحث و تمرین‌های مرتبط با «Composition API».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "TypeScript with Composition API",
+              "type": "article",
+              "url": "https://vuejs.org/guide/typescript/composition-api.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Composition API FAQ",
+              "type": "article",
+              "url": "https://vuejs.org/guide/extras/composition-api-faq.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Composition API",
+              "type": "article",
+              "url": "https://vuejs.org/api/#composition-api",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vue 3 Composition API",
+              "type": "article",
+              "url": "https://www.thisdot.co/blog/vue-3-composition-api-ref-and-reactive",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Vue.js",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/vuejs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Difference Between the Composition API and Options API in Vue",
+          "type": "article",
+          "url": "https://fjolt.com/article/vue-composition-api-vs-options-api",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "directives",
+      "title": "Directives",
+      "description": "مباحث و تمرین‌های مرتبط با «Directives».",
+      "order": 5,
+      "children": [
+        {
+          "id": "directives-item",
+          "title": "Directives",
+          "description": "مباحث و تمرین‌های مرتبط با «Directives».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Directives Documentation",
+          "type": "article",
+          "url": "https://vuejs.org/guide/essentials/template-syntax.html#directives",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Built-in Directives",
+          "type": "article",
+          "url": "https://vuejs.org/api/built-in-directives.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "lifecycle-hooks",
+      "title": "Lifecycle Hooks",
+      "description": "مباحث و تمرین‌های مرتبط با «Lifecycle Hooks».",
+      "order": 6,
+      "children": [
+        {
+          "id": "lifecycle-hooks-item",
+          "title": "Lifecycle Hooks",
+          "description": "مباحث و تمرین‌های مرتبط با «Lifecycle Hooks».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Life Cycle Hooks",
+          "type": "article",
+          "url": "https://vuejs.org/guide/essentials/lifecycle.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Lifecycles of Vue.js",
+          "type": "article",
+          "url": "https://dev.to/amolikvivian/the-lifecycles-of-vue-js-lhh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about React Hooks",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/react-hooks?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "forms-handling",
+      "title": "Forms Handling",
+      "description": "مباحث و تمرین‌های مرتبط با «Forms Handling».",
+      "order": 7,
+      "children": [
+        {
+          "id": "input-bindings",
+          "title": "Input Bindings",
+          "description": "مباحث و تمرین‌های مرتبط با «Input Bindings».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Input Bindings",
+              "type": "article",
+              "url": "https://vuejs.org/guide/essentials/forms",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "v-model-2",
+          "title": "v-model",
+          "description": "مباحث و تمرین‌های مرتبط با «v-model».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Form Input Bindings",
+              "type": "article",
+              "url": "https://vuejs.org/guide/essentials/forms.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "modifiers",
+          "title": "Modifiers",
+          "description": "مباحث و تمرین‌های مرتبط با «Modifiers».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Modifiers",
+              "type": "article",
+              "url": "https://vuejs.org/guide/essentials/forms.html#modifiers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Form Input Bindings",
+          "type": "article",
+          "url": "https://vuejs.org/guide/essentials/forms.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A complete guide to forms in Vue.js",
+          "type": "article",
+          "url": "https://blog.logrocket.com/an-imperative-guide-to-forms-in-vue-js-2/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Vue JS 3 Tutorial - Form Handling",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=T-AE-GtSlN4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "event-handling",
+      "title": "Event Handling",
+      "description": "مباحث و تمرین‌های مرتبط با «Event Handling».",
+      "order": 8,
+      "children": [
+        {
+          "id": "binding-events",
+          "title": "Binding Events",
+          "description": "مباحث و تمرین‌های مرتبط با «Binding Events».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Binding Events",
+              "type": "article",
+              "url": "https://vuejs.org/guide/essentials/event-handling",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Event Handling in Vue.js",
+          "type": "article",
+          "url": "https://vuejs.org/guide/essentials/event-handling.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "computed-properties",
+      "title": "Computed Properties",
+      "description": "مباحث و تمرین‌های مرتبط با «Computed Properties».",
+      "order": 9,
+      "children": [
+        {
+          "id": "computed-properties-item",
+          "title": "Computed Properties",
+          "description": "مباحث و تمرین‌های مرتبط با «Computed Properties».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Computed Properties",
+          "type": "article",
+          "url": "https://vuejs.org/guide/essentials/computed.html#computed-properties",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ssg",
+      "title": "SSG",
+      "description": "مباحث و تمرین‌های مرتبط با «SSG».",
+      "order": 10,
+      "children": [
+        {
+          "id": "nuxt-js",
+          "title": "Nuxt.js",
+          "description": "مباحث و تمرین‌های مرتبط با «Nuxt.js».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Nuxt Website",
+              "type": "article",
+              "url": "https://nuxt.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Nuxt Docs",
+              "type": "article",
+              "url": "https://nuxt.com/docs/getting-started/introduction",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Nuxt Examples",
+              "type": "article",
+              "url": "https://nuxt.com/docs/examples/essentials/hello-world",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Get Started with Nuxt",
+              "type": "article",
+              "url": "https://explorers.netlify.com/learn/get-started-with-nuxt",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Nuxt.js Fundamentals",
+              "type": "article",
+              "url": "https://vueschool.io/courses/nuxtjs-fundamentals",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "vitepress",
+          "title": "VitePress",
+          "description": "مباحث و تمرین‌های مرتبط با «VitePress».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Vitepress Website",
+              "type": "article",
+              "url": "https://vitepress.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a Static Site Generator?",
+          "type": "article",
+          "url": "https://www.cloudflare.com/learning/performance/static-site-generator/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Next.js SSG",
+          "type": "article",
+          "url": "https://nextjs.org/docs/advanced-features/static-html-export",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Gatsby SSG",
+          "type": "article",
+          "url": "https://www.gatsbyjs.com/docs/glossary/static-site-generator/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "SSG — An 11ty, Vite And JAM Sandwich",
+          "type": "article",
+          "url": "https://www.smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Web Development",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/webdev?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "routing",
+      "title": "Routing",
+      "description": "مباحث و تمرین‌های مرتبط با «Routing».",
+      "order": 11,
+      "children": [
+        {
+          "id": "vue-router",
+          "title": "Vue Router",
+          "description": "مباحث و تمرین‌های مرتبط با «Vue Router».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "The Vue Router",
+              "type": "article",
+              "url": "https://router.vuejs.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Vue Router",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=juocv4AtrHo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Vue.js",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/vuejs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Routing in Vue.js",
+          "type": "article",
+          "url": "https://vuejs.org/guide/scaling-up/routing.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Vue Router",
+          "type": "article",
+          "url": "https://router.vuejs.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "forms",
+      "title": "Forms",
+      "description": "مباحث و تمرین‌های مرتبط با «Forms».",
+      "order": 12,
+      "children": [
+        {
+          "id": "formkit",
+          "title": "FormKit",
+          "description": "مباحث و تمرین‌های مرتبط با «FormKit».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Formkit Documentation",
+              "type": "article",
+              "url": "https://formkit.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Form Input Bindings",
+          "type": "article",
+          "url": "https://vuejs.org/guide/essentials/forms.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "User Inputs in Vue 3",
+          "type": "article",
+          "url": "https://vueschool.io/lessons/user-inputs-vue-devtools-in-vue-3?friend=vuejs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ssr",
+      "title": "SSR",
+      "description": "مباحث و تمرین‌های مرتبط با «SSR».",
+      "order": 13,
+      "children": [
+        {
+          "id": "nuxt-js-2",
+          "title": "Nuxt.js",
+          "description": "مباحث و تمرین‌های مرتبط با «Nuxt.js».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Nuxt Website",
+              "type": "article",
+              "url": "https://nuxt.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Nuxt Docs",
+              "type": "article",
+              "url": "https://nuxt.com/docs/getting-started/introduction",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Nuxt Examples",
+              "type": "article",
+              "url": "https://nuxt.com/docs/examples/essentials/hello-world",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Get Started with Nuxt",
+              "type": "article",
+              "url": "https://explorers.netlify.com/learn/get-started-with-nuxt",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Nuxt.js Fundamentals",
+              "type": "article",
+              "url": "https://vueschool.io/courses/nuxtjs-fundamentals",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Server Side Rendering (SSR)?",
+          "type": "article",
+          "url": "https://www.educative.io/answers/what-is-server-side-rendering",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "When should I Server-Side Render?",
+          "type": "article",
+          "url": "https://medium.com/@mbleigh/when-should-i-server-side-render-c2a383ff2d0f",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Server-Side Rendering (SSR)",
+          "type": "article",
+          "url": "https://vuejs.org/guide/scaling-up/ssr.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Server Side Rendering (SSR) for Web Development?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=okvg3MRAPs0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Web Development",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/webdev?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "state-management",
+      "title": "State Management",
+      "description": "مباحث و تمرین‌های مرتبط با «State Management».",
+      "order": 14,
+      "children": [
+        {
+          "id": "pinia",
+          "title": "Pinia",
+          "description": "مباحث و تمرین‌های مرتبط با «Pinia».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Pinia Documentation",
+              "type": "article",
+              "url": "https://pinia.vuejs.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Pinia in 30Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=JGC7aAC-3y8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "State Management",
+          "type": "article",
+          "url": "https://vuejs.org/guide/scaling-up/state-management.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is State Management?",
+          "type": "article",
+          "url": "https://www.techtarget.com/searchapparchitecture/definition/state-management",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "api-calls",
+      "title": "API Calls",
+      "description": "مباحث و تمرین‌های مرتبط با «API Calls».",
+      "order": 15,
+      "children": [
+        {
+          "id": "apollo",
+          "title": "Apollo",
+          "description": "مباحث و تمرین‌های مرتبط با «Apollo».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Apollo Website",
+              "type": "article",
+              "url": "https://www.apollographql.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Apollo Docs",
+              "type": "article",
+              "url": "https://www.apollographql.com/docs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Apollo's YouTube Channel",
+              "type": "video",
+              "url": "https://www.youtube.com/c/ApolloGraphQL/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GraphQL With React Tutorial - Apollo Client",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=YyUWW04HwKY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Apollo",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/apollo?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How To Make API calls in Vue.JS Applications",
+          "type": "article",
+          "url": "https://medium.com/bb-tutorials-and-thoughts/how-to-make-api-calls-in-vue-js-applications-43e017d4dc86",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Use RapidAPI Client with Vue.js",
+          "type": "article",
+          "url": "https://rapidapi.com/guides/fetch-api-with-vue",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "mobile-apps",
+      "title": "Mobile Apps",
+      "description": "مباحث و تمرین‌های مرتبط با «Mobile Apps».",
+      "order": 16,
+      "children": [
+        {
+          "id": "capacitor",
+          "title": "Capacitor",
+          "description": "مباحث و تمرین‌های مرتبط با «Capacitor».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Building Cross-Platform Apps with Capacitor and Vue.js",
+              "type": "article",
+              "url": "https://blog.logrocket.com/building-cross-platform-apps-with-capacitor-and-vue-js/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building Mobile Apps With Capacitor And Vue.js",
+              "type": "article",
+              "url": "https://www.smashingmagazine.com/2018/07/mobile-apps-capacitor-vue-js/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Comparing Vue.js mobile app development frameworks",
+          "type": "article",
+          "url": "https://blog.logrocket.com/comparing-vue-js-mobile-app-development-frameworks/#whyusevuejstobuildmobileapps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Native Script + Vue",
+          "type": "article",
+          "url": "https://nativescript-vue.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Mobile Development",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/mobile?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

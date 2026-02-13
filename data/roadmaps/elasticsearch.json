@@ -1,0 +1,892 @@
+{
+  "slug": "elasticsearch",
+  "title": "Elasticsearch",
+  "description": "Step by step guide to mastering Elasticsearch in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "introduction-item",
+          "title": "Introduction",
+          "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Elasticsearch The Definitive Guide",
+          "type": "article",
+          "url": "https://hlaszny.com/booksAndPapers/buckets/b8_IT/elasticsearch-the-definitive-guide.pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Elasticsearch",
+          "type": "article",
+          "url": "https://www.elastic.co/elasticsearch",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Elasticsearch solution overview",
+          "type": "article",
+          "url": "https://www.elastic.co/docs/solutions/search",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Get started with Elasticsearch",
+          "type": "article",
+          "url": "https://www.elastic.co/docs/solutions/search/get-started",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Elasticsearch Labs Tutorial",
+          "type": "article",
+          "url": "https://www.elastic.co/search-labs/tutorials",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Elasticsearch Tutorial",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/elasticsearch/index.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Elasticsearch Course for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=a4HBKEda_F8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "mappings",
+      "title": "Mappings",
+      "description": "مباحث و تمرین‌های مرتبط با «Mappings».",
+      "order": 2,
+      "children": [
+        {
+          "id": "explicit",
+          "title": "Explicit",
+          "description": "مباحث و تمرین‌های مرتبط با «Explicit».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Explicit mapping",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/manage-data/data-store/mapping/explicit-mapping",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explicit index mappings in Elasticsearch and OpenSearch",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=KRd4Ud-5_wM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Mapping",
+          "type": "article",
+          "url": "https://www.elastic.co/docs/manage-data/data-store/mapping",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Elasticsearch Mapping",
+          "type": "article",
+          "url": "https://opster.com/guides/elasticsearch/glossary/elasticsearch-mapping/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "[Beginner's guide] Understanding mapping with Elasticsearch and Kibana",
+          "type": "article",
+          "url": "https://dev.to/lisahjung/beginner-s-guide-understanding-mapping-with-elasticsearch-and-kibana-3646",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Are Mappings in Elasticsearch? (Explained Simply)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ryXCer_rJcg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Beginner’s Crash Course to Elastic Stack - Part 5: Mapping",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=FQAHDrVwfok",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-types",
+      "title": "Data Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Types».",
+      "order": 3,
+      "children": [
+        {
+          "id": "data-types-item",
+          "title": "Data Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Types».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Field data types",
+          "type": "article",
+          "url": "https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/field-data-types",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Elasticsearch For Dummies Part 2: Datatypes",
+          "type": "article",
+          "url": "https://tim-estes.medium.com/elasticsearch-for-dummies-part-2-datatypes-c7a9494b48e8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "leaf-vs-compound-queries",
+      "title": "Leaf vs Compound Queries",
+      "description": "مباحث و تمرین‌های مرتبط با «Leaf vs Compound Queries».",
+      "order": 4,
+      "children": [
+        {
+          "id": "leaf-vs-compound-queries-item",
+          "title": "Leaf vs Compound Queries",
+          "description": "مباحث و تمرین‌های مرتبط با «Leaf vs Compound Queries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Query DSL",
+          "type": "article",
+          "url": "https://www.elastic.co/docs/explore-analyze/query-filter/languages/querydsl",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Compound queries",
+          "type": "article",
+          "url": "https://www.elastic.co/docs/reference/query-languages/query-dsl/compound-queries",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Elasticsearch Queries",
+          "type": "article",
+          "url": "https://medium.com/elasticsearch/introduction-to-elasticsearch-queries-b5ea254bf455",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "An introduction to Query DSL: creating queries in Elasticsearch",
+          "type": "article",
+          "url": "https://kwan.com/blog/an-introduction-to-query-dsl-creating-queries-in-elasticsearch/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "controlling-search-results",
+      "title": "Controlling Search Results",
+      "description": "مباحث و تمرین‌های مرتبط با «Controlling Search Results».",
+      "order": 5,
+      "children": [
+        {
+          "id": "pagination",
+          "title": "Pagination",
+          "description": "مباحث و تمرین‌های مرتبط با «Pagination».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Paginate search results",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/reference/elasticsearch/rest-apis/paginate-search-results",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explaining Pagination in ElasticSearch",
+              "type": "article",
+              "url": "https://dev.to/lazypro/explaining-pagination-in-elasticsearch-2g26",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch Pagination – Which Technique to Use Depending on Your Use Case",
+              "type": "article",
+              "url": "https://opster.com/guides/how-tos/elasticsearch-pagination-techniques/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "4 Ways to do Pagination or scrolling in Elastic Search Tutorials Python",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=P8Eu6sotkCw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Pagination of results in Elasticsearch | from & size, scroll, search after [ES7 for Beginners #4.4]",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=8noSYHuTeSM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sorting",
+          "title": "Sorting",
+          "description": "مباحث و تمرین‌های مرتبط با «Sorting».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Sort search results",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/reference/elasticsearch/rest-apis/sort-search-results",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Elasticsearch Sorting in 5 minutes",
+              "type": "article",
+              "url": "https://medium.appbase.io/sort-elasticsearch-a-tutorial-on-sorting-with-elasticsearch-762b6c02557f",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch in Action: Sorting the Results on Relevancy Score",
+              "type": "article",
+              "url": "https://mkonda007.medium.com/elasticsearch-in-action-sorting-the-results-on-relevancy-2913f6389a37",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Sorting of results in Elasticsearch | Asc, Desc, Keyword fields [ElasticSearch 7 for Beginners #4.5]",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qt5qpfr5s4o",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch Part 5: Optimizing Search Results Rendering",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qmHY8mlkXZE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "source-filtering",
+          "title": "Source Filtering",
+          "description": "مباحث و تمرین‌های مرتبط با «Source Filtering».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "_source field",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/mapping-source-field",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "An Overview of Source Filtering, Stored Fields, Fields and Docvalues Fields",
+              "type": "article",
+              "url": "https://opster.com/guides/elasticsearch/data-architecture/source-filtering-stored-fields-docvalue/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch in Action: Source Filtering",
+              "type": "article",
+              "url": "https://mkonda007.medium.com/elasticsearch-in-action-source-filtering-658ea1a90d24",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "highlighting",
+          "title": "Highlighting",
+          "description": "مباحث و تمرین‌های مرتبط با «Highlighting».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Highlighting",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/reference/elasticsearch/rest-apis/highlighting",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Semantic text in Elasticsearch: Simpler, better, leaner, stronger",
+              "type": "article",
+              "url": "https://www.elastic.co/search-labs/blog/elasticsearch-semantic-text-ga",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch Highlighting - Part 1 - Getting Started",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=3F2qjKNO6S4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Result Settings Guide",
+          "type": "article",
+          "url": "https://www.elastic.co/guide/en/app-search/current/result-settings-guide.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Filter search results",
+          "type": "article",
+          "url": "https://www.elastic.co/docs/reference/elasticsearch/rest-apis/filter-search-results",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Elasticsearch in Action: Manipulating Search Results",
+          "type": "article",
+          "url": "https://mkonda007.medium.com/elasticsearch-in-action-manipulating-search-results-6c312ea0495b",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "how-search-works",
+      "title": "How Search Works",
+      "description": "مباحث و تمرین‌های مرتبط با «How Search Works».",
+      "order": 6,
+      "children": [
+        {
+          "id": "the-inverted-index",
+          "title": "The Inverted Index",
+          "description": "مباحث و تمرین‌های مرتبط با «The Inverted Index».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Elasticsearch from the Bottom Up, Part 1",
+              "type": "article",
+              "url": "https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is the inverted index in elastic search?",
+              "type": "article",
+              "url": "https://medium.com/@sujathamudadla1213/what-is-the-inverted-index-in-elastic-search-f04df6f0c806",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch Inverted Index: The Key to Fast Data Retrieval",
+              "type": "article",
+              "url": "https://www.datasunrise.com/knowledge-center/elasticsearch-inverted-index/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Indexing: Inverted Index",
+              "type": "article",
+              "url": "https://www.baeldung.com/cs/indexing-inverted-index",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Inverted Index - The Data Structure Behind Search Engines",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=iHHqnyThrqE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "doc-values",
+          "title": "Doc values ",
+          "description": "مباحث و تمرین‌های مرتبط با «Doc values ».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "doc_values",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/doc-values",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch doc-values-only Fields",
+              "type": "article",
+              "url": "https://opster.com/guides/elasticsearch/data-architecture/elasticsearch-doc-values-only-fields/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch _source, doc_values and store Performance",
+              "type": "article",
+              "url": "https://sease.io/2021/02/field-retrieval-performance-in-elasticsearch.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Field Data vs Doc Values | Understanding Elasticsearch Performance Issues",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=l99lIuvQULk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a search engine?",
+          "type": "article",
+          "url": "https://www.elastic.co/what-is/search-engine",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Elasticsearch: An In-Depth Explanation",
+          "type": "article",
+          "url": "https://dev.to/kakarotdevv/elasticsearch-an-in-depth-explanation-2bpf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "search-analyzer",
+      "title": "Search Analyzer",
+      "description": "مباحث و تمرین‌های مرتبط با «Search Analyzer».",
+      "order": 7,
+      "children": [
+        {
+          "id": "the-analyze-api",
+          "title": "The Analyze API",
+          "description": "مباحث و تمرین‌های مرتبط با «The Analyze API».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Get tokens from text analysis",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-indices-analyze",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Test an analyzer",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/manage-data/data-store/text-analysis/test-an-analyzer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Leveraging the Elasticsearch Analyze API for Advanced Text Analysis",
+              "type": "article",
+              "url": "https://www.dhiwise.com/post/leveraging-the-elasticsearch-analyze-api-for-text-analysis",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "standard-analyzer",
+          "title": "Standard Analyzer",
+          "description": "مباحث و تمرین‌های مرتبط با «Standard Analyzer».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Standard analyzer",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/reference/text-analysis/analysis-standard-analyzer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Configure text analysis",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/manage-data/data-store/text-analysis/configure-text-analysis",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Configuring built-in analyzers",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/manage-data/data-store/text-analysis/configuring-built-in-analyzers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch Text Analyzers – Tokenizers, Standard Analyzers, Stopwords and More",
+              "type": "article",
+              "url": "https://opster.com/guides/elasticsearch/data-architecture/elasticsearch-text-analyzers/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch in Action: Standard Text Analyzer",
+              "type": "article",
+              "url": "https://mkonda007.medium.com/elasticsearch-in-action-standard-text-analyzer-87d4164e412e",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "custom-analyzers",
+          "title": "Custom Analyzers",
+          "description": "مباحث و تمرین‌های مرتبط با «Custom Analyzers».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Create a custom analyzer",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/manage-data/data-store/text-analysis/create-custom-analyzer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Specify an analyzer",
+              "type": "article",
+              "url": "https://www.elastic.co/docs/manage-data/data-store/text-analysis/specify-an-analyzer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Elasticsearch Custom Analyzers for Enhanced Search Capabilities",
+              "type": "article",
+              "url": "https://opster.com/guides/elasticsearch/data-architecture/elasticsearch-custom-analyzers/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Custom analyzer building in Elasticsearch",
+              "type": "article",
+              "url": "https://medium.com/elasticsearch/custom-analyzer-building-in-elasticsearch-4e86f7c9c3be",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Elasticsearch Custom Analyzers - V1",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=0ZuRExiHn1A",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Anatomy of an analyzer",
+          "type": "article",
+          "url": "https://www.elastic.co/docs/manage-data/data-store/text-analysis/anatomy-of-an-analyzer",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Index and search analysis",
+          "type": "article",
+          "url": "https://www.elastic.co/docs/manage-data/data-store/text-analysis/index-search-analysis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Specify an analyzer",
+          "type": "article",
+          "url": "https://www.elastic.co/docs/manage-data/data-store/text-analysis/specify-an-analyzer",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "https://pulse.support/kb/what-is-elasticsearch-analyzer",
+          "type": "article",
+          "url": "https://pulse.supphttps//pulse.support/kb/what-is-elasticsearch-analyzerort/kb/what-is-elasticsearch-analyzer",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Elastic Search Analyzer explained in a easy way",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9VhTnWuely4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mapping and Analysers [ElasticSearch 7 for Beginners #3.2]",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_OjUoZ5NbYY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

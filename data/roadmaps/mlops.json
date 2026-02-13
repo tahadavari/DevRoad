@@ -1,0 +1,1252 @@
+{
+  "slug": "mlops",
+  "title": "MLOps",
+  "description": "Step by step guide to learn MLOps in 2026",
+  "steps": [
+    {
+      "id": "what-is-mlops",
+      "title": "What is MLOps?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is MLOps?».",
+      "order": 1,
+      "children": [
+        {
+          "id": "mlops-principles",
+          "title": "MLOps Principles",
+          "description": "مباحث و تمرین‌های مرتبط با «MLOps Principles».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "MLOps Principles",
+              "type": "article",
+              "url": "https://ml-ops.org/content/mlops-principles",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "mlops-components",
+          "title": "MLOps Components",
+          "description": "مباحث و تمرین‌های مرتبط با «MLOps Components».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "MLOps Workflow, Components, and Key Practices",
+              "type": "article",
+              "url": "https://mlops.tv/p/understanding-ml-pipelines-through",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MLOps Lifecycle",
+              "type": "article",
+              "url": "https://www.moontechnolabs.com/blog/mlops-lifecycle/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "MLOps Engineering at Scale - Carl Osipov",
+          "type": "article",
+          "url": "http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202025%20-%20C/CSE%20%20IT%20AIDS%20ML/MLOps%20Engineering%20at%20Scale%20-%20Carl%20Osipov%20(Manning,%202022).pdf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is MLOps?",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/mlops/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MLOps Explained: A Deep Dive into Machine Learning Operations",
+          "type": "article",
+          "url": "https://hermanmotcheyo.medium.com/mlops-explained-a-deep-dive-into-machine-learning-operations-ab9342c5c90d",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Machine Learning Operations (MLOps) For Beginners",
+          "type": "article",
+          "url": "https://towardsdatascience.com/machine-learning-operations-mlops-for-beginners-a5686bfe02b2/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MLOps vs DevOps: Differences, Overlaps, and Use Cases",
+          "type": "article",
+          "url": "https://www.datacamp.com/blog/mlops-vs-devops",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MLOps: What It Is, Why It Matters, and How to Implement It",
+          "type": "article",
+          "url": "https://neptune.ai/blog/mlops",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is MLOps?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=OejCJL2EC3k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MLOps Explained - What It Is, Why You Need It and How It Works",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=biqYkVf-a7Y",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "programming-fundamentals",
+      "title": "Programming Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «Programming Fundamentals».",
+      "order": 2,
+      "children": [
+        {
+          "id": "programming-fundamentals-item",
+          "title": "Programming Fundamentals",
+          "description": "مباحث و تمرین‌های مرتبط با «Programming Fundamentals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "version-control-systems",
+      "title": "Version Control Systems",
+      "description": "مباحث و تمرین‌های مرتبط با «Version Control Systems».",
+      "order": 3,
+      "children": [
+        {
+          "id": "version-control-systems-item",
+          "title": "Version Control Systems",
+          "description": "مباحث و تمرین‌های مرتبط با «Version Control Systems».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated Git & GitHub Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/git-github",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Git Documentation",
+          "type": "article",
+          "url": "https://git-scm.com/docs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Git by Atlassian",
+          "type": "article",
+          "url": "https://www.atlassian.com/git",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "hat is a Version Control System and why you should always use it",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IeXhYROClZk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ci-cd",
+      "title": "CI/CD",
+      "description": "مباحث و تمرین‌های مرتبط با «CI/CD».",
+      "order": 4,
+      "children": [
+        {
+          "id": "tflite",
+          "title": "TFLite",
+          "description": "مباحث و تمرین‌های مرتبط با «TFLite».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "TensorFLow LIte",
+              "type": "article",
+              "url": "https://www.tensorflow.org/lite/guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TensorFlow Lite Tutorial: How to Get Up and Running",
+              "type": "article",
+              "url": "https://www.influxdata.com/blog/tensorflow-lite-tutorial-how-to-get-up-and-running/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TensorFlow Lite for Edge Devices - Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=OJnaBhCixng",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TensorFlow Lite in Android with Google Play services",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SEeEsbWZog8&list=PLQY2H8rRoyvwhLghMaygIJS0_f_blnUlJ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "github-actions",
+          "title": "GitHub Actions",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub Actions».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "GitHub Actions Documentation",
+              "type": "article",
+              "url": "https://docs.github.com/en/actions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GitHub Actions Guide",
+              "type": "article",
+              "url": "https://octopus.com/devops/github-actions/?utm_source=roadmap&utm_medium=link&utm_campaign=devops-ci-cd-github-actions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is GitHub Actions?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=URmeTqglS58",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Automate your Workflow with GitHub Actions",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=nyKZTKQS_EQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is CI/CD?",
+          "type": "article",
+          "url": "https://about.gitlab.com/topics/ci-cd/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Primer: Continuous Integration and Continuous Delivery (CI/CD)",
+          "type": "article",
+          "url": "https://thenewstack.io/a-primer-continuous-integration-and-continuous-delivery-ci-cd/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DevOps CI/CD Explained in 100 Seconds",
+          "type": "article",
+          "url": "https://thenewstack.io/category/ci-cd/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Automate your Workflows with GitHub Actions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=scEDHsr3APg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Articles about CI/CD",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/version-control?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "machine-learning-fundamentals",
+      "title": "Machine Learning Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «Machine Learning Fundamentals».",
+      "order": 5,
+      "children": [
+        {
+          "id": "machine-learning-fundamentals-item",
+          "title": "Machine Learning Fundamentals",
+          "description": "مباحث و تمرین‌های مرتبط با «Machine Learning Fundamentals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit the Dedicated Machine Learning Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/machine-learning",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Everything I Studied to Become a Machine Learning Engineer (No CS Background)",
+          "type": "article",
+          "url": "https://towardsdatascience.com/everything-i-studied-to-become-a-machine-learning-engineer-no-cs-background/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Fundamentals of Machine Learning - Microsoft",
+          "type": "course",
+          "url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MLCourse.ai",
+          "type": "course",
+          "url": "https://mlcourse.ai/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Fast.ai",
+          "type": "course",
+          "url": "https://course.fast.ai",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cloud-computing",
+      "title": "Cloud Computing",
+      "description": "مباحث و تمرین‌های مرتبط با «Cloud Computing».",
+      "order": 6,
+      "children": [
+        {
+          "id": "cloud-native-ml-services",
+          "title": "Cloud-native ML Services",
+          "description": "مباحث و تمرین‌های مرتبط با «Cloud-native ML Services».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "AWS Sage Maker",
+              "type": "article",
+              "url": "https://aws.amazon.com/sagemaker/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Azure ML",
+              "type": "article",
+              "url": "https://azure.microsoft.com/en-gb/products/machine-learning",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vertex AI Platform",
+              "type": "article",
+              "url": "https://cloud.google.com/vertex-ai?hl=en",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is cloud native?",
+              "type": "article",
+              "url": "https://cloud.google.com/learn/what-is-cloud-native?hl=en",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Azure ML vs. AWS SageMaker: A Deep Dive into Model Training — Part 1",
+              "type": "article",
+              "url": "https://towardsdatascience.com/azure-ml-vs-aws-sagemaker-a-deep-dive-into-scalable-model-training-part-1/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AWS vs. Azure: A Deep Dive into Model Training – Part 2",
+              "type": "article",
+              "url": "https://towardsdatascience.com/aws-vs-azure-a-deep-dive-into-model-training-part-2/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Cloud Native?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fp9_ubiKqFU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Cloud Computing - IBM",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/cloud-computing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Cloud Computing? - Azure",
+          "type": "article",
+          "url": "https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-cloud-computing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Cloud Computing? - Amazon Web Services",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=mxT233EdY5c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "containerization",
+      "title": "Containerization",
+      "description": "مباحث و تمرین‌های مرتبط با «Containerization».",
+      "order": 7,
+      "children": [
+        {
+          "id": "containerization-item",
+          "title": "Containerization",
+          "description": "مباحث و تمرین‌های مرتبط با «Containerization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What are Containers? - Google Cloud",
+          "type": "article",
+          "url": "https://cloud.google.com/learn/what-are-containers",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Container? - Docker",
+          "type": "article",
+          "url": "https://www.docker.com/resources/what-container/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Articles about Containers - The New Stack",
+          "type": "article",
+          "url": "https://thenewstack.io/category/containers/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Containers?",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLawsLZMfND4nz-WDBZIj8-nbzGFD4S9oz",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Containers",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/containers?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-engineering-fundamentals",
+      "title": "Data Engineering Fundamentals",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Engineering Fundamentals».",
+      "order": 8,
+      "children": [
+        {
+          "id": "data-engineering-fundamentals-item",
+          "title": "Data Engineering Fundamentals",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Engineering Fundamentals».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit the Dedicated Data Engineer Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/data-engineer",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Engineering 101",
+          "type": "article",
+          "url": "https://www.redpanda.com/guides/fundamentals-of-data-engineering",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Become a Data Engineer",
+          "type": "article",
+          "url": "https://towardsdatascience.com/how-to-become-a-data-engineer-c0319cb226c2/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Fundamentals of Data Engineering",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=mPSzL8Lurs0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "infrastructure-as-code",
+      "title": "Infrastructure as Code",
+      "description": "مباحث و تمرین‌های مرتبط با «Infrastructure as Code».",
+      "order": 9,
+      "children": [
+        {
+          "id": "infrastructure-as-code-item",
+          "title": "Infrastructure as Code",
+          "description": "مباحث و تمرین‌های مرتبط با «Infrastructure as Code».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Infrastructure as Code?",
+          "type": "article",
+          "url": "https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Automatically Managing Data Pipeline Infrastructures With Terraform",
+          "type": "article",
+          "url": "https://towardsdatascience.com/automatically-managing-data-pipeline-infrastructures-with-terraform-323fd1808a47/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Terraform Course for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SLB_c_ayRMo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "8 Terraform Best Practices",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=gxPykhPxRW0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "orchestration-deployment",
+      "title": "Orchestration & Deployment",
+      "description": "مباحث و تمرین‌های مرتبط با «Orchestration & Deployment».",
+      "order": 10,
+      "children": [
+        {
+          "id": "airflow",
+          "title": "Airflow",
+          "description": "مباحث و تمرین‌های مرتبط با «Airflow».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Airflow",
+              "type": "article",
+              "url": "https://airflow.apache.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Airflow Docs",
+              "type": "article",
+              "url": "https://airflow.apache.org/docs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "airflow",
+              "type": "article",
+              "url": "https://github.com/apache/airflow",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building Pipelines In Apache Airflow – For Beginners",
+              "type": "article",
+              "url": "https://towardsdatascience.com/building-pipelines-in-apache-airflow-for-beginners-58f87a1512d5/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Apache Airflow? For beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=CGxxVj13sOs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Apache Airflow Tutorial for Data Engineers",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=y5rYZLBZ_Fw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Apache Airflow",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/apache-airflow?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "kubeflow",
+          "title": "KubeFlow",
+          "description": "مباحث و تمرین‌های مرتبط با «KubeFlow».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Kubeflow",
+              "type": "article",
+              "url": "https://www.kubeflow.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "kubeflow",
+              "type": "article",
+              "url": "https://github.com/kubeflow/kubeflow",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Kubeflow?",
+              "type": "article",
+              "url": "https://cloud.google.com/discover/what-is-kubeflow?hl=en",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial – Basic Kubeflow Pipeline From Scratch",
+              "type": "article",
+              "url": "https://towardsdatascience.com/tutorial-basic-kubeflow-pipeline-from-scratch-5f0350dc1905/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kubeflow Explained for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=hvzEPlRdJ2Q",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Intro to Kubeflow Pipelines",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=_AY8mmbR1o4&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is orchestration?",
+          "type": "article",
+          "url": "https://www.redhat.com/en/topics/automation/what-is-orchestration",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Data Orchestration?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=iyw9puEmTrA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "monitoring-observability",
+      "title": "Monitoring & Observability",
+      "description": "مباحث و تمرین‌های مرتبط با «Monitoring & Observability».",
+      "order": 11,
+      "children": [
+        {
+          "id": "monitoring-observability-item",
+          "title": "Monitoring & Observability",
+          "description": "مباحث و تمرین‌های مرتبط با «Monitoring & Observability».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What’s the Difference Between Observability and Monitoring?",
+          "type": "article",
+          "url": "https://aws.amazon.com/compare/the-difference-between-monitoring-and-observability/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Observability and Instrumentation: What They Are and Why They Matter",
+          "type": "article",
+          "url": "https://newrelic.com/blog/best-practices/observability-instrumentation",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is observability?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=--17See0KHs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Monitoring vs Observability",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=b6yWa3V2iBQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "edge-ai",
+      "title": "Edge AI",
+      "description": "مباحث و تمرین‌های مرتبط با «Edge AI».",
+      "order": 12,
+      "children": [
+        {
+          "id": "tflite-2",
+          "title": "TFLite",
+          "description": "مباحث و تمرین‌های مرتبط با «TFLite».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "TensorFLow LIte",
+              "type": "article",
+              "url": "https://www.tensorflow.org/lite/guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TensorFlow Lite Tutorial: How to Get Up and Running",
+              "type": "article",
+              "url": "https://www.influxdata.com/blog/tensorflow-lite-tutorial-how-to-get-up-and-running/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TensorFlow Lite for Edge Devices - Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=OJnaBhCixng",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TensorFlow Lite in Android with Google Play services",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SEeEsbWZog8&list=PLQY2H8rRoyvwhLghMaygIJS0_f_blnUlJ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pytorch-mobile",
+          "title": "PyTorch Mobile",
+          "description": "مباحث و تمرین‌های مرتبط با «PyTorch Mobile».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Welcome to the ExecuTorch Documentation",
+              "type": "article",
+              "url": "https://docs.pytorch.org/executorch/stable/index.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "executorch",
+              "type": "article",
+              "url": "https://github.com/pytorch/executorch",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ExecuTorch 1.0: General Availability Status for Mobile and Embedded...- Mergen Nachin & Cemal Bilgin",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=toirKRTLgJA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PyTorch Mobile and Android Neural Networks API | PyTorch Developer Day 2020",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=B-2spa3UCTU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "jetson",
+          "title": "Jetson",
+          "description": "مباحث و تمرین‌های مرتبط با «Jetson».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "NVIDIA Jetson Modules",
+              "type": "article",
+              "url": "https://developer.nvidia.com/embedded/jetson-modules",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What Is NVIDIA Jetson? A Beginner’s Guide to Powerful Edge AI Modules",
+              "type": "article",
+              "url": "https://blog.aetherix.com/nvidia-jetson-beginners-guide/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "NVIDIA Jetson Orin Nano Super COMPLETE Setup Guide & Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=-PjMC0gyH9s",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What Is Edge Computing?",
+          "type": "course",
+          "url": "https://www.udemy.com/course/edge-computing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is Edge AI and How Does It Work?",
+          "type": "article",
+          "url": "https://blogs.nvidia.com/blog/what-is-edge-ai/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Edge AI?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/edge-ai",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Edge Computing - Cloudflare Docs",
+          "type": "article",
+          "url": "https://www.cloudflare.com/learning/serverless/glossary/what-is-edge-computing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Edge Computing? Is It More Than a Buzzword?",
+          "type": "article",
+          "url": "https://www.howtogeek.com/devops/what-is-edge-computing-is-it-more-than-a-buzzword/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "explainable-ai",
+      "title": "Explainable AI",
+      "description": "مباحث و تمرین‌های مرتبط با «Explainable AI».",
+      "order": 13,
+      "children": [
+        {
+          "id": "explainable-ai-item",
+          "title": "Explainable AI",
+          "description": "مباحث و تمرین‌های مرتبط با «Explainable AI».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Explainable AI (XAI)?",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/explainable-ai",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explainable AI (XAI) | Giskard",
+          "type": "article",
+          "url": "https://www.giskard.ai/glossary/explainable-ai-xai",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explainable AI: Demystifying AI Agents Decision-Making",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=yJkCuEu3K68",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

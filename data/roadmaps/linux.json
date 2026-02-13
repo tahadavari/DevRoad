@@ -1,0 +1,2205 @@
+{
+  "slug": "linux",
+  "title": "Linux",
+  "description": "Step by step guide to learning Linux in 2026",
+  "steps": [
+    {
+      "id": "navigation-basics",
+      "title": "Navigation Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Navigation Basics».",
+      "order": 1,
+      "children": [
+        {
+          "id": "basic-commands",
+          "title": "Basic Commands",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Commands».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Linux Filesystem Navigation Basics",
+              "type": "article",
+              "url": "https://linuxconfig.org/filesystem-basics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux Navigation and File Management",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Basic Navigation Commands: cd, ls, and pwd ",
+              "type": "article",
+              "url": "https://www.linuxbash.sh/post/basic-navigation-commands-cd-ls-and-pwd",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "moving-files-directories",
+          "title": "Moving Files / Directories",
+          "description": "مباحث و تمرین‌های مرتبط با «Moving Files / Directories».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "mv command",
+              "type": "article",
+              "url": "https://linuxhandbook.com/mv-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "mv Cheat Sheet",
+              "type": "article",
+              "url": "https://www.commandinline.com/cheat-sheet/mv/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux mv Command: File Moving and Renaming",
+              "type": "article",
+              "url": "https://labex.io/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "creating-deleting-files-dirs",
+          "title": "Creating & Deleting Files / Dirs",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating & Deleting Files / Dirs».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "What is the Difference Between Cat and Touch Command",
+              "type": "article",
+              "url": "https://linuxways.net/centos/what-is-the-difference-between-cat-and-touch-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating and Deleting Files / Directories in Linux",
+              "type": "article",
+              "url": "https://useful.codes/creating-and-deleting-files-directories-in-linux/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating, Moving, and Deleting Files and Folders",
+              "type": "article",
+              "url": "https://dev.to/alkesh009/linux-basics-part-4-creating-moving-and-deleting-files-and-folders-5hip",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "directory-hierarchy-overview",
+          "title": "Directory Hierarchy Overview",
+          "description": "مباحث و تمرین‌های مرتبط با «Directory Hierarchy Overview».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Linux Directory Structure Explained for Beginners",
+              "type": "article",
+              "url": "https://linuxhandbook.com/linux-directory-structure/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Overview of File System Hierarchy Standard (FHS)",
+              "type": "article",
+              "url": "https://access.redhat.com/documentation/ru-ru/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs#s3-filesystem-usr",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Linux File System Explained in 1,233 Seconds",
+              "type": "video",
+              "url": "https://youtu.be/A3G-3hp88mo?si=sTJTSzubdb0Vizjr",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Linux for Noobs (Hands-on)",
+          "type": "course",
+          "url": "https://labex.io/courses/linux-for-noobs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Filesystem Navigation Basics",
+          "type": "article",
+          "url": "https://linuxconfig.org/filesystem-basics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Basic Navigation Commands: cd, ls, and pwd",
+          "type": "article",
+          "url": "https://www.linuxbash.sh/post/basic-navigation-commands-cd-ls-and-pwd",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Practice on Linux Fundamentals",
+          "type": "article",
+          "url": "https://linuxjourney.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux fundamentals",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=kPylihJRG70&t=1381s&ab_channel=TryHackMe",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "editing-files",
+      "title": "Editing Files",
+      "description": "مباحث و تمرین‌های مرتبط با «Editing Files».",
+      "order": 2,
+      "children": [
+        {
+          "id": "nano",
+          "title": "Nano",
+          "description": "مباحث و تمرین‌های مرتبط با «Nano».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "nano - Text editor",
+              "type": "article",
+              "url": "https://www.nano-editor.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Editing Files With Nano in Linux",
+              "type": "article",
+              "url": "https://itsfoss.com/nano-editor-guide/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Nano in Linux",
+              "type": "article",
+              "url": "https://ioflood.com/blog/nano-linux-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Nano editor fundamentals",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=gyKiDczLIZ4&ab_channel=HackerSploit",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Editing Files in Linux Command Line",
+          "type": "article",
+          "url": "https://itsfoss.com/edit-files-linux/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Complete Guide to Text Editing in Linux with Nano and Vim",
+          "type": "article",
+          "url": "https://thelinuxcode.com/how-to-edit-file-in-linux/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Vim Tutorial for Beginners",
+          "type": "article",
+          "url": "https://linuxconfig.org/vim-tutorial",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "shell-and-other-basics",
+      "title": "Shell and Other Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Shell and Other Basics».",
+      "order": 3,
+      "children": [
+        {
+          "id": "command-help",
+          "title": "Command Help",
+          "description": "مباحث و تمرین‌های مرتبط با «Command Help».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "tldr-pages/tldr",
+              "type": "article",
+              "url": "https://github.com/tldr-pages/tldr",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using the Help Command in Linux",
+              "type": "article",
+              "url": "https://linuxhandbook.com/help-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Chapter 10: Getting Help in Linux Terminal",
+              "type": "article",
+              "url": "https://itsfoss.com/linux-command-help/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Get Help on Linux Commands",
+              "type": "article",
+              "url": "https://labex.io/tutorials/linux-get-help-on-linux-commands-18000",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "command-path",
+          "title": "Command Path",
+          "description": "مباحث و تمرین‌های مرتبط با «Command Path».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Linux path environment variable",
+              "type": "article",
+              "url": "https://linuxconfig.org/linux-path-environment-variable",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to find a path of a Linux command like a pro",
+              "type": "article",
+              "url": "https://www.cyberciti.biz/howto/finding-a-path-of-a-linux-command-like-a-pro/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "environment-variables",
+          "title": "Environment Variables",
+          "description": "مباحث و تمرین‌های مرتبط با «Environment Variables».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Environment Variables in Linux",
+              "type": "article",
+              "url": "https://labex.io/tutorials/linux-environment-variables-in-linux-385274",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux Environment Variables List, Set, Create & Remove",
+              "type": "article",
+              "url": "https://www.computernetworkingnotes.com/linux-tutorials/linux-environment-variables-list-set-create-remove.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Set and List Environment Variables in Linux",
+              "type": "article",
+              "url": "https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "redirects",
+          "title": "Redirects",
+          "description": "مباحث و تمرین‌های مرتبط با «Redirects».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Input Output & Error Redirection in Linux",
+              "type": "article",
+              "url": "https://linuxhandbook.com/redirection-linux/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Redirections (Bash Reference Manual)",
+              "type": "article",
+              "url": "https://www.gnu.org/software/bash/manual/html_node/Redirections.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Redirections in Linux with Examples",
+              "type": "article",
+              "url": "https://linuxopsys.com/redirections-in-linux-with-examples",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "super-user",
+          "title": "Super User",
+          "description": "مباحث و تمرین‌های مرتبط با «Super User».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Linux Superuser Access, Explained",
+              "type": "article",
+              "url": "https://www.redhat.com/en/blog/linux-superuser-access/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Difference between the root user and super (sudo) user",
+              "type": "article",
+              "url": "https://www.computernetworkingnotes.com/linux-tutorials/difference-between-the-root-user-and-super-sudo-user.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Superuser Access in Linux?",
+              "type": "article",
+              "url": "https://www.scaler.com/topics/super-user-in-linux/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit the Dedicated Shell/Bash Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/shell-bash",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learning The Shell",
+          "type": "article",
+          "url": "https://www.linuxcommand.org/lc3_lts0010.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is a Shell in Linux",
+          "type": "article",
+          "url": "https://linuxsimply.com/what-is-a-shell-linux/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Linux Easily",
+          "type": "article",
+          "url": "https://linuxjourney.com",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "working-with-files",
+      "title": "Working with Files",
+      "description": "مباحث و تمرین‌های مرتبط با «Working with Files».",
+      "order": 4,
+      "children": [
+        {
+          "id": "file-permissions",
+          "title": "File Permissions",
+          "description": "مباحث و تمرین‌های مرتبط با «File Permissions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Linux File Permissions",
+              "type": "article",
+              "url": "https://linuxhandbook.com/linux-file-permissions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux Permissions of Files",
+              "type": "article",
+              "url": "https://labex.io/tutorials/linux-permissions-of-files-270252",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux File Permissions in 5 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LnKoncbQBsM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "archiving-and-compressing",
+          "title": "Archiving and Compressing",
+          "description": "مباحث و تمرین‌های مرتبط با «Archiving and Compressing».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Linux File Packaging and Compression",
+              "type": "article",
+              "url": "https://labex.io/tutorials/linux-file-packaging-and-compression-385413",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "copying-and-renaming",
+          "title": "Copying and Renaming",
+          "description": "مباحث و تمرین‌های مرتبط با «Copying and Renaming».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "mv and cp - Linux.org",
+              "type": "article",
+              "url": "https://www.linux.org/threads/mv-and-cp.54793/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering cp and mv Commands in Linux",
+              "type": "article",
+              "url": "https://dev.to/ldwit/mastering-cp-and-mv-commands-in-linux-plus-related-cmds-5cc9",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux cp Command: File Copying",
+              "type": "article",
+              "url": "https://labex.io/tutorials/linux-linux-cp-command-file-copying-209744",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux mv Command: File Moving and Renaming",
+              "type": "article",
+              "url": "https://labex.io/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "soft-links-hard-links",
+          "title": "Soft Links / Hard Links",
+          "description": "مباحث و تمرین‌های مرتبط با «Soft Links / Hard Links».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Hard links and Soft links in Linux Explained",
+              "type": "article",
+              "url": "https://www.redhat.com/en/blog/linking-linux-explained",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Difference between hard link and soft link",
+              "type": "article",
+              "url": "https://kerneltalks.com/commands/difference-between-hard-link-and-soft-link/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Understand the Difference between Hard and Symbolic Links in Linux",
+              "type": "article",
+              "url": "https://labex.io/tutorials/linux-how-to-understand-the-difference-between-hard-and-symbolic-links-in-linux-409929",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Editing Files in Linux Command Line",
+          "type": "article",
+          "url": "https://itsfoss.com/edit-files-linux/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mastering cp and mv Commands in Linux",
+          "type": "article",
+          "url": "https://dev.to/ldwit/mastering-cp-and-mv-commands-in-linux-plus-related-cmds-5cc9",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Vim Tutorial for Beginners",
+          "type": "article",
+          "url": "https://linuxconfig.org/vim-tutorial",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Basic Files Operations",
+          "type": "article",
+          "url": "https://labex.io/tutorials/linux-basic-files-operations-270248",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is the Difference Between Cat and Touch Command",
+          "type": "article",
+          "url": "https://linuxways.net/centos/what-is-the-difference-between-cat-and-touch-command/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "text-processing",
+      "title": "Text Processing",
+      "description": "مباحث و تمرین‌های مرتبط با «Text Processing».",
+      "order": 5,
+      "children": [
+        {
+          "id": "text-processing-item",
+          "title": "Text Processing",
+          "description": "مباحث و تمرین‌های مرتبط با «Text Processing».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Common Linux Text Processing Commands",
+          "type": "article",
+          "url": "https://www.commandinline.com/linux/common-linux-text-processing-commands/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Filters",
+          "type": "article",
+          "url": "https://ryanstutorials.net/linuxtutorial/filters.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Text Processing Command",
+          "type": "article",
+          "url": "https://earthly.dev/blog/linux-text-processing-commands/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Master Linux Text Processing Commands",
+          "type": "article",
+          "url": "https://everythingdevops.dev/linux-text-processing-commands/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "server-review",
+      "title": "Server Review",
+      "description": "مباحث و تمرین‌های مرتبط با «Server Review».",
+      "order": 6,
+      "children": [
+        {
+          "id": "uptime-and-load",
+          "title": "Uptime and Load",
+          "description": "مباحث و تمرین‌های مرتبط با «Uptime and Load».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Linux Uptime Command With Usage Examples",
+              "type": "article",
+              "url": "https://www.tecmint.com/linux-uptime-command-examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Check Uptime in Linux Command Line",
+              "type": "article",
+              "url": "https://linuxhandbook.com/uptime-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux Load Average: What is Load Average in Linux?",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/load-average-in-linux",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Linux Server Management Essentials",
+          "type": "article",
+          "url": "https://www.ictbroadcast.com/linux-server-management-essentials-administration-monitoring-and-maintenance-guidelines-for-success/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Essential Linux Server Maintenance Checklist",
+          "type": "article",
+          "url": "https://tecadmin.net/linux-server-maintenance-checklist/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Optimizing Linux Server Performance",
+          "type": "article",
+          "url": "https://www.linuxjournal.com/content/optimizing-linux-server-performance-benchmarking-and-advanced-techniques",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "process-management",
+      "title": "Process Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Process Management».",
+      "order": 7,
+      "children": [
+        {
+          "id": "background-foreground-processes",
+          "title": "Background / Foreground Processes",
+          "description": "مباحث و تمرین‌های مرتبط با «Background / Foreground Processes».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Understanding Foreground and Background Processes",
+              "type": "article",
+              "url": "https://linuxconfig.org/understanding-foreground-and-background-linux-processes",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Running Linux Commands in Background and Foreground",
+              "type": "article",
+              "url": "https://linuxhandbook.com/run-process-background/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Foreground and Background Processes - LinuxOPsys",
+              "type": "article",
+              "url": "https://linuxopsys.com/foreground-and-background-processes-co11/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The Complete Guide to Process Management Commands",
+          "type": "article",
+          "url": "https://thelinuxcode.com/process-management-commands-linux/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Commands for Process Management in Linux",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/process-management-in-linux",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "user-management",
+      "title": "User Management",
+      "description": "مباحث و تمرین‌های مرتبط با «User Management».",
+      "order": 8,
+      "children": [
+        {
+          "id": "user-management-item",
+          "title": "User Management",
+          "description": "مباحث و تمرین‌های مرتبط با «User Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "User Account Management",
+          "type": "article",
+          "url": "https://labex.io/tutorials/linux-user-account-management-49",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Creating, Modifying, and Deleting User Accounts",
+          "type": "article",
+          "url": "https://serveracademy.com/courses/linux-server-administration/creating-modifying-and-deleting-user-accounts/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "User Management in Linux: A Beginner's Guide",
+          "type": "article",
+          "url": "https://dev.to/austinozor/user-management-in-linux-a-beginners-guide-to-creating-modifying-and-deleting-users-fhf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "service-management-systemd",
+      "title": "Service Management (systemd)",
+      "description": "مباحث و تمرین‌های مرتبط با «Service Management (systemd)».",
+      "order": 9,
+      "children": [
+        {
+          "id": "creating-new-services",
+          "title": "Creating New Services",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating New Services».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How to Create a systemd Service in Linux",
+              "type": "article",
+              "url": "https://linuxhandbook.com/create-systemd-services/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Beginner's Guide to Creating Linux Services",
+              "type": "article",
+              "url": "https://www.fosslinux.com/111815/a-guide-to-creating-linux-services-with-systemd.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "checking-service-logs",
+          "title": "Checking Service Logs",
+          "description": "مباحث و تمرین‌های مرتبط با «Checking Service Logs».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Service Management in Linux: A Comprehensive Guide",
+              "type": "article",
+              "url": "https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Master Linux Service Management with Systemctl",
+              "type": "article",
+              "url": "https://labex.io/tutorials/linux-how-to-master-linux-service-management-with-systemctl-392864",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Manage Services in Linux: systemd and SysVinit",
+              "type": "article",
+              "url": "https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "starting-stopping-services",
+          "title": "Starting / Stopping Services",
+          "description": "مباحث و تمرین‌های مرتبط با «Starting / Stopping Services».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "How to Check System Logs on Linux",
+              "type": "article",
+              "url": "https://www.fosslinux.com/8984/how-to-check-system-logs-on-linux-complete-usage-guide.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linux Log Files Location & How To View Logs Files",
+              "type": "article",
+              "url": "https://www.cyberciti.biz/faq/linux-log-files-location-and-how-do-i-view-logs-files/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "System Logging - Linuxjourney",
+              "type": "article",
+              "url": "https://linuxjourney.com/lesson/system-logging",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "checking-service-status",
+          "title": "Checking Service Status",
+          "description": "مباحث و تمرین‌های مرتبط با «Checking Service Status».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Service Management in Linux: A Comprehensive Guide",
+              "type": "article",
+              "url": "https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Use Systemctl Status Command to Check Service Status",
+              "type": "article",
+              "url": "https://linuxhandbook.com/systemctl-check-service-status/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Check All Running Services in Linux",
+              "type": "article",
+              "url": "https://www.2daygeek.com/how-to-check-all-running-services-in-linux/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to Master Linux Service Management with Systemctl",
+          "type": "article",
+          "url": "https://labex.io/tutorials/linux-how-to-master-linux-service-management-with-systemctl-392864",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Service Management in Linux: A Comprehensive Guide",
+          "type": "article",
+          "url": "https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Manage Services in Linux: systemd and SysVinit",
+          "type": "article",
+          "url": "https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "package-management",
+      "title": "Package Management",
+      "description": "مباحث و تمرین‌های مرتبط با «Package Management».",
+      "order": 10,
+      "children": [
+        {
+          "id": "package-management-item",
+          "title": "Package Management",
+          "description": "مباحث و تمرین‌های مرتبط با «Package Management».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "APT Package Manager",
+          "type": "article",
+          "url": "https://www.debian.org/doc/manuals/apt-guide/index.en.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Yum Package Manager",
+          "type": "article",
+          "url": "http://yum.baseurl.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Using the DNF Software Package Manager",
+          "type": "article",
+          "url": "https://docs.fedoraproject.org/en-US/quick-docs/dnf/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Package Manager Explained",
+          "type": "article",
+          "url": "https://geekflare.com/dev/linux-package-manager-explained/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "8 Best Package Manager for Linux",
+          "type": "article",
+          "url": "https://linuxsimply.com/linux-basics/package-management/best-package-manager/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Software Installation on Linux",
+          "type": "article",
+          "url": "https://labex.io/tutorials/linux-software-installation-on-linux-18005",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "disks-and-filesystems",
+      "title": "Disks and Filesystems",
+      "description": "مباحث و تمرین‌های مرتبط با «Disks and Filesystems».",
+      "order": 11,
+      "children": [
+        {
+          "id": "disks-and-filesystems-item",
+          "title": "Disks and Filesystems",
+          "description": "مباحث و تمرین‌های مرتبط با «Disks and Filesystems».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Filesystems in the Linux Kernel",
+          "type": "article",
+          "url": "https://www.kernel.org/doc/html/v6.16-rc2/filesystems/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Partitions And Filesystems In Linux - Introduction",
+          "type": "article",
+          "url": "https://www.linuxfordevices.com/tutorials/linux/partitions-and-filesystems",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Overview of File System Hierarchy Standard (FHS)",
+          "type": "article",
+          "url": "https://access.redhat.com/documentation/ru-ru/red_hat_enterprise_linux/4/html/reference_guide/s1-filesystem-fhs#s3-filesystem-usr",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Linux Filesystems: Inodes, Block Sizes, and Data",
+          "type": "article",
+          "url": "https://www.linuxjournal.com/content/understanding-linux-filesystems-inodes-block-sizes-and-data-structures",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "booting-linux",
+      "title": "Booting Linux",
+      "description": "مباحث و تمرین‌های مرتبط با «Booting Linux».",
+      "order": 12,
+      "children": [
+        {
+          "id": "boot-loaders",
+          "title": "Boot Loaders",
+          "description": "مباحث و تمرین‌های مرتبط با «Boot Loaders».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "The GNU GRUB",
+              "type": "article",
+              "url": "https://www.gnu.org/software/grub/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Bootloader - Archlinux wiki",
+              "type": "article",
+              "url": "https://wiki.archlinux.org/title/Arch_boot_process#Boot_loader",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Most Popular Linux Boot Loaders",
+              "type": "article",
+              "url": "https://thelinuxcode.com/what-is-a-boot-loader/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "GRUB Bootloader in Linux",
+              "type": "article",
+              "url": "https://phoenixnap.com/kb/what-is-grub",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "logs",
+          "title": "Logs",
+          "description": "مباحث و تمرین‌های مرتبط با «Logs».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "How to Use journalctl Command to Analyze Logs in Linux",
+              "type": "article",
+              "url": "https://linuxhandbook.com/journalctl-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Check System Logs on Linux",
+              "type": "article",
+              "url": "https://www.fosslinux.com/8984/how-to-check-system-logs-on-linux-complete-usage-guide.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is dmesg in Linux, And How Do I Use It?",
+              "type": "article",
+              "url": "https://linuxconfig.org/what-is-dmesg-and-how-do-i-use-it",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "The GNU GRUB",
+          "type": "article",
+          "url": "https://www.gnu.org/software/grub/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Booting process of Linux - Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Booting_process_of_Linux",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Linux Booting Process",
+          "type": "article",
+          "url": "https://thelinuxcode.com/the-linux-booting-process-6-steps-described-in-detail/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking",
+      "title": "Networking",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+      "order": 13,
+      "children": [
+        {
+          "id": "tcp-ip-stack",
+          "title": "TCP/IP Stack",
+          "description": "مباحث و تمرین‌های مرتبط با «TCP/IP Stack».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "TCP/IP Commands for Linux",
+              "type": "article",
+              "url": "https://whatismyipaddress.com/tcp-ip-commands-linux",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Netstat Command in Linux",
+              "type": "article",
+              "url": "https://phoenixnap.com/kb/netstat-command",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Netstat Command in Linux: 13 Practical Examples",
+              "type": "article",
+              "url": "https://linuxhandbook.com/netstat-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "subnetting",
+          "title": "Subnetting",
+          "description": "مباحث و تمرین‌های مرتبط با «Subnetting».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Understanding IP Addressing and Subnetting in Linux",
+              "type": "article",
+              "url": "https://useful.codes/understanding-ip-addressing-and-subnetting-in-linux/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Basics of IP Subnetting | Linux Journal",
+              "type": "article",
+              "url": "https://www.linuxjournal.com/article/6287",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Find Subnet Mask in Linux",
+              "type": "article",
+              "url": "https://www.howtouselinux.com/post/find-subnet-mask-on-linux",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ethernet-arp-rarp",
+          "title": "Ethernet & arp/rarp",
+          "description": "مباحث و تمرین‌های مرتبط با «Ethernet & arp/rarp».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "A Comprehensive guide to Linux Networking",
+              "type": "article",
+              "url": "https://centlinux.com/linux-networking/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Beginner's Guide to Linux Networking Fundamentals",
+              "type": "article",
+              "url": "https://dev.to/iaadidev/a-beginners-guide-to-linux-networking-fundamentals-dev-ops-prerequisite-7-434o",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ARP Explained - Address Resolution Protocol",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cn8Zxh9bPio",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Ethernet?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=HLziLmaYsO0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "file-transfer",
+          "title": "File Transfer",
+          "description": "مباحث و تمرین‌های مرتبط با «File Transfer».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "How to Use Linux FTP Command to Transfer Files",
+              "type": "article",
+              "url": "https://linuxize.com/post/how-to-use-linux-ftp-command-to-transfer-files/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rsync Command in Linux with Examples",
+              "type": "article",
+              "url": "https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using scp Command in Linux",
+              "type": "article",
+              "url": "https://linuxhandbook.com/scp-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Wget Command in Linux with Examples",
+              "type": "article",
+              "url": "https://linuxize.com/post/wget-command-examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "dns-resolution",
+          "title": "DNS Resolution",
+          "description": "مباحث و تمرین‌های مرتبط با «DNS Resolution».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Setup DNS Resolution With \"resolv.conf\" in Examples",
+              "type": "article",
+              "url": "https://www.shellhacks.com/setup-dns-resolution-resolvconf-example/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DNS Resolution",
+              "type": "article",
+              "url": "https://wiki.archlinux.org/title/Domain_name_resolution",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "nslookup command",
+              "type": "article",
+              "url": "https://linuxconfig.org/nslookup-linux-command",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "dig command",
+              "type": "article",
+              "url": "https://linuxhandbook.com/dig-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "file-transfer-2",
+          "title": "File Transfer",
+          "description": "مباحث و تمرین‌های مرتبط با «File Transfer».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "How to Use Linux FTP Command to Transfer Files",
+              "type": "article",
+              "url": "https://linuxize.com/post/how-to-use-linux-ftp-command-to-transfer-files/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rsync Command in Linux with Examples",
+              "type": "article",
+              "url": "https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using scp Command in Linux",
+              "type": "article",
+              "url": "https://linuxhandbook.com/scp-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Wget Command in Linux with Examples",
+              "type": "article",
+              "url": "https://linuxize.com/post/wget-command-examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "file-transfer-3",
+          "title": "File Transfer",
+          "description": "مباحث و تمرین‌های مرتبط با «File Transfer».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "How to Use Linux FTP Command to Transfer Files",
+              "type": "article",
+              "url": "https://linuxize.com/post/how-to-use-linux-ftp-command-to-transfer-files/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rsync Command in Linux with Examples",
+              "type": "article",
+              "url": "https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using scp Command in Linux",
+              "type": "article",
+              "url": "https://linuxhandbook.com/scp-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Wget Command in Linux with Examples",
+              "type": "article",
+              "url": "https://linuxize.com/post/wget-command-examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "A Comprehensive Guide to Linux Networking",
+          "type": "article",
+          "url": "https://centlinux.com/linux-networking/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Beginner's Guide to Linux Networking Fundamentals",
+          "type": "article",
+          "url": "https://dev.to/iaadidev/a-beginners-guide-to-linux-networking-fundamentals-dev-ops-prerequisite-7-434o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Practice on Networking Fundamentals",
+          "type": "article",
+          "url": "https://linuxjourney.com/lesson/network-basics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "shell-programming",
+      "title": "Shell Programming",
+      "description": "مباحث و تمرین‌های مرتبط با «Shell Programming».",
+      "order": 14,
+      "children": [
+        {
+          "id": "debugging",
+          "title": "Debugging",
+          "description": "مباحث و تمرین‌های مرتبط با «Debugging».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How To Debug a Bash Shell Script Under Linux or UNIX",
+              "type": "article",
+              "url": "https://www.cyberciti.biz/tips/debugging-shell-script.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Debug a Bash Shell Script in Linux",
+              "type": "article",
+              "url": "https://www.linuxtechi.com/debugging-shell-scripts-in-linux/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Debug Bash Scripts",
+              "type": "article",
+              "url": "https://thelinuxcode.com/debug-bash-script/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Learn Shell - Free Interactive Shell Tutorial",
+          "type": "article",
+          "url": "https://www.learnshell.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Bash Scripting Tutorial Series for Beginners",
+          "type": "article",
+          "url": "https://linuxhandbook.com/bash/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Bash Shell Scripting Tutorial Wiki",
+          "type": "article",
+          "url": "https://bash.cyberciti.biz/guide/Main_Page",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Bash Scripting on Linux - YT Playlist",
+          "type": "video",
+          "url": "https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&si=MSehStqnhSqgoMSj",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "troubleshooting",
+      "title": "Troubleshooting",
+      "description": "مباحث و تمرین‌های مرتبط با «Troubleshooting».",
+      "order": 15,
+      "children": [
+        {
+          "id": "traceroute",
+          "title": "traceroute",
+          "description": "مباحث و تمرین‌های مرتبط با «traceroute».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "traceroute Command Examples in Linux",
+              "type": "article",
+              "url": "https://linuxhandbook.com/traceroute/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use the traceroute Command on Linux",
+              "type": "article",
+              "url": "https://www.howtogeek.com/657780/how-to-use-the-traceroute-command-on-linux/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "netstat",
+          "title": "netstat",
+          "description": "مباحث و تمرین‌های مرتبط با «netstat».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Netstat Command in Linux",
+              "type": "article",
+              "url": "https://linuxhandbook.com/netstat-command/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use netstat on Linux",
+              "type": "article",
+              "url": "https://www.howtogeek.com/513003/how-to-use-netstat-on-linux/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "icmp",
+          "title": "ICMP",
+          "description": "مباحث و تمرین‌های مرتبط با «ICMP».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "icmp(7) — Linux manual page",
+              "type": "article",
+              "url": "https://www.man7.org/linux/man-pages/man7/icmp.7.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding ICMP Packets with Examples",
+              "type": "article",
+              "url": "https://www.howtouselinux.com/post/icmp-packets",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "packet-analysis",
+          "title": "Packet Analysis",
+          "description": "مباحث و تمرین‌های مرتبط با «Packet Analysis».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "How to Capture and Analyze Packets with tcpdump",
+              "type": "article",
+              "url": "https://www.debian.org/doc/manuals/apt-guide/index.en.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Network Traffic Analysis in Linux",
+              "type": "article",
+              "url": "https://en.ittrip.xyz/linux/linux-network-analysis",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "16 Best Free and Open Source Network Analyzers",
+              "type": "article",
+              "url": "https://www.linuxlinks.com/best-free-open-source-network-analyzers/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Troubleshooting Linux Problems: A Beginner's Guide",
+          "type": "article",
+          "url": "https://learn.redhat.com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-p/36236",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Linux Top 20 Important Commands for Monitoring and Troubleshooting",
+          "type": "article",
+          "url": "https://medium.com/@stepstodevops/linux-top-20-important-commands-for-monitoring-and-troubleshooting-a-comprehensive-guide-for-cd5aaa37da17",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "10 Linux Troubleshooting Tips - dummies",
+          "type": "article",
+          "url": "https://www.dummies.com/article/technology/computers/operating-systems/linux/10-linux-troubleshooting-tips-274301/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "containerization",
+      "title": "Containerization",
+      "description": "مباحث و تمرین‌های مرتبط با «Containerization».",
+      "order": 16,
+      "children": [
+        {
+          "id": "docker",
+          "title": "Docker",
+          "description": "مباحث و تمرین‌های مرتبط با «Docker».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit Dedicated Docker Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/docker",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker",
+              "type": "article",
+              "url": "https://docker.com",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Docker Documentation",
+              "type": "article",
+              "url": "https://docs.docker.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Install and Use Docker on Ubuntu",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Docker",
+          "type": "article",
+          "url": "https://docker.com",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kubernetes",
+          "type": "article",
+          "url": "https://kubernetes.io",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Containerization? - Containerization Explained - AWS",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/containerization/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Containerization? - DigitalOcean",
+          "type": "article",
+          "url": "https://www.digitalocean.com/resources/articles/what-is-containerization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

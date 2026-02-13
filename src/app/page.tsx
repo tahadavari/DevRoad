@@ -63,7 +63,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 py-20 md:py-32">
           <div className="mx-auto max-w-3xl text-center">
             <Badge variant="secondary" className="mb-4">
-              پروژه متن‌باز
+               پروژه | الهام گرفته شده از<a target='_blank' href="https://roadmap.sh/">roadmap.sh</a>
             </Badge>
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
               مسیر یادگیری{" "}

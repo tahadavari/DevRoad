@@ -1,0 +1,2694 @@
+{
+  "slug": "computer-science",
+  "title": "Computer Science",
+  "description": "Computer Science curriculum with free resources for a self-taught developer.",
+  "steps": [
+    {
+      "id": "pick-a-language",
+      "title": "Pick a Language",
+      "description": "مباحث و تمرین‌های مرتبط با «Pick a Language».",
+      "order": 1,
+      "children": [
+        {
+          "id": "python",
+          "title": "Python",
+          "description": "مباحث و تمرین‌های مرتبط با «Python».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Visit Dedicated Python Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/python",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python",
+              "type": "article",
+              "url": "https://www.python.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Python",
+              "type": "article",
+              "url": "https://www.python.org/about/gettingstarted/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Automate the Boring Stuff",
+              "type": "article",
+              "url": "https://automatetheboringstuff.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python principles - Python basics",
+              "type": "article",
+              "url": "https://pythonprinciples.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Crash Course",
+              "type": "article",
+              "url": "https://ehmatthes.github.io/pcc/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "An Introduction to Python for Non-Programmers",
+              "type": "article",
+              "url": "https://thenewstack.io/an-introduction-to-python-for-non-programmers/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Python and InfluxDB",
+              "type": "article",
+              "url": "https://thenewstack.io/getting-started-with-python-and-influxdb/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Python",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/python?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "c",
+          "title": "C#",
+          "description": "مباحث و تمرین‌های مرتبط با «C#».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "C# Learning Path",
+              "type": "article",
+              "url": "https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=dotnet-35129-website",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to C#",
+              "type": "article",
+              "url": "https://docs.microsoft.com/en-us/shows/CSharp-101/?WT.mc_id=Educationalcsharp-c9-scottha",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C# tutorials",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about C# Programming",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/csharp?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "c-2",
+          "title": "C",
+          "description": "مباحث و تمرین‌های مرتبط با «C».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Beej's Guide to C Programming",
+              "type": "article",
+              "url": "https://beej.us/guide/bgc/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn C - Tutorials Point",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/cprogramming/index.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C Programming Tutorial for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=KJgsSFOSQv0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn C Programming with Dr. Chuck",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=j-_s8f5K30I",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C Programming Full Course 2025 (Bro Code)",
+              "type": "video",
+              "url": "https://youtu.be/xND0t1pr3KY?si=sy-Xzz7JHMqS6ruA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "rust",
+          "title": "Rust",
+          "description": "مباحث و تمرین‌های مرتبط با «Rust».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Visit Dedicated Rust Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/rust",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Rust Programming Language - online book",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/book/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rust by Example - collection of runnable examples",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/stable/rust-by-example/index.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rust vs. Go: Why They’re Better Together",
+              "type": "article",
+              "url": "https://thenewstack.io/rust-vs-go-why-theyre-better-together/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rust by the Numbers: The Rust Programming Language in 2021",
+              "type": "article",
+              "url": "https://thenewstack.io/rust-by-the-numbers-the-rust-programming-language-in-2021/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Rust",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/rust?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated C++ Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/cpp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn C++ - Tutorials Point",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/cplusplus/index.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn C - Tutorials Point",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/cprogramming/index.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "C++ Programming Course - Beginner to Advanced",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "C++ Tutorial for Beginners - Full Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=vLnPwxZdW4Y",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "C Programming Tutorial for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=KJgsSFOSQv0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn C Programming with Dr. Chuck",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=j-_s8f5K30I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-structures",
+      "title": "Data Structures",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Structures».",
+      "order": 2,
+      "children": [
+        {
+          "id": "queue",
+          "title": "Queue",
+          "description": "مباحث و تمرین‌های مرتبط با «Queue».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Queues - Coursera",
+              "type": "course",
+              "url": "https://www.coursera.org/lecture/data-structures/queues-EShpq",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Circular Buffer - Wikipedia",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Circular_buffer",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Queue Data Structure | Illustrated Data Structures",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=mDCi1lXd9hc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Queue in 3 Minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=D6gu-_tmEpQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hash-table",
+          "title": "Hash Table",
+          "description": "مباحث و تمرین‌های مرتبط با «Hash Table».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Hash Tables - Princeton University",
+              "type": "article",
+              "url": "https://algs4.cs.princeton.edu/34hash/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hash Table | Illustrated Data Structures",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=jalSiaIi8j4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hash Table in 4 Minutes",
+              "type": "video",
+              "url": "https://youtu.be/knV86FlSXJ8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hashing with Chaining",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "(Advanced) Randomization: Universal & Perfect Hashing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "(Advanced) Perfect hashing",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "linked-list",
+          "title": "Linked List",
+          "description": "مباحث و تمرین‌های مرتبط با «Linked List».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Singly Linked Lists",
+              "type": "course",
+              "url": "https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Core: Linked Lists vs Arrays",
+              "type": "course",
+              "url": "https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "In the Real World: Linked Lists vs Arrays",
+              "type": "course",
+              "url": "https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Doubly Linked Lists",
+              "type": "course",
+              "url": "https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linked List Data Structure | Illustrated Data Structures",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=odW9FU8jPRQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linked Lists in 4 minutes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=F8AbOfQwl1c",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CS 61B Lecture 7: Linked Lists I",
+              "type": "video",
+              "url": "https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CS 61B Lecture 7: Linked Lists II",
+              "type": "video",
+              "url": "https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why you should avoid Linked Lists?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=YQs6IC-vgmo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "graph",
+          "title": "Graph",
+          "description": "مباحث و تمرین‌های مرتبط با «Graph».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Graph Data Structure",
+              "type": "article",
+              "url": "https://www.simplilearn.com/tutorials/data-structure-tutorial/graphs-in-data-structure",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Graph Data Structure | Illustrated Data Structures",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=0sQE8zKhad0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSE373 2020 - Lecture 10 - Graph Data Structures",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Sjk0xqWWPCc&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=10",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSE373 2020 - Lecture 11 - Graph Traversal",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ZTwjXj81NVY&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=11",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSE373 2020 - Lecture 12 - Depth First Search",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=KyordYB3BOs&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=12",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSE373 2020 - Lecture 13 - Minimum Spanning Trees",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=oolm2VnJUKw&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=13",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSE373 2020 - Lecture 14 - Minimum Spanning Trees (cont)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=RktgPx0MarY&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=14",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "CSE373 2020 - Lecture 15 - Graph Algorithms (cont 2)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=MUe5DXRhyAo&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=15",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "6.006 Single-Source Shortest Paths Problem",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Aa2sqUhIn-E&index=15&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated DSA Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/datastructures-and-algorithms",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Structures and Algorithms By Google",
+          "type": "course",
+          "url": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Structures Illustrated",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Structures playlist",
+          "type": "video",
+          "url": "https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&si=_EEf7x58G6lUcMGG",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Data Structures",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/data-structures?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "asymptotic-notation",
+      "title": "Asymptotic Notation",
+      "description": "مباحث و تمرین‌های مرتبط با «Asymptotic Notation».",
+      "order": 3,
+      "children": [
+        {
+          "id": "asymptotic-notation-item",
+          "title": "Asymptotic Notation",
+          "description": "مباحث و تمرین‌های مرتبط با «Asymptotic Notation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Asymptotic Analysis: Big-O Notation and More",
+          "type": "article",
+          "url": "https://www.programiz.com/dsa/asymptotic-notations",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Big-O Cheat Sheet",
+          "type": "article",
+          "url": "https://www.bigocheatsheet.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Big O Notation | Brilliant Math & Science Wiki",
+          "type": "article",
+          "url": "https://brilliant.org/wiki/big-o-notation/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Big O Notation — Calculating Time Complexity",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Z0bH0cMY0E8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Big O Notation in 5 Minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=__vX2sjlpXU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Asymptotic Notation - CS50",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=iOq5kSKqeR4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CS 61B Lecture 19: Asymptotic Analysis",
+          "type": "video",
+          "url": "https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "common-algorithms",
+      "title": "Common Algorithms",
+      "description": "مباحث و تمرین‌های مرتبط با «Common Algorithms».",
+      "order": 4,
+      "children": [
+        {
+          "id": "common-algorithms-item",
+          "title": "Common Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Common Algorithms».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Top Algorithms and Data Structures",
+          "type": "article",
+          "url": "https://medium.com/data-science/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "string-search-manipulations",
+      "title": "String Search & Manipulations",
+      "description": "مباحث و تمرین‌های مرتبط با «String Search & Manipulations».",
+      "order": 5,
+      "children": [
+        {
+          "id": "string-search-manipulations-item",
+          "title": "String Search & Manipulations",
+          "description": "مباحث و تمرین‌های مرتبط با «String Search & Manipulations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "String-searching Algorithm",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/String-searching_algorithm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "floating-point-math",
+      "title": "Floating Point Math",
+      "description": "مباحث و تمرین‌های مرتبط با «Floating Point Math».",
+      "order": 6,
+      "children": [
+        {
+          "id": "floating-point-math-item",
+          "title": "Floating Point Math",
+          "description": "مباحث و تمرین‌های مرتبط با «Floating Point Math».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Representation of Floating Point Numbers - 1",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ji3SfClm8TU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Why 0.1 + 0.2 != 0.3? | Floating Point Math",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=RIiq4tTt6rI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "endianess",
+      "title": "Endianess",
+      "description": "مباحث و تمرین‌های مرتبط با «Endianess».",
+      "order": 7,
+      "children": [
+        {
+          "id": "endianess-item",
+          "title": "Endianess",
+          "description": "مباحث و تمرین‌های مرتبط با «Endianess».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Endianness",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Glossary/Endianness",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Big-Endian vs Little-Endian Explained with Examples",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Big Endian vs Little Endian.mp4",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=JrNF0KRAlyo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Endianness Explained With an Egg - Computerphile",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NcaiHcBvDR4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "character-encodings",
+      "title": "Character Encodings",
+      "description": "مباحث و تمرین‌های مرتبط با «Character Encodings».",
+      "order": 8,
+      "children": [
+        {
+          "id": "character-encodings-item",
+          "title": "Character Encodings",
+          "description": "مباحث و تمرین‌های مرتبط با «Character Encodings».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Must Know about Character Encodings",
+          "type": "article",
+          "url": "https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Character Encoding",
+          "type": "article",
+          "url": "https://cs.lmu.edu/~ray/notes/charenc/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "bitwise-operators",
+      "title": "Bitwise Operators",
+      "description": "مباحث و تمرین‌های مرتبط با «Bitwise Operators».",
+      "order": 9,
+      "children": [
+        {
+          "id": "bitwise-operators-item",
+          "title": "Bitwise Operators",
+          "description": "مباحث و تمرین‌های مرتبط با «Bitwise Operators».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bit Manipulation",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7jkIUgLC29I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Binary: Plusses & Minuses (Why We Use Twos Complement) - Computerphile",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lKTsv6iVxV4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Algorithms: Bit Manipulation",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NLKQEOgBAnw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "design-patterns",
+      "title": "Design Patterns",
+      "description": "مباحث و تمرین‌های مرتبط با «Design Patterns».",
+      "order": 10,
+      "children": [
+        {
+          "id": "gof-design-patterns",
+          "title": "GoF Design Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «GoF Design Patterns».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Design Patterns for Humans",
+              "type": "article",
+              "url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "architectural-patterns",
+          "title": "Architectural Patterns",
+          "description": "مباحث و تمرین‌های مرتبط با «Architectural Patterns».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "10 Common Software Architectural Patterns in a nutshell",
+              "type": "article",
+              "url": "https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Architectural Pattern - Wikipedia",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Architectural_pattern",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "dependency-injection",
+          "title": "Dependency Injection",
+          "description": "مباحث و تمرین‌های مرتبط با «Dependency Injection».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Dependency Injection - StackOverflow",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/130794/what-is-dependency-injection",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Dependency Injection?",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=0yc2UANSDiw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Dependency Injection",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/dependency-injection?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "null-object-pattern",
+          "title": "Null Object Pattern",
+          "description": "مباحث و تمرین‌های مرتبط با «Null Object Pattern».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Design Patterns - Null Object Pattern",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/design_pattern/null_object_pattern.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "type-object-pattern",
+          "title": "Type Object Pattern",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Object Pattern».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Type Object Pattern",
+              "type": "article",
+              "url": "https://gameprogrammingpatterns.com/type-object.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Design Patterns for Humans",
+          "type": "article",
+          "url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Design Patterns",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Software_design_pattern",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Refactoring Guru - Design Patterns",
+          "type": "article",
+          "url": "https://refactoring.guru/design-patterns/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Design Patterns",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/design-patterns?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "common-uml-diagrams",
+      "title": "Common UML Diagrams",
+      "description": "مباحث و تمرین‌های مرتبط با «Common UML Diagrams».",
+      "order": 11,
+      "children": [
+        {
+          "id": "big-endian",
+          "title": "Big Endian",
+          "description": "مباحث و تمرین‌های مرتبط با «Big Endian».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Lecture 22. Big Endian and Little Endian",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=T1C9Kj_78ek",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Unified Modeling Language (UML) Description",
+          "type": "article",
+          "url": "https://www.uml-diagrams.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "UML Diagrams Full Course (Unified Modeling Language)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=WnMQ8HlmeXc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "basic-math-skills",
+      "title": "Basic Math Skills",
+      "description": "مباحث و تمرین‌های مرتبط با «Basic Math Skills».",
+      "order": 12,
+      "children": [
+        {
+          "id": "probability",
+          "title": "Probability",
+          "description": "مباحث و تمرین‌های مرتبط با «Probability».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Probability - Khan Academy",
+              "type": "article",
+              "url": "https://www.khanacademy.org/math/statistics-probability/probability-library",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MIT 6.042J - Probability Introduction",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SmFwFdESMHI&index=18&list=PLB7540DEDD482705B",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory",
+          "type": "article",
+          "url": "http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Discrete Mathematics By IIT Ropar NPTEL",
+          "type": "article",
+          "url": "https://nptel.ac.in/courses/106/106/106106183/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Lec 1 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Integer Arithmetic, Karatsuba Multiplication",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eCaXlAaN2uE&index=11&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Chinese Remainder Theorem (used in cryptography)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ru7mWZJlRQg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Discrete Mathematics by Shai Simonson (19 videos)",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MIT 6.042J - Probability Introduction",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=SmFwFdESMHI&index=18&list=PLB7540DEDD482705B",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MIT 6.042J - Conditional Probability",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=E6FbvM-FGZ8&index=19&list=PLB7540DEDD482705B",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MIT 6.042J - Independence",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=l1BCv3qqW4A&index=20&list=PLB7540DEDD482705B",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MIT 6.042J - Random Variables",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MOfhhFaQdjw&list=PLB7540DEDD482705B&index=21",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MIT 6.042J - Expectation I",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=gGlMSe7uEkA&index=22&list=PLB7540DEDD482705B",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MIT 6.042J - Expectation II",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=oI9fMUqgfxY&index=23&list=PLB7540DEDD482705B",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MIT 6.042J - Large Deviations",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=q4mwO2qS2z4&index=24&list=PLB7540DEDD482705B",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MIT 6.042J - Random Walks",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=56iFMY8QW2k&list=PLB7540DEDD482705B&index=25",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Math",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/math?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "complexity-classes",
+      "title": "Complexity Classes",
+      "description": "مباحث و تمرین‌های مرتبط با «Complexity Classes».",
+      "order": 13,
+      "children": [
+        {
+          "id": "class-diagrams",
+          "title": "Class Diagrams",
+          "description": "مباحث و تمرین‌های مرتبط با «Class Diagrams».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Class Diagrams",
+              "type": "article",
+              "url": "https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "UML Class Diagram Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=UI6lqHOVHic",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Trying to understand P vs NP vs NP Complete vs NP Hard",
+          "type": "article",
+          "url": "https://softwareengineering.stackexchange.com/questions/308178/trying-to-understand-p-vs-np-vs-np-complete-vs-np-hard",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Complexity: P, NP, NP-completeness, Reductions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Complexity: Approximation Algorithms",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MEz1J9wY2iM&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=24",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Complexity: Fixed-Parameter Algorithms",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4q-jmGrmxKs&index=25&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Lecture 23: Computational Complexity",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=24",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Greedy Algs. II & Intro to NP Completeness",
+          "type": "video",
+          "url": "https://youtu.be/qcGnJ47Smlo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=2939",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "tries",
+      "title": "Tries",
+      "description": "مباحث و تمرین‌های مرتبط با «Tries».",
+      "order": 14,
+      "children": [
+        {
+          "id": "tries-item",
+          "title": "Tries",
+          "description": "مباحث و تمرین‌های مرتبط با «Tries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "0. Tries - Coursera",
+          "type": "course",
+          "url": "https://www.coursera.org/learn/algorithms-part2/home/week/4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "1. R Way Tries",
+          "type": "course",
+          "url": "https://www.coursera.org/learn/algorithms-part2/lecture/CPVdr/r-way-tries",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "2. Ternary Search Tries",
+          "type": "course",
+          "url": "https://www.coursera.org/learn/algorithms-part2/lecture/yQM8K/ternary-search-tries",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "3. Character Based Operations",
+          "type": "course",
+          "url": "https://www.coursera.org/learn/algorithms-part2/lecture/jwNmV/character-based-operations",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Tries - DataStructure Notes",
+          "type": "article",
+          "url": "http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Tries",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Trie: A Neglected Data Structure",
+          "type": "article",
+          "url": "https://www.toptal.com/java/the-trie-a-neglected-data-structure",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "TopCoder - Using Tries",
+          "type": "article",
+          "url": "https://www.topcoder.com/thrive/articles/Using%20Tries",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Stanford Lecture (real world use case)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=TJ8SkcUSdbU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MIT, Advanced Data Structures, Strings (can get pretty obscure about halfway through)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NinWEPPrkDQ&index=16&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "np-complete",
+      "title": "NP Complete",
+      "description": "مباحث و تمرین‌های مرتبط با «NP Complete».",
+      "order": 15,
+      "children": [
+        {
+          "id": "np-complete-item",
+          "title": "NP Complete",
+          "description": "مباحث و تمرین‌های مرتبط با «NP Complete».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Trying to understand P vs NP vs NP Complete vs NP Hard",
+          "type": "article",
+          "url": "https://softwareengineering.stackexchange.com/questions/308178/trying-to-understand-p-vs-np-vs-np-complete-vs-np-hard",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Complexity: P, NP, NP-completeness, Reductions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "P vs. NP and the Computational Complexity Zoo",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=YX40hbAHx3s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Greedy Algs. II & Intro to NP Completeness",
+          "type": "video",
+          "url": "https://youtu.be/qcGnJ47Smlo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=2939",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NP Completeness II & Reductions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=e0tGC6ZQdQE&index=16&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NP Completeness III",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fCX1BGT3wjE&index=17&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NP Completeness IV",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NKLDp3Rch3M&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=18",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "balanced-search-trees",
+      "title": "Balanced Search Trees",
+      "description": "مباحث و تمرین‌های مرتبط با «Balanced Search Trees».",
+      "order": 16,
+      "children": [
+        {
+          "id": "balanced-search-trees-item",
+          "title": "Balanced Search Trees",
+          "description": "مباحث و تمرین‌های مرتبط با «Balanced Search Trees».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Self-balancing Binary Search Tree - Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Balanced Search Trees Operations and Applications 11 min",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IbNZ-x1I2IM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Balanced binary search tree rotations",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=q4fnJZr8ztY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "system-design",
+      "title": "System Design",
+      "description": "مباحث و تمرین‌های مرتبط با «System Design».",
+      "order": 17,
+      "children": [
+        {
+          "id": "horizontal-vs-vertical-scaling",
+          "title": "Horizontal vs Vertical Scaling",
+          "description": "مباحث و تمرین‌های مرتبط با «Horizontal vs Vertical Scaling».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Scaling Horizontally vs. Scaling Vertically",
+              "type": "article",
+              "url": "https://www.digitalocean.com/resources/article/horizontal-scaling-vs-vertical-scaling",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "System Design Basics: Horizontal vs. Vertical Scaling",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=xpDnVSmNFX0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vertical vs. Horizontal Scaling for Database Servers",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=R99R-SNbo9g",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "System Design Primer",
+          "type": "article",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "System Design: The Complete Course",
+          "type": "article",
+          "url": "https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "System Design 101",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Y-Gl4HEyeUQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Scaling the Unscalable",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=a2rcgzludDU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "System Design interview: Scale to 1 million users",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=YkGHxOg9d3M",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Career",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/career?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "databases",
+      "title": "Databases",
+      "description": "مباحث و تمرین‌های مرتبط با «Databases».",
+      "order": 18,
+      "children": [
+        {
+          "id": "databases-item",
+          "title": "Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «Databases».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is a Database?",
+          "type": "article",
+          "url": "https://www.oracle.com/database/what-is-database/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What are Databases?",
+          "type": "article",
+          "url": "https://www.prisma.io/dataguide/intro/what-are-databases",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DBMS by Stanford",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=D-k-h0GuFmE&list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Backend Development",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/backend?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "networking",
+      "title": "Networking",
+      "description": "مباحث و تمرین‌های مرتبط با «Networking».",
+      "order": 19,
+      "children": [
+        {
+          "id": "sockets",
+          "title": "Sockets",
+          "description": "مباحث و تمرین‌های مرتبط با «Sockets».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "A Beginners Guide to WebSockets",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=8ARodQ4Wlf4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "WebSockets in 100 Seconds & Beyond with Socket.io",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=1BfCnjr_Vjg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy - Networking",
+          "type": "article",
+          "url": "https://www.khanacademy.org/computing/code-org/computers-and-the-internet",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Computer Networking Course - Network Engineering",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qiQR5rTSshw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Networking Video Series (21 videos)",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Networking",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/networking?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "k-d-trees",
+      "title": "K-D Trees",
+      "description": "مباحث و تمرین‌های مرتبط با «K-D Trees».",
+      "order": 20,
+      "children": [
+        {
+          "id": "k-d-trees-item",
+          "title": "K-D Trees",
+          "description": "مباحث و تمرین‌های مرتبط با «K-D Trees».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "K-D Tree Algorithm",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Y4ZgLlDfKDg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "K-d Trees - Computerphile",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=BK5x7IUTIyU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "skip-lists",
+      "title": "Skip Lists",
+      "description": "مباحث و تمرین‌های مرتبط با «Skip Lists».",
+      "order": 21,
+      "children": [
+        {
+          "id": "hashing-algorithms",
+          "title": "Hashing Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Hashing Algorithms».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Hashing Algorithm Overview:",
+              "type": "article",
+              "url": "https://www.okta.com/identity-101/hashing-algorithms/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hashing Algorithms and Security - Computerphile",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=b4b8ktEV4Bg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Top Hashing Algorithms In Cryptography | MD5 and SHA 256 Algorithms Expalined | Simplilearn",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Plp4F3ZfC7A",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SHA: Secure Hashing Algorithm - Computerphile",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=DMtFhACPnTY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Algorithms",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/algorithms?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "public-key-cryptography",
+          "title": "Public Key Cryptography",
+          "description": "مباحث و تمرین‌های مرتبط با «Public Key Cryptography».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Public-key Cryptography",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Public-key_cryptography",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Public Key Cryptography - Computerphile",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=GSIDS_lvRv4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Public Key Cryptography: RSA Encryption Algorithm",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=wXB-V_Keiu8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Cryptography",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/cryptography?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hashing-algorithms-2",
+          "title": "Hashing Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «Hashing Algorithms».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Hashing Algorithm Overview:",
+              "type": "article",
+              "url": "https://www.okta.com/identity-101/hashing-algorithms/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hashing Algorithms and Security - Computerphile",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=b4b8ktEV4Bg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Top Hashing Algorithms In Cryptography | MD5 and SHA 256 Algorithms Expalined | Simplilearn",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Plp4F3ZfC7A",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SHA: Secure Hashing Algorithm - Computerphile",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=DMtFhACPnTY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Algorithms",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/algorithms?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "owasp-top-10",
+          "title": "OWASP Top 10",
+          "description": "مباحث و تمرین‌های مرتبط با «OWASP Top 10».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "OWASP",
+              "type": "article",
+              "url": "https://owasp.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OWASP Web Application Security Testing Checklist",
+              "type": "article",
+              "url": "https://github.com/0xRadi/OWASP-Web-Checklist",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OWASP - Wiki",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/OWASP",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OWASP Top 10 Security Risks",
+              "type": "article",
+              "url": "https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "OWASP Cheatsheets",
+              "type": "article",
+              "url": "https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Skip Lists",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Skip_list",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Randomization: Skip Lists",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=2g9OSRKJuzM&index=10&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Security».",
+      "order": 22,
+      "children": [
+        {
+          "id": "security-item",
+          "title": "Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "OWASP Web Application Security Testing Checklist",
+          "type": "article",
+          "url": "https://github.com/0xRadi/OWASP-Web-Checklist",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Why HTTPS Matters",
+          "type": "article",
+          "url": "https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Wikipedia - OWASP",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/OWASP",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "OWASP Top 10 Security Risks",
+          "type": "article",
+          "url": "https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "OWASP Cheatsheets",
+          "type": "article",
+          "url": "https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Content Security Policy (CSP)",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MIT 6.858 Computer Systems Security, Fall 2014",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Security",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/security?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "how-computers-work",
+      "title": "How Computers Work",
+      "description": "مباحث و تمرین‌های مرتبط با «How Computers Work».",
+      "order": 23,
+      "children": [
+        {
+          "id": "how-cpu-executes-programs",
+          "title": "How CPU Executes Programs",
+          "description": "مباحث و تمرین‌های مرتبط با «How CPU Executes Programs».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "How CPU Executes a Program",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=XM4lGflQFvA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Computing",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/computing?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How CPU Executes A Program",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=XM4lGflQFvA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How Computers Calculate - ALU",
+          "type": "video",
+          "url": "https://youtu.be/1I5ZMmrOfnA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Registers and RAM",
+          "type": "video",
+          "url": "https://youtu.be/fpnE6UAfbtU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The Central Processing Unit (CPU)",
+          "type": "video",
+          "url": "https://youtu.be/FZGugFqdr60",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Instructions and Programs",
+          "type": "video",
+          "url": "https://youtu.be/zltgXvg6r3k",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "processes-and-threads",
+      "title": "Processes and Threads",
+      "description": "مباحث و تمرین‌های مرتبط با «Processes and Threads».",
+      "order": 24,
+      "children": [
+        {
+          "id": "lock-mutex-semaphore",
+          "title": "Lock / Mutex / Semaphore",
+          "description": "مباحث و تمرین‌های مرتبط با «Lock / Mutex / Semaphore».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is the difference between lock, mutex and semaphore?",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/2332765/what-is-the-difference-between-lock-mutex-and-semaphore",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is a Semaphore",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/34519/what-is-a-semaphore/40238#40238",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "concurrency-in-multiple-cores",
+          "title": "Concurrency in Multiple Cores",
+          "description": "مباحث و تمرین‌های مرتبط با «Concurrency in Multiple Cores».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Difference between Multi-core and concurrent Programming?",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/5372861/what-is-the-difference-between-multicore-and-concurrent-programming",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Concurrency in Multicore systems",
+              "type": "article",
+              "url": "https://cs.stackexchange.com/questions/140793/concurrency-in-multiple-core",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Concurrency",
+              "type": "article",
+              "url": "https://www.harrisonclarke.com/blog/mastering-concurrency-a-guide-for-software-engineers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Whats the difference between Process and a Thread?",
+          "type": "article",
+          "url": "https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Operating Systems and System Programming",
+          "type": "article",
+          "url": "https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "25 hour Operating Systems Course - freecodecamp",
+          "type": "video",
+          "url": "https://youtu.be/yK1uBHPdp30?si=gGPdK7cM4KlP6Qq0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,1196 @@
+{
+  "slug": "aws",
+  "title": "AWS",
+  "description": "Step by step guide to learning AWS in 2026",
+  "steps": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-cloud-computing",
+          "title": "What is Cloud Computing?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Cloud Computing?».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "What is Cloud Computing - IBM",
+              "type": "article",
+              "url": "https://www.ibm.com/topics/cloud-computing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cloud Computing - AWS",
+              "type": "article",
+              "url": "https://aws.amazon.com/what-is-cloud-computing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "iaas-vs-paas-vs-saas",
+          "title": "IaaS vs PaaS vs SaaS",
+          "description": "مباحث و تمرین‌های مرتبط با «IaaS vs PaaS vs SaaS».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Types of Cloud Computing",
+              "type": "article",
+              "url": "https://aws.amazon.com/types-of-cloud-computing/?nc1=h_ls",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "IaaS vs PaaS vs SaaS cloud service models",
+              "type": "video",
+              "url": "https://youtu.be/9CVBohl6w0Q?si=cEDnXpd1sGkpf0K2",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "public-vs-private-vs-hybrid-cloud",
+          "title": "Public vs Private vs Hybrid Cloud",
+          "description": "مباحث و تمرین‌های مرتبط با «Public vs Private vs Hybrid Cloud».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Types of Cloud Computing",
+              "type": "article",
+              "url": "https://www.redhat.com/en/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Selecting the right cloud for workloads",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/selecting-the-right-cloud-for-workloads-differences-between-public-private-and-hybrid.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "introduction-to-aws",
+          "title": "Introduction to AWS",
+          "description": "مباحث و تمرین‌های مرتبط با «Introduction to AWS».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "AWS Documentation",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction of AWS",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "AWS Tutorial for Beginners",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zA8guDqfv40",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about AWS",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/aws?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "AWS Documentation",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction of AWS",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Create an AWS Account",
+          "type": "article",
+          "url": "https://grapplingdev.com/tutorials/how-to-create-aws-account",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AWS Tutorial for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=zA8guDqfv40",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ec2",
+      "title": "EC2",
+      "description": "مباحث و تمرین‌های مرتبط با «EC2».",
+      "order": 2,
+      "children": [
+        {
+          "id": "instance-types",
+          "title": "Instance Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Instance Types».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "AWS EC2 Instance Types",
+              "type": "article",
+              "url": "https://aws.amazon.com/ec2/instance-types",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "EC2 - User Guide",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Amazon EC2",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=eaicwmnSdCs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "vpc",
+      "title": "VPC",
+      "description": "مباحث و تمرین‌های مرتبط با «VPC».",
+      "order": 3,
+      "children": [
+        {
+          "id": "cidr-blocks",
+          "title": "CIDR Blocks",
+          "description": "مباحث و تمرین‌های مرتبط با «CIDR Blocks».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "cidr.xyz: Interactive CIDR range visualizer",
+              "type": "article",
+              "url": "https://cidr.xyz/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "VPC - CIRD Blocks",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-cidr-blocks.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "VPC",
+          "type": "article",
+          "url": "https://aws.amazon.com/vpc/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AWS VPC Beginner to Advanced uses",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=g2JOHLHh4rI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "iam",
+      "title": "IAM",
+      "description": "مباحث و تمرین‌های مرتبط با «IAM».",
+      "order": 4,
+      "children": [
+        {
+          "id": "policies",
+          "title": "Policies",
+          "description": "مباحث و تمرین‌های مرتبط با «Policies».",
+          "order": 1,
+          "children": [
+            {
+              "id": "resource-based",
+              "title": "Resource-based",
+              "description": "مباحث و تمرین‌های مرتبط با «Resource-based».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            },
+            {
+              "id": "identity-based",
+              "title": "Identity-based",
+              "description": "مباحث و تمرین‌های مرتبط با «Identity-based».",
+              "order": 2,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Permissions and Policies",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_access-management.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "IAM - User Guide",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "auto-scaling",
+      "title": "Auto-Scaling",
+      "description": "مباحث و تمرین‌های مرتبط با «Auto-Scaling».",
+      "order": 5,
+      "children": [
+        {
+          "id": "auto-scaling-item",
+          "title": "Auto-Scaling",
+          "description": "مباحث و تمرین‌های مرتبط با «Auto-Scaling».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "AWS Autoscaling",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "s3",
+      "title": "S3",
+      "description": "مباحث و تمرین‌های مرتبط با «S3».",
+      "order": 6,
+      "children": [
+        {
+          "id": "buckets-objects",
+          "title": "Buckets / Objects",
+          "description": "مباحث و تمرین‌های مرتبط با «Buckets / Objects».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Bucket / Object",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingBucket.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "S3",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ses",
+      "title": "SES",
+      "description": "مباحث و تمرین‌های مرتبط با «SES».",
+      "order": 7,
+      "children": [
+        {
+          "id": "ses-item",
+          "title": "SES",
+          "description": "مباحث و تمرین‌های مرتبط با «SES».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "SES",
+          "type": "article",
+          "url": "https://aws.amazon.com/ses/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "route53",
+      "title": "Route53",
+      "description": "مباحث و تمرین‌های مرتبط با «Route53».",
+      "order": 8,
+      "children": [
+        {
+          "id": "routing-policies",
+          "title": "Routing Policies",
+          "description": "مباحث و تمرین‌های مرتبط با «Routing Policies».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Routing Policies",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hosted-zones",
+          "title": "Hosted Zones",
+          "description": "مباحث و تمرین‌های مرتبط با «Hosted Zones».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Hosted Zones",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/hosted-zones-working-with.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "health-checks",
+          "title": "Health Checks",
+          "description": "مباحث و تمرین‌های مرتبط با «Health Checks».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Route53 Health Checks",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/welcome-health-checks.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Route53",
+          "type": "article",
+          "url": "https://aws.amazon.com/route53/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "storage-types",
+      "title": "Storage Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Storage Types».",
+      "order": 9,
+      "children": [
+        {
+          "id": "storage-types-item",
+          "title": "Storage Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Storage Types».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Storage Types",
+          "type": "article",
+          "url": "https://aws.amazon.com/s3/storage-classes/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cloudwatch",
+      "title": "Cloudwatch",
+      "description": "مباحث و تمرین‌های مرتبط با «Cloudwatch».",
+      "order": 10,
+      "children": [
+        {
+          "id": "events",
+          "title": "Events",
+          "description": "مباحث و تمرین‌های مرتبط با «Events».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Amazon Cloudwatch Events",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/cloudwatch-events.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "metrics",
+          "title": "Metrics",
+          "description": "مباحث و تمرین‌های مرتبط با «Metrics».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "CloudWatch Metrics",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/publishingMetrics.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "logs",
+          "title": "Logs",
+          "description": "مباحث و تمرین‌های مرتبط با «Logs».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Amazon Cloudwatch Logs",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Amazon Cloudwatch",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "rds",
+      "title": "RDS",
+      "description": "مباحث و تمرین‌های مرتبط با «RDS».",
+      "order": 11,
+      "children": [
+        {
+          "id": "rds-item",
+          "title": "RDS",
+          "description": "مباحث و تمرین‌های مرتبط با «RDS».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Amazon RDS",
+          "type": "article",
+          "url": "https://aws.amazon.com/rds/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dynamodb",
+      "title": "DynamoDB",
+      "description": "مباحث و تمرین‌های مرتبط با «DynamoDB».",
+      "order": 12,
+      "children": [
+        {
+          "id": "data-modeling",
+          "title": "Data Modeling",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Modeling».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Data Modeling",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/data-modeling.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "backup-restore",
+          "title": "Backup / Restore",
+          "description": "مباحث و تمرین‌های مرتبط با «Backup / Restore».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Backup & Restore",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Backup-and-Restore.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "tables-items-attributes",
+          "title": "Tables / Items / Attributes",
+          "description": "مباحث و تمرین‌های مرتبط با «Tables / Items / Attributes».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Amazon DynamoDB",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/WorkingWithItems.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "capacity-settings",
+          "title": "Capacity Settings",
+          "description": "مباحث و تمرین‌های مرتبط با «Capacity Settings».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Capacity Settings",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/capacity-mode.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "limits",
+          "title": "Limits",
+          "description": "مباحث و تمرین‌های مرتبط با «Limits».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Limit Settings",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ServiceQuotas.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "dynamodb-local",
+          "title": "DynamoDB Local",
+          "description": "مباحث و تمرین‌های مرتبط با «DynamoDB Local».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "DynamoDB Local",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Amazon DynamoDB",
+          "type": "article",
+          "url": "https://aws.amazon.com/dynamodb/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "elasticache",
+      "title": "ElastiCache",
+      "description": "مباحث و تمرین‌های مرتبط با «ElastiCache».",
+      "order": 13,
+      "children": [
+        {
+          "id": "quotas",
+          "title": "Quotas",
+          "description": "مباحث و تمرین‌های مرتبط با «Quotas».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Amazon ElastiCache Quotas",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/quota-limits.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Amazon ElastiCache",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/WhatIs.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ecr",
+      "title": "ECR",
+      "description": "مباحث و تمرین‌های مرتبط با «ECR».",
+      "order": 14,
+      "children": [
+        {
+          "id": "ecr-item",
+          "title": "ECR",
+          "description": "مباحث و تمرین‌های مرتبط با «ECR».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "AWS Elastic Container Registry (ECR)",
+          "type": "article",
+          "url": "https://aws.amazon.com/ecr/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Concepts of Amazon ECR",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/AmazonECR/latest/userguide/concept-and-components.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "cloudfront",
+      "title": "Cloudfront",
+      "description": "مباحث و تمرین‌های مرتبط با «Cloudfront».",
+      "order": 15,
+      "children": [
+        {
+          "id": "versioning-aliases",
+          "title": "Versioning / Aliases",
+          "description": "مباحث و تمرین‌های مرتبط با «Versioning / Aliases».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "AWS Lambda Versioning",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/lambda/latest/dg/configuration-aliases.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "custom-runtimes",
+          "title": "Custom Runtimes",
+          "description": "مباحث و تمرین‌های مرتبط با «Custom Runtimes».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "AWS Lambda Runtimes",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "creating-invoking-functions",
+          "title": "Creating / Invoking Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating / Invoking Functions».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Create Your First Lambda Function",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "First AWS Lambda Function",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=e1tkFsFOBHA",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "event-bridge-scheduled-execution",
+          "title": "Event Bridge / Scheduled Execution",
+          "description": "مباحث و تمرین‌های مرتبط با «Event Bridge / Scheduled Execution».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Amazon EventBridge",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cold-start-and-limitations",
+          "title": "Cold Start and Limitations",
+          "description": "مباحث و تمرین‌های مرتبط با «Cold Start and Limitations».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "AWS Cold Start and Limitations",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "lambda-edge",
+          "title": "Lambda@Edge",
+          "description": "مباحث و تمرین‌های مرتبط با «Lambda@Edge».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "AWS Lambda Edge",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "policies-2",
+          "title": "Policies",
+          "description": "مباحث و تمرین‌های مرتبط با «Policies».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Cloudfront IAM",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/security-iam.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "distributions",
+          "title": "Distributions",
+          "description": "مباحث و تمرین‌های مرتبط با «Distributions».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Cloudfront Distribution",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/distribution-working-with.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "invalidations",
+          "title": "Invalidations",
+          "description": "مباحث و تمرین‌های مرتبط با «Invalidations».",
+          "order": 9,
+          "resources": [
+            {
+              "title": "Invalidations Cloudfront",
+              "type": "article",
+              "url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Invalidation.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Amazon Cloudfront",
+          "type": "article",
+          "url": "https://aws.amazon.com/cloudfront/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ecs",
+      "title": "ECS",
+      "description": "مباحث و تمرین‌های مرتبط با «ECS».",
+      "order": 16,
+      "children": [
+        {
+          "id": "ecs-item",
+          "title": "ECS",
+          "description": "مباحث و تمرین‌های مرتبط با «ECS».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Amazon Elastic Container Service (ECS)",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "eks",
+      "title": "EKS",
+      "description": "مباحث و تمرین‌های مرتبط با «EKS».",
+      "order": 17,
+      "children": [
+        {
+          "id": "eks-item",
+          "title": "EKS",
+          "description": "مباحث و تمرین‌های مرتبط با «EKS».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Amazon Elastic Kubernetes Service (EKS)",
+          "type": "article",
+          "url": "https://aws.amazon.com/eks/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Concepts of Amazon EKS",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/eks/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "lambda",
+      "title": "Lambda",
+      "description": "مباحث و تمرین‌های مرتبط با «Lambda».",
+      "order": 18,
+      "children": [
+        {
+          "id": "lambda-item",
+          "title": "Lambda",
+          "description": "مباحث و تمرین‌های مرتبط با «Lambda».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "AWS Lambda",
+          "type": "article",
+          "url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

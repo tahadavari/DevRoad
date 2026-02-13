@@ -1,0 +1,3396 @@
+{
+  "slug": "kotlin",
+  "title": "Kotlin",
+  "description": "Step by step guide to learning Kotlin in 2026",
+  "steps": [
+    {
+      "id": "introduction-to-kotlin",
+      "title": "Introduction to Kotlin",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction to Kotlin».",
+      "order": 1,
+      "children": [
+        {
+          "id": "why-use-kotlin",
+          "title": "Why use Kotlin",
+          "description": "مباحث و تمرین‌های مرتبط با «Why use Kotlin».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Kotlin FAQs",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/faq.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin in 100 Seconds",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=xT8oP0wy-A0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "java-interoperability",
+          "title": "Java Interoperability",
+          "description": "مباحث و تمرین‌های مرتبط با «Java Interoperability».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Kotlin Comparison to Java",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/comparison-to-java.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Calling Java from Kotlin",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/java-interop.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Calling Kotlin from Java",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/java-to-kotlin-interop.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "history-of-kotlin",
+          "title": "History of Kotlin",
+          "description": "مباحث و تمرین‌های مرتبط با «History of Kotlin».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "10 Years of Kotlin",
+              "type": "article",
+              "url": "https://kotlinlang.org/lp/10yearsofkotlin/past/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin | Wikipedia",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Kotlin_(programming_language)",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "setting-up-the-environment",
+          "title": "Setting up the Environment",
+          "description": "مباحث و تمرین‌های مرتبط با «Setting up the Environment».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Get started with Kotlin",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/getting-started.html#install-kotlin",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Writing, Compiling, and Running Your First Kotlin Program",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=bUm51_whyL8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kotlin Docs",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/home.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin overview",
+          "type": "article",
+          "url": "https://developer.android.com/kotlin/overview",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Teach Computer Science with Kotlin",
+          "type": "article",
+          "url": "https://kotlinlang.org/education/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Android Basics with Compose",
+          "type": "course",
+          "url": "https://developer.android.com/courses/android-basics-compose/course",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Full 2025 Kotlin Crash Course For Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=dzUc9vrsldM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "code-organization",
+      "title": "Code Organization",
+      "description": "مباحث و تمرین‌های مرتبط با «Code Organization».",
+      "order": 2,
+      "children": [
+        {
+          "id": "code-organization-item",
+          "title": "Code Organization",
+          "description": "مباحث و تمرین‌های مرتبط با «Code Organization».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Source code organization",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/coding-conventions.html#source-code-organization",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Full 2025 Kotlin Crash Course For Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=dzUc9vrsldM",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "main-function",
+      "title": "main  Function",
+      "description": "مباحث و تمرین‌های مرتبط با «main  Function».",
+      "order": 3,
+      "children": [
+        {
+          "id": "main-function-item",
+          "title": "main  Function",
+          "description": "مباحث و تمرین‌های مرتبط با «main  Function».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Program Entry point",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/basic-syntax.html#program-entry-point",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Syntax",
+          "type": "article",
+          "url": "https://www.w3schools.com/kotlin/kotlin_syntax.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "variables",
+      "title": "Variables",
+      "description": "مباحث و تمرین‌های مرتبط با «Variables».",
+      "order": 4,
+      "children": [
+        {
+          "id": "val-vs-var",
+          "title": "val vs var",
+          "description": "مباحث و تمرین‌های مرتبط با «val vs var».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Variables",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/basic-syntax.html#variables",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Variable declaration",
+              "type": "article",
+              "url": "https://developer.android.com/kotlin/learn#:~:text=Kotlin%20uses%20two%20different%20keywords,variable%20whose%20value%20can%20change.",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Kotlin 02 Var vs Val Variables",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Klus0Uh40Lw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Variables",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/basic-syntax.html#variables",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-types",
+      "title": "Data types",
+      "description": "مباحث و تمرین‌های مرتبط با «Data types».",
+      "order": 5,
+      "children": [
+        {
+          "id": "type-inference",
+          "title": "Type Inference",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Inference».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Type inference",
+              "type": "article",
+              "url": "https://kotlinlang.org/spec/type-inference.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Kotlin Type Inference: What You Need to Know",
+              "type": "article",
+              "url": "https://www.dhiwise.com/post/understanding-kotlin-type-inference-what-you-need-to-know",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How Type Inference Works in Kotlin",
+              "type": "article",
+              "url": "https://www.youtube.com/watch?v=Hyq_yho2JD8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Basic Types",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/basic-types.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data types in Kotlin",
+          "type": "article",
+          "url": "https://www.w3schools.com/kotlin/kotlin_data_types.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "comments",
+      "title": "Comments",
+      "description": "مباحث و تمرین‌های مرتبط با «Comments».",
+      "order": 6,
+      "children": [
+        {
+          "id": "comments-item",
+          "title": "Comments",
+          "description": "مباحث و تمرین‌های مرتبط با «Comments».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Comments",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/basic-syntax.html#comments",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "collections",
+      "title": "Collections",
+      "description": "مباحث و تمرین‌های مرتبط با «Collections».",
+      "order": 7,
+      "children": [
+        {
+          "id": "lists",
+          "title": "Lists",
+          "description": "مباحث و تمرین‌های مرتبط با «Lists».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Lists",
+              "type": "article",
+              "url": "https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.collections/-list/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Lists | Android",
+              "type": "article",
+              "url": "https://developer.android.com/codelabs/basic-android-kotlin-collections#2",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "read-only-vs-mutable",
+          "title": "read-only vs mutable",
+          "description": "مباحث و تمرین‌های مرتبط با «read-only vs mutable».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Collection Types",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/collections-overview.html#collection-types",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Collection",
+              "type": "article",
+              "url": "https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.collections/-collection/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MutableCollection",
+              "type": "article",
+              "url": "https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.collections/-mutable-collection/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mutable vs Immutable - What You Need to Know",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=RogMd01DlLw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "iterators",
+          "title": "Iterators",
+          "description": "مباحث و تمرین‌های مرتبط با «Iterators».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Iterators",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/iterators.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Iterator",
+              "type": "article",
+              "url": "https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.collections/-iterator/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Mastering Kotlin Iterators: A Complete Guide For Developers",
+              "type": "article",
+              "url": "https://www.dhiwise.com/post/mastering-kotlin-iterators-a-complete-guide-for-developers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Iterating Collections | for | forEach | Iterator",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=MXRNAw6Uem0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Collections",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/basic-syntax.html#collections",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Collections Overview",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/collections-overview.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Collections",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=NuuMC4mmzzQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ranges",
+      "title": "Ranges",
+      "description": "مباحث و تمرین‌های مرتبط با «Ranges».",
+      "order": 8,
+      "children": [
+        {
+          "id": "ranges-item",
+          "title": "Ranges",
+          "description": "مباحث و تمرین‌های مرتبط با «Ranges».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ranges",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/ranges.html#range",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Essential Insights into Kotlin Range: Syntax, Types, and Functions",
+          "type": "article",
+          "url": "https://www.dhiwise.com/post/essential-insights-into-kotlin-range-syntax-and-functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "progressions",
+      "title": "Progressions",
+      "description": "مباحث و تمرین‌های مرتبط با «Progressions».",
+      "order": 9,
+      "children": [
+        {
+          "id": "progressions-item",
+          "title": "Progressions",
+          "description": "مباحث و تمرین‌های مرتبط با «Progressions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Progression",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/ranges.html#progression",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "printing-data",
+      "title": "Printing data",
+      "description": "مباحث و تمرین‌های مرتبط با «Printing data».",
+      "order": 10,
+      "children": [
+        {
+          "id": "string-templates",
+          "title": "String Templates",
+          "description": "مباحث و تمرین‌های مرتبط با «String Templates».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "String Templates",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/strings.html#string-templates",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Print to the standard output",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/basic-syntax.html#print-to-the-standard-output",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "sequences",
+      "title": "Sequences",
+      "description": "مباحث و تمرین‌های مرتبط با «Sequences».",
+      "order": 11,
+      "children": [
+        {
+          "id": "sequences-item",
+          "title": "Sequences",
+          "description": "مباحث و تمرین‌های مرتبط با «Sequences».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Sequences",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/sequences.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Classification of Sequences",
+          "type": "article",
+          "url": "https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.sequences/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Sequence Explained - Kotlin Collections",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_F4ZzK2Iquc",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "conditional-expressions",
+      "title": "Conditional Expressions",
+      "description": "مباحث و تمرین‌های مرتبط با «Conditional Expressions».",
+      "order": 12,
+      "children": [
+        {
+          "id": "conditional-expressions-item",
+          "title": "Conditional Expressions",
+          "description": "مباحث و تمرین‌های مرتبط با «Conditional Expressions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "If expression",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/control-flow.html#if-expression",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "loops",
+      "title": "Loops",
+      "description": "مباحث و تمرین‌های مرتبط با «Loops».",
+      "order": 13,
+      "children": [
+        {
+          "id": "loops-item",
+          "title": "Loops",
+          "description": "مباحث و تمرین‌های مرتبط با «Loops».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "For Loops",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/control-flow.html#for-loops",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "While Loops",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/control-flow.html#while-loops",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Loops",
+          "type": "article",
+          "url": "https://www.codecademy.com/resources/docs/kotlin/loops",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Improve Loops in Kotlin",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=i-kyPp1qFBA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "exceptions",
+      "title": "Exceptions",
+      "description": "مباحث و تمرین‌های مرتبط با «Exceptions».",
+      "order": 14,
+      "children": [
+        {
+          "id": "throwing-exceptions",
+          "title": "Throwing Exceptions",
+          "description": "مباحث و تمرین‌های مرتبط با «Throwing Exceptions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Throw exceptions",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/exceptions.html#throw-exceptions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Exceptions",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/exceptions.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin: Beyond the Try/Catch (Exception Handling)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ThlFnnaxsuE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "standard-functions",
+      "title": "Standard functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Standard functions».",
+      "order": 15,
+      "children": [
+        {
+          "id": "parameters",
+          "title": "parameters",
+          "description": "مباحث و تمرین‌های مرتبط با «parameters».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Parameters",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/functions.html#parameters",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "varargs",
+          "title": "varargs",
+          "description": "مباحث و تمرین‌های مرتبط با «varargs».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Variable number of arguments (varargs)",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/functions.html#variable-number-of-arguments-varargs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Function expression & vararg",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lQhTdcT650I",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "return",
+          "title": "return",
+          "description": "مباحث و تمرین‌های مرتبط با «return».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Explicit return types",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/functions.html#explicit-return-types",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unit-returning functions",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/functions.html#unit-returning-functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Functions",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/functions.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Functions",
+          "type": "article",
+          "url": "https://www.w3schools.com/kotlin/kotlin_functions.php",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Functions in 20 minutes",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=GlUnpf7MaO8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Basics of Functions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=0Lo3DIAL2y8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "local-functions",
+      "title": "Local Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Local Functions».",
+      "order": 16,
+      "children": [
+        {
+          "id": "local-functions-item",
+          "title": "Local Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Local Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Function scope",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/functions.html#function-scope",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "member-functions",
+      "title": "Member Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Member Functions».",
+      "order": 17,
+      "children": [
+        {
+          "id": "member-functions-item",
+          "title": "Member Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Member Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Member functions",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/functions.html#member-functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "tail-recursive-functions",
+      "title": "Tail-recursive Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Tail-recursive Functions».",
+      "order": 18,
+      "children": [
+        {
+          "id": "tail-recursive-functions-item",
+          "title": "Tail-recursive Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Tail-recursive Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Tail-recursive Functions",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/functions.html#tail-recursive-functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Recursion (Recursive Function) and Tail Recursion",
+          "type": "article",
+          "url": "https://www.programiz.com/kotlin-programming/recursion",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "function-types",
+      "title": "Function Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Function Types».",
+      "order": 19,
+      "children": [
+        {
+          "id": "higher-order-functions",
+          "title": "Higher-order Functions﻿",
+          "description": "مباحث و تمرین‌های مرتبط با «Higher-order Functions﻿».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Higher-order functions",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/lambdas.html#higher-order-functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Higher-order functions with collections",
+              "type": "article",
+              "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-higher-order-functions#0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Higher-Order Functions in Kotlin",
+              "type": "article",
+              "url": "https://medium.com/@anandgaur2207/higher-order-functions-in-kotlin-b35fc6b23f8e",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "lambda-functions",
+          "title": "Lambda Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Lambda Functions».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Lambda expressions and anonymous functions",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/lambdas.html#lambda-expressions-and-anonymous-functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin Lambda Functions",
+              "type": "article",
+              "url": "https://medium.com/@guruprasadhegde4/kotlin-lambda-expressions-bb9d4e15b6fc",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use Simple Lambda Expressions in Kotlin",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=unCjOegBSMI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to Lambdas",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=S6oJgF_J9m4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "anonymous-functions",
+          "title": "Anonymous Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Anonymous Functions».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Anonymous Functions",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/lambdas.html#anonymous-functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin Lambda Expressions + Kotlin Anonymous Functions",
+              "type": "article",
+              "url": "https://medium.com/huawei-developers/kotlin-lambda-expressions-kotlin-anonymous-functions-example-tutorial-88a4b622f8b9",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Function types",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/lambdas.html#function-types",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Use functions as a data type",
+          "type": "article",
+          "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-function-types-and-lambda#3",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Function types",
+          "type": "article",
+          "url": "https://kt.academy/article/fk-function-types",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "extension-functions",
+      "title": "Extension Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Extension Functions».",
+      "order": 20,
+      "children": [
+        {
+          "id": "extension-functions-item",
+          "title": "Extension Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Extension Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Extension functions",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/extensions.html#extension-functions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "defining-classess",
+      "title": "Defining Classess",
+      "description": "مباحث و تمرین‌های مرتبط با «Defining Classess».",
+      "order": 21,
+      "children": [
+        {
+          "id": "defining-classess-item",
+          "title": "Defining Classess",
+          "description": "مباحث و تمرین‌های مرتبط با «Defining Classess».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Classes",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/classes.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Define a class",
+          "type": "article",
+          "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#1",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Classes & Objects Explained 🚀 | OOP in Kotlin | Kotlin Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1WF2Q_UJgps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "creating-instances",
+      "title": "Creating Instances",
+      "description": "مباحث و تمرین‌های مرتبط با «Creating Instances».",
+      "order": 22,
+      "children": [
+        {
+          "id": "creating-instances-item",
+          "title": "Creating Instances",
+          "description": "مباحث و تمرین‌های مرتبط با «Creating Instances».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Creating instances of classes",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/classes.html#creating-instances-of-classes",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Create an instance of a class",
+          "type": "article",
+          "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Classes & Objects Explained 🚀 | OOP in Kotlin | Kotlin Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1WF2Q_UJgps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "class-members",
+      "title": "Class Members",
+      "description": "مباحث و تمرین‌های مرتبط با «Class Members».",
+      "order": 23,
+      "children": [
+        {
+          "id": "methods",
+          "title": "Methods",
+          "description": "مباحث و تمرین‌های مرتبط با «Methods».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Member functions",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/functions.html#member-functions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Define class methods",
+              "type": "article",
+              "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#3",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "constructors",
+          "title": "Constructors",
+          "description": "مباحث و تمرین‌های مرتبط با «Constructors».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Constructors",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/classes.html#constructors",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Define a constructor",
+              "type": "article",
+              "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#5",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin Classes and Constructors - Primary vs Secondary",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=Ly_onmXpDiw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "nested-inner-classes",
+          "title": "Nested & Inner Classes",
+          "description": "مباحث و تمرین‌های مرتبط با «Nested & Inner Classes».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Nested and inner classes",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/nested-classes.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Nested and Inner Classes in Kotlin",
+              "type": "article",
+              "url": "https://medium.com/@sandeepkella23/understanding-nested-and-inner-classes-in-kotlin-ae1c4d699053",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin Nested Classes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=duTShX-EL5w",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin Inner Classes",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=L3pAmeYjrp8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "object-declarations",
+          "title": "Object Declarations",
+          "description": "مباحث و تمرین‌های مرتبط با «Object Declarations».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Object declarations and expressions",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/object-declarations.html#object-declarations.md",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin Object Declarations and Expressions",
+              "type": "article",
+              "url": "https://www.programiz.com/kotlin-programming/object-singleton",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Class members",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/classes.html#class-members",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Classes & Objects Explained 🚀 | OOP in Kotlin | Kotlin Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1WF2Q_UJgps",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "inheritance",
+      "title": "Inheritance",
+      "description": "مباحث و تمرین‌های مرتبط با «Inheritance».",
+      "order": 24,
+      "children": [
+        {
+          "id": "inheritance-item",
+          "title": "Inheritance",
+          "description": "مباحث و تمرین‌های مرتبط با «Inheritance».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Inheritance",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/inheritance.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Implement a relationship between classes",
+          "type": "article",
+          "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#6",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Newbie to Pro - INHERITANCE",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Xk3IPNHbLVk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "extension-functions-2",
+      "title": "Extension Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Extension Functions».",
+      "order": 25,
+      "children": [
+        {
+          "id": "extension-functions-2-item",
+          "title": "Extension Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Extension Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Extension Functions",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/extensions.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "5 Fun Ways to Use Extension Functions in Kotlin",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Q0RYVV9rZBI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "visibility-modifiers",
+      "title": "Visibility Modifiers",
+      "description": "مباحث و تمرین‌های مرتبط با «Visibility Modifiers».",
+      "order": 26,
+      "children": [
+        {
+          "id": "visibility-modifiers-item",
+          "title": "Visibility Modifiers",
+          "description": "مباحث و تمرین‌های مرتبط با «Visibility Modifiers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visibility modifiers",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/visibility-modifiers.html#visibility-modifiers.md",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visibility modifiers",
+          "type": "article",
+          "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#7",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Newbie to Pro - VISIBILITY MODIFIERS",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Xk3IPNHbLVk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "property-delegates",
+      "title": "Property Delegates",
+      "description": "مباحث و تمرین‌های مرتبط با «Property Delegates».",
+      "order": 27,
+      "children": [
+        {
+          "id": "property-delegates-item",
+          "title": "Property Delegates",
+          "description": "مباحث و تمرین‌های مرتبط با «Property Delegates».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Delegated properties",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/delegated-properties.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Define property delegates",
+          "type": "article",
+          "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#8",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Full Guide to Delegation in Kotlin - Android Studio Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MfJB-JhRAoQ&t=185s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "coroutines",
+      "title": "Coroutines",
+      "description": "مباحث و تمرین‌های مرتبط با «Coroutines».",
+      "order": 28,
+      "children": [
+        {
+          "id": "coroutines-item",
+          "title": "Coroutines",
+          "description": "مباحث و تمرین‌های مرتبط با «Coroutines».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Coroutines",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/coroutines-overview.html#coroutines-overview.md",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "kotlinx.coroutines",
+          "type": "article",
+          "url": "https://github.com/Kotlin/kotlinx.coroutines",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WHAT IS A COROUTINE? - Kotlin Coroutines",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=ShNhJ3wMpvQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "suspending-functions",
+      "title": "Suspending Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «Suspending Functions».",
+      "order": 29,
+      "children": [
+        {
+          "id": "suspending-functions-item",
+          "title": "Suspending Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Suspending Functions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Coroutines basics",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/coroutines-basics.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Composing suspending functions",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/composing-suspending-functions.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Suspend Functions - Kotlin Coroutines",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=yc_WfBp-PdE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "coroutines-builders",
+      "title": "Coroutines Builders",
+      "description": "مباحث و تمرین‌های مرتبط با «Coroutines Builders».",
+      "order": 30,
+      "children": [
+        {
+          "id": "coroutines-builders-item",
+          "title": "Coroutines Builders",
+          "description": "مباحث و تمرین‌های مرتبط با «Coroutines Builders».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Coroutines basics",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/coroutines-basics.html#your-first-coroutine",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Coroutine builders",
+          "type": "article",
+          "url": "https://medium.com/@appdevinsights/kotlin-coroutine-builders-6a6639cc478d",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "understanding-packages",
+      "title": "Understanding Packages",
+      "description": "مباحث و تمرین‌های مرتبط با «Understanding Packages».",
+      "order": 31,
+      "children": [
+        {
+          "id": "understanding-packages-item",
+          "title": "Understanding Packages",
+          "description": "مباحث و تمرین‌های مرتبط با «Understanding Packages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Packages and imports",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/packages.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Packages and Imports: Kotlin for Complete Beginners 045",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=VGg3g2ZT9jQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "coroutines-behavior",
+      "title": "Coroutines Behavior",
+      "description": "مباحث و تمرین‌های مرتبط با «Coroutines Behavior».",
+      "order": 32,
+      "children": [
+        {
+          "id": "coroutines-behavior-item",
+          "title": "Coroutines Behavior",
+          "description": "مباحث و تمرین‌های مرتبط با «Coroutines Behavior».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Coroutine concepts",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/coroutines-basics.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Coroutine Contexts - Kotlin Coroutines",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=71NrkkRNXG4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "asynchronous-flow",
+      "title": "Asynchronous Flow",
+      "description": "مباحث و تمرین‌های مرتبط با «Asynchronous Flow».",
+      "order": 33,
+      "children": [
+        {
+          "id": "asynchronous-flow-item",
+          "title": "Asynchronous Flow",
+          "description": "مباحث و تمرین‌های مرتبط با «Asynchronous Flow».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Asynchronous Flow",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/flow.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin flows on Android",
+          "type": "article",
+          "url": "https://developer.android.com/kotlin/flow",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Flows in practice",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fSB6_KE95bU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "coroutines-best-practices",
+      "title": "Coroutines Best practices ",
+      "description": "مباحث و تمرین‌های مرتبط با «Coroutines Best practices ».",
+      "order": 34,
+      "children": [
+        {
+          "id": "coroutines-best-practices-item",
+          "title": "Coroutines Best practices ",
+          "description": "مباحث و تمرین‌های مرتبط با «Coroutines Best practices ».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Coroutine: Best Practices",
+          "type": "article",
+          "url": "https://medium.com/@vivekbansal19/coroutine-best-practices-affddb50ae1b",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Best practices for coroutines in Android",
+          "type": "article",
+          "url": "https://developer.android.com/kotlin/coroutines/coroutines-best-practices",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "importing-packages",
+      "title": "Importing Packages",
+      "description": "مباحث و تمرین‌های مرتبط با «Importing Packages».",
+      "order": 35,
+      "children": [
+        {
+          "id": "importing-packages-item",
+          "title": "Importing Packages",
+          "description": "مباحث و تمرین‌های مرتبط با «Importing Packages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Imports",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/packages.html#imports",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Exploring Kotlin -Package",
+          "type": "video",
+          "url": "https://arunpandianm.medium.com/5-exploring-kotlin-package-2cb8c3e4438a",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "standard-library",
+      "title": "Standard Library",
+      "description": "مباحث و تمرین‌های مرتبط با «Standard Library».",
+      "order": 36,
+      "children": [
+        {
+          "id": "default-imports",
+          "title": "Default Imports",
+          "description": "مباحث و تمرین‌های مرتبط با «Default Imports».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Default Imports",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/packages.html#default-imports",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "kotlin-stdlib",
+          "type": "article",
+          "url": "https://kotlinlang.org/api/core/kotlin-stdlib/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "The standard library",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/kotlin-tour-intermediate-libraries-and-apis.html#the-standard-library",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "kotlin-libraries",
+      "title": "Kotlin Libraries",
+      "description": "مباحث و تمرین‌های مرتبط با «Kotlin Libraries».",
+      "order": 37,
+      "children": [
+        {
+          "id": "kotlin-libraries-item",
+          "title": "Kotlin Libraries",
+          "description": "مباحث و تمرین‌های مرتبط با «Kotlin Libraries».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kotlin libraries",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/kotlin-tour-intermediate-libraries-and-apis.html#kotlin-libraries",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Klibs",
+          "type": "article",
+          "url": "https://klibs.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Calling Java from Kotlin",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/java-interop.html#how-to-enable-java-synthetic-property-references",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "documentation",
+      "title": "Documentation",
+      "description": "مباحث و تمرین‌های مرتبط با «Documentation».",
+      "order": 38,
+      "children": [
+        {
+          "id": "dokka",
+          "title": "Dokka",
+          "description": "مباحث و تمرین‌های مرتبط با «Dokka».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Dokka",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/dokka-introduction.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Get started with Dokka",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/dokka-get-started.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "From Code to Clarity: How Dokka Transforms Kotlin and Java Documentation",
+              "type": "article",
+              "url": "https://thekaailashsharma.medium.com/dokka-docuemntation-ed08d5e37935",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "kdoc",
+          "title": "KDoc",
+          "description": "مباحث و تمرین‌های مرتبط با «KDoc».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Document Kotlin code: KDoc",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/kotlin-doc.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "KDoc for Kotlin Documentation — Clean Code Comments",
+              "type": "article",
+              "url": "https://nameisjayant.medium.com/kdoc-for-kotlin-documentation-clean-code-comments-bfcec73ad237",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "build-tools",
+      "title": "Build Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «Build Tools».",
+      "order": 39,
+      "children": [
+        {
+          "id": "build-tools-item",
+          "title": "Build Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Build Tools».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Understanding Kotlin Build Tools Made Simple",
+          "type": "article",
+          "url": "https://www.dhiwise.com/post/understanding-kotlin-build-tools-made-simple",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ci-cd-tools",
+      "title": "CI/CD Tools",
+      "description": "مباحث و تمرین‌های مرتبط با «CI/CD Tools».",
+      "order": 40,
+      "children": [
+        {
+          "id": "teamcity",
+          "title": "TeamCity",
+          "description": "مباحث و تمرین‌های مرتبط با «TeamCity».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "TeamCity",
+              "type": "article",
+              "url": "https://www.jetbrains.com/teamcity/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin and continuous integration with TeamCity",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/kotlin-and-ci.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TeamCity Kotlin DSL tutorials",
+              "type": "video",
+              "url": "https://www.youtube.com/playlist?list=PLQ176FUIyIUaW-RqAJLbSZe59l6r7t8wp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "ides",
+      "title": "IDEs",
+      "description": "مباحث و تمرین‌های مرتبط با «IDEs».",
+      "order": 41,
+      "children": [
+        {
+          "id": "intellij-idea",
+          "title": "IntelliJ IDEA ",
+          "description": "مباحث و تمرین‌های مرتبط با «IntelliJ IDEA ».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "IntelliJ IDEA",
+              "type": "article",
+              "url": "https://www.jetbrains.com/idea/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "IntelliJ IDEA",
+              "type": "article",
+              "url": "https://github.com/JetBrains/intellij-community",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "IntelliJ IDEA Tutorial",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=XCqVCq249Iw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "IDEs for Kotlin development",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/kotlin-ide.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is an IDE (Integrated Development Environment)?",
+          "type": "article",
+          "url": "https://.amazon.com/what-is/ide/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "i-o",
+      "title": "I/O",
+      "description": "مباحث و تمرین‌های مرتبط با «I/O».",
+      "order": 42,
+      "children": [
+        {
+          "id": "writing-reading-files",
+          "title": "Writing & Reading Files",
+          "description": "مباحث و تمرین‌های مرتبط با «Writing & Reading Files».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "File Handling in Kotlin: Reading & Writing Files Made Simple!",
+              "type": "article",
+              "url": "https://medium.com/@YodgorbekKomilo/day-18-file-handling-in-kotlin-reading-writing-files-made-simple-da774d449459",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Working With Files In Kotlin - IO Essentials",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=MSeI7XVzrvo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "buffered-streams",
+          "title": "Buffered Streams",
+          "description": "مباحث و تمرین‌های مرتبط با «Buffered Streams».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "https://developer.android.com/reference/kotlin/java/io/BufferedInputStream",
+              "type": "article",
+              "url": "https://developer.android.com/reference/kotlin/java/io/BufferedInputStream",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "BufferedOutputStream",
+              "type": "article",
+              "url": "https://developer.android.com/reference/kotlin/java/io/BufferedOutputStream",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Efficient IO With Buffered Reading & Writing In Kotlin - IO Essentials",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=GFo5KPaY-zU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "kotlin.io",
+          "type": "article",
+          "url": "https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.io/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Working With Files In Kotlin - IO Essentials",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MSeI7XVzrvo",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "kotlin-multiplatform",
+      "title": "Kotlin Multiplatform",
+      "description": "مباحث و تمرین‌های مرتبط با «Kotlin Multiplatform».",
+      "order": 43,
+      "children": [
+        {
+          "id": "compose-multiplatform",
+          "title": "Compose Multiplatform",
+          "description": "مباحث و تمرین‌های مرتبط با «Compose Multiplatform».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Compose Multiplatform",
+              "type": "article",
+              "url": "https://www.jetbrains.com/compose-multiplatform/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Compose Multiplatform",
+              "type": "article",
+              "url": "https://github.com/JetBrains/compose-multiplatform",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "The Compose Multiplatform Crash Course for 2025",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=WT9-4DXUqsM",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kotlin Multiplatform",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/multiplatform.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin Multiplatform Overview",
+          "type": "article",
+          "url": "https://developer.android.com/kotlin/multiplatform",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is Kotlin Multiplatform And How Does It Work?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=RSBO1C_Du2U",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "kotlin-java",
+      "title": "Kotlin/Java",
+      "description": "مباحث و تمرین‌های مرتبط با «Kotlin/Java».",
+      "order": 44,
+      "children": [
+        {
+          "id": "kotlin-from-java",
+          "title": "Kotlin from Java",
+          "description": "مباحث و تمرین‌های مرتبط با «Kotlin from Java».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Calling Kotlin from Java",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/java-to-kotlin-interop.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "spring-boot",
+          "title": "Spring Boot",
+          "description": "مباحث و تمرین‌های مرتبط با «Spring Boot».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Get started with Spring Boot and Kotlin",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/jvm-get-started-spring-boot.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building web applications with Spring Boot and Kotlin",
+              "type": "article",
+              "url": "https://spring.io/guides/tutorials/spring-boot-kotlin",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Full 2025 Backend Dev Crash Course for Beginners With Spring Boot (Kotlin, JWT Auth, MongoDB)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tXC9DQRWHUQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "java-from-kotlin",
+          "title": "Java from Kotlin",
+          "description": "مباحث و تمرین‌های مرتبط با «Java from Kotlin».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Calling Java from Kotlin",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/java-interop.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "kandy",
+          "title": "Kandy",
+          "description": "مباحث و تمرین‌های مرتبط با «Kandy».",
+          "order": 4,
+          "children": [
+            {
+              "id": "swift-objective-c-interop",
+              "title": "Swift/Objective-C Interop.",
+              "description": "مباحث و تمرین‌های مرتبط با «Swift/Objective-C Interop.».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Kandy Overview",
+              "type": "article",
+              "url": "https://kotlin.github.io/kandy/overview.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kandy",
+              "type": "article",
+              "url": "https://github.com/Kotlin/kandy",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin for Data Analysis: Exploring Dataframes and Visualizations in Notebooks",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=PIxGmHjTdu8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Get started with Kotlin/JVM",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/jvm-get-started.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Mixing Java and Kotlin in one project – tutorial",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/mixing-java-kotlin-intellij.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin For Java Developers Complete Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=dMyRywABp_c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "kotlin-native",
+      "title": "Kotlin/Native",
+      "description": "مباحث و تمرین‌های مرتبط با «Kotlin/Native».",
+      "order": 45,
+      "children": [
+        {
+          "id": "kotlin-native-item",
+          "title": "Kotlin/Native",
+          "description": "مباحث و تمرین‌های مرتبط با «Kotlin/Native».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kotlin/Native",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/native-overview.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Get started with Kotlin/Native",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/native-get-started.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "kotlin-wasm",
+      "title": "Kotlin/WASM",
+      "description": "مباحث و تمرین‌های مرتبط با «Kotlin/WASM».",
+      "order": 46,
+      "children": [
+        {
+          "id": "kotlin-wasm-item",
+          "title": "Kotlin/WASM",
+          "description": "مباحث و تمرین‌های مرتبط با «Kotlin/WASM».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kotlin/Wasm",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/wasm-overview.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Get started with Kotlin/Wasm and Compose Multiplatform",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/wasm-get-started.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin and WebAssembly: Unleashing Cross-Platform Power",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=t3FUWfJWrjU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "kotlin-javascript",
+      "title": "Kotlin/JavaScript",
+      "description": "مباحث و تمرین‌های مرتبط با «Kotlin/JavaScript».",
+      "order": 47,
+      "children": [
+        {
+          "id": "kotlin-javascript-item",
+          "title": "Kotlin/JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «Kotlin/JavaScript».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kotlin/JavaScript",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/js-overview.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Let's Learn Kotlin/JS! (with Sebastian Aigner)",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_kM9Y6C0iRI",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "kotlin-scripting",
+      "title": "Kotlin Scripting",
+      "description": "مباحث و تمرین‌های مرتبط با «Kotlin Scripting».",
+      "order": 48,
+      "children": [
+        {
+          "id": "kotlin-scripting-item",
+          "title": "Kotlin Scripting",
+          "description": "مباحث و تمرین‌های مرتبط با «Kotlin Scripting».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Get started with Kotlin custom scripting – tutorial",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/custom-script-deps-tutorial.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "State of Kotlin Scripting 2024",
+          "type": "article",
+          "url": "https://blog.jetbrains.com/kotlin/2024/11/state-of-kotlin-scripting-2024/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "server-side-apps",
+      "title": "Server-side Apps",
+      "description": "مباحث و تمرین‌های مرتبط با «Server-side Apps».",
+      "order": 49,
+      "children": [
+        {
+          "id": "ktor",
+          "title": "Ktor",
+          "description": "مباحث و تمرین‌های مرتبط با «Ktor».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "ktor Docs",
+              "type": "article",
+              "url": "https://ktor.io/docs/welcome.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ktor",
+              "type": "article",
+              "url": "https://github.com/ktorio/ktor",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Managing Complexity With Ktor | Garth Gilmour",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=RiNRQNLcpj8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ktor Server Fundamentals",
+              "type": "video",
+              "url": "https://www.youtube.com/playlist?list=PL3_Xm4wcQKw1DCU1lPSVhuCMYHg-pLVKI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "quarkus",
+          "title": "Quarkus",
+          "description": "مباحث و تمرین‌های مرتبط با «Quarkus».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Quarkus Docs",
+              "type": "article",
+              "url": "https://quarkus.io/guides/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using Kotlin with Quarkus",
+              "type": "article",
+              "url": "https://quarkus.io/guides/kotlin",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Quarkus for Kotlin Developers",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=faVGvVLWMmk",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kotlin for server side",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/server-overview.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Google's Journey from Java to Kotlin for Server Side Programming",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=o14wGByBRAQ&t=1s",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-analysis",
+      "title": "Data Analysis",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Analysis».",
+      "order": 50,
+      "children": [
+        {
+          "id": "kotlin-notebooks",
+          "title": "Kotlin Notebooks",
+          "description": "مباحث و تمرین‌های مرتبط با «Kotlin Notebooks».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Kotlin Notebook",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/kotlin-notebook-overview.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Get started with Kotlin Notebook",
+              "type": "article",
+              "url": "https://kotlinlang.org/docs/get-started-with-kotlin-notebooks.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "10:00 YouTube · Kotlin by JetBrains Kotlin Notebook: Visual, Interactive, Fun",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=m4Cqz2_P9rI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "kotlin-dataframe",
+          "title": "Kotlin DataFrame",
+          "description": "مباحث و تمرین‌های مرتبط با «Kotlin DataFrame».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Kotlin DataFrame",
+              "type": "article",
+              "url": "https://kotlin.github.io/dataframe/home.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "DataFrame",
+              "type": "article",
+              "url": "https://github.com/Kotlin/dataframe",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin DataFrame Overview | Data Science with Kotlin",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qGou8F2asNw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "kandy-2",
+          "title": "Kandy",
+          "description": "مباحث و تمرین‌های مرتبط با «Kandy».",
+          "order": 3,
+          "children": [
+            {
+              "id": "swift-objective-c-interop-2",
+              "title": "Swift/Objective-C Interop.",
+              "description": "مباحث و تمرین‌های مرتبط با «Swift/Objective-C Interop.».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Kandy Overview",
+              "type": "article",
+              "url": "https://kotlin.github.io/kandy/overview.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kandy",
+              "type": "article",
+              "url": "https://github.com/Kotlin/kandy",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kotlin for Data Analysis: Exploring Dataframes and Visualizations in Notebooks",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=PIxGmHjTdu8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kotlin for data analysis",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/data-analysis-overview.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin and Java libraries for data analysis",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/data-analysis-libraries.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "A Step-by-Step Guide to Performing Data Analysis With Kotlin DataFrame",
+          "type": "article",
+          "url": "https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Analytics With Kotlin Notebooks",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_RYV7ZvMKpE",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "competitive-programming",
+      "title": "Competitive Programming",
+      "description": "مباحث و تمرین‌های مرتبط با «Competitive Programming».",
+      "order": 51,
+      "children": [
+        {
+          "id": "competitive-programming-item",
+          "title": "Competitive Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Competitive Programming».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kotlin for competitive programming",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/competitive-programming.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Start Competitive Programming with Kotlin",
+          "type": "article",
+          "url": "https://medium.com/codex/start-competitive-programming-with-kotlin-ab704fb5bcda",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ai-development",
+      "title": "AI Development",
+      "description": "مباحث و تمرین‌های مرتبط با «AI Development».",
+      "order": 52,
+      "children": [
+        {
+          "id": "koog",
+          "title": "Koog",
+          "description": "مباحث و تمرین‌های مرتبط با «Koog».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Koog Overview",
+              "type": "article",
+              "url": "https://docs.koog.ai/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Koog",
+              "type": "article",
+              "url": "https://github.com/JetBrains/koog",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Kickstarting AI Agent Development in Kotlin With Koog",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=vysVNg4IuUo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building AI Agents in Kotlin with Koog | Vadim Briliantov",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=O8WQCrdza8E",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Kotlin for AI-powered app development",
+          "type": "article",
+          "url": "https://kotlinlang.org/docs/kotlin-ai-apps-development-overview.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Kotlin AI Examples",
+          "type": "article",
+          "url": "https://github.com/Kotlin/Kotlin-AI-Examples",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

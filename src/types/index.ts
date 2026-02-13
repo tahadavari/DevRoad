@@ -1,13 +1,16 @@
 // Roadmap Types (from JSON)
 export interface RoadmapResource {
   title: string;
-  type: "article" | "course" | "video" | "playlist";
+  type: "article" | "course" | "video" | "playlist" | "search" | "playlist-search";
   url: string;
-  price: "free" | "paid";
-  priceAmount: number;
-  duration: string;
-  language: "fa" | "en";
-  description: string;
+  price?: "free" | "paid";
+  priceAmount?: number;
+  duration?: string;
+  language?: "fa" | "en";
+  description?: string;
+  /** برای مرتب‌سازی؛ اختیاری */
+  priorityGroup?: number;
+  category?: string;
 }
 
 export interface RoadmapStep {

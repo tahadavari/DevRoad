@@ -1,0 +1,1160 @@
+{
+  "slug": "typescript",
+  "title": "TypeScript",
+  "description": "Everything you need to learn about TypeScript in 2026",
+  "steps": [
+    {
+      "id": "introduction-to-typescript",
+      "title": "Introduction to TypeScript",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction to TypeScript».",
+      "order": 1,
+      "children": [
+        {
+          "id": "ts-and-js-interoperability",
+          "title": "TS and JS Interoperability",
+          "description": "مباحث و تمرین‌های مرتبط با «TS and JS Interoperability».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Type Checking JavaScript Files",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/type-checking-javascript-files.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using JavaScript in TypeScript",
+              "type": "video",
+              "url": "https://youtu.be/AZhZlEbBaB4",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "typescript-vs-javascript",
+          "title": "TypeScript vs JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «TypeScript vs JavaScript».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Learning JavaScript and TypeScript",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html#learning-javascript-and-typescript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TypeScript vs. JavaScript",
+              "type": "article",
+              "url": "https://thenewstack.io/typescript-vs-javascript/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about JavaScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/javascript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "installation-and-configuration",
+          "title": "Installation and Configuration",
+          "description": "مباحث و تمرین‌های مرتبط با «Installation and Configuration».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Install and Configure TypeScript",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/download",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "TypeScript Getting Started",
+              "type": "article",
+              "url": "https://thenewstack.io/typescript-tutorial-a-guide-to-using-the-programming-language/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "running-typescript",
+          "title": "Running TypeScript",
+          "description": "مباحث و تمرین‌های مرتبط با «Running TypeScript».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Running your TypeScript",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about TypeScript",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/typescript?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Overview of TypeScript",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "TypeScript Official Handbook",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Is TypeScript?",
+          "type": "article",
+          "url": "https://thenewstack.io/what-is-typescript/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Video: Where TypeScript Excels",
+          "type": "video",
+          "url": "https://youtu.be/BUo7B6UuoJ4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about TypeScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/typescript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "typescript-types",
+      "title": "TypeScript Types",
+      "description": "مباحث و تمرین‌های مرتبط با «TypeScript Types».",
+      "order": 2,
+      "children": [
+        {
+          "id": "typescript-types-item",
+          "title": "TypeScript Types",
+          "description": "مباحث و تمرین‌های مرتبط با «TypeScript Types».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "TypeScript - Everyday Types",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about TypeScript",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/typescript?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "type-inference",
+      "title": "Type Inference",
+      "description": "مباحث و تمرین‌های مرتبط با «Type Inference».",
+      "order": 3,
+      "children": [
+        {
+          "id": "type-inference-item",
+          "title": "Type Inference",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Inference».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Type Inference",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/type-inference.html#handbook-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "type-compatibility",
+      "title": "Type Compatibility",
+      "description": "مباحث و تمرین‌های مرتبط با «Type Compatibility».",
+      "order": 4,
+      "children": [
+        {
+          "id": "type-compatibility-item",
+          "title": "Type Compatibility",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Compatibility».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Type Compatibility",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/type-compatibility.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "combining-types",
+      "title": "Combining Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Combining Types».",
+      "order": 5,
+      "children": [
+        {
+          "id": "combining-types-item",
+          "title": "Combining Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Combining Types».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Union Types in TypeScript",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Intersection Types in TypeScript",
+          "type": "article",
+          "url": "https://www.typescripttutorial.net/typescript-tutorial/typescript-intersection-types/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Type Aliases",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Keyof Type Operator",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/2/keyof-types.html#handbook-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "typescript-interfaces",
+      "title": "TypeScript Interfaces",
+      "description": "مباحث و تمرین‌های مرتبط با «TypeScript Interfaces».",
+      "order": 6,
+      "children": [
+        {
+          "id": "types-vs-interfaces",
+          "title": "Types vs Interfaces",
+          "description": "مباحث و تمرین‌های مرتبط با «Types vs Interfaces».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Interfaces vs. Type Aliases",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Interfaces vs Types in TypeScript",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "extending-interfaces",
+          "title": "Extending Interfaces",
+          "description": "مباحث و تمرین‌های مرتبط با «Extending Interfaces».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Extending Interfaces",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/objects.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "interface-declaration",
+          "title": "Interface Declaration",
+          "description": "مباحث و تمرین‌های مرتبط با «Interface Declaration».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Extending Interfaces",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/objects.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "hybrid-types",
+          "title": "Hybrid Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Hybrid Types».",
+          "order": 4,
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "TypeScript - Interfaces",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/2/objects.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "type-guards-narrowing",
+      "title": "Type Guards / Narrowing",
+      "description": "مباحث و تمرین‌های مرتبط با «Type Guards / Narrowing».",
+      "order": 7,
+      "children": [
+        {
+          "id": "equality",
+          "title": "Equality",
+          "description": "مباحث و تمرین‌های مرتبط با «Equality».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Equality Narrowing",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#equality-narrowing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "instanceof",
+          "title": "instanceof",
+          "description": "مباحث و تمرین‌های مرتبط با «instanceof».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "instanceOf Operator",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#instanceof-narrowing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "typeof",
+          "title": "typeof",
+          "description": "مباحث و تمرین‌های مرتبط با «typeof».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Type Guards and Differentiating Types",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#typeof-type-guards",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "truthiness",
+          "title": "Truthiness",
+          "description": "مباحث و تمرین‌های مرتبط با «Truthiness».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Truthiness Narrowing",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#truthiness-narrowing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "type-predicates",
+          "title": "Type Predicates",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Predicates».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Type Guards and Differentiating Types",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Type Guards - TypeScript Docs",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/2/narrowing.html#typeof-type-guards",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "typescript-functions",
+      "title": "TypeScript Functions",
+      "description": "مباحث و تمرین‌های مرتبط با «TypeScript Functions».",
+      "order": 8,
+      "children": [
+        {
+          "id": "typing-functions",
+          "title": "Typing Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Typing Functions».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "TypeScript Functions",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/functions.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Functions in TypeScript",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/2/functions.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "classes",
+      "title": "Classes",
+      "description": "مباحث و تمرین‌های مرتبط با «Classes».",
+      "order": 9,
+      "children": [
+        {
+          "id": "classes-item",
+          "title": "Classes",
+          "description": "مباحث و تمرین‌های مرتبط با «Classes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Tutorial - Classes",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/2/classes.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "generics",
+      "title": "Generics",
+      "description": "مباحث و تمرین‌های مرتبط با «Generics».",
+      "order": 10,
+      "children": [
+        {
+          "id": "generic-types",
+          "title": "Generic Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Generic Types».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Hello World of Generics",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/generics.html#hello-world-of-generics",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "generic-constraints",
+          "title": "Generic Constraints",
+          "description": "مباحث و تمرین‌های مرتبط با «Generic Constraints».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Generic Constraints - TypeScript",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/generics.html#generic-constraints",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Hello World of Generics",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/2/generics.html#hello-world-of-generics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "decorators",
+      "title": "Decorators",
+      "description": "مباحث و تمرین‌های مرتبط با «Decorators».",
+      "order": 11,
+      "children": [
+        {
+          "id": "decorators-item",
+          "title": "Decorators",
+          "description": "مباحث و تمرین‌های مرتبط با «Decorators».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Decorators",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/decorators.html#handbook-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "utility-types",
+      "title": "Utility Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Utility Types».",
+      "order": 12,
+      "children": [
+        {
+          "id": "pick",
+          "title": "Pick",
+          "description": "مباحث و تمرین‌های مرتبط با «Pick».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Pick<Type, Keys>",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/utility-types.html#picktype-keys",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "readonly",
+          "title": "Readonly",
+          "description": "مباحث و تمرین‌های مرتبط با «Readonly».",
+          "order": 2,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "exclude",
+          "title": "Exclude",
+          "description": "مباحث و تمرین‌های مرتبط با «Exclude».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Exclude<UnionType, ExcludedMembers>",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/utility-types.html#excludeuniontype-excludedmembers",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "awaited",
+          "title": "Awaited",
+          "description": "مباحث و تمرین‌های مرتبط با «Awaited».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Awaited<Type>",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/utility-types.html#awaitedtype",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "parameters",
+          "title": "Parameters",
+          "description": "مباحث و تمرین‌های مرتبط با «Parameters».",
+          "order": 5,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "nonnullable",
+          "title": "NonNullable",
+          "description": "مباحث و تمرین‌های مرتبط با «NonNullable».",
+          "order": 6,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "returntype",
+          "title": "ReturnType",
+          "description": "مباحث و تمرین‌های مرتبط با «ReturnType».",
+          "order": 7,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "instancetype",
+          "title": "InstanceType",
+          "description": "مباحث و تمرین‌های مرتبط با «InstanceType».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "InstanceType<Type>",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/utility-types.html#instancetypetype",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "TypeScript - Utility Types",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/utility-types.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "TypeScript Utility Types Guide",
+          "type": "article",
+          "url": "https://camchenry.com/blog/typescript-utility-types",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "advanced-types",
+      "title": "Advanced Types",
+      "description": "مباحث و تمرین‌های مرتبط با «Advanced Types».",
+      "order": 13,
+      "children": [
+        {
+          "id": "mapped-types",
+          "title": "Mapped Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Mapped Types».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Mapped Types",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#handbook-content",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Advanced Topics",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/type-compatibility.html#advanced-topics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Tutorial of Typescript - Advanced Types",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLw5h0DiJ-9PBIgIyd2ZA1CVnJf0BLFJg2",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "typescript-modules",
+      "title": "TypeScript Modules",
+      "description": "مباحث و تمرین‌های مرتبط با «TypeScript Modules».",
+      "order": 14,
+      "children": [
+        {
+          "id": "global-augmentation",
+          "title": "Global Augmentation",
+          "description": "مباحث و تمرین‌های مرتبط با «Global Augmentation».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Global augmentation",
+              "type": "article",
+              "url": "https://www.typescriptlang.org/docs/handbook/declaration-merging.html#global-augmentation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Modules",
+          "type": "article",
+          "url": "https://www.typescriptlang.org/docs/handbook/modules.html#handbook-content",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "TypeScript - Modules",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=EpOPR03z4Vw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ecosystem",
+      "title": "Ecosystem",
+      "description": "مباحث و تمرین‌های مرتبط با «Ecosystem».",
+      "order": 15,
+      "children": [
+        {
+          "id": "formatting",
+          "title": "Formatting",
+          "description": "مباحث و تمرین‌های مرتبط با «Formatting».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Prettier Website",
+              "type": "article",
+              "url": "https://prettier.io",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Why Prettier",
+              "type": "article",
+              "url": "https://prettier.io/docs/en/why-prettier.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "BiomeJS Website",
+              "type": "article",
+              "url": "https://biomejs.dev",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "linting",
+          "title": "Linting",
+          "description": "مباحث و تمرین‌های مرتبط با «Linting».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "ESLint Official Website",
+              "type": "article",
+              "url": "https://eslint.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Introduction to ESLint",
+              "type": "article",
+              "url": "https://dev.to/shivambmgupta/eslint-what-why-when-how-5f1d",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "ESLint Quickstart - find errors automatically",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=qhuFviJn-es",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "useful-packages",
+          "title": "Useful Packages",
+          "description": "مباحث و تمرین‌های مرتبط با «Useful Packages».",
+          "order": 3,
+          "resources": [],
+          "recommendation": ""
+        },
+        {
+          "id": "build-tools",
+          "title": "Build Tools",
+          "description": "مباحث و تمرین‌های مرتبط با «Build Tools».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "webpack is a static module bundler for modern JavaScript applications",
+              "type": "article",
+              "url": "https://webpack.js.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vite Next Generation Frontend Tooling",
+              "type": "article",
+              "url": "https://vitejs.dev",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Parcel is a zero configuration build tool for the web",
+              "type": "article",
+              "url": "https://parceljs.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "esbuild is an extremely fast JavaScript bundler and minifier",
+              "type": "article",
+              "url": "https://esbuild.github.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "swc is a super-fast compiler written in Rust",
+              "type": "article",
+              "url": "https://swc.rs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "tsup is a zero-config TypeScript build tool",
+              "type": "article",
+              "url": "https://tsup.egoist.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rollup is a module bundler for JavaScript",
+              "type": "article",
+              "url": "https://rollupjs.org/guide/en/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "tsdx is a zero-config CLI for TypeScript package development",
+              "type": "article",
+              "url": "https://tsdx.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Tools",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/tools?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

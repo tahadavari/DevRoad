@@ -1,0 +1,1772 @@
+{
+  "slug": "nodejs",
+  "title": "Node.js",
+  "description": "Step by step guide to becoming a modern Node.js developer in 2026",
+  "steps": [
+    {
+      "id": "introduction-to-node-js",
+      "title": "Introduction to Node.js",
+      "description": "مباحث و تمرین‌های مرتبط با «Introduction to Node.js».",
+      "order": 1,
+      "children": [
+        {
+          "id": "history-of-node-js",
+          "title": "History of Node.js",
+          "description": "مباحث و تمرین‌های مرتبط با «History of Node.js».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Rising Stack - History of Node.js on a Timeline",
+              "type": "article",
+              "url": "https://blog.risingstack.com/history-of-node-js/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SAP Press - How Did Node.js Come About?",
+              "type": "article",
+              "url": "https://blog.sap-press.com/how-did-node.js-come-about",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Node.js: The Documentary | An Origin Story",
+              "type": "video",
+              "url": "https://youtu.be/LB8KwiiUGy0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Node.js",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "history-of-node-js-2",
+          "title": "History of Node.js",
+          "description": "مباحث و تمرین‌های مرتبط با «History of Node.js».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Rising Stack - History of Node.js on a Timeline",
+              "type": "article",
+              "url": "https://blog.risingstack.com/history-of-node-js/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SAP Press - How Did Node.js Come About?",
+              "type": "article",
+              "url": "https://blog.sap-press.com/how-did-node.js-come-about",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Node.js: The Documentary | An Origin Story",
+              "type": "video",
+              "url": "https://youtu.be/LB8KwiiUGy0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Node.js",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "history-of-node-js-3",
+          "title": "History of Node.js",
+          "description": "مباحث و تمرین‌های مرتبط با «History of Node.js».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Rising Stack - History of Node.js on a Timeline",
+              "type": "article",
+              "url": "https://blog.risingstack.com/history-of-node-js/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SAP Press - How Did Node.js Come About?",
+              "type": "article",
+              "url": "https://blog.sap-press.com/how-did-node.js-come-about",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Node.js: The Documentary | An Origin Story",
+              "type": "video",
+              "url": "https://youtu.be/LB8KwiiUGy0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Node.js",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "node-js-vs-browser",
+          "title": "Node.js vs Browser",
+          "description": "مباحث و تمرین‌های مرتبط با «Node.js vs Browser».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Differences between Node.js and the Browser",
+              "type": "article",
+              "url": "https://nodejs.org/en/learn/getting-started/differences-between-nodejs-and-the-browser/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Node.js",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "running-node-js-code",
+          "title": "Running Node.js Code",
+          "description": "مباحث و تمرین‌های مرتبط با «Running Node.js Code».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Run Node.js from Command Line",
+              "type": "article",
+              "url": "https://nodejs.org/en/learn/command-line/run-nodejs-scripts-from-the-command-line/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Node.js",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Node.js",
+          "type": "article",
+          "url": "https://nodejs.org/en/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Node.js Documentation",
+          "type": "article",
+          "url": "https://nodejs.org/en/docs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "modules",
+      "title": "Modules",
+      "description": "مباحث و تمرین‌های مرتبط با «Modules».",
+      "order": 2,
+      "children": [
+        {
+          "id": "modules-item",
+          "title": "Modules",
+          "description": "مباحث و تمرین‌های مرتبط با «Modules».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Modules: CommonJS modules",
+          "type": "article",
+          "url": "https://nodejs.org/api/modules.html#modules-commonjs-modules",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "CommonJS vs. ES Modules in Node.js",
+          "type": "article",
+          "url": "https://blog.logrocket.com/commonjs-vs-es-modules-node-js/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Modules in Node.js",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9Amxzvq5LY8&",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "npm",
+      "title": "npm",
+      "description": "مباحث و تمرین‌های مرتبط با «npm».",
+      "order": 3,
+      "children": [
+        {
+          "id": "npm-item",
+          "title": "npm",
+          "description": "مباحث و تمرین‌های مرتبط با «npm».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "NPM Documentation",
+          "type": "article",
+          "url": "https://docs.npmjs.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is npm?",
+          "type": "article",
+          "url": "https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "NPM Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jHDhaSSKmB0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "error-handling",
+      "title": "Error Handling",
+      "description": "مباحث و تمرین‌های مرتبط با «Error Handling».",
+      "order": 4,
+      "children": [
+        {
+          "id": "error-handling-item",
+          "title": "Error Handling",
+          "description": "مباحث و تمرین‌های مرتبط با «Error Handling».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Node.js Error Handling Best Practices",
+          "type": "article",
+          "url": "https://sematext.com/blog/node-js-error-handling",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Error handling in Node.js",
+          "type": "article",
+          "url": "https://blog.logrocket.com/error-handling-node-js/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "async-programming",
+      "title": "Async Programming",
+      "description": "مباحث و تمرین‌های مرتبط با «Async Programming».",
+      "order": 5,
+      "children": [
+        {
+          "id": "async-programming-item",
+          "title": "Async Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Async Programming».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Async JS",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Asynchronous Vs Synchronous Programming",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Kpn2ajSa92c",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "working-with-files",
+      "title": "Working with Files",
+      "description": "مباحث و تمرین‌های مرتبط با «Working with Files».",
+      "order": 6,
+      "children": [
+        {
+          "id": "process-cwd",
+          "title": "process.cwd()",
+          "description": "مباحث و تمرین‌های مرتبط با «process.cwd()».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "process.cwd()",
+              "type": "article",
+              "url": "https://nodejs.org/api/process.html#processcwd",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Whats the difference between process.cwd() vs __dirname?",
+              "type": "article",
+              "url": "https://stackoverflow.com/questions/9874382/whats-the-difference-between-process-cwd-vs-dirname",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "path-module",
+          "title": "path module",
+          "description": "مباحث و تمرین‌های مرتبط با «path module».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Path Documentation",
+              "type": "article",
+              "url": "https://nodejs.org/api/path.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Node.js File Paths",
+              "type": "article",
+              "url": "https://nodejs.org/en/learn/manipulating-files/nodejs-file-paths",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Path Module in Node.js",
+              "type": "video",
+              "url": "https://youtu.be/j95Lwxvi9JY",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "fs-module",
+          "title": "fs module",
+          "description": "مباحث و تمرین‌های مرتبط با «fs module».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "fs module",
+              "type": "article",
+              "url": "https://nodejs.org/api/fs.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Using fs",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ZySsdm576wE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "File System Module",
+          "type": "article",
+          "url": "https://nodejs.org/docs/latest/api/fs.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How To Work with Files using the fs Module in Node.js",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-work-with-files-using-the-fs-module-in-node-js",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "command-line-apps",
+      "title": "Command Line Apps",
+      "description": "مباحث و تمرین‌های مرتبط با «Command Line Apps».",
+      "order": 7,
+      "children": [
+        {
+          "id": "command-line-apps-item",
+          "title": "Command Line Apps",
+          "description": "مباحث و تمرین‌های مرتبط با «Command Line Apps».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Build a Command Line Application with Node.js",
+          "type": "article",
+          "url": "https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "5-Minute Node.js CLI Project",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=_oHByo8tiEY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "building-consuming-apis",
+      "title": "Building & Consuming APIs",
+      "description": "مباحث و تمرین‌های مرتبط با «Building & Consuming APIs».",
+      "order": 8,
+      "children": [
+        {
+          "id": "exitting-exit-codes",
+          "title": "Exitting / Exit Codes",
+          "description": "مباحث و تمرین‌های مرتبط با «Exitting / Exit Codes».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Exit Documentation",
+              "type": "article",
+              "url": "https://nodejs.org/api/process.html#event-exit",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Exit a Process in Node.js",
+              "type": "article",
+              "url": "https://betterstack.com/community/questions/how-to-exit-in-node-js/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is an API?",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/api/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is an API (in 5 minutes)",
+          "type": "video",
+          "url": "https://youtu.be/ByGJQzlzxQg?si=9EB9lgRvEOgt3xPJ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "monitor-changes-dev",
+      "title": "Monitor Changes (Dev)",
+      "description": "مباحث و تمرین‌های مرتبط با «Monitor Changes (Dev)».",
+      "order": 9,
+      "children": [
+        {
+          "id": "nodemon",
+          "title": "nodemon",
+          "description": "مباحث و تمرین‌های مرتبط با «nodemon».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Nodemon",
+              "type": "article",
+              "url": "https://nodemon.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PM2",
+              "type": "article",
+              "url": "https://pm2.keymetrics.io/docs/usage/quick-start/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Restart Your Node.js Apps Automatically with nodemon",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/workflow-nodemon",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Node.js",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "nodemon-2",
+          "title": "nodemon",
+          "description": "مباحث و تمرین‌های مرتبط با «nodemon».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Nodemon",
+              "type": "article",
+              "url": "https://nodemon.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PM2",
+              "type": "article",
+              "url": "https://pm2.keymetrics.io/docs/usage/quick-start/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Restart Your Node.js Apps Automatically with nodemon",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/workflow-nodemon",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Node.js",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "template-engines",
+      "title": "Template Engines",
+      "description": "مباحث و تمرین‌های مرتبط با «Template Engines».",
+      "order": 10,
+      "children": [
+        {
+          "id": "pug",
+          "title": "pug",
+          "description": "مباحث و تمرین‌های مرتبط با «pug».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Getting started with PugJs",
+              "type": "article",
+              "url": "https://pugjs.org/api/getting-started.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Build a Node Application Using a Pug Template",
+              "type": "article",
+              "url": "https://blog.bitsrc.io/how-to-build-a-node-application-using-a-pug-template-7319ab1bba69?gi=40b338891148",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Pug.js tutorial",
+              "type": "article",
+              "url": "https://zetcode.com/javascript/pugjs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Node.js + Express - Tutorial - PugJS Templating Engine",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=DSp9ExFw3Ig",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ejs",
+          "title": "ejs",
+          "description": "مباحث و تمرین‌های مرتبط با «ejs».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "EJS",
+              "type": "article",
+              "url": "https://ejs.co/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "EJS Documentation",
+              "type": "article",
+              "url": "https://ejs.co/#docs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "EJS Package",
+              "type": "article",
+              "url": "https://www.npmjs.com/package/ejs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Try EJS Online",
+              "type": "article",
+              "url": "https://ionicabizau.github.io/ejs-playground/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to use EJS",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Step-by-Step EJS Guide",
+              "type": "article",
+              "url": "https://codeforgeek.com/ejs-template-engine-in-nodejs/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "marko",
+          "title": "marko",
+          "description": "مباحث و تمرین‌های مرتبط با «marko».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Marko Documentation",
+              "type": "article",
+              "url": "https://markojs.com/docs/guides-overview/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Getting Started with Pug",
+          "type": "article",
+          "url": "https://pugjs.org/api/getting-started.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Handlebars Package",
+          "type": "article",
+          "url": "https://www.npmjs.com/package/handlebars",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "EJS Package",
+          "type": "article",
+          "url": "https://www.npmjs.com/package/ejs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "working-with-databases",
+      "title": "Working with Databases",
+      "description": "مباحث و تمرین‌های مرتبط با «Working with Databases».",
+      "order": 11,
+      "children": [
+        {
+          "id": "working-with-databases-item",
+          "title": "Working with Databases",
+          "description": "مباحث و تمرین‌های مرتبط با «Working with Databases».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Database?",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Database",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Database - AWS",
+          "type": "article",
+          "url": "https://aws.amazon.com/what-is/database/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 12,
+      "children": [
+        {
+          "id": "vitest",
+          "title": "Vitest",
+          "description": "مباحث و تمرین‌های مرتبط با «Vitest».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Vitest",
+              "type": "article",
+              "url": "https://vitest.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Vitest Documentation",
+              "type": "article",
+              "url": "https://vitest.dev/guide/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "node-test",
+          "title": "node:test",
+          "description": "مباحث و تمرین‌های مرتبط با «node:test».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Test Runner API Docs",
+              "type": "article",
+              "url": "https://nodejs.org/api/test.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Node.js Test Runner",
+              "type": "article",
+              "url": "https://nodejs.org/en/learn/test-runner/using-test-runner",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "cypress",
+          "title": "Cypress",
+          "description": "مباحث و تمرین‌های مرتبط با «Cypress».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Cypress",
+              "type": "article",
+              "url": "https://www.cypress.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Cypress Documentation",
+              "type": "article",
+              "url": "https://docs.cypress.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Cypress",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/cypress?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "playwright",
+          "title": "Playwright",
+          "description": "مباحث و تمرین‌های مرتبط با «Playwright».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Playwright",
+              "type": "article",
+              "url": "https://playwright.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Playwright Docs",
+              "type": "article",
+              "url": "https://playwright.dev/docs/getting-started-vscode",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Getting Started with Playwright",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/shows/getting-started-with-end-to-end-testing-with-playwright/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Vitest",
+          "type": "article",
+          "url": "https://vitest.dev/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Jest",
+          "type": "article",
+          "url": "https://jest.io",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Software Testing",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Software_testing",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "logging",
+      "title": "Logging",
+      "description": "مباحث و تمرین‌های مرتبط با «Logging».",
+      "order": 13,
+      "children": [
+        {
+          "id": "winston",
+          "title": "Winston",
+          "description": "مباحث و تمرین‌های مرتبط با «Winston».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "winston",
+              "type": "article",
+              "url": "https://github.com/winstonjs/winston?tab=readme-ov-file#readme",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Complete Guide to Winston Logging in Node.js",
+              "type": "article",
+              "url": "https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-winston-and-morgan-to-log-node-js-applications/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "morgan",
+          "title": "Morgan",
+          "description": "مباحث و تمرین‌های مرتبط با «Morgan».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "morgan package",
+              "type": "article",
+              "url": "https://www.npmjs.com/package/morgan",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use Morgan | DigitalOcean",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/nodejs-getting-started-morgan",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Node.js Logging",
+          "type": "article",
+          "url": "https://stackify.com/node-js-logging/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Logging best practices",
+          "type": "article",
+          "url": "https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Logging",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/logging?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "keep-app-running",
+      "title": "Keep app Running",
+      "description": "مباحث و تمرین‌های مرتبط با «Keep app Running».",
+      "order": 14,
+      "children": [
+        {
+          "id": "pm2",
+          "title": "pm2 ",
+          "description": "مباحث و تمرین‌های مرتبط با «pm2 ».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Pm2",
+              "type": "article",
+              "url": "https://pm2.keymetrics.io/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Pm2 Documentation",
+              "type": "article",
+              "url": "https://pm2.keymetrics.io/docs/usage/quick-start/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Keep a Node Application Constantly Running",
+          "type": "article",
+          "url": "https://devtut.github.io/nodejs/keep-a-node-application-constantly-running.html#use-pm2-as-a-process-manager",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "threads",
+      "title": "Threads",
+      "description": "مباحث و تمرین‌های مرتبط با «Threads».",
+      "order": 15,
+      "children": [
+        {
+          "id": "child-process",
+          "title": "Child Process",
+          "description": "مباحث و تمرین‌های مرتبط با «Child Process».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Child Process Docs",
+              "type": "article",
+              "url": "https://nodejs.org/api/child_process.html#child-process",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Securing Node.js Against Command Injection",
+              "type": "article",
+              "url": "https://www.nodejs-security.com/blog/securing-your-nodejs-apps-by-analyzing-real-world-command-injection-examples",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Single Thread vs Child Process vs Worker Threads vs Cluster in Node.js",
+          "type": "article",
+          "url": "https://alvinlal.netlify.app/blog/single-thread-vs-child-process-vs-worker-threads-vs-cluster-in-nodejs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "streams",
+      "title": "Streams",
+      "description": "مباحث و تمرین‌های مرتبط با «Streams».",
+      "order": 16,
+      "children": [
+        {
+          "id": "streams-item",
+          "title": "Streams",
+          "description": "مباحث و تمرین‌های مرتبط با «Streams».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Stream API Documentation",
+          "type": "article",
+          "url": "https://nodejs.org/api/stream.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Understanding Streams in Node.js",
+          "type": "article",
+          "url": "https://nodesource.com/blog/understanding-streams-in-nodejs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Node.js Streams tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=GlybFFMXXmQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Node.js",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/nodejs?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "debugging",
+      "title": "Debugging",
+      "description": "مباحث و تمرین‌های مرتبط با «Debugging».",
+      "order": 17,
+      "children": [
+        {
+          "id": "debugging-item",
+          "title": "Debugging",
+          "description": "مباحث و تمرین‌های مرتبط با «Debugging».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Node.js - Getting Started",
+          "type": "article",
+          "url": "https://nodejs.org/en/learn/getting-started/debugging",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Wikipedia - What is Debugging?",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Debugging",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "common-built-in-modules",
+      "title": "Common Built-in Modules",
+      "description": "مباحث و تمرین‌های مرتبط با «Common Built-in Modules».",
+      "order": 18,
+      "children": [
+        {
+          "id": "memory-leaks",
+          "title": "Memory Leaks",
+          "description": "مباحث و تمرین‌های مرتبط با «Memory Leaks».",
+          "order": 1,
+          "children": [
+            {
+              "id": "garbage-collection",
+              "title": "Garbage Collection",
+              "description": "مباحث و تمرین‌های مرتبط با «Garbage Collection».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Memory Leaks in Node.js",
+              "type": "article",
+              "url": "https://sematext.com/blog/nodejs-memory-leaks/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Memory Leaks Causes",
+              "type": "article",
+              "url": "https://sematext.com/blog/nodejs-memory-leaks/#what-causes-them-common-node-js-memory-leaks",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Memory Leaks Detectors",
+              "type": "article",
+              "url": "https://sematext.com/blog/nodejs-memory-leaks/#node-js-memory-leak-detectors",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about General Programming",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/general-programming?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "node-inspect",
+          "title": "node --inspect",
+          "description": "مباحث و تمرین‌های مرتبط با «node --inspect».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Debugging Node.js with Chrome DevTools",
+              "type": "article",
+              "url": "https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "using-apm",
+          "title": "Using APM",
+          "description": "مباحث و تمرین‌های مرتبط با «Using APM».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Debugging using APM",
+              "type": "article",
+              "url": "https://stackify.com/node-js-debugging-tips/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about APM",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/apm?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "fs module",
+          "type": "article",
+          "url": "https://nodejs.org/api/fs.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "url module",
+          "type": "article",
+          "url": "https://nodejs.org/api/url.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "console module",
+          "type": "article",
+          "url": "https://nodejs.org/api/console.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "util module",
+          "type": "article",
+          "url": "https://nodejs.org/api/util.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "events module",
+          "type": "article",
+          "url": "https://nodejs.org/api/events.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "os module",
+          "type": "article",
+          "url": "https://nodejs.org/api/os.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "worker threads module",
+          "type": "article",
+          "url": "https://nodejs.org/api/worker_threads.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "child process module",
+          "type": "article",
+          "url": "https://nodejs.org/api/child_process.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "process object",
+          "type": "article",
+          "url": "https://nodejs.org/api/process.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "crypto module",
+          "type": "article",
+          "url": "https://nodejs.org/api/crypto.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

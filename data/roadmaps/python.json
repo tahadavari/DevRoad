@@ -1,0 +1,1784 @@
+{
+  "slug": "python",
+  "title": "Python",
+  "description": "Step by step guide to becoming a Python developer in 2026",
+  "steps": [
+    {
+      "id": "learn-the-basics",
+      "title": "Learn the Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn the Basics».",
+      "order": 1,
+      "children": [
+        {
+          "id": "basic-syntax",
+          "title": "Basic Syntax",
+          "description": "مباحث و تمرین‌های مرتبط با «Basic Syntax».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Python Basics",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/python/python_basic_syntax.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn X in Y Minutes / Python",
+              "type": "article",
+              "url": "https://learnxinyminutes.com/docs/python/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python for Beginners - Learn Python in 1 Hour",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "variables-and-data-types",
+          "title": "Variables and Data Types",
+          "description": "مباحث و تمرین‌های مرتبط با «Variables and Data Types».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Variables in Python",
+              "type": "article",
+              "url": "https://realpython.com/python-variables",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python for Beginners: Data Types",
+              "type": "article",
+              "url": "https://thenewstack.io/python-for-beginners-data-types/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Variables and Data Types",
+              "type": "video",
+              "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhN-sfWgCU1z_Qhakc1AGOn",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "conditionals",
+          "title": "Conditionals",
+          "description": "مباحث و تمرین‌های مرتبط با «Conditionals».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Conditional Statements in Python",
+              "type": "article",
+              "url": "https://realpython.com/python-conditional-statements/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Conditional Statements",
+              "type": "article",
+              "url": "https://www.guru99.com/if-loop-python-conditional-structures.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How to Use a Match Statement in Python",
+              "type": "article",
+              "url": "https://learnpython.com/blog/python-match-case-statement/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "loops",
+          "title": "Loops",
+          "description": "مباحث و تمرین‌های مرتبط با «Loops».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Python \"while\" Loops (Indefinite Iteration)",
+              "type": "article",
+              "url": "https://realpython.com/python-while-loop/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python \"for\" Loops (Definite Iteration)",
+              "type": "article",
+              "url": "https://realpython.com/python-for-loop/#the-guts-of-the-python-for-loop",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python For Loops",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=KWgYha0clzw",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "type-casting",
+          "title": "Type Casting",
+          "description": "مباحث و تمرین‌های مرتبط با «Type Casting».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Type Conversion and Casting",
+              "type": "article",
+              "url": "https://www.programiz.com/python-programming/type-conversion-and-casting",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "exceptions",
+          "title": "Exceptions",
+          "description": "مباحث و تمرین‌های مرتبط با «Exceptions».",
+          "order": 6,
+          "resources": [
+            {
+              "title": "Exceptions Documentation",
+              "type": "article",
+              "url": "https://docs.python.org/3/tutorial/errors.html#exceptions",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Exceptions: An Introduction",
+              "type": "article",
+              "url": "https://realpython.com/python-exceptions/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Errors and Exceptions",
+              "type": "article",
+              "url": "https://docs.python.org/3/tutorial/errors.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Exception Handling",
+              "type": "article",
+              "url": "https://www.programiz.com/python-programming/exception-handling",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Exception Handling in Python",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=V_NXT2-QIlE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "functions-builtin-functions",
+          "title": "Functions, Builtin Functions",
+          "description": "مباحث و تمرین‌های مرتبط با «Functions, Builtin Functions».",
+          "order": 7,
+          "resources": [
+            {
+              "title": "Built-in Functions in Python",
+              "type": "article",
+              "url": "https://docs.python.org/3/library/functions.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Defining Python Functions",
+              "type": "article",
+              "url": "https://realpython.com/defining-your-own-python-function/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "lists",
+          "title": "Lists",
+          "description": "مباحث و تمرین‌های مرتبط با «Lists».",
+          "order": 8,
+          "resources": [
+            {
+              "title": "Python Official Documentation on Listsc",
+              "type": "article",
+              "url": "https://docs.python.org/3/tutorial/introduction.html#lists",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tuples vs. Lists vs. Sets in Python",
+              "type": "article",
+              "url": "https://jerrynsh.com/tuples-vs-lists-vs-sets-in-python/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python for Beginners: Lists",
+              "type": "article",
+              "url": "https://thenewstack.io/python-for-beginners-lists/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python for Beginners: When and How to Use Tuples",
+              "type": "article",
+              "url": "https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Difference Between List, Tuple, Set and Dictionary in Python",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=n0krwG38SHI",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "dictionaries",
+          "title": "Dictionaries",
+          "description": "مباحث و تمرین‌های مرتبط با «Dictionaries».",
+          "order": 9,
+          "resources": [
+            {
+              "title": "Dictionaries in Python",
+              "type": "article",
+              "url": "https://docs.python.org/3/tutorial/datastructures.html#dictionaries",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Dictionaries in Python",
+              "type": "article",
+              "url": "https://realpython.com/python-dicts/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Hashmaps in Python: Master Implementation and Use Cases",
+              "type": "article",
+              "url": "https://roadmap.sh/python/hashmap",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "working-with-strings",
+          "title": "Working with Strings",
+          "description": "مباحث و تمرین‌های مرتبط با «Working with Strings».",
+          "order": 10,
+          "resources": [
+            {
+              "title": "string — Common string operations",
+              "type": "article",
+              "url": "https://docs.python.org/3/library/string.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Strings",
+              "type": "article",
+              "url": "https://www.w3schools.com/python/python_strings.asp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "String methods in Python are easy 〰️",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=tb6EYiHtcXU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Tutorial for Beginners 2: Strings - Working with Textual Data",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=k9TUPpGqYTo",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Python Website",
+          "type": "article",
+          "url": "https://www.python.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python - Wiki",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Tutorial Series: How to Code in Python",
+          "type": "article",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Google's Python Class",
+          "type": "article",
+          "url": "https://developers.google.com/edu/python",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Python - Full Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=4M87qBgpafk",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Python",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/python?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "data-structures-algorithms",
+      "title": "Data Structures & Algorithms",
+      "description": "مباحث و تمرین‌های مرتبط با «Data Structures & Algorithms».",
+      "order": 2,
+      "children": [
+        {
+          "id": "arrays-and-linked-lists",
+          "title": "Arrays and Linked Lists",
+          "description": "مباحث و تمرین‌های مرتبط با «Arrays and Linked Lists».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Arrays in Python",
+              "type": "article",
+              "url": "https://www.edureka.co/blog/arrays-in-python/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linked List Python",
+              "type": "article",
+              "url": "https://realpython.com/linked-lists-python/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Array Data Structure | Illustrated Data Structures",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=QJNwK2uJyGs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linked List Data Structure | Illustrated Data Structures",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=odW9FU8jPRQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated DSA Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/datastructures-and-algorithms",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn DS & Algorithms",
+          "type": "article",
+          "url": "https://www.programiz.com/dsa",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Data Structures Illustrated",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DSA Python Playlist",
+          "type": "video",
+          "url": "https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Algorithms",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/algorithms?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "modules",
+      "title": "Modules",
+      "description": "مباحث و تمرین‌های مرتبط با «Modules».",
+      "order": 3,
+      "children": [
+        {
+          "id": "modules-item",
+          "title": "Modules",
+          "description": "مباحث و تمرین‌های مرتبط با «Modules».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Python Modules",
+          "type": "article",
+          "url": "https://docs.python.org/3/tutorial/modules.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Modules in Python",
+          "type": "article",
+          "url": "https://www.programiz.com/python-programming/modules",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "lambdas",
+      "title": "Lambdas",
+      "description": "مباحث و تمرین‌های مرتبط با «Lambdas».",
+      "order": 4,
+      "children": [
+        {
+          "id": "lambdas-item",
+          "title": "Lambdas",
+          "description": "مباحث و تمرین‌های مرتبط با «Lambdas».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "How to use Lambda functions",
+          "type": "article",
+          "url": "https://realpython.com/python-lambda/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Lambda Functions",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=KR22jigJLok",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "decorators",
+      "title": "Decorators",
+      "description": "مباحث و تمرین‌های مرتبط با «Decorators».",
+      "order": 5,
+      "children": [
+        {
+          "id": "decorators-item",
+          "title": "Decorators",
+          "description": "مباحث و تمرین‌های مرتبط با «Decorators».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Learn Decorators in Python",
+          "type": "article",
+          "url": "https://pythonbasics.org/decorators/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Decorators",
+          "type": "article",
+          "url": "https://www.datacamp.com/tutorial/decorators-python",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Decorators in Python",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=FXUUSfJO_J4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Decorators in 1 Minute",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=BE-L7xu8pO4",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "package-managers",
+      "title": "Package Managers",
+      "description": "مباحث و تمرین‌های مرتبط با «Package Managers».",
+      "order": 6,
+      "children": [
+        {
+          "id": "package-managers-item",
+          "title": "Package Managers",
+          "description": "مباحث و تمرین‌های مرتبط با «Package Managers».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "pypa/pipx",
+          "type": "article",
+          "url": "https://github.com/pypa/pipx",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Python",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/python?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "iterators",
+      "title": "Iterators",
+      "description": "مباحث و تمرین‌های مرتبط با «Iterators».",
+      "order": 7,
+      "children": [
+        {
+          "id": "iterators-item",
+          "title": "Iterators",
+          "description": "مباحث و تمرین‌های مرتبط با «Iterators».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Python Official Documentation on Iterators",
+          "type": "article",
+          "url": "https://docs.python.org/3/tutorial/classes.html#iterators",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Iterators",
+          "type": "article",
+          "url": "https://www.programiz.com/python-programming/iterator",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Iterators and Iterables in Python",
+          "type": "article",
+          "url": "https://realpython.com/python-iterators-iterables/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "common-packages",
+      "title": "Common Packages",
+      "description": "مباحث و تمرین‌های مرتبط با «Common Packages».",
+      "order": 8,
+      "children": [
+        {
+          "id": "common-packages-item",
+          "title": "Common Packages",
+          "description": "مباحث و تمرین‌های مرتبط با «Common Packages».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "requests",
+          "type": "article",
+          "url": "https://docs.python-requests.org/en/latest/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "pathlib",
+          "type": "article",
+          "url": "https://docs.python.org/3/library/pathlib.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "asyncio",
+          "type": "article",
+          "url": "https://docs.python.org/3/library/asyncio.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "dataclasses",
+          "type": "article",
+          "url": "https://docs.python.org/3/library/dataclasses.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "python-dotenv",
+          "type": "article",
+          "url": "https://pypi.org/project/python-dotenv/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "numpy",
+          "type": "article",
+          "url": "https://numpy.org/doc/stable/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "pandas",
+          "type": "article",
+          "url": "https://pandas.pydata.org/docs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "regular-expressions",
+      "title": "Regular Expressions",
+      "description": "مباحث و تمرین‌های مرتبط با «Regular Expressions».",
+      "order": 9,
+      "children": [
+        {
+          "id": "regular-expressions-item",
+          "title": "Regular Expressions",
+          "description": "مباحث و تمرین‌های مرتبط با «Regular Expressions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Regular Expressions in Python",
+          "type": "article",
+          "url": "https://docs.python.org/3/library/re.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Regular Expressions",
+          "type": "article",
+          "url": "https://developers.google.com/edu/python/regular-expressions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python - Regular Expressions",
+          "type": "article",
+          "url": "https://www.tutorialspoint.com/python/python_reg_expressions.htm",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "variable-scope",
+      "title": "Variable Scope",
+      "description": "مباحث و تمرین‌های مرتبط با «Variable Scope».",
+      "order": 10,
+      "children": [
+        {
+          "id": "variable-scope-item",
+          "title": "Variable Scope",
+          "description": "مباحث و تمرین‌های مرتبط با «Variable Scope».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Python Nonlocal Keyword Explained by Our Experts",
+          "type": "article",
+          "url": "https://roadmap.sh/python/nonlocal",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Variable Scope And The LEGB Rule Explained",
+          "type": "article",
+          "url": "https://www.datacamp.com/tutorial/scope-of-variables-python",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Scope",
+          "type": "article",
+          "url": "https://www.w3schools.com/python/python_scope.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Tutorial: Variable Scope - Understanding the LEGB rule and global/nonlocal statements",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=QVdf0LgmICw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "object-oriented-programming",
+      "title": "Object Oriented Programming",
+      "description": "مباحث و تمرین‌های مرتبط با «Object Oriented Programming».",
+      "order": 11,
+      "children": [
+        {
+          "id": "object-oriented-programming-item",
+          "title": "Object Oriented Programming",
+          "description": "مباحث و تمرین‌های مرتبط با «Object Oriented Programming».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Object Oriented Programming in Python",
+          "type": "article",
+          "url": "https://realpython.com/python3-object-oriented-programming/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Object Oriented Programming (OOP) In Python - Beginner Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=-pEs-Bss8Wc/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "OOP in Python One Shot",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Ej_02ICOIgs",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python OOP Tutorial",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=IbMDCwVm63M",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "list-comprehensions",
+      "title": "List Comprehensions",
+      "description": "مباحث و تمرین‌های مرتبط با «List Comprehensions».",
+      "order": 12,
+      "children": [
+        {
+          "id": "list-comprehensions-item",
+          "title": "List Comprehensions",
+          "description": "مباحث و تمرین‌های مرتبط با «List Comprehensions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Python List Comprehensions",
+          "type": "article",
+          "url": "https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What Exactly are List Comprehensions in Python? - CodeGuage",
+          "type": "article",
+          "url": "https://www.codeguage.com/courses/python/lists-list-comprehensions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python List Comprehensions Quiz",
+          "type": "article",
+          "url": "https://realpython.com/quizzes/list-comprehension-python/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "generator-expressions",
+      "title": "Generator Expressions",
+      "description": "مباحث و تمرین‌های مرتبط با «Generator Expressions».",
+      "order": 13,
+      "children": [
+        {
+          "id": "generator-expressions-item",
+          "title": "Generator Expressions",
+          "description": "مباحث و تمرین‌های مرتبط با «Generator Expressions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Python Official Documentation on Generator Expressions",
+          "type": "article",
+          "url": "https://docs.python.org/3/tutorial/classes.html#generator-expressions",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Generator Expressions",
+          "type": "article",
+          "url": "https://www.pythontutorial.net/advanced-python/python-generator-expressions/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "List Comprehensions in Python and Generator Expressions",
+          "type": "article",
+          "url": "https://djangostars.com/blog/list-comprehensions-and-generator-expressions/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "paradigms",
+      "title": "Paradigms",
+      "description": "مباحث و تمرین‌های مرتبط با «Paradigms».",
+      "order": 14,
+      "children": [
+        {
+          "id": "paradigms-item",
+          "title": "Paradigms",
+          "description": "مباحث و تمرین‌های مرتبط با «Paradigms».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Python Paradigms",
+          "type": "article",
+          "url": "https://opensource.com/article/19/10/python-programming-paradigms",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Functional Programming - Python Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=5QZYGU0C2OA",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "context-manager",
+      "title": "Context Manager",
+      "description": "مباحث و تمرین‌های مرتبط با «Context Manager».",
+      "order": 15,
+      "children": [
+        {
+          "id": "context-manager-item",
+          "title": "Context Manager",
+          "description": "مباحث و تمرین‌های مرتبط با «Context Manager».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Context Libraries",
+          "type": "article",
+          "url": "https://docs.python.org/3/library/contextlib.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Context Managers in Python",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/context-managers-in-python/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Context Managers",
+          "type": "article",
+          "url": "https://book.pythontips.com/en/latest/context_managers.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "static-typing",
+      "title": "Static Typing",
+      "description": "مباحث و تمرین‌های مرتبط با «Static Typing».",
+      "order": 16,
+      "children": [
+        {
+          "id": "pydantic",
+          "title": "Pydantic",
+          "description": "مباحث و تمرین‌های مرتبط با «Pydantic».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Pydantic Documentation",
+              "type": "article",
+              "url": "https://docs.pydantic.dev/latest/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Static Typing in Python",
+          "type": "article",
+          "url": "https://typing.readthedocs.io/en/latest/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "learn-a-framework",
+      "title": "Learn a Framework",
+      "description": "مباحث و تمرین‌های مرتبط با «Learn a Framework».",
+      "order": 17,
+      "children": [
+        {
+          "id": "learn-a-framework-item",
+          "title": "Learn a Framework",
+          "description": "مباحث و تمرین‌های مرتبط با «Learn a Framework».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pyscript: A Browser-Based Python Framework",
+          "type": "article",
+          "url": "https://thenewstack.io/pyscript-a-browser-based-python-framework/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Explore top posts about Python",
+          "type": "article",
+          "url": "https://app.daily.dev/tags/python?ref=roadmapsh",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "concurrency",
+      "title": "Concurrency",
+      "description": "مباحث و تمرین‌های مرتبط با «Concurrency».",
+      "order": 18,
+      "children": [
+        {
+          "id": "multiprocessing",
+          "title": "Multiprocessing",
+          "description": "مباحث و تمرین‌های مرتبط با «Multiprocessing».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Python Documentation",
+              "type": "article",
+              "url": "https://docs.python.org/3/library/multiprocessing.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Multiprocessing in Python with Example",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/python-multiprocessing-example",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Multiprocessing in Python",
+              "type": "article",
+              "url": "https://realpython.com/python-multiprocessing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Concurrent Execution",
+          "type": "article",
+          "url": "https://docs.python.org/3/library/concurrency.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Concurrency",
+          "type": "article",
+          "url": "https://realpython.com/python-concurrency/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "code-formatting",
+      "title": "Code Formatting",
+      "description": "مباحث و تمرین‌های مرتبط با «Code Formatting».",
+      "order": 19,
+      "children": [
+        {
+          "id": "yapf",
+          "title": "yapf",
+          "description": "مباحث و تمرین‌های مرتبط با «yapf».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "google/yapf",
+              "type": "article",
+              "url": "https://github.com/google/yapf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "black",
+          "title": "black",
+          "description": "مباحث و تمرین‌های مرتبط با «black».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Getting Started with Black",
+              "type": "article",
+              "url": "https://black.readthedocs.io/en/stable/getting_started.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Black Documentation",
+              "type": "article",
+              "url": "https://black.readthedocs.io/en/stable/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "ruff",
+          "title": "ruff",
+          "description": "مباحث و تمرین‌های مرتبط با «ruff».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Ruff documentation",
+              "type": "article",
+              "url": "https://docs.astral.sh/ruff/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pylint for Python",
+          "type": "article",
+          "url": "https://www.pylint.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Black Documentation",
+          "type": "article",
+          "url": "https://black.readthedocs.io/en/stable/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "file-handling",
+      "title": "File Handling",
+      "description": "مباحث و تمرین‌های مرتبط با «File Handling».",
+      "order": 20,
+      "children": [
+        {
+          "id": "file-handling-item",
+          "title": "File Handling",
+          "description": "مباحث و تمرین‌های مرتبط با «File Handling».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pyhton File open",
+          "type": "article",
+          "url": "https://www.w3schools.com/python/python_file_handling.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Working With Files in Python",
+          "type": "article",
+          "url": "https://realpython.com/working-with-files-in-python/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python JSON",
+          "type": "article",
+          "url": "https://www.w3schools.com/python/python_json.asp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Working With JSON Data in Python",
+          "type": "article",
+          "url": "https://realpython.com/python-json/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python File Handling for Beginners",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=BRrem1k3904",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Tutorial: Working with JSON Data using the json Module",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=9N6a-VLBa2I",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing",
+      "title": "Testing",
+      "description": "مباحث و تمرین‌های مرتبط با «Testing».",
+      "order": 21,
+      "children": [
+        {
+          "id": "tox",
+          "title": "tox",
+          "description": "مباحث و تمرین‌های مرتبط با «tox».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Tox Documentation",
+              "type": "article",
+              "url": "https://tox.wiki/en/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "unittest-pyunit",
+          "title": "unittest / pyUnit",
+          "description": "مباحث و تمرین‌های مرتبط با «unittest / pyUnit».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "PyUnit Docs",
+              "type": "article",
+              "url": "https://wiki.python.org/moin/PyUnit%C2%A0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Use unittest to Write a Test Case for a Function in Python",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-use-unittest-to-write-a-test-case-for-a-function-in-python",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Gentle Introduction to Unit Testing in Python",
+              "type": "article",
+              "url": "https://machinelearningmastery.com/a-gentle-introduction-to-unit-testing-in-python/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "doctest",
+          "title": "doctest",
+          "description": "مباحث و تمرین‌های مرتبط با «doctest».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Doctest Module",
+              "type": "article",
+              "url": "https://docs.python.org/3/library/doctest.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "How To Write Doctests in Python",
+              "type": "article",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "pytest",
+          "title": "pytest",
+          "description": "مباحث و تمرین‌های مرتبط با «pytest».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Pytest Docs",
+              "type": "article",
+              "url": "https://docs.pytest.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Pytest Tutorial",
+              "type": "article",
+              "url": "https://www.tutorialspoint.com/pytest/index.htm",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Effective Python Testing With Pytest",
+              "type": "article",
+              "url": "https://realpython.com/pytest-python-testing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Pytest Tutorial – How to Test Python Code",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cHYq1MRoyI0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Python",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/python?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Unit Testing in Python",
+          "type": "article",
+          "url": "https://docs.python.org/3/library/unittest.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Python Testing Tutorial",
+          "type": "article",
+          "url": "https://realpython.com/python-testing/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

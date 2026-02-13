@@ -1,0 +1,1136 @@
+{
+  "slug": "game-developer",
+  "title": "Game Developer",
+  "description": "Roadmap to becoming a Game Developer in 2026",
+  "steps": [
+    {
+      "id": "client-side-development",
+      "title": "Client Side Development",
+      "description": "مباحث و تمرین‌های مرتبط با «Client Side Development».",
+      "order": 1,
+      "children": [
+        {
+          "id": "client-side-development-item",
+          "title": "Client Side Development",
+          "description": "مباحث و تمرین‌های مرتبط با «Client Side Development».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Client Side Architecture",
+          "type": "article",
+          "url": "https://gabrielgambetta.com/client-server-game-architecture.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "game-mathematics",
+      "title": "Game Mathematics",
+      "description": "مباحث و تمرین‌های مرتبط با «Game Mathematics».",
+      "order": 2,
+      "children": [
+        {
+          "id": "linear-algebra",
+          "title": "Linear Algebra",
+          "description": "مباحث و تمرین‌های مرتبط با «Linear Algebra».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Linear Algebra",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Linear_algebra",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Linear Algebra Full Course by Kimberly Brehm",
+              "type": "video",
+              "url": "https://youtube.com/playlist?list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK&si=_r0WDwh94NKJbs_R",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Math",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/math?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "matrix",
+          "title": "Matrix",
+          "description": "مباحث و تمرین‌های مرتبط با «Matrix».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Matrix Algebra and Game Programming",
+              "type": "article",
+              "url": "https://www.gameludere.com/2019/12/21/matrix-algebra-and-game-programming/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Matrices in Game Development",
+              "type": "article",
+              "url": "https://dev.to/fkkarakurt/matrices-and-vectors-in-game-development-67h",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "linear-transformation",
+          "title": "Linear Transformation",
+          "description": "مباحث و تمرین‌های مرتبط با «Linear Transformation».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Linear Transformation",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Linear_map",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Math",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/math?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "affine-space",
+          "title": "Affine Space",
+          "description": "مباحث و تمرین‌های مرتبط با «Affine Space».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Affine Space",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/Affine_space",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Affine Space",
+              "type": "article",
+              "url": "https://brilliant.org/wiki/affine-spaces/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "affine-transformation",
+          "title": "Affine Transformation",
+          "description": "مباحث و تمرین‌های مرتبط با «Affine Transformation».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "Affine Transformation",
+              "type": "article",
+              "url": "https://www.gamedevs.org/uploads/affine-transformations.pdf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Understanding Affine Transformations",
+              "type": "article",
+              "url": "https://code.tutsplus.com/understanding-affine-transformations-with-matrix-mathematics--active-10884t",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Game Math",
+          "type": "article",
+          "url": "https://gamemath.com/book/intro.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "projection",
+      "title": "Projection",
+      "description": "مباحث و تمرین‌های مرتبط با «Projection».",
+      "order": 3,
+      "children": [
+        {
+          "id": "projection-item",
+          "title": "Projection",
+          "description": "مباحث و تمرین‌های مرتبط با «Projection».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Mesh Triangulation and Polyhedron",
+          "type": "article",
+          "url": "https://mathworld.wolfram.com/Projection.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "orientation",
+      "title": "Orientation",
+      "description": "مباحث و تمرین‌های مرتبط با «Orientation».",
+      "order": 4,
+      "children": [
+        {
+          "id": "orientation-item",
+          "title": "Orientation",
+          "description": "مباحث و تمرین‌های مرتبط با «Orientation».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Orientation of Character",
+          "type": "article",
+          "url": "https://medium.com/@dev.szabo.endre/a-bit-e-of-game-dev-math-01-character-movement-with-vectors-effc862a1e4f",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Vector Maths for Game Developers",
+          "type": "article",
+          "url": "https://www.gamedeveloper.com/programming/vector-maths-for-game-dev-beginners",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "curve",
+      "title": "Curve",
+      "description": "مباحث و تمرین‌های مرتبط با «Curve».",
+      "order": 5,
+      "children": [
+        {
+          "id": "curve-item",
+          "title": "Curve",
+          "description": "مباحث و تمرین‌های مرتبط با «Curve».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Curves",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Curve",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Basics of Curves",
+          "type": "article",
+          "url": "https://byjus.com/maths/curve/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "dynamics",
+      "title": "Dynamics",
+      "description": "مباحث و تمرین‌های مرتبط با «Dynamics».",
+      "order": 6,
+      "children": [
+        {
+          "id": "dynamics-item",
+          "title": "Dynamics",
+          "description": "مباحث و تمرین‌های مرتبط با «Dynamics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Dynamics in Game Physics",
+          "type": "article",
+          "url": "https://americanprofessionguide.com/game-mechanics-and-dynamics/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "game-physics",
+      "title": "Game Physics",
+      "description": "مباحث و تمرین‌های مرتبط با «Game Physics».",
+      "order": 7,
+      "children": [
+        {
+          "id": "game-physics-item",
+          "title": "Game Physics",
+          "description": "مباحث و تمرین‌های مرتبط با «Game Physics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Game Physics",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Game_physics",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Master Game Physics Today!",
+          "type": "article",
+          "url": "https://www.udemy.com/course/gamephysics/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "game-engine",
+      "title": "Game Engine",
+      "description": "مباحث و تمرین‌های مرتبط با «Game Engine».",
+      "order": 8,
+      "children": [
+        {
+          "id": "unity-3d",
+          "title": "Unity 3D",
+          "description": "مباحث و تمرین‌های مرتبط با «Unity 3D».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Unity",
+              "type": "article",
+              "url": "https://unity.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unity Engine for Video Games",
+              "type": "article",
+              "url": "https://unity.com/products/unity-engine",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Creating a 3D Game",
+              "type": "article",
+              "url": "https://docs.unity3d.com/2021.2/Documentation/Manual/Quickstart3DCreate.html",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unity in 100 Seconds",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=iqlH4okiQqg",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "unreal-engine",
+          "title": "Unreal Engine",
+          "description": "مباحث و تمرین‌های مرتبط با «Unreal Engine».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "Unreal Engine Documentation",
+              "type": "article",
+              "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unreal Engine YouTube Channel",
+              "type": "article",
+              "url": "https://m.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unreal in 100 Seconds",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=DXDe-2BC4cE",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Unreal Source Discord",
+              "type": "article",
+              "url": "https://discord.gg/unrealsource",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "native",
+          "title": "Native",
+          "description": "مباحث و تمرین‌های مرتبط با «Native».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Visit Dedicated C++ Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/cpp",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Visit Dedicated Rust Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/rust",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Learn Game Development with C++",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/cpp/overview/game-development-cpp?view=msvc-170",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Building Games with Rust",
+              "type": "article",
+              "url": "https://rustmeup.com/building-games-with-rust",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "godot",
+          "title": "Godot",
+          "description": "مباحث و تمرین‌های مرتبط با «Godot».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Godot",
+              "type": "article",
+              "url": "https://godotengine.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Godot Documentation",
+              "type": "article",
+              "url": "https://docs.godotengine.org/en/stable/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "godotengine/godot",
+              "type": "article",
+              "url": "https://github.com/godotengine/godot",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Godot in 100 Seconds",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=QKgTZWbwD1U",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - How to make a Video Game in Godot",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LOhfqjmasi0",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Tutorial - How to make 3D Games in Godot",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ke5KpqcoiIU",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Game Engine",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Game_engine",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Choosing a Game Engine is Easy!",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=aMgB018o71U",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "collision-detection",
+      "title": "Collision Detection",
+      "description": "مباحث و تمرین‌های مرتبط با «Collision Detection».",
+      "order": 9,
+      "children": [
+        {
+          "id": "collision-detection-item",
+          "title": "Collision Detection",
+          "description": "مباحث و تمرین‌های مرتبط با «Collision Detection».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Collision Detection in Games",
+          "type": "article",
+          "url": "https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Collision_detection",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "programming-languages",
+      "title": "Programming Languages",
+      "description": "مباحث و تمرین‌های مرتبط با «Programming Languages».",
+      "order": 10,
+      "children": [
+        {
+          "id": "c-c",
+          "title": "C/C++",
+          "description": "مباحث و تمرین‌های مرتبط با «C/C++».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "C Programming Language",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/C_%28programming_language%29",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C++ Programming Language",
+              "type": "article",
+              "url": "https://en.wikipedia.org/wiki/C%2B%2B",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Visit Dedicated C++ Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/cpp",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visit Dedicated Rust Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/rust",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Visit Dedicated Java Roadmap",
+          "type": "article",
+          "url": "https://roadmap.sh/java",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Learn Game Development with C++",
+          "type": "article",
+          "url": "https://learn.microsoft.com/en-us/cpp/overview/game-development-cpp?view=msvc-170",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Building Games with Rust",
+          "type": "article",
+          "url": "https://rustmeup.com/building-games-with-rust",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "computer-graphics",
+      "title": "Computer Graphics",
+      "description": "مباحث و تمرین‌های مرتبط با «Computer Graphics».",
+      "order": 11,
+      "children": [
+        {
+          "id": "ray-tracing",
+          "title": "Ray Tracing",
+          "description": "مباحث و تمرین‌های مرتبط با «Ray Tracing».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Nvidia GeForce RTX",
+              "type": "article",
+              "url": "https://www.nvidia.com/en-us/geforce/rtx/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Ray Tracing?",
+              "type": "article",
+              "url": "https://www.pcmag.com/how-to/what-is-ray-tracing-and-what-it-means-for-pc-gaming",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "rasterization",
+          "title": "Rasterization",
+          "description": "مباحث و تمرین‌های مرتبط با «Rasterization».",
+          "order": 2,
+          "resources": [
+            {
+              "title": "3D Rendering Rasterization",
+              "type": "article",
+              "url": "https://www.techspot.com/article/1888-how-to-3d-rendering-rasterization-ray-tracing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "graphics-pipeline",
+          "title": "Graphics Pipeline",
+          "description": "مباحث و تمرین‌های مرتبط با «Graphics Pipeline».",
+          "order": 3,
+          "resources": [
+            {
+              "title": "Graphics Pipelines",
+              "type": "article",
+              "url": "https://www.cs.cornell.edu/courses/cs4620/2020fa/slides/11pipeline.pdf",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Definition of Graphics Pipeline",
+              "type": "article",
+              "url": "https://www.pcmag.com/encyclopedia/term/graphics-pipeline",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "sampling",
+          "title": "Sampling",
+          "description": "مباحث و تمرین‌های مرتبط با «Sampling».",
+          "order": 4,
+          "resources": [
+            {
+              "title": "Textures and Sampling",
+              "type": "article",
+              "url": "https://cglearn.eu/pub/computer-graphics/textures-and-sampling",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "shader",
+          "title": "Shader",
+          "description": "مباحث و تمرین‌های مرتبط با «Shader».",
+          "order": 5,
+          "resources": [
+            {
+              "title": "What Are Shaders in Video Games?",
+              "type": "article",
+              "url": "https://www.gamedesigning.org/learn/shaders/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "A Beginner's Guide to Coding Graphics Shaders",
+              "type": "article",
+              "url": "https://gamedevelopment.tutsplus.com/a-beginners-guide-to-coding-graphics-shaders--cms-23313t",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Computer Graphics",
+          "type": "article",
+          "url": "https://open.umn.edu/opentextbooks/textbooks/420",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How do Video Game Graphics Work?",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=C8YtdC8mxTU",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "graphics-api",
+      "title": "Graphics API",
+      "description": "مباحث و تمرین‌های مرتبط با «Graphics API».",
+      "order": 12,
+      "children": [
+        {
+          "id": "graphics-api-item",
+          "title": "Graphics API",
+          "description": "مباحث و تمرین‌های مرتبط با «Graphics API».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Graphics API in Unity",
+          "type": "article",
+          "url": "https://docs.unity3d.com/2022.3/Documentation/ScriptReference/PlayerSettings.SetGraphicsAPIs.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "game-ai",
+      "title": "Game AI",
+      "description": "مباحث و تمرین‌های مرتبط با «Game AI».",
+      "order": 13,
+      "children": [
+        {
+          "id": "decision-making",
+          "title": "Decision Making",
+          "description": "مباحث و تمرین‌های مرتبط با «Decision Making».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "Decision Making in Game Development",
+              "type": "article",
+              "url": "https://www.cgspectrum.com/blog/game-design-decision-making-troy-dunniway",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Game AI",
+          "type": "article",
+          "url": "https://medium.com/@alidrsn/game-development-with-ai-strategy-tools-and-examples-7ae77257c062",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AI Game Development",
+          "type": "article",
+          "url": "https://modl.ai/ai-game-development/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "game-ai-2",
+      "title": "Game AI",
+      "description": "مباحث و تمرین‌های مرتبط با «Game AI».",
+      "order": 14,
+      "children": [
+        {
+          "id": "game-ai-2-item",
+          "title": "Game AI",
+          "description": "مباحث و تمرین‌های مرتبط با «Game AI».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Game AI",
+          "type": "article",
+          "url": "https://medium.com/@alidrsn/game-development-with-ai-strategy-tools-and-examples-7ae77257c062",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "AI Game Development",
+          "type": "article",
+          "url": "https://modl.ai/ai-game-development/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "advanced-rendering",
+      "title": "Advanced Rendering",
+      "description": "مباحث و تمرین‌های مرتبط با «Advanced Rendering».",
+      "order": 15,
+      "children": [
+        {
+          "id": "real-time-ray-tracing",
+          "title": "Real-time Ray Tracing",
+          "description": "مباحث و تمرین‌های مرتبط با «Real-time Ray Tracing».",
+          "order": 1,
+          "children": [
+            {
+              "id": "directx-ray-tracing",
+              "title": "DirectX Ray Tracing",
+              "description": "مباحث و تمرین‌های مرتبط با «DirectX Ray Tracing».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Nvidia RTX Real-Time Ray Tracing",
+              "type": "article",
+              "url": "https://blogs.nvidia.com/blog/rtx-real-time-ray-tracing/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "What is Real-Time Ray Tracing?",
+              "type": "article",
+              "url": "https://www.unrealengine.com/en-US/explainers/ray-tracing/what-is-real-time-ray-tracing",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "physically-based-rendering",
+          "title": "Physically-Based Rendering",
+          "description": "مباحث و تمرین‌های مرتبط با «Physically-Based Rendering».",
+          "order": 2,
+          "children": [
+            {
+              "id": "microsurface-scattering",
+              "title": "Microsurface Scattering",
+              "description": "مباحث و تمرین‌های مرتبط با «Microsurface Scattering».",
+              "order": 1,
+              "resources": [],
+              "recommendation": ""
+            }
+          ],
+          "resources": [
+            {
+              "title": "Physically-Based Rendering",
+              "type": "article",
+              "url": "https://dev.epicgames.com/community/learning/tutorials/Yx3q/unreal-engine-physically-based-rendering-pbr-explained-in-depth",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Advanced Rendering",
+          "type": "article",
+          "url": "https://www.advances.realtimerendering.com/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Advances in Real Time Rendering",
+          "type": "article",
+          "url": "https://www.advances.realtimerendering.com/s2024/index.html",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}

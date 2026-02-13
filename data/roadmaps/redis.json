@@ -1,0 +1,1137 @@
+{
+  "slug": "redis",
+  "title": "Redis",
+  "description": "Step by step guide to learn Redis in 2026",
+  "steps": [
+    {
+      "id": "what-is-redis",
+      "title": "What is Redis?",
+      "description": "مباحث و تمرین‌های مرتبط با «What is Redis?».",
+      "order": 1,
+      "children": [
+        {
+          "id": "what-is-redis-item",
+          "title": "What is Redis?",
+          "description": "مباحث و تمرین‌های مرتبط با «What is Redis?».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "What is Redis?",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/get-started/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Introduction to Redis",
+          "type": "article",
+          "url": "https://redis.io/about/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis - Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Redis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "What is Redis Explained? - IBM",
+          "type": "article",
+          "url": "https://www.ibm.com/think/topics/redis",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "strings",
+      "title": "Strings",
+      "description": "مباحث و تمرین‌های مرتبط با «Strings».",
+      "order": 2,
+      "children": [
+        {
+          "id": "strings-item",
+          "title": "Strings",
+          "description": "مباحث و تمرین‌های مرتبط با «Strings».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Strings",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/data-types/strings/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "hashes",
+      "title": "Hashes",
+      "description": "مباحث و تمرین‌های مرتبط با «Hashes».",
+      "order": 3,
+      "children": [
+        {
+          "id": "hashes-item",
+          "title": "Hashes",
+          "description": "مباحث و تمرین‌های مرتبط با «Hashes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Hashes",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/data-types/hashes/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "sorted-sets",
+      "title": "Sorted Sets",
+      "description": "مباحث و تمرین‌های مرتبط با «Sorted Sets».",
+      "order": 4,
+      "children": [
+        {
+          "id": "sorted-sets-item",
+          "title": "Sorted Sets",
+          "description": "مباحث و تمرین‌های مرتبط با «Sorted Sets».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Sorted Sets",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/data-types/sorted-sets/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "sets",
+      "title": "Sets",
+      "description": "مباحث و تمرین‌های مرتبط با «Sets».",
+      "order": 5,
+      "children": [
+        {
+          "id": "sets-item",
+          "title": "Sets",
+          "description": "مباحث و تمرین‌های مرتبط با «Sets».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Sets",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/data-types/sets/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "lists",
+      "title": "Lists",
+      "description": "مباحث و تمرین‌های مرتبط با «Lists».",
+      "order": 6,
+      "children": [
+        {
+          "id": "lists-item",
+          "title": "Lists",
+          "description": "مباحث و تمرین‌های مرتبط با «Lists».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Lists",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/data-types/lists/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "atomicity-in-redis",
+      "title": "Atomicity in Redis",
+      "description": "مباحث و تمرین‌های مرتبط با «Atomicity in Redis».",
+      "order": 7,
+      "children": [
+        {
+          "id": "atomicity-in-redis-item",
+          "title": "Atomicity in Redis",
+          "description": "مباحث و تمرین‌های مرتبط با «Atomicity in Redis».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Atomicity with Lua",
+          "type": "article",
+          "url": "https://redis.io/learn/develop/java/spring/rate-limiting/fixed-window/reactive-lua",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Atomicity in Redis operations",
+          "type": "article",
+          "url": "https://lucaspin.medium.com/atomicity-in-redis-operations-a1d7bc9f4a90",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pipelining",
+      "title": "Pipelining",
+      "description": "مباحث و تمرین‌های مرتبط با «Pipelining».",
+      "order": 8,
+      "children": [
+        {
+          "id": "pipelining-item",
+          "title": "Pipelining",
+          "description": "مباحث و تمرین‌های مرتبط با «Pipelining».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Pipelining",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/use/pipelining/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "batch-operations",
+      "title": "Batch Operations",
+      "description": "مباحث و تمرین‌های مرتبط با «Batch Operations».",
+      "order": 9,
+      "children": [
+        {
+          "id": "batch-operations-item",
+          "title": "Batch Operations",
+          "description": "مباحث و تمرین‌های مرتبط با «Batch Operations».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Batch Operations in Redis",
+          "type": "article",
+          "url": "https://www.compilenrun.com/docs/middleware/redis/redis-operations/redis-batch-operations/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Using Pipelining to Batch Issue Commands",
+          "type": "article",
+          "url": "https://www.alibabacloud.com/help/en/redis/use-cases/use-pipelining-to-batch-issue-commands#:~:text=You%20can%20use%20the%20Redis,network%20latency%20and%20improving%20performance.",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "bitmaps",
+      "title": "Bitmaps",
+      "description": "مباحث و تمرین‌های مرتبط با «Bitmaps».",
+      "order": 10,
+      "children": [
+        {
+          "id": "bitmaps-item",
+          "title": "Bitmaps",
+          "description": "مباحث و تمرین‌های مرتبط با «Bitmaps».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bitmap",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/data-types/bitmaps/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis Bitmap Explained",
+          "type": "video",
+          "url": "https://youtu.be/oj8LdJQjhJo?si=jem54LfPbZtrpnEP",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "hyperloglog",
+      "title": "HyperLogLog",
+      "description": "مباحث و تمرین‌های مرتبط با «HyperLogLog».",
+      "order": 11,
+      "children": [
+        {
+          "id": "hyperloglog-item",
+          "title": "HyperLogLog",
+          "description": "مباحث و تمرین‌های مرتبط با «HyperLogLog».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "HyperLogLog Documentation",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/data-types/probabilistic/hyperloglogs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis HyperLogLog Explained",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=MunL8nnwscQ",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "streams",
+      "title": "Streams",
+      "description": "مباحث و تمرین‌های مرتبط با «Streams».",
+      "order": 12,
+      "children": [
+        {
+          "id": "streams-item",
+          "title": "Streams",
+          "description": "مباحث و تمرین‌های مرتبط با «Streams».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Streams",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/data-types/streams/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Transport Layer Security Documentation",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/rc/security/database-security/tls-ssl/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "geospatial-indexes",
+      "title": "Geospatial Indexes",
+      "description": "مباحث و تمرین‌های مرتبط با «Geospatial Indexes».",
+      "order": 13,
+      "children": [
+        {
+          "id": "geospatial-indexes-item",
+          "title": "Geospatial Indexes",
+          "description": "مباحث و تمرین‌های مرتبط با «Geospatial Indexes».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Geospatial Indexing",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/interact/search-and-query/indexing/geoindex/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Geospatial Indexes in Redis",
+          "type": "article",
+          "url": "https://codesignal.com/learn/courses/redis-data-structures-beyond-basics/lessons/introduction-to-geospatial-indexes-in-redis-using-java",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "pub-sub",
+      "title": "Pub/Sub",
+      "description": "مباحث و تمرین‌های مرتبط با «Pub/Sub».",
+      "order": 14,
+      "children": [
+        {
+          "id": "pub-sub-item",
+          "title": "Pub/Sub",
+          "description": "مباحث و تمرین‌های مرتبط با «Pub/Sub».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Pub/Sub in Redis",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/interact/pubsub/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "transactions",
+      "title": "Transactions",
+      "description": "مباحث و تمرین‌های مرتبط با «Transactions».",
+      "order": 15,
+      "children": [
+        {
+          "id": "transactions-item",
+          "title": "Transactions",
+          "description": "مباحث و تمرین‌های مرتبط با «Transactions».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Transactions",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/develop/interact/transactions/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "MULTI",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/commands/multi/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "EXEC",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/commands/exec/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "DISCARD",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/commands/discard/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "WATCH",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/commands/watch/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "lua-scripting",
+      "title": "Lua Scripting",
+      "description": "مباحث و تمرین‌های مرتبط با «Lua Scripting».",
+      "order": 16,
+      "children": [
+        {
+          "id": "lua-scripting-item",
+          "title": "Lua Scripting",
+          "description": "مباحث و تمرین‌های مرتبط با «Lua Scripting».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Lua Programming Language",
+          "type": "article",
+          "url": "https://www.lua.org/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Lua in 100 Seconds",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=jUuqBZwwkQw",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Full Lua Programming Crash Course",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=1srFmjt1Ib0",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "persistence-options",
+      "title": "Persistence Options",
+      "description": "مباحث و تمرین‌های مرتبط با «Persistence Options».",
+      "order": 17,
+      "children": [
+        {
+          "id": "persistence-options-item",
+          "title": "Persistence Options",
+          "description": "مباحث و تمرین‌های مرتبط با «Persistence Options».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Data Persistence",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/rc/databases/configuration/data-persistence/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis Persistence",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "authentication",
+      "title": "Authentication",
+      "description": "مباحث و تمرین‌های مرتبط با «Authentication».",
+      "order": 18,
+      "children": [
+        {
+          "id": "authentication-item",
+          "title": "Authentication",
+          "description": "مباحث و تمرین‌های مرتبط با «Authentication».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "AUTH",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/commands/auth/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "network-security",
+      "title": "Network Security",
+      "description": "مباحث و تمرین‌های مرتبط با «Network Security».",
+      "order": 19,
+      "children": [
+        {
+          "id": "network-security-item",
+          "title": "Network Security",
+          "description": "مباحث و تمرین‌های مرتبط با «Network Security».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Authentication",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/security/#authentication",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis Network Security",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/rc/security/database-security/network-security/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "ssl-tls-encryption",
+      "title": "SSL/TLS Encryption",
+      "description": "مباحث و تمرین‌های مرتبط با «SSL/TLS Encryption».",
+      "order": 20,
+      "children": [
+        {
+          "id": "ssl-tls-encryption-item",
+          "title": "SSL/TLS Encryption",
+          "description": "مباحث و تمرین‌های مرتبط با «SSL/TLS Encryption».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis TLS Support",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/security/encryption/#getting-started",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Transport Layer Security Documentation",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/rc/security/database-security/tls-ssl/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "replication-basics",
+      "title": "Replication Basics",
+      "description": "مباحث و تمرین‌های مرتبط با «Replication Basics».",
+      "order": 21,
+      "children": [
+        {
+          "id": "replication-basics-item",
+          "title": "Replication Basics",
+          "description": "مباحث و تمرین‌های مرتبط با «Replication Basics».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Replication",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/replication/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "redis-sentinel",
+      "title": "Redis Sentinel",
+      "description": "مباحث و تمرین‌های مرتبط با «Redis Sentinel».",
+      "order": 22,
+      "children": [
+        {
+          "id": "redis-sentinel-item",
+          "title": "Redis Sentinel",
+          "description": "مباحث و تمرین‌های مرتبط با «Redis Sentinel».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "High Availability with Redis Sentinel",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/sentinel/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "clustering",
+      "title": "Clustering",
+      "description": "مباحث و تمرین‌های مرتبط با «Clustering».",
+      "order": 23,
+      "children": [
+        {
+          "id": "clustering-item",
+          "title": "Clustering",
+          "description": "مباحث و تمرین‌های مرتبط با «Clustering».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Scale with Redis Cluster",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/scaling/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "How to Create a Cluster in Redis",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=N8BkmdZzxDg",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "redis-modules",
+      "title": "Redis Modules",
+      "description": "مباحث و تمرین‌های مرتبط با «Redis Modules».",
+      "order": 24,
+      "children": [
+        {
+          "id": "redisjson",
+          "title": "RedisJSON",
+          "description": "مباحث و تمرین‌های مرتبط با «RedisJSON».",
+          "order": 1,
+          "resources": [
+            {
+              "title": "RedisJSON",
+              "type": "article",
+              "url": "https://redis.io/json/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "RedisJSON/RedisJSON - GitHub",
+              "type": "article",
+              "url": "https://github.com/RedisJSON/RedisJSON",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [],
+      "recommendation": ""
+    },
+    {
+      "id": "redis-conf",
+      "title": "redis.conf",
+      "description": "مباحث و تمرین‌های مرتبط با «redis.conf».",
+      "order": 25,
+      "children": [
+        {
+          "id": "redis-conf-item",
+          "title": "redis.conf",
+          "description": "مباحث و تمرین‌های مرتبط با «redis.conf».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Configuration Documentation",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/config/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis Configuration File Example",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/config-file/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "upgrading-redis",
+      "title": "Upgrading Redis",
+      "description": "مباحث و تمرین‌های مرتبط با «Upgrading Redis».",
+      "order": 26,
+      "children": [
+        {
+          "id": "upgrading-redis-item",
+          "title": "Upgrading Redis",
+          "description": "مباحث و تمرین‌های مرتبط با «Upgrading Redis».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Administration",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/admin/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Upgrading or Restarting a Redis instance without downtime",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/admin/#upgrading-or-restarting-a-redis-instance-without-downtime",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "backup-and-recovery",
+      "title": "Backup and Recovery",
+      "description": "مباحث و تمرین‌های مرتبط با «Backup and Recovery».",
+      "order": 27,
+      "children": [
+        {
+          "id": "backup-and-recovery-item",
+          "title": "Backup and Recovery",
+          "description": "مباحث و تمرین‌های مرتبط با «Backup and Recovery».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Backup and Recovery",
+          "type": "article",
+          "url": "https://redis.io/redis-enterprise/technology/backup-disaster-recovery/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Backup & Restore Redis Cluster with Stash",
+          "type": "video",
+          "url": "https://youtu.be/Py_Ivv-2dcQ?si=z8gAAmhlpUBce4jY",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "disaster-recovery",
+      "title": "Disaster Recovery",
+      "description": "مباحث و تمرین‌های مرتبط با «Disaster Recovery».",
+      "order": 28,
+      "children": [
+        {
+          "id": "disaster-recovery-item",
+          "title": "Disaster Recovery",
+          "description": "مباحث و تمرین‌های مرتبط با «Disaster Recovery».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Backup Disaster Recovery",
+          "type": "article",
+          "url": "https://redis.io/redis-enterprise/technology/backup-disaster-recovery/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Disaster Recovery for Redis in the Cloud",
+          "type": "article",
+          "url": "https://www.alibabacloud.com/tech-news/a/redis/gtu8u2afbc-disaster-recovery-for-redis-in-the-cloud-strategies-and-best-practices",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "redis-enterprise",
+      "title": "Redis Enterprise",
+      "description": "مباحث و تمرین‌های مرتبط با «Redis Enterprise».",
+      "order": 29,
+      "children": [
+        {
+          "id": "redis-enterprise-item",
+          "title": "Redis Enterprise",
+          "description": "مباحث و تمرین‌های مرتبط با «Redis Enterprise».",
+          "order": 1,
+          "children": [],
+          "resources": [],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "title": "Redis Enterprise",
+          "type": "article",
+          "url": "https://redis.io/about/redis-enterprise/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis Enterprise Software",
+          "type": "article",
+          "url": "https://redis.io/docs/latest/operate/rs/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        },
+        {
+          "title": "Redis Open Source vs. Enterprise",
+          "type": "article",
+          "url": "https://www.metricfire.com/blog/redis-open-source-vs-enterprise/",
+          "price": "free",
+          "priceAmount": 0,
+          "duration": "",
+          "language": "en",
+          "description": ""
+        }
+      ],
+      "recommendation": ""
+    }
+  ],
+  "projects": []
+}
