@@ -1,97 +1,769 @@
 {
   "slug": "main",
   "title": "نقشه راه اصلی",
-  "description": "مسیر کلی یادگیری برنامه‌نویسی از آشنایی با کامپیوتر تا انتخاب و طی کردن یک مسیر تخصصی (بک‌اند، فرانت‌اند یا اندروید).",
+  "description": "مسیر کلی یادگیری برنامه‌نویسی از آشنایی با کامپیوتر تا انتخاب و طی کردن یک مسیر تخصصی (Backend، Frontend، Android یا DevOps). این نقشه راه برای کسانی است که از صفر شروع می‌کنند و می‌خواهند قبل از انتخاب مسیر تخصصی، پایه‌های مشترک را بسازند.",
   "steps": [
     {
       "id": "intro-computers",
       "title": "آشنایی اولیه با کامپیوترها",
-      "description": "درک مفاهیم پایه سخت‌افزار، نرم‌افزار و کار با سیستم‌عامل",
+      "description": "درک مفاهیم پایه سخت‌افزار، نرم‌افزار و کار با سیستم‌عامل (OS) و فایل‌ها",
       "order": 1,
       "children": [
         {
           "id": "intro-computers-basics",
           "title": "مبانی کامپیوتر",
-          "description": "سخت‌افزار، نرم‌افزار، سیستم‌عامل و کار با فایل‌ها",
-          "resources": [],
+          "description": "سخت‌افزار، نرم‌افزار، OS، نصب برنامه‌ها و کار با فایل‌ها/پوشه‌ها",
+          "resources": [
+            {
+              "title": "آموزش رایگان مبانی کامپیوتر و برنامه سازی (دانشگاه صنعتی شریف) - مکتب‌خونه",
+              "type": "course",
+              "url": "https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-mk3576/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "برای شروع از صفر: مفاهیم پایه کامپیوتر، آشنایی با نرم‌افزار/سخت‌افزار، مقدمات برنامه‌سازی و مهارت‌های پایه."
+            },
+            {
+              "title": "آموزش کامپیوتر رایگان — راهنمای گام‌به‌گام کار با رایانه (مجله فرادرس)",
+              "type": "article",
+              "url": "https://blog.faradars.org/learn-computer-basics-step-by-step/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "راهنمای متنی برای مفاهیم پایه و مهارت‌های عمومی کار با کامپیوتر (فایل‌ها، پوشه‌ها، تنظیمات و ...)."
+            },
+            {
+              "title": "Computer Basics (GCFGlobal)",
+              "type": "course",
+              "url": "https://edu.gcfglobal.org/en/computerbasics/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "دوره رایگان و ساده برای آشنایی با مفاهیم پایه کامپیوتر و کاربری عمومی."
+            },
+            {
+              "title": "ICDL آموزش کامل (YouTube Playlist)",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PLRN6VIFs6J_lC-06pOVvK3pjaBmRNu3uk",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "پلی‌لیست ویدیویی برای مهارت‌های عمومی کامپیوتر و کاربری نرم‌افزارها (مناسب شروع)."
+            },
+            {
+              "title": "Computer Skills: Basic Computer Skills Definition and Examples (freeCodeCamp)",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/computer-skills-definition-and-examples/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "مقاله انگلیسی درباره مهارت‌های پایه کامپیوتر و چیزهایی که برای ورود به دنیای فناوری لازم است."
+            }
+          ],
           "recommendation": "personal"
         }
-      ]
+      ],
+      "recommendation": "personal"
+    },
+    {
+      "id": "internet-basics",
+      "title": "مبانی اینترنت و وب",
+      "description": "برای هر برنامه‌نویس ضروری است: اینترنت چگونه کار می‌کند و ارتباط‌ها چطور برقرار می‌شوند",
+      "order": 2,
+      "children": [
+        {
+          "id": "internet-web-basics",
+          "title": "Internet / Web Basics",
+          "description": "Client/Server، Request/Response، HTTP/HTTPS، DNS و نقش Browser",
+          "resources": [
+            {
+              "title": "آموزش درک شبکه با جادی — مقدماتی (رایگان) + گواهینامه | فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/jadi-network-fvnet9707",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "برای درک پایه‌های شبکه، اینترنت، مدل‌های ارتباطی و مفاهیم ضروری برای همه مسیرها (به‌خصوص Backend/DevOps)."
+            },
+            {
+              "title": "پروتکل HTTP چیست؟ — به زبان ساده (مجله فرادرس)",
+              "type": "article",
+              "url": "https://blog.faradars.org/%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D9%84-http/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "آشنایی با HTTP، ساختار Request/Response و مفاهیم پایه وب."
+            },
+            {
+              "title": "Computers and the Internet (Khan Academy)",
+              "type": "course",
+              "url": "https://www.khanacademy.org/computing/computers-and-internet",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "دوره رایگان برای فهم اینترنت، شبکه، وب و مفاهیم کلیدی به زبان ساده."
+            },
+            {
+              "title": "درک مقدماتی شبکه با جادی (YouTube Playlist)",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z_",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "پلی‌لیست ویدیویی برای فهم شبکه و اینترنت از پایه."
+            },
+            {
+              "title": "How does the Internet work? (MDN Web Docs)",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "مقاله مرجع درباره این‌که اینترنت چگونه کار می‌کند (Client/Server، IP، DNS و ...)."
+            }
+          ],
+          "recommendation": "personal"
+        }
+      ],
+      "recommendation": "personal"
+    },
+    {
+      "id": "dev-tools",
+      "title": "ابزارهای پایه برنامه‌نویسی",
+      "description": "چیزهایی که در همه مسیرها به آن‌ها نیاز دارید: Editor/IDE، Terminal و Git/GitHub",
+      "order": 3,
+      "children": [
+        {
+          "id": "editor-ide-basics",
+          "title": "Editor و IDE",
+          "description": "نصب و استفاده از VS Code (برای اکثر مسیرها) و آشنایی کلی با IDEها مثل Android Studio",
+          "resources": [
+            {
+              "title": "آموزش VS Code (نصب و راه‌اندازی و Extensionها) - YouTube",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7hP6RjmkK3M",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "یک آموزش رایگان برای شروع کار با VS Code و تنظیمات اولیه."
+            },
+            {
+              "title": "21 میانبر کاربردی در VSCode (مجله فرادرس)",
+              "type": "article",
+              "url": "https://blog.faradars.org/vscode-shortcuts/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "میانبرها و نکات کاربردی برای سریع‌تر کار کردن با VS Code."
+            },
+            {
+              "title": "Introductory Videos - Visual Studio Code (Official Docs)",
+              "type": "course",
+              "url": "https://code.visualstudio.com/docs/getstarted/introvideos",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "ویدیوهای رسمی و رایگان برای آشنایی سریع با قابلیت‌های اصلی VS Code."
+            },
+            {
+              "title": "Visual Studio Code Tutorials (YouTube Playlist)",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PLFaWDe_XIA4rguc-frdHtSzgGGiYFd1e2",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "پلی‌لیست آموزشی برای یادگیری کار با VS Code و اجرای زبان‌های مختلف داخل آن."
+            },
+            {
+              "title": "Tips and Tricks - Visual Studio Code (Official Docs)",
+              "type": "article",
+              "url": "https://code.visualstudio.com/docs/getstarted/tips-and-tricks",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "راهنمای رسمی نکات و ترفندهای VS Code (میانبرها، تنظیمات، بهره‌وری)."
+            }
+          ],
+          "recommendation": "personal"
+        },
+        {
+          "id": "command-line-basics",
+          "title": "Command Line / Terminal Basics",
+          "description": "دستورات پایه، مسیرها (paths)، مدیریت فایل‌ها، و کارهای روزمره توسعه‌دهنده در Terminal",
+          "resources": [
+            {
+              "title": "آموزش رایگان دستورات لینوکس (Linux Commands) - فرین‌پلاس",
+              "type": "course",
+              "url": "https://farinplus.ir/linux-commands/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "آشنایی با دستورات رایج ترمینال، مسیرها و مدیریت فایل‌ها در Linux."
+            },
+            {
+              "title": "خط فرمان لینوکس (ترجمه فارسی کتاب The Linux Command Line)",
+              "type": "article",
+              "url": "https://linuxpersian.github.io/the-linux-command-line/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "یک منبع متنی/کتابی فارسی برای یادگیری اصول کار با ترمینال و Bash."
+            },
+            {
+              "title": "Learn Shell (Interactive)",
+              "type": "course",
+              "url": "https://www.learnshell.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "آموزش تعاملی Shell برای یادگیری سریع دستورات و مفاهیم پایه."
+            },
+            {
+              "title": "آموزش ترمینال لینوکس از صفرِ صفر (YouTube Playlist)",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG12R4eM",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "پلی‌لیست فارسی برای شروع کار با Terminal و دستورات پایه."
+            },
+            {
+              "title": "The Linux Command Line (William Shotts)",
+              "type": "article",
+              "url": "https://linuxcommand.org/tlcl.php",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "کتاب/راهنمای رایگان و مرجع برای یادگیری Command Line در Linux."
+            }
+          ],
+          "recommendation": "personal"
+        },
+        {
+          "id": "git-github-basics",
+          "title": "Version Control با Git و GitHub",
+          "description": "commit، branch، merge، PR و کار تیمی؛ انتشار پروژه‌ها در GitHub برای ساخت رزومه",
+          "resources": [
+            {
+              "title": "آموزش گیت Git، گیت‌هاب و گیت‌لب (رایگان) + گواهینامه | فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/fvgit9609-git-github-gitlab",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "دوره رایگان و گام‌به‌گام برای یادگیری Git و مفاهیم کنترل نسخه و همکاری تیمی."
+            },
+            {
+              "title": "Git چیست، چه کاربردی دارد و چرا باید از آن استفاده کنید؟ (مجله فرادرس)",
+              "type": "article",
+              "url": "https://blog.faradars.org/%DA%AF%DB%8C%D8%AA-%DA%86%DB%8C%D8%B3%D8%AA/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "مقاله آموزشی برای درک مفهوم Version Control و چرایی استفاده از Git."
+            },
+            {
+              "title": "Learn Git Branching (Interactive)",
+              "type": "course",
+              "url": "https://learngitbranching.js.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "یادگیری تعاملی Git (branch/merge/rebase) با تمرین‌های عملی داخل مرورگر."
+            },
+            {
+              "title": "Master Git & GitHub (YouTube Playlist)",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PLA3GkZPtsafYYWC-N6vicOLP0w-4fiQ2S",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "پلی‌لیست کامل از مقدماتی تا پیشرفته برای Git و GitHub."
+            },
+            {
+              "title": "Git Tutorials (Atlassian)",
+              "type": "article",
+              "url": "https://www.atlassian.com/git/tutorials",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "راهنمای جامع و معتبر برای مفاهیم و بهترین‌روش‌های Git."
+            }
+          ],
+          "recommendation": "personal"
+        }
+      ],
+      "recommendation": "personal"
     },
     {
       "id": "algorithmic-thinking",
       "title": "تفکر الگوریتمی",
-      "description": "یادگیری حل مسئله گام‌به‌گام و تفکر منطقی",
-      "order": 2,
+      "description": "یادگیری حل مسئله گام‌به‌گام و تفکر منطقی برای تبدیل مسئله به کد",
+      "order": 4,
       "children": [
         {
           "id": "algorithmic-basics",
-          "title": "مفاهیم الگوریتم",
-          "description": "الگوریتم، flowchart و حل مسئله ساده",
-          "resources": [],
+          "title": "مفاهیم الگوریتم و Flowchart",
+          "description": "الگوریتم، pseudo-code، Flowchart، آشنایی اولیه با Big-O و Data Structures پایه",
+          "resources": [
+            {
+              "title": "دوره رایگان الگوریتم و فلوچارت - کدیاد",
+              "type": "course",
+              "url": "https://codeyad.com/courses/algorithm-and-flowchart",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "مناسب شروع تفکر الگوریتمی: Flowchart، الگوریتم‌نویسی و حل مسئله مقدماتی."
+            },
+            {
+              "title": "الگوریتم چیست؟ — به زبان ساده + مثال و تمرین (مجله فرادرس)",
+              "type": "article",
+              "url": "https://blog.faradars.org/what-is-an-algorithm/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "تعریف الگوریتم، مثال‌ها و تمرین برای تقویت حل مسئله."
+            },
+            {
+              "title": "CS50x: Introduction to Computer Science (Harvard)",
+              "type": "course",
+              "url": "https://cs50.harvard.edu/x/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "یکی از بهترین دوره‌های رایگان برای پایه‌های حل مسئله و برنامه‌نویسی (از صفر تا قوی)."
+            },
+            {
+              "title": "Data Structure - لیست پخش (آپارات)",
+              "type": "playlist",
+              "url": "https://www.aparat.com/playlist/342878/Data_Structure",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "پلی‌لیست ویدیویی برای آشنایی با ساختمان‌داده‌های پایه (Array, Stack, Queue, Tree, Graph) که مکمل تفکر الگوریتمی است."
+            },
+            {
+              "title": "CP-Algorithms (Algorithms & Data Structures Reference)",
+              "type": "article",
+              "url": "https://cp-algorithms.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "مرجع انگلیسی برای الگوریتم‌ها و ساختمان داده‌ها (برای وقتی پایه‌ها را یاد گرفتید)."
+            }
+          ],
           "recommendation": "personal"
         }
-      ]
+      ],
+      "recommendation": "personal"
     },
     {
       "id": "basic-programming",
       "title": "زبان برنامه‌نویسی پایه",
-      "description": "یادگیری اولین زبان برنامه‌نویسی و مفاهیم مشترک",
-      "order": 3,
+      "description": "یادگیری اولین زبان برنامه‌نویسی و مفاهیم مشترک بین زبان‌ها",
+      "order": 5,
       "children": [
         {
           "id": "first-language",
           "title": "انتخاب و یادگیری یک زبان",
-          "description": "متغیرها، شرط، حلقه، توابع و آرایه",
-          "resources": [],
+          "description": "متغیرها، شرط، حلقه، توابع، آرایه/لیست، ماژول‌ها، کار با فایل، Exception و تمرین زیاد (پیشنهاد برای شروع: Python یا JavaScript)",
+          "resources": [
+            {
+              "title": "آموزش پایتون رایگان - مکتب‌خونه",
+              "type": "course",
+              "url": "https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-mk66/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "برای شروع یادگیری زبان پایه (پیشنهاد رایج برای مبتدی‌ها: Python)."
+            },
+            {
+              "title": "انتخاب زبان برنامه‌نویسی: راهنمای جامع برای مبتدیان",
+              "type": "article",
+              "url": "https://aiolearn.com/choose-a-programming-language/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "کمک می‌کند بین Python، JavaScript، Kotlin و ... بر اساس هدف‌تان انتخاب بهتری داشته باشید."
+            },
+            {
+              "title": "Python for Everybody (Coursera - Audit Free)",
+              "type": "course",
+              "url": "https://www.coursera.org/specializations/python",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "مسیر یادگیری رایگان (با امکان audit) برای مبانی برنامه‌نویسی با Python."
+            },
+            {
+              "title": "Learn Python - Full Course for Beginners (freeCodeCamp - YouTube)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "ویدیوی طولانی و کامل برای یادگیری مبانی Python (مناسب شروع و تمرین)."
+            },
+            {
+              "title": "The Python Tutorial (Official Docs)",
+              "type": "article",
+              "url": "https://docs.python.org/3/tutorial/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "مرجع رسمی برای یادگیری اصول زبان و عادت کردن به خواندن Documentation."
+            }
+          ],
           "recommendation": "personal"
         }
       ],
       "recommendation": "flexible"
     },
     {
+      "id": "practice",
+      "title": "تمرین عملی و ساخت مینی‌پروژه",
+      "description": "برای تثبیت یادگیری باید دست به کد شوید و پروژه‌های کوچک بسازید و منتشر کنید",
+      "order": 6,
+      "children": [
+        {
+          "id": "mini-projects",
+          "title": "مینی‌پروژه‌ها و تمرین مستمر",
+          "description": "چند پروژه ساده بسازید (Calculator، Todo، Guess Game، Text Analyzer و ...)، کد را با Git مدیریت کنید و در GitHub قرار دهید.",
+          "resources": [
+            {
+              "title": "آموزش رایگان پروژه‌های کاربردی پایتون + پروژه عملی - مکتب‌خونه",
+              "type": "course",
+              "url": "https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%B1%D9%88%DA%98%D9%87%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-mk1151/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "یادگیری با پروژه‌های کوچک: ساخت ربات/اسکریپت‌های ساده و تمرین عملی."
+            },
+            {
+              "title": "20 پروژه ساده برای تمرین برنامه‌نویسی (سکان آکادمی)",
+              "type": "article",
+              "url": "https://sokanacademy.com/blog/practice-programming-1",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "لیست ایده‌های پروژه‌های کوچک برای تمرین (بدون وابستگی به یک زبان خاص)."
+            },
+            {
+              "title": "freeCodeCamp Curriculum (100% Free)",
+              "type": "course",
+              "url": "https://www.freecodecamp.org/learn/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "دوره‌های رایگان همراه با تمرین و پروژه‌های مرحله‌ای برای ساخت مهارت واقعی."
+            },
+            {
+              "title": "Learn Python - Full Course for Beginners (freeCodeCamp - YouTube)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "برای انجام تمرین‌ها و ساخت مینی‌پروژه‌ها حین یادگیری (در کنار کدنویسی خودتان)."
+            },
+            {
+              "title": "25 Python Projects for Beginners (freeCodeCamp)",
+              "type": "article",
+              "url": "https://www.freecodecamp.org/news/python-projects-for-beginners/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "ایده‌ها و آموزش‌های پروژه‌محور برای تمرین و ساخت نمونه‌کار."
+            }
+          ],
+          "recommendation": "personal"
+        }
+      ],
+      "recommendation": "personal"
+    },
+    {
       "id": "choose-path",
-      "title": "انتخاب یک مسیر حرفه‌ای‌تر",
-      "description": "آشنایی با مسیرهای مختلف و انتخاب حوزه تخصص",
-      "order": 4,
+      "title": "انتخاب مسیر حرفه‌ای‌تر",
+      "description": "آشنایی با مسیرهای مختلف و انتخاب حوزه تخصص بر اساس علاقه، روحیه و هدف شغلی",
+      "order": 7,
       "children": [
         {
           "id": "paths-overview",
           "title": "معرفی مسیرها",
-          "description": "بک‌اند، فرانت‌اند، موبایل و مقایسه آن‌ها",
-          "resources": [],
+          "description": "Backend، Frontend، Android و DevOps — تفاوت‌ها، مهارت‌های لازم و نوع کار روزمره هر مسیر",
+          "resources": [
+            {
+              "title": "آموزش آشنایی با برنامه‌نویسی Back End و Front End و تفاوت آن‌ها (رایگان) | فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/familiarity-with-back-end-and-front-end-programming-fvazpub109",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "برای اینکه قبل از انتخاب مسیر، بدانید هر نقش دقیقا چه کاری انجام می‌دهد و چه مهارت‌هایی لازم دارد."
+            },
+            {
+              "title": "فرق Back End و Front End چیست؟ — هر آنچه باید بدانید (مجله فرادرس)",
+              "type": "article",
+              "url": "https://blog.faradars.org/back-end-%D9%88-front-end-%DA%86%DB%8C%D8%B3%D8%AA/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "مقایسه ساده و کاربردی بین Frontend و Backend با مثال."
+            },
+            {
+              "title": "freeCodeCamp Curriculum (Explore Tracks)",
+              "type": "course",
+              "url": "https://www.freecodecamp.org/learn/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "برای تست کردن علاقه‌تان: مسیرهای مختلف را امتحان کنید و ببینید با کدام بهتر ارتباط می‌گیرید."
+            },
+            {
+              "title": "Frontend vs Backend [Persian] (YouTube)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=l4l540eYKvk",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "ویدیوی کوتاه برای درک فرق Frontend و Backend."
+            },
+            {
+              "title": "roadmap.sh (Community Roadmaps)",
+              "type": "article",
+              "url": "https://roadmap.sh/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "نقشه‌های راه به‌روز برای مسیرهای مختلف (Backend/Frontend/Android/DevOps و ...)."
+            }
+          ],
           "recommendation": "personal"
         }
-      ]
+      ],
+      "recommendation": "personal"
     },
     {
       "id": "specialization",
       "title": "مسیر تخصصی",
       "description": "یکی از نقشه‌های راه تخصصی را انتخاب و دنبال کنید",
-      "order": 5,
+      "order": 8,
       "children": [
         {
           "id": "path-backend",
-          "title": "بک‌اند",
-          "description": "توسعه سمت سرور، API و دیتابیس — نقشه راه کامل بک‌اند",
-          "resources": [],
+          "title": "Backend",
+          "description": "توسعه سمت سرور، API و دیتابیس — نقشه راه کامل Backend",
+          "resources": [
+            {
+              "title": "آموزش آشنایی با برنامه‌نویسی Back End و Front End و تفاوت آن‌ها (رایگان) | فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/familiarity-with-back-end-and-front-end-programming-fvazpub109",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "یک شروع سریع برای اینکه Backend دقیقا چیست و چه مهارت‌هایی می‌خواهد."
+            },
+            {
+              "title": "فرق Back End و Front End چیست؟ (مجله فرادرس)",
+              "type": "article",
+              "url": "https://blog.faradars.org/back-end-%D9%88-front-end-%DA%86%DB%8C%D8%B3%D8%AA/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "مرور کلی برای تصمیم‌گیری و شناخت تفاوت‌ها."
+            },
+            {
+              "title": "Back End Development and APIs (freeCodeCamp)",
+              "type": "course",
+              "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "مسیر رایگان برای آشنایی با مفاهیم Backend و کار با APIها (تمرین‌محور)."
+            },
+            {
+              "title": "Computer Networking Course (YouTube Playlist)",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PLPSzPbA1T_p3gty-2gzFEq1x4W1CUyZgV",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "درک شبکه برای Backend مهم است؛ این پلی‌لیست یک دوره کامل Network Engineering است."
+            },
+            {
+              "title": "Backend Developer Roadmap (roadmap.sh)",
+              "type": "article",
+              "url": "https://roadmap.sh/backend",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "نقشه راه دقیق و مرحله‌به‌مرحله برای Backend."
+            }
+          ],
           "linkedRoadmapSlug": "backend",
           "recommendation": "personal"
         },
         {
           "id": "path-frontend",
-          "title": "فرانت‌اند",
-          "description": "توسعه رابط کاربری وب — نقشه راه کامل فرانت‌اند",
-          "resources": [],
+          "title": "Frontend",
+          "description": "توسعه رابط کاربری وب — نقشه راه کامل Frontend",
+          "resources": [
+            {
+              "title": "آموزش آشنایی با برنامه‌نویسی Back End و Front End و تفاوت آن‌ها (رایگان) | فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/familiarity-with-back-end-and-front-end-programming-fvazpub109",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "شروع سریع برای فهم نقش Frontend و مهارت‌های لازم."
+            },
+            {
+              "title": "فرق Back End و Front End چیست؟ (مجله فرادرس)",
+              "type": "article",
+              "url": "https://blog.faradars.org/back-end-%D9%88-front-end-%DA%86%DB%8C%D8%B3%D8%AA/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "مقایسه عملی Frontend/Backend برای تصمیم‌گیری و شناخت بهتر مسیر."
+            },
+            {
+              "title": "Responsive Web Design (freeCodeCamp)",
+              "type": "course",
+              "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "مسیر رایگان برای شروع Frontend با HTML/CSS و پروژه‌های مرحله‌ای."
+            },
+            {
+              "title": "Frontend vs Backend [Persian] (YouTube)",
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=l4l540eYKvk",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "ویدیوی کوتاه برای دیدن تفاوت نقش‌ها (کمک به انتخاب مسیر)."
+            },
+            {
+              "title": "Frontend Developer Roadmap (roadmap.sh)",
+              "type": "article",
+              "url": "https://roadmap.sh/frontend",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "نقشه راه دقیق و مرحله‌به‌مرحله برای Frontend."
+            }
+          ],
           "linkedRoadmapSlug": "frontend",
           "recommendation": "alternative"
         },
         {
           "id": "path-android",
-          "title": "اندروید",
-          "description": "توسعه اپلیکیشن موبایل اندروید — نقشه راه کامل اندروید",
-          "resources": [],
-          "linkedRoadmapSlug": "android"
+          "title": "Android",
+          "description": "توسعه اپلیکیشن موبایل Android — نقشه راه کامل Android",
+          "resources": [
+            {
+              "title": "آموزش 0 تا 100 برنامه‌نویسی Android با Kotlin (YouTube Playlist - فارسی)",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PLK7GvnlPRNbNWbkMD-aBRerwCDdlz2nVt",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "شروع رایگان و فارسی برای آشنایی با Android Studio و مفاهیم اولیه اندروید."
+            },
+            {
+              "title": "دوره رایگان آموزش Kotlin 2025 (دانشجویار)",
+              "type": "article",
+              "url": "https://www.daneshjooyar.com/learning-kotlin/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "برای یادگیری Kotlin از پایه (پیش‌نیاز اصلی مسیر Android)."
+            },
+            {
+              "title": "Android Developer Courses (Official - developer.android.com)",
+              "type": "course",
+              "url": "https://developer.android.com/courses",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "دوره‌ها و مسیرهای رایگان رسمی گوگل برای یادگیری Android."
+            },
+            {
+              "title": "Android App Development with Kotlin (YouTube Playlist)",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PLYjHmrrr8jEWFVgZ6cBzqdV9G5_tvmfd0",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "پلی‌لیست انگلیسی برای آموزش جامع توسعه اپ اندروید با Kotlin."
+            },
+            {
+              "title": "Android Developer Roadmap (roadmap.sh)",
+              "type": "article",
+              "url": "https://roadmap.sh/android",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "نقشه راه مرحله‌به‌مرحله برای Android Developer."
+            }
+          ],
+          "linkedRoadmapSlug": "android",
+          "recommendation": "alternative"
+        },
+        {
+          "id": "path-devops",
+          "title": "DevOps",
+          "description": "زیرساخت، CI/CD، Cloud و اتوماسیون — نقشه راه کامل DevOps",
+          "resources": [
+            {
+              "title": "آموزش آشنایی دواپس DevOps + مبانی و مقدمات (رایگان) | فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/introduction-to-devops-fvit312",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "شروع با مفاهیم پایه DevOps، CI/CD، اتوماسیون و فرهنگ همکاری."
+            },
+            {
+              "title": "DevOps چیست؟ (ویکی‌پدیا فارسی)",
+              "type": "article",
+              "url": "https://fa.wikipedia.org/wiki/DevOps",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "برای درک سریع مفهوم DevOps و این‌که دقیقا در سازمان‌ها چه نقشی دارد."
+            },
+            {
+              "title": "DevOps Zero to Hero Course (YouTube Playlist)",
+              "type": "course",
+              "url": "https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "مسیر ویدیویی رایگان و جامع برای شروع DevOps (Linux, Git, Cloud, CI/CD و ...)."
+            },
+            {
+              "title": "دوره DevOps از صفر (YouTube Playlist - فارسی)",
+              "type": "playlist",
+              "url": "https://www.youtube.com/playlist?list=PL-mrTgDRWNRWJkB3b3DiYF4lw64egnaEh",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "پلی‌لیست فارسی برای شروع مفاهیم زیرساخت و DevOps."
+            },
+            {
+              "title": "DevOps Roadmap (roadmap.sh)",
+              "type": "article",
+              "url": "https://roadmap.sh/devops",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "en",
+              "description": "نقشه راه مرحله‌به‌مرحله DevOps."
+            }
+          ],
+          "linkedRoadmapSlug": "devops",
+          "recommendation": "alternative"
         }
       ],
       "recommendation": "flexible"
