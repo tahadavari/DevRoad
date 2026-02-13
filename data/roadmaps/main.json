@@ -62,8 +62,7 @@
           ],
           "recommendation": "personal"
         }
-      ],
-      "recommendation": "personal"
+      ]
     },
     {
       "id": "internet-basics",
@@ -124,8 +123,7 @@
           ],
           "recommendation": "personal"
         }
-      ],
-      "recommendation": "personal"
+      ]
     },
     {
       "id": "dev-tools",
@@ -292,8 +290,7 @@
           ],
           "recommendation": "personal"
         }
-      ],
-      "recommendation": "personal"
+      ]
     },
     {
       "id": "algorithmic-thinking",
@@ -354,8 +351,7 @@
           ],
           "recommendation": "personal"
         }
-      ],
-      "recommendation": "personal"
+      ]
     },
     {
       "id": "basic-programming",
@@ -416,8 +412,7 @@
           ],
           "recommendation": "personal"
         }
-      ],
-      "recommendation": "flexible"
+      ]
     },
     {
       "id": "practice",
@@ -478,8 +473,7 @@
           ],
           "recommendation": "personal"
         }
-      ],
-      "recommendation": "personal"
+      ]
     },
     {
       "id": "choose-path",
@@ -540,8 +534,7 @@
           ],
           "recommendation": "personal"
         }
-      ],
-      "recommendation": "personal"
+      ]
     },
     {
       "id": "specialization",
@@ -765,8 +758,7 @@
           "linkedRoadmapSlug": "devops",
           "recommendation": "alternative"
         }
-      ],
-      "recommendation": "flexible"
+      ]
     }
   ],
   "projects": []
