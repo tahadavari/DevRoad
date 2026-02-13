@@ -15,6 +15,7 @@ export interface RoadmapStep {
   title: string;
   description: string;
   resources: RoadmapResource[];
+  recommendation?: "personal" | "alternative" | "flexible";
   /** اگر پر باشد، با کلیک روی این مرحله نقشهٔ راه مرتبط در تب جدید باز می‌شود */
   linkedRoadmapSlug?: string;
 }
@@ -24,6 +25,7 @@ export interface RoadmapCategory {
   title: string;
   description: string;
   order: number;
+  recommendation?: "personal" | "alternative" | "flexible";
   children?: RoadmapStep[];
   resources?: RoadmapResource[];
   /** اگر پر باشد، نود پدر به این نقشهٔ راه لینک دارد و با کلیک در تب جدید باز می‌شود */

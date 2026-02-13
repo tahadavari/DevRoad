@@ -64,7 +64,8 @@
               "language": "fa",
               "description": "Persian Linux playlists on Aparat."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
       ]
     },
@@ -129,7 +130,8 @@
               "language": "fa",
               "description": "Aparat networking playlists in Persian."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
       ]
     },
@@ -194,9 +196,11 @@
               "language": "fa",
               "description": "Aparat playlists for Docker in Persian."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
-      ]
+      ],
+      "recommendation": "flexible"
     },
     {
       "id": "kubernetes",
@@ -259,7 +263,8 @@
               "language": "fa",
               "description": "Aparat playlists for Kubernetes in Persian."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
       ]
     },
@@ -324,9 +329,11 @@
               "language": "fa",
               "description": "Persian CI/CD playlists on Aparat."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
-      ]
+      ],
+      "recommendation": "flexible"
     }
   ],
   "projects": [

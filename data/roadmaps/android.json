@@ -64,7 +64,8 @@
               "language": "fa",
               "description": "Aparat Android playlists in Persian."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
       ]
     },
@@ -129,7 +130,8 @@
               "language": "fa",
               "description": "Aparat Kotlin playlists in Persian."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
       ]
     },
@@ -194,7 +196,8 @@
               "language": "fa",
               "description": "Aparat playlists for Android UI in Persian."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "jetpack-compose",
@@ -251,9 +254,11 @@
               "language": "fa",
               "description": "Aparat Compose playlists in Persian."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         }
-      ]
+      ],
+      "recommendation": "flexible"
     },
     {
       "id": "data-android",
@@ -316,7 +321,8 @@
               "language": "fa",
               "description": "Aparat playlists for Room in Persian."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "networking",
@@ -373,7 +379,8 @@
               "language": "fa",
               "description": "Aparat Retrofit playlists in Persian."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         }
       ]
     },
@@ -438,7 +445,8 @@
               "language": "fa",
               "description": "Aparat playlists for Android publishing steps."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "play-store",
@@ -495,9 +503,11 @@
               "language": "fa",
               "description": "Aparat playlists for Play Console in Persian."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         }
-      ]
+      ],
+      "recommendation": "flexible"
     }
   ],
   "projects": [

@@ -44,7 +44,8 @@
               "language": "en",
               "description": "ویدیوی کامل Networking برای شروع."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "http-https",
@@ -81,7 +82,8 @@
               "language": "fa",
               "description": "بخش‌های مرتبط با پروتکل‌های وب در دوره مبانی شبکه."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         },
         {
           "id": "dns",
@@ -163,7 +165,8 @@
               "language": "fa",
               "description": "پلی‌لیست فارسی برای تمرین سینتکس و پروژه‌های ساده."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "javascript-nodejs",
@@ -200,7 +203,8 @@
               "language": "fa",
               "description": "آموزش فارسی Node.js به صورت گام‌به‌گام."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         },
         {
           "id": "go",
@@ -282,7 +286,8 @@
               "language": "en",
               "description": "ویدیوی سریع برای شروع."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "github",
@@ -309,9 +314,11 @@
               "language": "fa",
               "description": "مرور فارسی مفاهیم Repo/PR/Issue."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         }
-      ]
+      ],
+      "recommendation": "flexible"
     },
     {
       "id": "database",
@@ -354,7 +361,8 @@
               "language": "fa",
               "description": "یادگیری SQL به زبان فارسی."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "nosql-db",
@@ -411,7 +419,8 @@
               "language": "en",
               "description": "شروع سریع Redis به انگلیسی."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         },
         {
           "id": "orm",
@@ -493,7 +502,8 @@
               "language": "fa",
               "description": "مرور فارسی اصول API Design."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "graphql",
@@ -530,9 +540,11 @@
               "language": "fa",
               "description": "آموزش GraphQL به فارسی."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         }
-      ]
+      ],
+      "recommendation": "flexible"
     },
     {
       "id": "authentication",
@@ -575,7 +587,8 @@
               "language": "fa",
               "description": "توضیح فارسی JWT."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "oauth",
@@ -612,7 +625,8 @@
               "language": "fa",
               "description": "راهنمای فارسی OAuth2."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         }
       ]
     },
@@ -695,7 +709,8 @@
               "language": "fa",
               "description": "پلی‌لیست فارسی Unit Testing."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
       ]
     },
@@ -740,7 +755,8 @@
               "language": "fa",
               "description": "آموزش Docker به فارسی."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "docker-compose",
@@ -767,7 +783,8 @@
               "language": "en",
               "description": "آموزش سریع Compose."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         }
       ]
     },

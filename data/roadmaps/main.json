@@ -13,7 +13,8 @@
           "id": "intro-computers-basics",
           "title": "مبانی کامپیوتر",
           "description": "سخت‌افزار، نرم‌افزار، سیستم‌عامل و کار با فایل‌ها",
-          "resources": []
+          "resources": [],
+          "recommendation": "personal"
         }
       ]
     },
@@ -27,7 +28,8 @@
           "id": "algorithmic-basics",
           "title": "مفاهیم الگوریتم",
           "description": "الگوریتم، flowchart و حل مسئله ساده",
-          "resources": []
+          "resources": [],
+          "recommendation": "personal"
         }
       ]
     },
@@ -41,9 +43,11 @@
           "id": "first-language",
           "title": "انتخاب و یادگیری یک زبان",
           "description": "متغیرها، شرط، حلقه، توابع و آرایه",
-          "resources": []
+          "resources": [],
+          "recommendation": "personal"
         }
-      ]
+      ],
+      "recommendation": "flexible"
     },
     {
       "id": "choose-path",
@@ -55,7 +59,8 @@
           "id": "paths-overview",
           "title": "معرفی مسیرها",
           "description": "بک‌اند، فرانت‌اند، موبایل و مقایسه آن‌ها",
-          "resources": []
+          "resources": [],
+          "recommendation": "personal"
         }
       ]
     },
@@ -70,14 +75,16 @@
           "title": "بک‌اند",
           "description": "توسعه سمت سرور، API و دیتابیس — نقشه راه کامل بک‌اند",
           "resources": [],
-          "linkedRoadmapSlug": "backend"
+          "linkedRoadmapSlug": "backend",
+          "recommendation": "personal"
         },
         {
           "id": "path-frontend",
           "title": "فرانت‌اند",
           "description": "توسعه رابط کاربری وب — نقشه راه کامل فرانت‌اند",
           "resources": [],
-          "linkedRoadmapSlug": "frontend"
+          "linkedRoadmapSlug": "frontend",
+          "recommendation": "alternative"
         },
         {
           "id": "path-android",
@@ -86,7 +93,8 @@
           "resources": [],
           "linkedRoadmapSlug": "android"
         }
-      ]
+      ],
+      "recommendation": "flexible"
     }
   ],
   "projects": []
