@@ -19,6 +19,7 @@ export function getResourceTypeLabel(type: string): string {
     course: "دوره",
     video: "ویدیو",
     playlist: "پلی‌لیست",
+    roadmap: "نقشه‌راه",
   };
   return labels[type] || type;
 }
@@ -29,6 +30,7 @@ export function getResourceTypeColor(type: string): string {
     course: "bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300",
     video: "bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-300",
     playlist: "bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-300",
+    roadmap: "bg-indigo-100 text-indigo-800 dark:bg-indigo-900 dark:text-indigo-300",
   };
   return colors[type] || "bg-gray-100 text-gray-800";
 }
