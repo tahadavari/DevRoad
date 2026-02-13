@@ -1,9 +1,17 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { verifyPassword, generateToken } from "@/lib/auth";
+import { createRateLimitKey, enforceRateLimit } from "@/lib/rate-limit";
 
 export async function POST(request: NextRequest) {
   try {
+    const limitResponse = enforceRateLimit(request, {
+      key: createRateLimitKey(request, "auth:login"),
+      limit: 10,
+      windowMs: 60 * 1000,
+    });
+    if (limitResponse) return limitResponse;
+
     const body = await request.json();
     const { email, password } = body;
 
@@ -60,7 +68,7 @@ export async function POST(request: NextRequest) {
       httpOnly: true,
       secure: process.env.NODE_ENV === "production",
       sameSite: "lax",
-      maxAge: 7 * 24 * 60 * 60, // 7 days
+      maxAge: 7 * 24 * 60 * 60,
       path: "/",
     });
 

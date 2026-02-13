@@ -1,3 +1,5 @@
+import type { Metadata } from "next";
+import { buildPageMetadata } from "@/lib/seo";
 import Link from "next/link";
 import { getRoadmapIndex } from "@/lib/roadmap";
 import {
@@ -16,6 +18,12 @@ const iconMap: Record<string, React.ReactNode> = {
   Cloud: <Cloud className="h-6 w-6" />,
   Smartphone: <Smartphone className="h-6 w-6" />,
 };
+
+export const metadata: Metadata = buildPageMetadata({
+  title: "فوروم‌های DevRoad",
+  description: "فوروم تخصصی پرسش‌وپاسخ DevRoad برای مسیرهای مختلف برنامه‌نویسی.",
+  path: "/forum",
+});
 
 export default function ForumIndexPage() {
   const { roadmaps } = getRoadmapIndex();

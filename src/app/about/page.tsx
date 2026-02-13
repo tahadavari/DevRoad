@@ -1,3 +1,5 @@
+import type { Metadata } from "next";
+import { buildPageMetadata } from "@/lib/seo";
 import { getDonationData } from "@/lib/roadmap";
 import { formatPrice } from "@/lib/utils";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -13,6 +15,12 @@ import {
   Code2,
   Globe,
 } from "lucide-react";
+
+export const metadata: Metadata = buildPageMetadata({
+  title: "درباره DevRoad",
+  description: "با تیم DevRoad، هدف پروژه و مسیر توسعه پلتفرم آموزش برنامه‌نویسی فارسی آشنا شوید.",
+  path: "/about",
+});
 
 export default function AboutPage() {
   const donations = getDonationData();

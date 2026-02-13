@@ -1,13 +1,21 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getCurrentUser } from "@/lib/auth";
+import { createRateLimitKey, enforceRateLimit } from "@/lib/rate-limit";
 
 export async function GET(
-  _request: NextRequest,
+  request: NextRequest,
   { params }: { params: Promise<{ roadmapSlug: string }> }
 ) {
   try {
     const { roadmapSlug } = await params;
+
+    const limitResponse = enforceRateLimit(request, {
+      key: createRateLimitKey(request, `forum:question:${roadmapSlug}`),
+      limit: 10,
+      windowMs: 60 * 1000,
+    });
+    if (limitResponse) return limitResponse;
     const user = await getCurrentUser();
 
     const forum = await prisma.forum.findUnique({
@@ -66,6 +74,13 @@ export async function POST(
     }
 
     const { roadmapSlug } = await params;
+
+    const limitResponse = enforceRateLimit(request, {
+      key: createRateLimitKey(request, `forum:question:${roadmapSlug}`),
+      limit: 10,
+      windowMs: 60 * 1000,
+    });
+    if (limitResponse) return limitResponse;
     const body = await request.json();
     const { title, content } = body;
 
