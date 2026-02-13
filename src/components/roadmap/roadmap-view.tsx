@@ -137,6 +137,17 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
     );
   };
 
+  const handleStepOpen = (step: ClickableStep) => {
+    if (step.linkedRoadmapSlug) {
+      window.location.href = `/roadmaps/${step.linkedRoadmapSlug}`;
+      return;
+    }
+
+    if ((step.resources?.length ?? 0) === 0) return;
+
+    setSelectedStep(step);
+  };
+
   const startRoadmap = async () => {
     if (!user) {
       window.location.href = "/login";
@@ -261,7 +272,7 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
                     <button
                       type="button"
                       onClick={() =>
-                        setSelectedStep({
+                        handleStepOpen({
                           ...category,
                           resources: category.resources ?? [],
                         })
@@ -280,15 +291,15 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
                     <div className="flex items-center gap-2">
                       {getRecommendationMarker(category.recommendation)}
                       {category.linkedRoadmapSlug && (
-                        <a
-                          href={`/roadmaps/${category.linkedRoadmapSlug}`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-border hover:bg-accent"
+                        <button
+                          type="button"
+                          onClick={() => handleStepOpen({ ...category, resources: category.resources ?? [] })}
+                          className="inline-flex items-center gap-1 rounded-md border border-primary/30 bg-primary/10 px-2 py-1 text-xs text-primary hover:bg-primary/15"
                           title="باز کردن نقشه‌راه مرتبط"
                         >
-                          <ArrowUpRight className="h-4 w-4" />
-                        </a>
+                          <ArrowUpRight className="h-3.5 w-3.5" />
+                          <span>رفتن به مسیر</span>
+                        </button>
                       )}
 
                       <button
@@ -327,7 +338,7 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
                               <button
                                 type="button"
                                 className="text-right"
-                                onClick={() => setSelectedStep(step)}
+                                onClick={() => handleStepOpen(step)}
                               >
                                 <h3 className="font-medium leading-snug hover:text-primary transition-colors">
                                   {step.title}

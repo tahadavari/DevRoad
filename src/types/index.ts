@@ -1,7 +1,7 @@
 // Roadmap Types (from JSON)
 export interface RoadmapResource {
   title: string;
-  type: "article" | "course" | "video" | "playlist" | "search" | "playlist-search";
+  type: "article" | "course" | "video" | "playlist" | "search" | "playlist-search" | "roadmap";
   url: string;
   price?: "free" | "paid";
   priceAmount?: number;

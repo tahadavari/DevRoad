@@ -21,6 +21,7 @@ export function getResourceTypeLabel(type: string): string {
     playlist: "پلی‌لیست",
     search: "جستجو",
     "playlist-search": "جستجوی پلی‌لیست",
+    roadmap: "نقشه‌راه",
   };
   return labels[type] || type;
 }
@@ -33,6 +34,7 @@ export function getResourceTypeColor(type: string): string {
     playlist: "bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-300",
     search: "bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-300",
     "playlist-search": "bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-300",
+    roadmap: "bg-indigo-100 text-indigo-800 dark:bg-indigo-900 dark:text-indigo-300",
   };
   return colors[type] || "bg-gray-100 text-gray-800";
 }

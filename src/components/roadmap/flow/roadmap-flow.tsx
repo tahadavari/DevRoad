@@ -261,7 +261,7 @@ function FlowInner({
 
       const linkedSlug = (node.data as { linkedRoadmapSlug?: string }).linkedRoadmapSlug;
       if (linkedSlug) {
-        window.open(`/roadmaps/${linkedSlug}`, "_blank", "noopener,noreferrer");
+        window.location.href = `/roadmaps/${linkedSlug}`;
         return;
       }
 
@@ -291,7 +291,9 @@ function FlowInner({
         for (const cat of roadmap.steps) {
           const child = cat.children?.find((c) => c.id === childId);
           if (child) {
-            onStepClick(child);
+            if ((child.resources?.length ?? 0) > 0) {
+              onStepClick(child);
+            }
             return;
           }
         }
