@@ -117,9 +117,9 @@
           "description": "نصب و استفاده از VS Code (برای اکثر مسیرها) و آشنایی کلی با IDEها مثل Android Studio",
           "resources": [
             {
-              "title": "آموزش VS Code (نصب و راه‌اندازی و Extensionها) - YouTube",
+              "title": " آموزش نصب و راه\u200Cاندازی Visual Studio Code",
               "type": "video",
-              "url": "https://www.youtube.com/watch?v=7hP6RjmkK3M",
+              "url": "https://www.youtube.com/watch?v=8dU6r03Xaow",
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
@@ -170,22 +170,13 @@
           "description": "دستورات پایه، مسیرها (paths)، مدیریت فایل‌ها، و کارهای روزمره توسعه‌دهنده در Terminal",
           "resources": [
             {
-              "title": "آموزش رایگان دستورات لینوکس (Linux Commands) - فرین‌پلاس",
+              "title": "آموزش دستورات لینوکس و دستورات پاورشل ویندوز به طور همزمان - فرین‌پلاس",
               "type": "course",
-              "url": "https://farinplus.ir/linux-commands/",
+              "url": "https://farinplus.ir/linux-commands-and-windows-powershell-commands-in-same-time-c14092/",
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
-              "description": "آشنایی با دستورات رایج ترمینال، مسیرها و مدیریت فایل‌ها در Linux."
-            },
-            {
-              "title": "خط فرمان لینوکس (ترجمه فارسی کتاب The Linux Command Line)",
-              "type": "article",
-              "url": "https://linuxpersian.github.io/the-linux-command-line/",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "fa",
-              "description": "یک منبع متنی/کتابی فارسی برای یادگیری اصول کار با ترمینال و Bash."
+              "description": "آشنایی با دستورات رایج ترمینال Linux و ویندوز."
             },
             {
               "title": "Learn Shell (Interactive)",
@@ -197,13 +188,13 @@
               "description": "آموزش تعاملی Shell برای یادگیری سریع دستورات و مفاهیم پایه."
             },
             {
-              "title": "آموزش ترمینال لینوکس از صفرِ صفر (YouTube Playlist)",
-              "type": "playlist",
-              "url": "https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG12R4eM",
+              "title": "آموزش لینوکس جادی – کار با Linux - فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/linux-fvlnx305",
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
-              "description": "پلی‌لیست فارسی برای شروع کار با Terminal و دستورات پایه."
+              "description": "لینوکس یک سیستم\u200Cعامل کامپیوتری است که از لحاظ اصولی بر پایه هسته لینوکس (Linux kernel) ساخته شده است. این سیستم\u200Cعامل به عنوان یک سیستم\u200Cعامل متن\u200Cباز (Open Source) شناخته می\u200Cشود"
             },
             {
               "title": "The Linux Command Line (William Shotts)",
@@ -286,7 +277,7 @@
             {
               "title": "دوره رایگان الگوریتم و فلوچارت - کدیاد",
               "type": "course",
-              "url": "https://codeyad.com/courses/algorithm-and-flowchart",
+              "url": "https://codeyad.com/course/learn-algorithm-flowchart",
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
@@ -327,6 +318,15 @@
               "priceAmount": 0,
               "language": "en",
               "description": "مرجع انگلیسی برای الگوریتم‌ها و ساختمان داده‌ها (برای وقتی پایه‌ها را یاد گرفتید)."
+            },
+            {
+              "title": "ساختمان داده ها - مکتب خونه",
+              "type": "course",
+              "url": "https://maktabkhooneh.org/course/%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7-mk118/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "ساختمان داده یکی از دروس اصل رشته مهندسی کامپیوتر و علوم کامپیوتر است و از دروس پایه و بسیار کاربردی برای برنامه\u200Cنویسی به\u200Cحساب می\u200Cآید. دوره آموزش ساختمان داده مکتب خونه با هدف آموزش این درس مهم تهیه و تدوین شده است."
             }
           ],
           "recommendation": "personal"
