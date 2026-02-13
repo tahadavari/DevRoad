@@ -37,7 +37,7 @@ export async function GET(
       orderBy: { createdAt: "desc" },
     });
 
-    const data = questions.map((q) => ({
+    const data = questions.map((q: (typeof questions)[number]) => ({
       ...q,
       isOwner: user ? q.userId === user.id : false,
     }));

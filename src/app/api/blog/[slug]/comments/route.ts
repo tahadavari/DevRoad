@@ -25,7 +25,7 @@ export async function GET(
       },
     });
 
-    const data = comments.map((c) => ({
+    const data = comments.map((c: (typeof comments)[number]) => ({
       id: c.id,
       content: c.content,
       createdAt: c.createdAt,

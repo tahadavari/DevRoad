@@ -26,7 +26,7 @@ export async function GET() {
       orderBy: { updatedAt: "desc" },
     });
 
-    const list = conversations.map((c) => ({
+    const list = conversations.map((c: (typeof conversations)[number]) => ({
       id: c.id,
       userId: c.userId,
       mentorId: c.mentorId,
