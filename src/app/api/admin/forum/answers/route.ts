@@ -13,7 +13,6 @@ export async function GET() {
     }
 
     const answers = await prisma.forumAnswer.findMany({
-      where: { status: "PENDING" },
       include: {
         question: {
           select: {
@@ -27,7 +26,11 @@ export async function GET() {
       orderBy: { createdAt: "asc" },
     });
 
-    return NextResponse.json({ success: true, data: answers });
+    const pendingAnswers = answers.filter(
+      (answer) => (answer as { status?: string }).status === "PENDING"
+    );
+
+    return NextResponse.json({ success: true, data: pendingAnswers });
   } catch (error) {
     console.error("Admin pending answers error:", error);
     return NextResponse.json(
