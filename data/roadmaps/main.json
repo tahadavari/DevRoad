@@ -81,10 +81,35 @@
       ]
     },
     {
+      "id": "introduction-to-programming",
+      "title": "چیستی و درک برنامه نویسی",
+      "description": "برنامه نویسی چیست؟",
+      "order": 3,
+      "children": [
+        {
+          "id": "introduction-to-programming-course",
+          "title": "Introduction to programming",
+          "description": "چیستی و درک برنامه نویسی",
+          "resources": [
+            {
+              "title": "آموزش درک برنامه نویسی جادی + فرادرس",
+              "type": "course",
+              "url": "https://faradars.org/courses/introduction-to-programming-fvprg333",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "درک برنامه نویسی"
+            }
+          ],
+          "recommendation": "personal"
+        }
+      ]
+    },
+    {
       "id": "dev-tools",
       "title": "ابزارهای پایه برنامه‌نویسی",
       "description": "چیزهایی که در همه مسیرها به آن‌ها نیاز دارید: Editor/IDE، Terminal و Git/GitHub",
-      "order": 3,
+      "order": 4,
       "children": [
         {
           "id": "editor-ide-basics",
@@ -251,7 +276,7 @@
       "id": "algorithmic-thinking",
       "title": "تفکر الگوریتمی",
       "description": "یادگیری حل مسئله گام‌به‌گام و تفکر منطقی برای تبدیل مسئله به کد",
-      "order": 4,
+      "order": 5,
       "children": [
         {
           "id": "algorithmic-basics",
@@ -312,7 +337,7 @@
       "id": "basic-programming",
       "title": "زبان برنامه‌نویسی پایه",
       "description": "یادگیری اولین زبان برنامه‌نویسی و مفاهیم مشترک بین زبان‌ها",
-      "order": 5,
+      "order": 6,
       "children": [
         {
           "id": "first-language",
@@ -373,7 +398,7 @@
       "id": "practice",
       "title": "تمرین عملی و ساخت مینی‌پروژه",
       "description": "برای تثبیت یادگیری باید دست به کد شوید و پروژه‌های کوچک بسازید و منتشر کنید",
-      "order": 6,
+      "order": 7,
       "children": [
         {
           "id": "mini-projects",
@@ -434,7 +459,7 @@
       "id": "choose-path",
       "title": "انتخاب مسیر حرفه‌ای‌تر",
       "description": "آشنایی با مسیرهای مختلف و انتخاب حوزه تخصص بر اساس علاقه، روحیه و هدف شغلی",
-      "order": 7,
+      "order": 8,
       "children": [
         {
           "id": "paths-overview",
@@ -495,7 +520,7 @@
       "id": "specialization",
       "title": "مسیر تخصصی",
       "description": "یکی از نقشه‌های راه تخصصی را انتخاب و دنبال کنید",
-      "order": 8,
+      "order": 9,
       "children": [
         {
           "id": "path-backend",
