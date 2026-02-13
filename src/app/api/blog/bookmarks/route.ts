@@ -21,11 +21,16 @@ export async function GET() {
     const allMeta = getAllBlogsMeta();
     const metaBySlug = Object.fromEntries(allMeta.map((m: (typeof allMeta)[number]) => [m.slug, m]));
 
-    const data = bookmarks.map((b: (typeof bookmarks)[number]) => ({
-      blogSlug: b.blogSlug,
-      createdAt: b.createdAt,
-      ...metaBySlug[b.blogSlug],
-    })).filter((x) => x.title);
+    const data = bookmarks
+      .map((b: (typeof bookmarks)[number]) => ({
+        blogSlug: b.blogSlug,
+        createdAt: b.createdAt,
+        ...metaBySlug[b.blogSlug],
+      }))
+      .filter(
+        (x: { blogSlug: string; createdAt: Date; title?: string }) =>
+          Boolean(x.title)
+      );
 
     return NextResponse.json({ success: true, data });
   } catch (error) {
