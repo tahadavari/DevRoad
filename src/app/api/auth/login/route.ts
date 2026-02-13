@@ -43,7 +43,12 @@ export async function POST(request: NextRequest) {
 
     if (!user.emailVerified) {
       return NextResponse.json(
-        { success: false, error: "ابتدا ایمیل خود را تایید کنید" },
+        {
+          success: false,
+          error: "ابتدا ایمیل خود را تایید کنید",
+          errorCode: "EMAIL_NOT_VERIFIED",
+          email: user.email,
+        },
         { status: 403 }
       );
     }

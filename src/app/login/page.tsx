@@ -21,6 +21,8 @@ export default function LoginPage() {
   const { setUser } = useAuthStore();
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState("");
+  const [resendLoading, setResendLoading] = useState(false);
+  const [unverifiedEmail, setUnverifiedEmail] = useState("");
   const [form, setForm] = useState({
     email: "",
     password: "",
@@ -29,6 +31,7 @@ export default function LoginPage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setError("");
+    setUnverifiedEmail("");
     setIsLoading(true);
 
     try {
@@ -42,6 +45,9 @@ export default function LoginPage() {
 
       if (!res.ok) {
         setError(data.error || "خطا در ورود");
+        if (data.errorCode === "EMAIL_NOT_VERIFIED" && data.email) {
+          setUnverifiedEmail(data.email);
+        }
         return;
       }
 
@@ -54,6 +60,23 @@ export default function LoginPage() {
     }
   };
 
+  const handleResendCode = async () => {
+    if (!unverifiedEmail) return;
+    setResendLoading(true);
+    try {
+      await fetch("/api/auth/resend-code", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: unverifiedEmail }),
+      });
+      router.push(`/verify?email=${encodeURIComponent(unverifiedEmail)}`);
+    } catch {
+      setError("ارسال مجدد کد با خطا مواجه شد");
+    } finally {
+      setResendLoading(false);
+    }
+  };
+
   return (
     <div className="container mx-auto flex min-h-[calc(100vh-8rem)] items-center justify-center px-4 py-10">
       <Card className="w-full max-w-md">
@@ -62,9 +85,7 @@ export default function LoginPage() {
             <Map className="h-6 w-6" />
           </div>
           <CardTitle className="text-2xl">ورود به DevRoad</CardTitle>
-          <CardDescription>
-            وارد حساب کاربری خود شوید
-          </CardDescription>
+          <CardDescription>وارد حساب کاربری خود شوید</CardDescription>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className="space-y-4">
@@ -81,22 +102,40 @@ export default function LoginPage() {
             </div>
 
             <div className="space-y-1.5">
-              <Label htmlFor="password">رمز عبور</Label>
+              <div className="flex items-center justify-between">
+                <Label htmlFor="password">رمز عبور</Label>
+                <Link
+                  href="/forgot-password"
+                  className="text-xs text-primary hover:underline"
+                >
+                  فراموشی رمز عبور
+                </Link>
+              </div>
               <Input
                 id="password"
                 type="password"
                 dir="ltr"
                 value={form.password}
-                onChange={(e) =>
-                  setForm({ ...form, password: e.target.value })
-                }
+                onChange={(e) => setForm({ ...form, password: e.target.value })}
                 required
               />
             </div>
 
             {error && (
-              <div className="text-sm text-destructive bg-destructive/10 p-3 rounded-md">
-                {error}
+              <div className="text-sm text-destructive bg-destructive/10 p-3 rounded-md space-y-2">
+                <p>{error}</p>
+                {unverifiedEmail && (
+                  <Button
+                    type="button"
+                    size="sm"
+                    variant="outline"
+                    className="w-full"
+                    onClick={handleResendCode}
+                    disabled={resendLoading}
+                  >
+                    {resendLoading ? "در حال ارسال..." : "ارسال دوباره کد تایید"}
+                  </Button>
+                )}
               </div>
             )}
 
