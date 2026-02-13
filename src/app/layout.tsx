@@ -107,6 +107,11 @@ export default function RootLayout({
             `,
           }}
         />
+        <script
+          defer
+          src="https://cloud.umami.is/script.js"
+          data-website-id="db947e8e-b9c8-44c7-bf03-873ab4e3da21"
+        />
       </head>
       <body className="min-h-screen flex flex-col antialiased">
         <Header />
