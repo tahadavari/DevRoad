@@ -1,8 +1,16 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
+import { createRateLimitKey, enforceRateLimit } from "@/lib/rate-limit";
 
 export async function POST(request: NextRequest) {
   try {
+    const limitResponse = enforceRateLimit(request, {
+      key: createRateLimitKey(request, "auth:verify"),
+      limit: 10,
+      windowMs: 10 * 60 * 1000,
+    });
+    if (limitResponse) return limitResponse;
+
     const body = await request.json();
     const { email, code } = body;
 
@@ -19,7 +27,6 @@ export async function POST(request: NextRequest) {
     let verificationCode: { email: string } | null = null;
 
     if (isDevBypass) {
-      // در حالت dev کد ۱۲۳۴۵۶ همیشه معتبر است
       const user = await prisma.user.findUnique({
         where: { email: email.toLowerCase() },
       });
@@ -42,13 +49,11 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Update user
     await prisma.user.update({
       where: { email: email.toLowerCase() },
       data: { emailVerified: true },
     });
 
-    // Delete used codes
     await prisma.verificationCode.deleteMany({
       where: { email: email.toLowerCase() },
     });

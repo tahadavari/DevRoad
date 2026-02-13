@@ -1,9 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getCurrentUser } from "@/lib/auth";
+import { createRateLimitKey, enforceRateLimit } from "@/lib/rate-limit";
 
 export async function GET(request: NextRequest) {
   try {
+    const user = await getCurrentUser();
     const roadmapSlug = request.nextUrl.searchParams.get("roadmapSlug");
     const projectId = request.nextUrl.searchParams.get("projectId");
     const publicOnly = request.nextUrl.searchParams.get("public") === "true";
@@ -11,7 +13,14 @@ export async function GET(request: NextRequest) {
     const where: Record<string, unknown> = {};
     if (roadmapSlug) where.roadmapSlug = roadmapSlug;
     if (projectId) where.projectId = projectId;
-    if (publicOnly) where.isPublic = true;
+
+    if (publicOnly) {
+      where.isPublic = true;
+    } else if (!user) {
+      where.isPublic = true;
+    } else if (user.role === "USER") {
+      where.OR = [{ isPublic: true }, { userId: user.id }];
+    }
 
     const projects = await prisma.project.findMany({
       where,
@@ -43,6 +52,13 @@ export async function GET(request: NextRequest) {
 
 export async function POST(request: NextRequest) {
   try {
+    const limitResponse = enforceRateLimit(request, {
+      key: createRateLimitKey(request, "projects:submit"),
+      limit: 20,
+      windowMs: 60 * 1000,
+    });
+    if (limitResponse) return limitResponse;
+
     const user = await getCurrentUser();
     if (!user) {
       return NextResponse.json(

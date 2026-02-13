@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getCurrentUser } from "@/lib/auth";
+import { createRateLimitKey, enforceRateLimit } from "@/lib/rate-limit";
 
 export async function POST(
   request: NextRequest,
@@ -16,6 +17,13 @@ export async function POST(
     }
 
     const { questionId, roadmapSlug } = await params;
+
+    const limitResponse = enforceRateLimit(request, {
+      key: createRateLimitKey(request, `forum:answer:${questionId}`),
+      limit: 20,
+      windowMs: 60 * 1000,
+    });
+    if (limitResponse) return limitResponse;
     const body = await request.json();
     const { content } = body;
 

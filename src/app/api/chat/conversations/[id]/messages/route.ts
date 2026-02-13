@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getCurrentUser } from "@/lib/auth";
+import { createRateLimitKey, enforceRateLimit } from "@/lib/rate-limit";
 
 const PAGE_SIZE = 50;
 
@@ -19,6 +20,13 @@ export async function GET(
     }
 
     const { id: conversationId } = await params;
+
+    const limitResponse = enforceRateLimit(req, {
+      key: createRateLimitKey(req, `chat:message:${conversationId}`),
+      limit: 40,
+      windowMs: 60 * 1000,
+    });
+    if (limitResponse) return limitResponse;
     const { searchParams } = new URL(req.url);
     const cursor = searchParams.get("cursor") ?? undefined;
     const limit = Math.min(Number(searchParams.get("limit")) || PAGE_SIZE, 100);
@@ -82,6 +90,13 @@ export async function POST(
     }
 
     const { id: conversationId } = await params;
+
+    const limitResponse = enforceRateLimit(req, {
+      key: createRateLimitKey(req, `chat:message:${conversationId}`),
+      limit: 40,
+      windowMs: 60 * 1000,
+    });
+    if (limitResponse) return limitResponse;
     const conv = await prisma.chatConversation.findFirst({
       where: {
         id: conversationId,

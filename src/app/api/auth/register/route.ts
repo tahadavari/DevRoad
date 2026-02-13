@@ -2,13 +2,20 @@ import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { hashPassword, generateVerificationCode } from "@/lib/auth";
 import { sendVerificationEmail } from "@/lib/email";
+import { createRateLimitKey, enforceRateLimit } from "@/lib/rate-limit";
 
 export async function POST(request: NextRequest) {
   try {
+    const limitResponse = enforceRateLimit(request, {
+      key: createRateLimitKey(request, "auth:register"),
+      limit: 5,
+      windowMs: 10 * 60 * 1000,
+    });
+    if (limitResponse) return limitResponse;
+
     const body = await request.json();
     const { firstName, lastName, email, phone, password } = body;
 
-    // Validation
     if (!firstName || !lastName || !email || !password) {
       return NextResponse.json(
         { success: false, error: "تمام فیلدهای الزامی را پر کنید" },
@@ -23,7 +30,6 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Check existing user
     const existingUser = await prisma.user.findUnique({
       where: { email: email.toLowerCase() },
     });
@@ -35,7 +41,6 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Hash password and create user
     const hashedPassword = await hashPassword(password);
 
     await prisma.user.create({
@@ -48,17 +53,15 @@ export async function POST(request: NextRequest) {
       },
     });
 
-    // Generate and save verification code
     const code = generateVerificationCode();
     await prisma.verificationCode.create({
       data: {
         email: email.toLowerCase(),
         code,
-        expiresAt: new Date(Date.now() + 10 * 60 * 1000), // 10 minutes
+        expiresAt: new Date(Date.now() + 10 * 60 * 1000),
       },
     });
 
-    // Send email (don't fail if email sending fails)
     try {
       await sendVerificationEmail(email.toLowerCase(), code);
     } catch (emailError) {
