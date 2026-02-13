@@ -433,15 +433,6 @@
               "description": "لیست ایده‌های پروژه‌های کوچک برای تمرین (بدون وابستگی به یک زبان خاص)."
             },
             {
-              "title": "freeCodeCamp Curriculum (100% Free)",
-              "type": "course",
-              "url": "https://www.freecodecamp.org/learn/",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "دوره‌های رایگان همراه با تمرین و پروژه‌های مرحله‌ای برای ساخت مهارت واقعی."
-            },
-            {
               "title": "Learn Python - Full Course for Beginners (freeCodeCamp - YouTube)",
               "type": "video",
               "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
