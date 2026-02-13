@@ -19,9 +19,9 @@ export async function GET() {
     });
 
     const allMeta = getAllBlogsMeta();
-    const metaBySlug = Object.fromEntries(allMeta.map((m) => [m.slug, m]));
+    const metaBySlug = Object.fromEntries(allMeta.map((m: (typeof allMeta)[number]) => [m.slug, m]));
 
-    const data = bookmarks.map((b) => ({
+    const data = bookmarks.map((b: (typeof bookmarks)[number]) => ({
       blogSlug: b.blogSlug,
       createdAt: b.createdAt,
       ...metaBySlug[b.blogSlug],

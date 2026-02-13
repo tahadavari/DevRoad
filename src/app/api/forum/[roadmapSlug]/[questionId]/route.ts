@@ -56,7 +56,7 @@ export async function GET(
       orderBy: { createdAt: "asc" },
     });
 
-    const processedAnswers = answers.map((answer) => {
+    const processedAnswers = answers.map((answer: (typeof answers)[number]) => {
       const likes = answer.votes.filter((v) => v.type === "LIKE").length;
       const dislikes = answer.votes.filter((v) => v.type === "DISLIKE").length;
       const userVote = user

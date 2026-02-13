@@ -31,7 +31,7 @@ export async function GET() {
       orderBy: { updatedAt: "desc" },
     });
 
-    const list = conversations.map((c) => {
+    const list = conversations.map((c: (typeof conversations)[number]) => {
       const last = c.messages[0];
       const other = c.userId === user.id ? c.mentor : c.user;
       return {
