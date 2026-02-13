@@ -11,7 +11,7 @@
     "db:push": "prisma db push",
     "db:migrate": "prisma migrate dev",
     "db:seed": "prisma db seed",
-    "postinstall": "node scripts/postinstall.js"
+    "postinstall": "node -e \"const fs=require('node:fs'); if (fs.existsSync('scripts/postinstall.js')) { require('./scripts/postinstall.js'); } else { console.log('postinstall: scripts/postinstall.js not found, skipping'); }\""
   },
   "prisma": {
     "seed": "ts-node --compiler-options {\"module\":\"CommonJS\"} prisma/seed.ts"
