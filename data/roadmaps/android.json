@@ -4,510 +4,3434 @@
   "description": "مسیر یادگیری کامل برای تبدیل شدن به یک توسعه‌دهنده اپلیکیشن اندروید. از Kotlin/Java تا انتشار در مارکت.",
   "steps": [
     {
-      "id": "android-basics",
-      "title": "مبانی اندروید",
-      "description": "معماری اندروید، Activity، Fragment و چرخه حیات",
+      "id": "item",
+      "title": "شروع و مبانی",
+      "description": "موضوعات بخش «شروع و مبانی».",
       "order": 1,
       "children": [
         {
-          "id": "android-intro",
-          "title": "آشنایی با پلتفرم اندروید",
-          "description": "معماری اندروید، نسخه‌ها و ابزارهای توسعه",
+          "id": "android-developer",
+          "title": "Android Developer",
+          "description": "مباحث و تمرین‌های مرتبط با «Android Developer».",
+          "order": 1,
+          "children": [],
           "resources": [
             {
-              "title": "Android Developers - Build your first app",
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Android Developer (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Android%20Developer%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Android Developer (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Android%20Developer%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Android Developer (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Android%20Developer%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Android Developer",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Android%20Developer%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Android Developer در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Android%20Developer%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
               "type": "article",
-              "url": "https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "1 hour",
-              "language": "en",
-              "description": "Official getting started codelab for Android."
-            },
-            {
-              "title": "Android articles in Persian - Virgool",
-              "type": "article",
-              "url": "https://virgool.io/tags/android",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "30 min",
-              "language": "fa",
-              "description": "Persian Android starter articles."
-            },
-            {
-              "title": "Free Android course in Persian - YouTube",
-              "type": "course",
-              "url": "https://www.youtube.com/results?search_query=free+persian+android+course",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "20+ hours",
-              "language": "fa",
-              "description": "Free Persian Android course content."
-            },
-            {
-              "title": "Android Development for Beginners",
-              "type": "video",
-              "url": "https://www.youtube.com/watch?v=fis26HvvDII",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "4 hours",
-              "language": "en",
-              "description": "Beginner Android development video."
-            },
-            {
-              "title": "Persian Android playlists - Aparat",
-              "type": "playlist",
-              "url": "https://www.aparat.com/result/android",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "15+ hours",
-              "language": "fa",
-              "description": "Aparat Android playlists in Persian."
+              "url": "https://developer.android.com/docs",
+              "language": "en"
             }
           ],
-          "recommendation": "personal"
+          "recommendation": ""
+        },
+        {
+          "id": "install-android-studio",
+          "title": "Install Android Studio",
+          "description": "مباحث و تمرین‌های مرتبط با «Install Android Studio».",
+          "order": 2,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Install Android Studio (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Install%20Android%20Studio%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Install Android Studio (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Install%20Android%20Studio%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Install Android Studio (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Install%20Android%20Studio%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Install Android Studio",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Install%20Android%20Studio%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Install Android Studio در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Install%20Android%20Studio%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
+              "type": "article",
+              "url": "https://developer.android.com/docs",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "kotlin",
+          "title": "Kotlin",
+          "description": "مباحث و تمرین‌های مرتبط با «Kotlin».",
+          "order": 3,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Kotlin (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Kotlin%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Kotlin (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Kotlin%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Kotlin (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Kotlin%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Kotlin",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Kotlin%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Kotlin در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Kotlin%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
+              "type": "article",
+              "url": "https://developer.android.com/docs",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "a-language",
+          "title": "انتخاب a Language",
+          "description": "مباحث و تمرین‌های مرتبط با «انتخاب a Language».",
+          "order": 4,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Pick a Language (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Pick%20a%20Language%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Pick a Language (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Pick%20a%20Language%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Pick a Language (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Pick%20a%20Language%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Pick a Language",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Pick%20a%20Language%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Pick a Language در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Pick%20a%20Language%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Pick a Language",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Pick%20a%20Language%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "kotlin-1",
+          "title": "مبانی Kotlin",
+          "description": "مباحث و تمرین‌های مرتبط با «مبانی Kotlin».",
+          "order": 5,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Learn the Basics of Kotlin (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Learn%20the%20Basics%20of%20Kotlin%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Learn the Basics of Kotlin (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Learn%20the%20Basics%20of%20Kotlin%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Learn the Basics of Kotlin (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Learn%20the%20Basics%20of%20Kotlin%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Learn the Basics of Kotlin",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Learn%20the%20Basics%20of%20Kotlin%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Learn the Basics of Kotlin در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Learn%20the%20Basics%20of%20Kotlin%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
+              "type": "article",
+              "url": "https://developer.android.com/docs",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "java",
+          "title": "Java",
+          "description": "مباحث و تمرین‌های مرتبط با «Java».",
+          "order": 6,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Java (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Java%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Java (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Java%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Java (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Java%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Java",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Java%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Java در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Java%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Java",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Java%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "the-fundamentals",
+          "title": "The Fundamentals",
+          "description": "مباحث و تمرین‌های مرتبط با «The Fundamentals».",
+          "order": 7,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای The Fundamentals (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=The%20Fundamentals%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره The Fundamentals (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=The%20Fundamentals%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for The Fundamentals (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=The%20Fundamentals%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for The Fundamentals",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=The%20Fundamentals%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی The Fundamentals در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/The%20Fundamentals%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for The Fundamentals",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=The%20Fundamentals%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "oop",
+          "title": "مبانی OOP",
+          "description": "مباحث و تمرین‌های مرتبط با «مبانی OOP».",
+          "order": 8,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Basics of OOP (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Basics%20of%20OOP%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Basics of OOP (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Basics%20of%20OOP%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Basics of OOP (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Basics%20of%20OOP%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Basics of OOP",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Basics%20of%20OOP%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Basics of OOP در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Basics%20of%20OOP%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Basics of OOP",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Basics%20of%20OOP%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "datastructures-and-algorithms",
+          "title": "DataStructures and Algorithms",
+          "description": "مباحث و تمرین‌های مرتبط با «DataStructures and Algorithms».",
+          "order": 9,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای DataStructures and Algorithms (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=DataStructures%20and%20Algorithms%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره DataStructures and Algorithms (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=DataStructures%20and%20Algorithms%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for DataStructures and Algorithms (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=DataStructures%20and%20Algorithms%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for DataStructures and Algorithms",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=DataStructures%20and%20Algorithms%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی DataStructures and Algorithms در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/DataStructures%20and%20Algorithms%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for DataStructures and Algorithms",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=DataStructures%20and%20Algorithms%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
         }
-      ]
+      ],
+      "resources": [
+        {
+          "priorityGroup": 1,
+          "category": "کورس فارسی رایگان",
+          "title": "جستجوی دوره رایگان فارسی برای شروع و مبانی (مکتب‌خونه/کوئرا/سایر منابع)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%D8%B4%D8%B1%D9%88%D8%B9%20%D9%88%20%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 2,
+          "category": "بلاگ فارسی",
+          "title": "مقالات فارسی درباره شروع و مبانی (ویرگول/راکت/مدیوم فارسی)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%D8%B4%D8%B1%D9%88%D8%B9%20%D9%88%20%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 3,
+          "category": "کورس انگلیسی رایگان",
+          "title": "Free courses for شروع و مبانی (freeCodeCamp / MIT OCW / Coursera)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%D8%B4%D8%B1%D9%88%D8%B9%20%D9%88%20%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "YouTube playlists for شروع و مبانی",
+          "type": "playlist-search",
+          "url": "https://www.youtube.com/results?search_query=%D8%B4%D8%B1%D9%88%D8%B9%20%D9%88%20%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20tutorial%20playlist",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "پلی‌لیست/ویدیوهای فارسی شروع و مبانی در آپارات",
+          "type": "playlist-search",
+          "url": "https://www.aparat.com/result/%D8%B4%D8%B1%D9%88%D8%B9%20%D9%88%20%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 5,
+          "category": "بلاگ انگلیسی",
+          "title": "English docs/articles for شروع و مبانی",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%D8%B4%D8%B1%D9%88%D8%B9%20%D9%88%20%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20documentation%20tutorial",
+          "language": "en"
+        }
+      ],
+      "recommendation": ""
     },
     {
-      "id": "kotlin-java",
-      "title": "Kotlin / Java",
-      "description": "یادگیری زبان برنامه‌نویسی برای اندروید",
+      "id": "item-1",
+      "title": "کنترل نسخه و کار تیمی",
+      "description": "موضوعات بخش «کنترل نسخه و کار تیمی».",
       "order": 2,
       "children": [
         {
-          "id": "kotlin-basics",
-          "title": "مبانی Kotlin",
-          "description": "سینتکس Kotlin، null safety و Coroutines مقدماتی",
+          "id": "to-use-git",
+          "title": "یادگیری to use Git",
+          "description": "مباحث و تمرین‌های مرتبط با «یادگیری to use Git».",
+          "order": 1,
+          "children": [],
           "resources": [
             {
-              "title": "Kotlin Docs - Getting Started",
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Learn to use Git (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Learn%20to%20use%20Git%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Learn to use Git (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Learn%20to%20use%20Git%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Learn to use Git (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Learn%20to%20use%20Git%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Learn to use Git",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Learn%20to%20use%20Git%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Learn to use Git در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Learn%20to%20use%20Git%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Pro Git Book",
               "type": "article",
-              "url": "https://kotlinlang.org/docs/getting-started.html",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "1 hour",
-              "language": "en",
-              "description": "Official Kotlin language quickstart."
-            },
-            {
-              "title": "Kotlin articles in Persian - Virgool",
-              "type": "article",
-              "url": "https://virgool.io/tags/kotlin",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "25 min",
-              "language": "fa",
-              "description": "Persian Kotlin basics and examples."
-            },
-            {
-              "title": "Free Kotlin course in Persian - YouTube",
-              "type": "course",
-              "url": "https://www.youtube.com/results?search_query=free+persian+kotlin+course",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "12+ hours",
-              "language": "fa",
-              "description": "Free Persian Kotlin tutorials."
-            },
-            {
-              "title": "Kotlin Course for Beginners",
-              "type": "video",
-              "url": "https://www.youtube.com/watch?v=F9UC9DY-vIU",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "4 hours",
-              "language": "en",
-              "description": "Kotlin beginner full video."
-            },
-            {
-              "title": "Persian Kotlin playlists - Aparat",
-              "type": "playlist",
-              "url": "https://www.aparat.com/result/kotlin",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "10+ hours",
-              "language": "fa",
-              "description": "Aparat Kotlin playlists in Persian."
+              "url": "https://git-scm.com/book/en/v2",
+              "language": "en"
             }
           ],
-          "recommendation": "personal"
+          "recommendation": ""
+        },
+        {
+          "id": "github",
+          "title": "GitHub",
+          "description": "مباحث و تمرین‌های مرتبط با «GitHub».",
+          "order": 2,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای GitHub (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=GitHub%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره GitHub (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=GitHub%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for GitHub (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=GitHub%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for GitHub",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=GitHub%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی GitHub در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/GitHub%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Pro Git Book",
+              "type": "article",
+              "url": "https://git-scm.com/book/en/v2",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "what-are-version-control-systems",
+          "title": "What are Version Control Systems?",
+          "description": "مباحث و تمرین‌های مرتبط با «What are Version Control Systems?».",
+          "order": 3,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای What are Version Control Systems? (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=What%20are%20Version%20Control%20Systems%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره What are Version Control Systems? (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=What%20are%20Version%20Control%20Systems%3F%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for What are Version Control Systems? (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=What%20are%20Version%20Control%20Systems%3F%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for What are Version Control Systems?",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=What%20are%20Version%20Control%20Systems%3F%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی What are Version Control Systems? در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/What%20are%20Version%20Control%20Systems%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for What are Version Control Systems?",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=What%20are%20Version%20Control%20Systems%3F%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "version-control-systems",
+          "title": "Version Control Systems",
+          "description": "مباحث و تمرین‌های مرتبط با «Version Control Systems».",
+          "order": 4,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Version Control Systems (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Version%20Control%20Systems%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Version Control Systems (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Version%20Control%20Systems%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Version Control Systems (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Version%20Control%20Systems%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Version Control Systems",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Version%20Control%20Systems%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Version Control Systems در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Version%20Control%20Systems%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Version Control Systems",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Version%20Control%20Systems%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "gitlab",
+          "title": "GitLab",
+          "description": "مباحث و تمرین‌های مرتبط با «GitLab».",
+          "order": 5,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای GitLab (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=GitLab%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره GitLab (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=GitLab%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for GitLab (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=GitLab%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for GitLab",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=GitLab%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی GitLab در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/GitLab%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Pro Git Book",
+              "type": "article",
+              "url": "https://git-scm.com/book/en/v2",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "why-you-should-use-one",
+          "title": "Why you should use one?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why you should use one?».",
+          "order": 6,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Why you should use one? (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Why%20you%20should%20use%20one%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Why you should use one? (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Why%20you%20should%20use%20one%3F%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Why you should use one? (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Why%20you%20should%20use%20one%3F%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Why you should use one?",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Why%20you%20should%20use%20one%3F%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Why you should use one? در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Why%20you%20should%20use%20one%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Why you should use one?",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Why%20you%20should%20use%20one%3F%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "bitbucket",
+          "title": "Bitbucket",
+          "description": "مباحث و تمرین‌های مرتبط با «Bitbucket».",
+          "order": 7,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Bitbucket (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Bitbucket%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Bitbucket (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Bitbucket%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Bitbucket (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Bitbucket%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Bitbucket",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Bitbucket%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Bitbucket در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Bitbucket%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Bitbucket",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Bitbucket%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "repo-hosting-services",
+          "title": "Repo Hosting Services",
+          "description": "مباحث و تمرین‌های مرتبط با «Repo Hosting Services».",
+          "order": 8,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Repo Hosting Services (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Repo%20Hosting%20Services%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Repo Hosting Services (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Repo%20Hosting%20Services%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Repo Hosting Services (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Repo%20Hosting%20Services%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Repo Hosting Services",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Repo%20Hosting%20Services%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Repo Hosting Services در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Repo%20Hosting%20Services%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Repo Hosting Services",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Repo%20Hosting%20Services%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
         }
-      ]
+      ],
+      "resources": [
+        {
+          "priorityGroup": 1,
+          "category": "کورس فارسی رایگان",
+          "title": "جستجوی دوره رایگان فارسی برای کنترل نسخه و کار تیمی (مکتب‌خونه/کوئرا/سایر منابع)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%DA%A9%D9%86%D8%AA%D8%B1%D9%84%20%D9%86%D8%B3%D8%AE%D9%87%20%D9%88%20%DA%A9%D8%A7%D8%B1%20%D8%AA%DB%8C%D9%85%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 2,
+          "category": "بلاگ فارسی",
+          "title": "مقالات فارسی درباره کنترل نسخه و کار تیمی (ویرگول/راکت/مدیوم فارسی)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%DA%A9%D9%86%D8%AA%D8%B1%D9%84%20%D9%86%D8%B3%D8%AE%D9%87%20%D9%88%20%DA%A9%D8%A7%D8%B1%20%D8%AA%DB%8C%D9%85%DB%8C%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 3,
+          "category": "کورس انگلیسی رایگان",
+          "title": "Free courses for کنترل نسخه و کار تیمی (freeCodeCamp / MIT OCW / Coursera)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%DA%A9%D9%86%D8%AA%D8%B1%D9%84%20%D9%86%D8%B3%D8%AE%D9%87%20%D9%88%20%DA%A9%D8%A7%D8%B1%20%D8%AA%DB%8C%D9%85%DB%8C%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "YouTube playlists for کنترل نسخه و کار تیمی",
+          "type": "playlist-search",
+          "url": "https://www.youtube.com/results?search_query=%DA%A9%D9%86%D8%AA%D8%B1%D9%84%20%D9%86%D8%B3%D8%AE%D9%87%20%D9%88%20%DA%A9%D8%A7%D8%B1%20%D8%AA%DB%8C%D9%85%DB%8C%20tutorial%20playlist",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "پلی‌لیست/ویدیوهای فارسی کنترل نسخه و کار تیمی در آپارات",
+          "type": "playlist-search",
+          "url": "https://www.aparat.com/result/%DA%A9%D9%86%D8%AA%D8%B1%D9%84%20%D9%86%D8%B3%D8%AE%D9%87%20%D9%88%20%DA%A9%D8%A7%D8%B1%20%D8%AA%DB%8C%D9%85%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 5,
+          "category": "بلاگ انگلیسی",
+          "title": "English docs/articles for کنترل نسخه و کار تیمی",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%DA%A9%D9%86%D8%AA%D8%B1%D9%84%20%D9%86%D8%B3%D8%AE%D9%87%20%D9%88%20%DA%A9%D8%A7%D8%B1%20%D8%AA%DB%8C%D9%85%DB%8C%20documentation%20tutorial",
+          "language": "en"
+        }
+      ],
+      "recommendation": ""
     },
     {
-      "id": "ui-android",
-      "title": "رابط کاربری",
-      "description": "Layout ها، Jetpack Compose و Material Design",
+      "id": "build-system-dependency",
+      "title": "Build System و Dependency",
+      "description": "موضوعات بخش «Build System و Dependency».",
       "order": 3,
       "children": [
         {
-          "id": "layouts-views",
-          "title": "Layout و View",
-          "description": "ConstraintLayout، RecyclerView و طراحی UI",
+          "id": "and-how-to-use-gradle",
+          "title": "and how to use Gradle چیست؟",
+          "description": "مباحث و تمرین‌های مرتبط با «and how to use Gradle چیست؟».",
+          "order": 1,
+          "children": [],
           "resources": [
             {
-              "title": "Compose Layout Basics - Android",
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای What is and how to use Gradle? (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=What%20is%20and%20how%20to%20use%20Gradle%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره What is and how to use Gradle? (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=What%20is%20and%20how%20to%20use%20Gradle%3F%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for What is and how to use Gradle? (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=What%20is%20and%20how%20to%20use%20Gradle%3F%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for What is and how to use Gradle?",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=What%20is%20and%20how%20to%20use%20Gradle%3F%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی What is and how to use Gradle? در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/What%20is%20and%20how%20to%20use%20Gradle%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
               "type": "article",
-              "url": "https://developer.android.com/develop/ui/compose/layouts/basics",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "1 hour",
-              "language": "en",
-              "description": "Official layout and UI composition basics."
-            },
-            {
-              "title": "Android UI articles in Persian - Virgool",
-              "type": "article",
-              "url": "https://virgool.io/tags/android-ui",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "20 min",
-              "language": "fa",
-              "description": "Persian Android UI articles."
-            },
-            {
-              "title": "Free Android UI course in Persian - YouTube",
-              "type": "course",
-              "url": "https://www.youtube.com/results?search_query=free+persian+android+ui+course",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "8+ hours",
-              "language": "fa",
-              "description": "Free Persian UI-focused Android content."
-            },
-            {
-              "title": "Android Layouts and UI Basics",
-              "type": "video",
-              "url": "https://www.youtube.com/watch?v=BBWyXo-3JGQ",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "1.5 hours",
-              "language": "en",
-              "description": "UI fundamentals in Android."
-            },
-            {
-              "title": "Persian Android UI playlists - Aparat",
-              "type": "playlist",
-              "url": "https://www.aparat.com/result/android_ui",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "8+ hours",
-              "language": "fa",
-              "description": "Aparat playlists for Android UI in Persian."
+              "url": "https://developer.android.com/docs",
+              "language": "en"
             }
           ],
-          "recommendation": "personal"
+          "recommendation": ""
         },
         {
-          "id": "jetpack-compose",
-          "title": "Jetpack Compose",
-          "description": "ساخت UI با رویکرد declarative در اندروید",
+          "id": "dependency",
+          "title": "مدیریت Dependency",
+          "description": "مباحث و تمرین‌های مرتبط با «مدیریت Dependency».",
+          "order": 2,
+          "children": [],
           "resources": [
             {
-              "title": "Jetpack Compose Documentation",
-              "type": "article",
-              "url": "https://developer.android.com/compose",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "2 hours",
-              "language": "en",
-              "description": "Official Jetpack Compose docs."
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Dependency Management (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Dependency%20Management%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
             },
             {
-              "title": "Jetpack Compose articles in Persian - Virgool",
-              "type": "article",
-              "url": "https://virgool.io/tags/jetpack-compose",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "20 min",
-              "language": "fa",
-              "description": "Persian Compose articles and notes."
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Dependency Management (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Dependency%20Management%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
             },
             {
-              "title": "Free Jetpack Compose course in Persian - YouTube",
-              "type": "course",
-              "url": "https://www.youtube.com/results?search_query=free+persian+jetpack+compose+course",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "10+ hours",
-              "language": "fa",
-              "description": "Free Persian Compose tutorials."
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Dependency Management (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Dependency%20Management%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
             },
             {
-              "title": "Jetpack Compose Crash Course",
-              "type": "video",
-              "url": "https://www.youtube.com/watch?v=6_wK_Ud8--0",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "2 hours",
-              "language": "en",
-              "description": "Practical introduction to Compose."
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Dependency Management",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Dependency%20Management%20tutorial%20playlist",
+              "language": "en"
             },
             {
-              "title": "Persian Jetpack Compose playlists - Aparat",
-              "type": "playlist",
-              "url": "https://www.aparat.com/result/jetpack_compose",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "8+ hours",
-              "language": "fa",
-              "description": "Aparat Compose playlists in Persian."
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Dependency Management در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Dependency%20Management%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Dependency Management",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Dependency%20Management%20documentation%20tutorial",
+              "language": "en"
             }
           ],
-          "recommendation": "alternative"
+          "recommendation": ""
         }
       ],
-      "recommendation": "flexible"
+      "resources": [
+        {
+          "priorityGroup": 1,
+          "category": "کورس فارسی رایگان",
+          "title": "جستجوی دوره رایگان فارسی برای Build System و Dependency (مکتب‌خونه/کوئرا/سایر منابع)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Build%20System%20%D9%88%20Dependency%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 2,
+          "category": "بلاگ فارسی",
+          "title": "مقالات فارسی درباره Build System و Dependency (ویرگول/راکت/مدیوم فارسی)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Build%20System%20%D9%88%20Dependency%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 3,
+          "category": "کورس انگلیسی رایگان",
+          "title": "Free courses for Build System و Dependency (freeCodeCamp / MIT OCW / Coursera)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Build%20System%20%D9%88%20Dependency%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "YouTube playlists for Build System و Dependency",
+          "type": "playlist-search",
+          "url": "https://www.youtube.com/results?search_query=Build%20System%20%D9%88%20Dependency%20tutorial%20playlist",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "پلی‌لیست/ویدیوهای فارسی Build System و Dependency در آپارات",
+          "type": "playlist-search",
+          "url": "https://www.aparat.com/result/Build%20System%20%D9%88%20Dependency%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 5,
+          "category": "بلاگ انگلیسی",
+          "title": "English docs/articles for Build System و Dependency",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Build%20System%20%D9%88%20Dependency%20documentation%20tutorial",
+          "language": "en"
+        }
+      ],
+      "recommendation": ""
     },
     {
-      "id": "data-android",
-      "title": "مدیریت داده",
-      "description": "Room، SharedPreferences و کار با شبکه",
+      "id": "android",
+      "title": "مبانی Android و اجزای اصلی",
+      "description": "موضوعات بخش «مبانی Android و اجزای اصلی».",
       "order": 4,
       "children": [
         {
-          "id": "room-db",
-          "title": "Room Database",
-          "description": "دیتابیس لوکال با Room",
+          "id": "content-providers",
+          "title": "Content Providers",
+          "description": "مباحث و تمرین‌های مرتبط با «Content Providers».",
+          "order": 1,
+          "children": [],
           "resources": [
             {
-              "title": "Save data with Room - Android",
-              "type": "article",
-              "url": "https://developer.android.com/training/data-storage/room",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "1 hour",
-              "language": "en",
-              "description": "Official Room persistence guide."
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Content Providers (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Content%20Providers%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
             },
             {
-              "title": "Room Database articles in Persian - Virgool",
-              "type": "article",
-              "url": "https://virgool.io/tags/room-database",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "20 min",
-              "language": "fa",
-              "description": "Persian Room Database introductions."
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Content Providers (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Content%20Providers%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
             },
             {
-              "title": "Free Room Database course in Persian - YouTube",
-              "type": "course",
-              "url": "https://www.youtube.com/results?search_query=free+persian+room+database+android+course",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "6+ hours",
-              "language": "fa",
-              "description": "Free Persian Room-focused content."
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Content Providers (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Content%20Providers%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
             },
             {
-              "title": "Room Database Android Tutorial",
-              "type": "video",
-              "url": "https://www.youtube.com/watch?v=bOd3wO0uFr8",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "1 hour",
-              "language": "en",
-              "description": "Hands-on Room example walkthrough."
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Content Providers",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Content%20Providers%20tutorial%20playlist",
+              "language": "en"
             },
             {
-              "title": "Persian Room DB playlists - Aparat",
-              "type": "playlist",
-              "url": "https://www.aparat.com/result/room_database",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "5+ hours",
-              "language": "fa",
-              "description": "Aparat playlists for Room in Persian."
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Content Providers در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Content%20Providers%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Content Providers",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Content%20Providers%20documentation%20tutorial",
+              "language": "en"
             }
           ],
-          "recommendation": "personal"
+          "recommendation": ""
         },
         {
-          "id": "networking",
-          "title": "شبکه و API",
-          "description": "Retrofit، OkHttp و دریافت داده از سرور",
+          "id": "activities-and-activity-lifecycles",
+          "title": "کار با Activities and Activity Lifecycles",
+          "description": "مباحث و تمرین‌های مرتبط با «کار با Activities and Activity Lifecycles».",
+          "order": 2,
+          "children": [],
           "resources": [
             {
-              "title": "Retrofit Documentation",
-              "type": "article",
-              "url": "https://square.github.io/retrofit/",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "45 min",
-              "language": "en",
-              "description": "Official Retrofit docs for networking."
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Using Activities and Activity Lifecycles (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Using%20Activities%20and%20Activity%20Lifecycles%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
             },
             {
-              "title": "Retrofit articles in Persian - Virgool",
-              "type": "article",
-              "url": "https://virgool.io/tags/retrofit",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "20 min",
-              "language": "fa",
-              "description": "Persian Retrofit tutorials and guides."
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Using Activities and Activity Lifecycles (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Using%20Activities%20and%20Activity%20Lifecycles%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
             },
             {
-              "title": "Free Retrofit course in Persian - YouTube",
-              "type": "course",
-              "url": "https://www.youtube.com/results?search_query=free+persian+retrofit+android+course",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "6+ hours",
-              "language": "fa",
-              "description": "Free Persian Retrofit tutorials."
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Using Activities and Activity Lifecycles (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Using%20Activities%20and%20Activity%20Lifecycles%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
             },
             {
-              "title": "Android Networking with Retrofit",
-              "type": "video",
-              "url": "https://www.youtube.com/watch?v=t6Sql3WMAnk",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "1 hour",
-              "language": "en",
-              "description": "Build an API layer with Retrofit."
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Using Activities and Activity Lifecycles",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Using%20Activities%20and%20Activity%20Lifecycles%20tutorial%20playlist",
+              "language": "en"
             },
             {
-              "title": "Persian Retrofit playlists - Aparat",
-              "type": "playlist",
-              "url": "https://www.aparat.com/result/retrofit",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "4+ hours",
-              "language": "fa",
-              "description": "Aparat Retrofit playlists in Persian."
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Using Activities and Activity Lifecycles در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Using%20Activities%20and%20Activity%20Lifecycles%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Using Activities and Activity Lifecycles",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Using%20Activities%20and%20Activity%20Lifecycles%20documentation%20tutorial",
+              "language": "en"
             }
           ],
-          "recommendation": "alternative"
+          "recommendation": ""
+        },
+        {
+          "id": "handling-app-configurations",
+          "title": "Handling App Configurations",
+          "description": "مباحث و تمرین‌های مرتبط با «Handling App Configurations».",
+          "order": 3,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Handling App Configurations (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Handling%20App%20Configurations%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Handling App Configurations (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Handling%20App%20Configurations%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Handling App Configurations (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Handling%20App%20Configurations%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Handling App Configurations",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Handling%20App%20Configurations%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Handling App Configurations در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Handling%20App%20Configurations%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Handling App Configurations",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Handling%20App%20Configurations%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "building-flexible-interfaces-using-fragments",
+          "title": "Building Flexible Interfaces using Fragments",
+          "description": "مباحث و تمرین‌های مرتبط با «Building Flexible Interfaces using Fragments».",
+          "order": 4,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Building Flexible Interfaces using Fragments (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Building%20Flexible%20Interfaces%20using%20Fragments%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Building Flexible Interfaces using Fragments (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Building%20Flexible%20Interfaces%20using%20Fragments%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Building Flexible Interfaces using Fragments (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Building%20Flexible%20Interfaces%20using%20Fragments%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Building Flexible Interfaces using Fragments",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Building%20Flexible%20Interfaces%20using%20Fragments%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Building Flexible Interfaces using Fragments در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Building%20Flexible%20Interfaces%20using%20Fragments%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Building Flexible Interfaces using Fragments",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Building%20Flexible%20Interfaces%20using%20Fragments%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "intents",
+          "title": "کار با Intents",
+          "description": "مباحث و تمرین‌های مرتبط با «کار با Intents».",
+          "order": 5,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Using Intents (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Using%20Intents%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Using Intents (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Using%20Intents%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Using Intents (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Using%20Intents%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Using Intents",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Using%20Intents%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Using Intents در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Using%20Intents%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Using Intents",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Using%20Intents%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "an-application",
+          "title": "ساخت an Application",
+          "description": "مباحث و تمرین‌های مرتبط با «ساخت an Application».",
+          "order": 6,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Build an Application (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Build%20an%20Application%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Build an Application (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Build%20an%20Application%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Build an Application (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Build%20an%20Application%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Build an Application",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Build%20an%20Application%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Build an Application در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Build%20an%20Application%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Build an Application",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Build%20an%20Application%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "debugging-using-android-studio-debugger",
+          "title": "Debugging using Android Studio Debugger",
+          "description": "مباحث و تمرین‌های مرتبط با «Debugging using Android Studio Debugger».",
+          "order": 7,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Debugging using Android Studio Debugger (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Debugging%20using%20Android%20Studio%20Debugger%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Debugging using Android Studio Debugger (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Debugging%20using%20Android%20Studio%20Debugger%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Debugging using Android Studio Debugger (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Debugging%20using%20Android%20Studio%20Debugger%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Debugging using Android Studio Debugger",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Debugging%20using%20Android%20Studio%20Debugger%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Debugging using Android Studio Debugger در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Debugging%20using%20Android%20Studio%20Debugger%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
+              "type": "article",
+              "url": "https://developer.android.com/docs",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "context",
+          "title": "درک Context",
+          "description": "مباحث و تمرین‌های مرتبط با «درک Context».",
+          "order": 8,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Understand Context (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Understand%20Context%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Understand Context (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Understand%20Context%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Understand Context (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Understand%20Context%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Understand Context",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Understand%20Context%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Understand Context در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Understand%20Context%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Understand Context",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Understand%20Context%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "components-and-their-usage",
+          "title": "Components and their Usage",
+          "description": "مباحث و تمرین‌های مرتبط با «Components and their Usage».",
+          "order": 9,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Components and their Usage (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Components%20and%20their%20Usage%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Components and their Usage (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Components%20and%20their%20Usage%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Components and their Usage (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Components%20and%20their%20Usage%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Components and their Usage",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Components%20and%20their%20Usage%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Components and their Usage در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Components%20and%20their%20Usage%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Components and their Usage",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Components%20and%20their%20Usage%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
         }
-      ]
+      ],
+      "resources": [
+        {
+          "priorityGroup": 1,
+          "category": "کورس فارسی رایگان",
+          "title": "جستجوی دوره رایگان فارسی برای مبانی Android و اجزای اصلی (مکتب‌خونه/کوئرا/سایر منابع)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20Android%20%D9%88%20%D8%A7%D8%AC%D8%B2%D8%A7%DB%8C%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 2,
+          "category": "بلاگ فارسی",
+          "title": "مقالات فارسی درباره مبانی Android و اجزای اصلی (ویرگول/راکت/مدیوم فارسی)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20Android%20%D9%88%20%D8%A7%D8%AC%D8%B2%D8%A7%DB%8C%20%D8%A7%D8%B5%D9%84%DB%8C%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 3,
+          "category": "کورس انگلیسی رایگان",
+          "title": "Free courses for مبانی Android و اجزای اصلی (freeCodeCamp / MIT OCW / Coursera)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20Android%20%D9%88%20%D8%A7%D8%AC%D8%B2%D8%A7%DB%8C%20%D8%A7%D8%B5%D9%84%DB%8C%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "YouTube playlists for مبانی Android و اجزای اصلی",
+          "type": "playlist-search",
+          "url": "https://www.youtube.com/results?search_query=%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20Android%20%D9%88%20%D8%A7%D8%AC%D8%B2%D8%A7%DB%8C%20%D8%A7%D8%B5%D9%84%DB%8C%20tutorial%20playlist",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "پلی‌لیست/ویدیوهای فارسی مبانی Android و اجزای اصلی در آپارات",
+          "type": "playlist-search",
+          "url": "https://www.aparat.com/result/%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20Android%20%D9%88%20%D8%A7%D8%AC%D8%B2%D8%A7%DB%8C%20%D8%A7%D8%B5%D9%84%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 5,
+          "category": "بلاگ انگلیسی",
+          "title": "Android Developers Docs",
+          "type": "article",
+          "url": "https://developer.android.com/docs",
+          "language": "en"
+        }
+      ],
+      "recommendation": ""
     },
     {
-      "id": "publish-android",
-      "title": "انتشار اپ",
-      "description": "ساخت APK/AAB و انتشار در Google Play",
+      "id": "jetpack",
+      "title": "Jetpack و معماری",
+      "description": "موضوعات بخش «Jetpack و معماری».",
       "order": 5,
       "children": [
         {
-          "id": "build-release",
-          "title": "ساخت و امضای نسخه",
-          "description": "Build variants و امضای اپلیکیشن",
+          "id": "room",
+          "title": "Room",
+          "description": "مباحث و تمرین‌های مرتبط با «Room».",
+          "order": 1,
+          "children": [],
           "resources": [
             {
-              "title": "Build for release - Android",
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Room (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Room%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Room (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Room%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Room (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Room%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Room",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Room%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Room در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Room%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
               "type": "article",
-              "url": "https://developer.android.com/build/build-for-release",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "45 min",
-              "language": "en",
-              "description": "Official Android release build guide."
-            },
-            {
-              "title": "Android release articles in Persian - Virgool",
-              "type": "article",
-              "url": "https://virgool.io/tags/android-release",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "20 min",
-              "language": "fa",
-              "description": "Persian guides for Android release builds."
-            },
-            {
-              "title": "Free Android release course in Persian - YouTube",
-              "type": "course",
-              "url": "https://www.youtube.com/results?search_query=free+persian+android+release+course",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "4+ hours",
-              "language": "fa",
-              "description": "Free Persian release/signing tutorials."
-            },
-            {
-              "title": "Android App Signing Explained",
-              "type": "video",
-              "url": "https://www.youtube.com/watch?v=8rjRfkg3elA",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "30 min",
-              "language": "en",
-              "description": "App signing and release explained."
-            },
-            {
-              "title": "Persian Android release playlists - Aparat",
-              "type": "playlist",
-              "url": "https://www.aparat.com/result/android_release",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "3+ hours",
-              "language": "fa",
-              "description": "Aparat playlists for Android publishing steps."
+              "url": "https://developer.android.com/docs",
+              "language": "en"
             }
           ],
-          "recommendation": "personal"
+          "recommendation": ""
         },
         {
-          "id": "play-store",
-          "title": "Google Play Console",
-          "description": "ثبت اپ، متادیتا و انتشار در مارکت",
+          "id": "live-data",
+          "title": "Live Data",
+          "description": "مباحث و تمرین‌های مرتبط با «Live Data».",
+          "order": 2,
+          "children": [],
           "resources": [
             {
-              "title": "Google Play Console Help",
-              "type": "article",
-              "url": "https://support.google.com/googleplay/android-developer",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "1 hour",
-              "language": "en",
-              "description": "Official Play Console support docs."
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Live Data (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Live%20Data%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
             },
             {
-              "title": "Google Play articles in Persian - Virgool",
-              "type": "article",
-              "url": "https://virgool.io/tags/google-play",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "20 min",
-              "language": "fa",
-              "description": "Persian Google Play publishing notes."
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Live Data (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Live%20Data%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
             },
             {
-              "title": "Free Google Play publish course in Persian - YouTube",
-              "type": "course",
-              "url": "https://www.youtube.com/results?search_query=free+persian+google+play+publish+course",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "5+ hours",
-              "language": "fa",
-              "description": "Free Persian Google Play publishing tutorials."
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Live Data (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Live%20Data%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
             },
             {
-              "title": "How to publish an app on Google Play",
-              "type": "video",
-              "url": "https://www.youtube.com/watch?v=fyQUnK7P7H4",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "25 min",
-              "language": "en",
-              "description": "Practical Play Store publish walkthrough."
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Live Data",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Live%20Data%20tutorial%20playlist",
+              "language": "en"
             },
             {
-              "title": "Persian Google Play playlists - Aparat",
-              "type": "playlist",
-              "url": "https://www.aparat.com/result/google_play_console",
-              "price": "free",
-              "priceAmount": 0,
-              "duration": "3+ hours",
-              "language": "fa",
-              "description": "Aparat playlists for Play Console in Persian."
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Live Data در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Live%20Data%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Live Data",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Live%20Data%20documentation%20tutorial",
+              "language": "en"
             }
           ],
-          "recommendation": "alternative"
+          "recommendation": ""
+        },
+        {
+          "id": "data-binding",
+          "title": "Data Binding",
+          "description": "مباحث و تمرین‌های مرتبط با «Data Binding».",
+          "order": 3,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Data Binding (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Data%20Binding%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Data Binding (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Data%20Binding%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Data Binding (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Data%20Binding%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Data Binding",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Data%20Binding%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Data Binding در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Data%20Binding%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
+              "type": "article",
+              "url": "https://developer.android.com/docs",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "work-manager",
+          "title": "Work Manager",
+          "description": "مباحث و تمرین‌های مرتبط با «Work Manager».",
+          "order": 4,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Work Manager (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Work%20Manager%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Work Manager (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Work%20Manager%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Work Manager (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Work%20Manager%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Work Manager",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Work%20Manager%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Work Manager در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Work%20Manager%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
+              "type": "article",
+              "url": "https://developer.android.com/docs",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "navigation",
+          "title": "Navigation",
+          "description": "مباحث و تمرین‌های مرتبط با «Navigation».",
+          "order": 5,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Navigation (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Navigation%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Navigation (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Navigation%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Navigation (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Navigation%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Navigation",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Navigation%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Navigation در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Navigation%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
+              "type": "article",
+              "url": "https://developer.android.com/docs",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "writing-robust-apps",
+          "title": "Writing Robust Apps",
+          "description": "مباحث و تمرین‌های مرتبط با «Writing Robust Apps».",
+          "order": 6,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Writing Robust Apps (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Writing%20Robust%20Apps%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Writing Robust Apps (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Writing%20Robust%20Apps%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Writing Robust Apps (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Writing%20Robust%20Apps%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Writing Robust Apps",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Writing%20Robust%20Apps%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Writing Robust Apps در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Writing%20Robust%20Apps%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Writing Robust Apps",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Writing%20Robust%20Apps%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
         }
       ],
-      "recommendation": "flexible"
+      "resources": [
+        {
+          "priorityGroup": 1,
+          "category": "کورس فارسی رایگان",
+          "title": "جستجوی دوره رایگان فارسی برای Jetpack و معماری (مکتب‌خونه/کوئرا/سایر منابع)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Jetpack%20%D9%88%20%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 2,
+          "category": "بلاگ فارسی",
+          "title": "مقالات فارسی درباره Jetpack و معماری (ویرگول/راکت/مدیوم فارسی)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Jetpack%20%D9%88%20%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 3,
+          "category": "کورس انگلیسی رایگان",
+          "title": "Free courses for Jetpack و معماری (freeCodeCamp / MIT OCW / Coursera)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Jetpack%20%D9%88%20%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "YouTube playlists for Jetpack و معماری",
+          "type": "playlist-search",
+          "url": "https://www.youtube.com/results?search_query=Jetpack%20%D9%88%20%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C%20tutorial%20playlist",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "پلی‌لیست/ویدیوهای فارسی Jetpack و معماری در آپارات",
+          "type": "playlist-search",
+          "url": "https://www.aparat.com/result/Jetpack%20%D9%88%20%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 5,
+          "category": "بلاگ انگلیسی",
+          "title": "English docs/articles for Jetpack و معماری",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Jetpack%20%D9%88%20%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C%20documentation%20tutorial",
+          "language": "en"
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "thirdparty-libraries-di",
+      "title": "Third‑party Libraries و DI",
+      "description": "موضوعات بخش «Third‑party Libraries و DI».",
+      "order": 6,
+      "children": [
+        {
+          "id": "3rd-party-libraries",
+          "title": "3rd Party Libraries",
+          "description": "مباحث و تمرین‌های مرتبط با «3rd Party Libraries».",
+          "order": 1,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای 3rd Party Libraries (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=3rd%20Party%20Libraries%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره 3rd Party Libraries (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=3rd%20Party%20Libraries%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for 3rd Party Libraries (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=3rd%20Party%20Libraries%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for 3rd Party Libraries",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=3rd%20Party%20Libraries%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی 3rd Party Libraries در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/3rd%20Party%20Libraries%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for 3rd Party Libraries",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=3rd%20Party%20Libraries%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "e-g-glide-retrofit-crashlytics-gson",
+          "title": "e.g. Glide, Retrofit, Crashlytics, GSON",
+          "description": "مباحث و تمرین‌های مرتبط با «e.g. Glide, Retrofit, Crashlytics, GSON».",
+          "order": 2,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای e.g. Glide, Retrofit, Crashlytics, GSON (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=e.g.%20Glide%2C%20Retrofit%2C%20Crashlytics%2C%20GSON%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره e.g. Glide, Retrofit, Crashlytics, GSON (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=e.g.%20Glide%2C%20Retrofit%2C%20Crashlytics%2C%20GSON%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for e.g. Glide, Retrofit, Crashlytics, GSON (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=e.g.%20Glide%2C%20Retrofit%2C%20Crashlytics%2C%20GSON%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for e.g. Glide, Retrofit, Crashlytics, GSON",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=e.g.%20Glide%2C%20Retrofit%2C%20Crashlytics%2C%20GSON%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی e.g. Glide, Retrofit, Crashlytics, GSON در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/e.g.%20Glide%2C%20Retrofit%2C%20Crashlytics%2C%20GSON%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for e.g. Glide, Retrofit, Crashlytics, GSON",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=e.g.%20Glide%2C%20Retrofit%2C%20Crashlytics%2C%20GSON%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "dagger",
+          "title": "Dagger",
+          "description": "مباحث و تمرین‌های مرتبط با «Dagger».",
+          "order": 3,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Dagger (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Dagger%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Dagger (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Dagger%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Dagger (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Dagger%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Dagger",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Dagger%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Dagger در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Dagger%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Dagger",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Dagger%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "koin",
+          "title": "Koin",
+          "description": "مباحث و تمرین‌های مرتبط با «Koin».",
+          "order": 4,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Koin (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Koin%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Koin (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Koin%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Koin (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Koin%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Koin",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Koin%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Koin در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Koin%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Koin",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Koin%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "priorityGroup": 1,
+          "category": "کورس فارسی رایگان",
+          "title": "جستجوی دوره رایگان فارسی برای Third‑party Libraries و DI (مکتب‌خونه/کوئرا/سایر منابع)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Third%E2%80%91party%20Libraries%20%D9%88%20DI%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 2,
+          "category": "بلاگ فارسی",
+          "title": "مقالات فارسی درباره Third‑party Libraries و DI (ویرگول/راکت/مدیوم فارسی)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Third%E2%80%91party%20Libraries%20%D9%88%20DI%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 3,
+          "category": "کورس انگلیسی رایگان",
+          "title": "Free courses for Third‑party Libraries و DI (freeCodeCamp / MIT OCW / Coursera)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Third%E2%80%91party%20Libraries%20%D9%88%20DI%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "YouTube playlists for Third‑party Libraries و DI",
+          "type": "playlist-search",
+          "url": "https://www.youtube.com/results?search_query=Third%E2%80%91party%20Libraries%20%D9%88%20DI%20tutorial%20playlist",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "پلی‌لیست/ویدیوهای فارسی Third‑party Libraries و DI در آپارات",
+          "type": "playlist-search",
+          "url": "https://www.aparat.com/result/Third%E2%80%91party%20Libraries%20%D9%88%20DI%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 5,
+          "category": "بلاگ انگلیسی",
+          "title": "English docs/articles for Third‑party Libraries و DI",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Third%E2%80%91party%20Libraries%20%D9%88%20DI%20documentation%20tutorial",
+          "language": "en"
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "concurrency-multithreading",
+      "title": "Concurrency و Multithreading",
+      "description": "موضوعات بخش «Concurrency و Multithreading».",
+      "order": 7,
+      "children": [
+        {
+          "id": "why-would-we-need-that",
+          "title": "Why would we need that?",
+          "description": "مباحث و تمرین‌های مرتبط با «Why would we need that?».",
+          "order": 1,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Why would we need that? (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Why%20would%20we%20need%20that%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Why would we need that? (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Why%20would%20we%20need%20that%3F%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Why would we need that? (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Why%20would%20we%20need%20that%3F%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Why would we need that?",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Why%20would%20we%20need%20that%3F%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Why would we need that? در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Why%20would%20we%20need%20that%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Why would we need that?",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Why%20would%20we%20need%20that%3F%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "multithreading",
+          "title": "یادگیری Multithreading",
+          "description": "مباحث و تمرین‌های مرتبط با «یادگیری Multithreading».",
+          "order": 2,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Learn Multithreading (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Learn%20Multithreading%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Learn Multithreading (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Learn%20Multithreading%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Learn Multithreading (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Learn%20Multithreading%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Learn Multithreading",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Learn%20Multithreading%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Learn Multithreading در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Learn%20Multithreading%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Learn Multithreading",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Learn%20Multithreading%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "write-threaded-code",
+          "title": "چطور write threaded code؟",
+          "description": "مباحث و تمرین‌های مرتبط با «چطور write threaded code؟».",
+          "order": 3,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای How to write threaded code? (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=How%20to%20write%20threaded%20code%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره How to write threaded code? (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=How%20to%20write%20threaded%20code%3F%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for How to write threaded code? (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=How%20to%20write%20threaded%20code%3F%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for How to write threaded code?",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=How%20to%20write%20threaded%20code%3F%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی How to write threaded code? در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/How%20to%20write%20threaded%20code%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for How to write threaded code?",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=How%20to%20write%20threaded%20code%3F%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "memory-concerns",
+          "title": "Memory Concerns",
+          "description": "مباحث و تمرین‌های مرتبط با «Memory Concerns».",
+          "order": 4,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Memory Concerns (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Memory%20Concerns%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Memory Concerns (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Memory%20Concerns%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Memory Concerns (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Memory%20Concerns%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Memory Concerns",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Memory%20Concerns%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Memory Concerns در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Memory%20Concerns%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Memory Concerns",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Memory%20Concerns%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "concurrency",
+          "title": "همزمانی (Concurrency)",
+          "description": "مباحث و تمرین‌های مرتبط با «همزمانی (Concurrency)».",
+          "order": 5,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Concurrency (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Concurrency%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Concurrency (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Concurrency%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Concurrency (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Concurrency%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Concurrency",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Concurrency%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Concurrency در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Concurrency%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Concurrency",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Concurrency%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "how-android-uses-threads-internally",
+          "title": "How android uses threads internally?",
+          "description": "مباحث و تمرین‌های مرتبط با «How android uses threads internally?».",
+          "order": 6,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای How android uses threads internally? (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=How%20android%20uses%20threads%20internally%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره How android uses threads internally? (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=How%20android%20uses%20threads%20internally%3F%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for How android uses threads internally? (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=How%20android%20uses%20threads%20internally%3F%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for How android uses threads internally?",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=How%20android%20uses%20threads%20internally%3F%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی How android uses threads internally? در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/How%20android%20uses%20threads%20internally%3F%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "Android Developers Docs",
+              "type": "article",
+              "url": "https://developer.android.com/docs",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "rxjava",
+          "title": "RxJava",
+          "description": "مباحث و تمرین‌های مرتبط با «RxJava».",
+          "order": 7,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای RxJava (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=RxJava%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره RxJava (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=RxJava%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for RxJava (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=RxJava%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for RxJava",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=RxJava%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی RxJava در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/RxJava%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for RxJava",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=RxJava%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "coroutines",
+          "title": "Coroutines",
+          "description": "مباحث و تمرین‌های مرتبط با «Coroutines».",
+          "order": 8,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Coroutines (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Coroutines%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Coroutines (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Coroutines%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Coroutines (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Coroutines%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Coroutines",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Coroutines%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Coroutines در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Coroutines%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Coroutines",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Coroutines%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "priorityGroup": 1,
+          "category": "کورس فارسی رایگان",
+          "title": "جستجوی دوره رایگان فارسی برای Concurrency و Multithreading (مکتب‌خونه/کوئرا/سایر منابع)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Concurrency%20%D9%88%20Multithreading%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 2,
+          "category": "بلاگ فارسی",
+          "title": "مقالات فارسی درباره Concurrency و Multithreading (ویرگول/راکت/مدیوم فارسی)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Concurrency%20%D9%88%20Multithreading%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 3,
+          "category": "کورس انگلیسی رایگان",
+          "title": "Free courses for Concurrency و Multithreading (freeCodeCamp / MIT OCW / Coursera)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Concurrency%20%D9%88%20Multithreading%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "YouTube playlists for Concurrency و Multithreading",
+          "type": "playlist-search",
+          "url": "https://www.youtube.com/results?search_query=Concurrency%20%D9%88%20Multithreading%20tutorial%20playlist",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "پلی‌لیست/ویدیوهای فارسی Concurrency و Multithreading در آپارات",
+          "type": "playlist-search",
+          "url": "https://www.aparat.com/result/Concurrency%20%D9%88%20Multithreading%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 5,
+          "category": "بلاگ انگلیسی",
+          "title": "English docs/articles for Concurrency و Multithreading",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Concurrency%20%D9%88%20Multithreading%20documentation%20tutorial",
+          "language": "en"
+        }
+      ],
+      "recommendation": ""
+    },
+    {
+      "id": "testing-security",
+      "title": "Testing و Security و ادامه مسیر",
+      "description": "موضوعات بخش «Testing و Security و ادامه مسیر».",
+      "order": 8,
+      "children": [
+        {
+          "id": "junit",
+          "title": "JUnit",
+          "description": "مباحث و تمرین‌های مرتبط با «JUnit».",
+          "order": 1,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای JUnit (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=JUnit%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره JUnit (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=JUnit%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for JUnit (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=JUnit%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for JUnit",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=JUnit%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی JUnit در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/JUnit%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for JUnit",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=JUnit%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "item",
+          "title": "امنیت",
+          "description": "مباحث و تمرین‌های مرتبط با «امنیت».",
+          "order": 2,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Security (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Security%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Security (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Security%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Security (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Security%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Security",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Security%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Security در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Security%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Security",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Security%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "espresso",
+          "title": "Espresso",
+          "description": "مباحث و تمرین‌های مرتبط با «Espresso».",
+          "order": 3,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Espresso (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Espresso%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Espresso (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Espresso%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Espresso (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Espresso%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Espresso",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Espresso%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Espresso در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Espresso%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Espresso",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Espresso%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "item-1",
+          "title": "تست",
+          "description": "مباحث و تمرین‌های مرتبط با «تست».",
+          "order": 4,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Testing (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Testing%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Testing (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Testing%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Testing (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Testing%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Testing",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Testing%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Testing در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Testing%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Testing",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Testing%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        },
+        {
+          "id": "keep-learning",
+          "title": "Keep Learning",
+          "description": "مباحث و تمرین‌های مرتبط با «Keep Learning».",
+          "order": 5,
+          "children": [],
+          "resources": [
+            {
+              "priorityGroup": 1,
+              "category": "کورس فارسی رایگان",
+              "title": "جستجوی دوره رایگان فارسی برای Keep Learning (مکتب‌خونه/کوئرا/سایر منابع)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Keep%20Learning%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 2,
+              "category": "بلاگ فارسی",
+              "title": "مقالات فارسی درباره Keep Learning (ویرگول/راکت/مدیوم فارسی)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Keep%20Learning%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 3,
+              "category": "کورس انگلیسی رایگان",
+              "title": "Free courses for Keep Learning (freeCodeCamp / MIT OCW / Coursera)",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Keep%20Learning%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "YouTube playlists for Keep Learning",
+              "type": "playlist-search",
+              "url": "https://www.youtube.com/results?search_query=Keep%20Learning%20tutorial%20playlist",
+              "language": "en"
+            },
+            {
+              "priorityGroup": 4,
+              "category": "پلی‌لیست یوتیوب و آپارات",
+              "title": "پلی‌لیست/ویدیوهای فارسی Keep Learning در آپارات",
+              "type": "playlist-search",
+              "url": "https://www.aparat.com/result/Keep%20Learning%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+              "language": "fa"
+            },
+            {
+              "priorityGroup": 5,
+              "category": "بلاگ انگلیسی",
+              "title": "English docs/articles for Keep Learning",
+              "type": "search",
+              "url": "https://duckduckgo.com/?q=Keep%20Learning%20documentation%20tutorial",
+              "language": "en"
+            }
+          ],
+          "recommendation": ""
+        }
+      ],
+      "resources": [
+        {
+          "priorityGroup": 1,
+          "category": "کورس فارسی رایگان",
+          "title": "جستجوی دوره رایگان فارسی برای Testing و Security و ادامه مسیر (مکتب‌خونه/کوئرا/سایر منابع)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Testing%20%D9%88%20Security%20%D9%88%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D9%85%D8%B3%DB%8C%D8%B1%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20site%3Amaktabkhooneh.org%20OR%20site%3Aquera.org%20OR%20site%3Afaradars.org",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 2,
+          "category": "بلاگ فارسی",
+          "title": "مقالات فارسی درباره Testing و Security و ادامه مسیر (ویرگول/راکت/مدیوم فارسی)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Testing%20%D9%88%20Security%20%D9%88%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D9%85%D8%B3%DB%8C%D8%B1%20site%3Avirgool.io%20OR%20site%3Aroocket.ir%20OR%20site%3Amedium.com",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 3,
+          "category": "کورس انگلیسی رایگان",
+          "title": "Free courses for Testing و Security و ادامه مسیر (freeCodeCamp / MIT OCW / Coursera)",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Testing%20%D9%88%20Security%20%D9%88%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D9%85%D8%B3%DB%8C%D8%B1%20free%20course%20site%3Afreecodecamp.org%20OR%20site%3Aocw.mit.edu%20OR%20site%3Acoursera.org%20OR%20site%3Aedx.org",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "YouTube playlists for Testing و Security و ادامه مسیر",
+          "type": "playlist-search",
+          "url": "https://www.youtube.com/results?search_query=Testing%20%D9%88%20Security%20%D9%88%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D9%85%D8%B3%DB%8C%D8%B1%20tutorial%20playlist",
+          "language": "en"
+        },
+        {
+          "priorityGroup": 4,
+          "category": "پلی‌لیست یوتیوب و آپارات",
+          "title": "پلی‌لیست/ویدیوهای فارسی Testing و Security و ادامه مسیر در آپارات",
+          "type": "playlist-search",
+          "url": "https://www.aparat.com/result/Testing%20%D9%88%20Security%20%D9%88%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D9%85%D8%B3%DB%8C%D8%B1%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+          "language": "fa"
+        },
+        {
+          "priorityGroup": 5,
+          "category": "بلاگ انگلیسی",
+          "title": "English docs/articles for Testing و Security و ادامه مسیر",
+          "type": "search",
+          "url": "https://duckduckgo.com/?q=Testing%20%D9%88%20Security%20%D9%88%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D9%85%D8%B3%DB%8C%D8%B1%20documentation%20tutorial",
+          "language": "en"
+        }
+      ],
+      "recommendation": ""
     }
   ],
   "projects": [
