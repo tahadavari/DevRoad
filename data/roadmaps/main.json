@@ -354,6 +354,15 @@
               "description": "برای شروع یادگیری زبان پایه (پیشنهاد رایج برای مبتدی‌ها: Python)."
             },
             {
+              "title": "آموزش پایتون رایگان - مونگارد",
+              "type": "course",
+              "url": "https://www.mongard.ir/courses/python-beginner-course/",
+              "price": "free",
+              "priceAmount": 0,
+              "language": "fa",
+              "description": "این دوره آموزش python برای افرادی که هیچ دانشی از برنامه نویسی و پایتون ندارند مناسب است و هیچ پیش نیازی ندارد."
+            },
+            {
               "title": "انتخاب زبان برنامه‌نویسی: راهنمای جامع برای مبتدیان",
               "type": "article",
               "url": "https://aiolearn.com/choose-a-programming-language/",
