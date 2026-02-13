@@ -45,6 +45,8 @@ interface Answer {
   likes: number;
   dislikes: number;
   userVote: "LIKE" | "DISLIKE" | null;
+  status: "PENDING" | "APPROVED" | "REJECTED";
+  isOwner?: boolean;
 }
 
 interface Question {
@@ -58,6 +60,8 @@ interface Question {
     lastName: string;
     role: string;
   };
+  status: "PENDING" | "APPROVED" | "REJECTED";
+  isOwner?: boolean;
 }
 
 export default function QuestionPage() {
@@ -190,7 +194,14 @@ export default function QuestionPage() {
               <AvatarFallback>{question.user.firstName[0]}</AvatarFallback>
             </Avatar>
             <div className="flex-1">
-              <CardTitle className="text-xl mb-1">{question.title}</CardTitle>
+              <div className="flex items-center gap-2 flex-wrap">
+                <CardTitle className="text-xl mb-1">{question.title}</CardTitle>
+                {question.isOwner && question.status !== "APPROVED" && (
+                  <Badge variant="secondary">
+                    {question.status === "PENDING" ? "در انتظار تایید ادمین" : "رد شده"}
+                  </Badge>
+                )}
+              </div>
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <span>
                   {question.user.firstName} {question.user.lastName}
@@ -283,6 +294,11 @@ export default function QuestionPage() {
                     <p className="whitespace-pre-wrap leading-relaxed text-sm">
                       {answer.content}
                     </p>
+                    {answer.isOwner && answer.status !== "APPROVED" && (
+                      <Badge variant="secondary" className="mt-2">
+                        {answer.status === "PENDING" ? "پاسخ شما در انتظار تایید ادمین است" : "پاسخ شما رد شده"}
+                      </Badge>
+                    )}
                     {/* Accept button for question author */}
                     {user &&
                       question.user.id === user.id &&

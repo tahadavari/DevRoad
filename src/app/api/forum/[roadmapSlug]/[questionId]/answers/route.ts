@@ -15,7 +15,7 @@ export async function POST(
       );
     }
 
-    const { questionId } = await params;
+    const { questionId, roadmapSlug } = await params;
     const body = await request.json();
     const { content } = body;
 
@@ -26,7 +26,6 @@ export async function POST(
       );
     }
 
-    // Get question to check it exists and for notification
     const question = await prisma.forumQuestion.findUnique({
       where: { id: questionId },
     });
@@ -43,6 +42,7 @@ export async function POST(
         questionId,
         userId: user.id,
         content,
+        status: "PENDING",
       },
       include: {
         user: {
@@ -51,14 +51,13 @@ export async function POST(
       },
     });
 
-    // Send notification to question author
     if (question.userId !== user.id) {
       await prisma.message.create({
         data: {
           userId: question.userId,
           content: `${user.firstName} ${user.lastName} به سوال شما پاسخ داد`,
           type: "ANSWER_RECEIVED",
-          link: `/forum/${(await params).roadmapSlug}/${questionId}`,
+          link: `/forum/${roadmapSlug}/${questionId}`,
         },
       });
     }
@@ -68,6 +67,7 @@ export async function POST(
         success: true,
         data: {
           ...answer,
+          isOwner: true,
           likes: 0,
           dislikes: 0,
           userVote: null,

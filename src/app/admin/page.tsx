@@ -132,6 +132,9 @@ export default function AdminPage() {
             مشاهده چت‌ها
           </Button>
         </Link>
+        <Link href="/admin/forum">
+          <Button variant="outline" size="sm">مدیریت فوروم</Button>
+        </Link>
       </div>
 
       {/* Stats */}

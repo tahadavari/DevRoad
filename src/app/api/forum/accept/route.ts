@@ -35,6 +35,13 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    if (answer.status !== "APPROVED") {
+      return NextResponse.json(
+        { success: false, error: "فقط پاسخ‌های تاییدشده توسط ادمین قابل انتخاب هستند" },
+        { status: 400 }
+      );
+    }
+
     if (answer.question.userId !== user.id) {
       return NextResponse.json(
         { success: false, error: "فقط نویسنده سوال می‌تواند پاسخ را تایید کند" },

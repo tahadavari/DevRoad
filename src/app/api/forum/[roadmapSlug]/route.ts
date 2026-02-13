@@ -8,6 +8,7 @@ export async function GET(
 ) {
   try {
     const { roadmapSlug } = await params;
+    const user = await getCurrentUser();
 
     const forum = await prisma.forum.findUnique({
       where: { roadmapSlug },
@@ -18,7 +19,15 @@ export async function GET(
     }
 
     const questions = await prisma.forumQuestion.findMany({
-      where: { forumId: forum.id },
+      where: {
+        forumId: forum.id,
+        OR:
+          user?.role === "ADMIN"
+            ? undefined
+            : user
+            ? [{ status: "APPROVED" }, { userId: user.id }]
+            : [{ status: "APPROVED" }],
+      },
       include: {
         user: {
           select: { id: true, firstName: true, lastName: true, role: true },
@@ -28,7 +37,12 @@ export async function GET(
       orderBy: { createdAt: "desc" },
     });
 
-    return NextResponse.json({ success: true, data: questions });
+    const data = questions.map((q) => ({
+      ...q,
+      isOwner: user ? q.userId === user.id : false,
+    }));
+
+    return NextResponse.json({ success: true, data });
   } catch (error) {
     console.error("Get forum questions error:", error);
     return NextResponse.json(
@@ -62,7 +76,6 @@ export async function POST(
       );
     }
 
-    // Find or create forum
     let forum = await prisma.forum.findUnique({
       where: { roadmapSlug },
     });
@@ -79,6 +92,7 @@ export async function POST(
         userId: user.id,
         title,
         content,
+        status: "PENDING",
       },
       include: {
         user: {
@@ -89,7 +103,7 @@ export async function POST(
     });
 
     return NextResponse.json(
-      { success: true, data: question },
+      { success: true, data: { ...question, isOwner: true } },
       { status: 201 }
     );
   } catch (error) {

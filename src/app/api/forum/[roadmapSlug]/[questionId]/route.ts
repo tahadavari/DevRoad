@@ -26,8 +26,27 @@ export async function GET(
       );
     }
 
+    const canViewQuestion =
+      question.status === "APPROVED" ||
+      (user && (user.role === "ADMIN" || question.userId === user.id));
+
+    if (!canViewQuestion) {
+      return NextResponse.json(
+        { success: false, error: "سوال یافت نشد" },
+        { status: 404 }
+      );
+    }
+
     const answers = await prisma.forumAnswer.findMany({
-      where: { questionId },
+      where: {
+        questionId,
+        OR:
+          user?.role === "ADMIN"
+            ? undefined
+            : user
+            ? [{ status: "APPROVED" }, { userId: user.id }]
+            : [{ status: "APPROVED" }],
+      },
       include: {
         user: {
           select: { id: true, firstName: true, lastName: true, role: true },
@@ -37,7 +56,6 @@ export async function GET(
       orderBy: { createdAt: "asc" },
     });
 
-    // Process answers to add vote counts
     const processedAnswers = answers.map((answer) => {
       const likes = answer.votes.filter((v) => v.type === "LIKE").length;
       const dislikes = answer.votes.filter((v) => v.type === "DISLIKE").length;
@@ -50,6 +68,8 @@ export async function GET(
         content: answer.content,
         isAccepted: answer.isAccepted,
         createdAt: answer.createdAt,
+        status: answer.status,
+        isOwner: user ? answer.userId === user.id : false,
         user: answer.user,
         likes,
         dislikes,
@@ -59,7 +79,13 @@ export async function GET(
 
     return NextResponse.json({
       success: true,
-      data: { question, answers: processedAnswers },
+      data: {
+        question: {
+          ...question,
+          isOwner: user ? question.userId === user.id : false,
+        },
+        answers: processedAnswers,
+      },
     });
   } catch (error) {
     console.error("Get question error:", error);
