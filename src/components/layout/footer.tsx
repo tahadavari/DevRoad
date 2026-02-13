@@ -15,7 +15,7 @@ export function Footer() {
               <span className="text-lg font-bold">DevRoad</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              مسیر یادگیری برنامه‌نویسی به زبان فارسی. پروژه‌ای اوپن‌سورس برای
+              مسیر یادگیری برنامه‌نویسی به زبان فارسی. پروژه‌ای متن‌باز برای
               جامعه توسعه‌دهندگان ایرانی.
             </p>
           </div>
@@ -46,10 +46,10 @@ export function Footer() {
           <div>
             <h3 className="font-semibold mb-3">مشارکت</h3>
             <p className="text-sm text-muted-foreground leading-relaxed mb-3">
-              این پروژه کاملاً اوپن‌سورس است. شما هم می‌توانید مشارکت کنید!
+              این پروژه کاملاً متن‌باز است. شما هم می‌توانید مشارکت کنید!
             </p>
             <a
-              href="https://github.com"
+              href="https://github.com/tahadavari/DevRoad"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors"

@@ -13,9 +13,9 @@ import { buildPageMetadata } from "@/lib/seo";
 import { Map, ArrowLeft, Server, Monitor, Cloud, Smartphone } from "lucide-react";
 
 export const metadata: Metadata = buildPageMetadata({
-  title: "رودمپ‌های برنامه‌نویسی",
+  title: "نقشه راه‌های برنامه‌نویسی",
   description:
-    "بهترین رودمپ‌های فارسی برنامه‌نویسی برای بک‌اند، فرانت‌اند، موبایل و دواپس را ببینید و مسیر یادگیری‌تان را گام‌به‌گام شروع کنید.",
+    "بهترین نقشه راه‌های فارسی برنامه‌نویسی برای بک‌اند، فرانت‌اند، موبایل و دواپس را ببینید و مسیر یادگیری‌تان را گام‌به‌گام شروع کنید.",
   path: "/roadmaps",
 });
 
@@ -57,7 +57,7 @@ export default function RoadmapsPage() {
                 <div className="flex items-center justify-between text-sm">
                   <Badge variant="secondary">{roadmap.totalSteps} مرحله</Badge>
                   <span className="flex items-center gap-1 text-primary group-hover:gap-2 transition-all">
-                    مشاهده رودمپ
+                    مشاهده نقشه راه
                     <ArrowLeft className="h-3 w-3" />
                   </span>
                 </div>

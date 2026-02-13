@@ -31,7 +31,7 @@ export default function AboutPage() {
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold mb-4">درباره DevRoad</h1>
         <p className="text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto">
-          DevRoad یک پلتفرم اوپن‌سورس برای یادگیری برنامه‌نویسی به زبان فارسی
+          DevRoad یک پلتفرم متن‌باز برای یادگیری برنامه‌نویسی به زبان فارسی
           است. هدف ما ایجاد یک منبع جامع و رایگان برای جامعه توسعه‌دهندگان
           ایرانی است.
         </p>
@@ -42,7 +42,7 @@ export default function AboutPage() {
         <Card className="text-center">
           <CardContent className="pt-6">
             <Code2 className="h-10 w-10 text-primary mx-auto mb-3" />
-            <h3 className="font-semibold mb-2">اوپن‌سورس</h3>
+            <h3 className="font-semibold mb-2">متن‌باز</h3>
             <p className="text-sm text-muted-foreground">
               کد منبع کاملاً باز و قابل مشارکت توسط همه
             </p>
@@ -73,15 +73,15 @@ export default function AboutPage() {
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
             <Github className="h-5 w-5" />
-            پروژه اوپن‌سورس
+            پروژه متن‌باز
           </CardTitle>
         </CardHeader>
         <CardContent className="space-y-4">
           <p className="leading-relaxed text-muted-foreground">
             این پروژه کاملاً{" "}
-            <strong className="text-foreground">اوپن‌سورس (Open Source)</strong>{" "}
+            <strong className="text-foreground">متن‌باز (Open Source)</strong>{" "}
             است و در جهت کاربردهای عام‌المنفعه توسعه داده شده است. هر کسی
-            می‌تواند در توسعه رودمپ‌ها، منابع آموزشی و بهبود پلتفرم مشارکت
+            می‌تواند در توسعه نقشه راه‌ها، منابع آموزشی و بهبود پلتفرم مشارکت
             کند.
           </p>
           <p className="leading-relaxed text-muted-foreground">
@@ -90,7 +90,7 @@ export default function AboutPage() {
             ما بپیوندید.
           </p>
           <a
-            href="https://github.com"
+            href="https://github.com/tahadavari/DevRoad"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-primary hover:underline"
@@ -108,7 +108,7 @@ export default function AboutPage() {
         <Heart className="h-12 w-12 text-red-500 mx-auto mb-4" />
         <h2 className="text-2xl font-bold mb-2">حمایت مالی</h2>
         <p className="text-muted-foreground leading-relaxed max-w-xl mx-auto">
-          تنها هزینه این پروژه، هزینه زیرساخت (سرور، دامنه و ...) به مبلغ{" "}
+          تنها هزینه این پروژه، هزینه زیرساخت به مبلغ{" "}
           <strong className="text-foreground">
             {formatPrice(donations.monthlyInfrastructureCost, donations.currency)}
           </strong>{" "}
@@ -177,9 +177,17 @@ export default function AboutPage() {
       <Card className="bg-muted/50">
         <CardContent className="text-center py-6">
           <p className="text-sm text-muted-foreground">
-            هزینه‌های زیرساخت تا ماه{" "}
+            هزینه‌های زیرساخت تا {" "}
             <strong className="text-foreground">{donations.fundedUntil}</strong>{" "}
             تأمین شده است. از حمایت شما سپاسگزاریم!
+          </p>
+        </CardContent>
+      </Card>
+
+      <Card className="bg-muted/50">
+        <CardContent className="text-center py-6">
+          <p className="text-sm text-muted-foreground">
+           جهت اسپانسرینگ هم می‌توانید با ایمیل tahadavari.dev@gmail.com در ارتباط باشید
           </p>
         </CardContent>
       </Card>

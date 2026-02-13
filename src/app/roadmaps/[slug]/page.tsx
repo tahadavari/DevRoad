@@ -20,21 +20,21 @@ export async function generateMetadata({
 
   if (!roadmapSummary) {
     return buildPageMetadata({
-      title: "رودمپ",
+      title: "نقشه راه",
       description: "مسیر یادگیری برنامه‌نویسی در DevRoad",
       path: `/roadmaps/${slug}`,
     });
   }
 
   return buildPageMetadata({
-    title: `${roadmapSummary.title} رودمپ یادگیری`,
+    title: `${roadmapSummary.title} نقشه راه یادگیری`,
     description: roadmapSummary.description,
     path: `/roadmaps/${slug}`,
     keywords: [
       roadmapSummary.title,
       `${roadmapSummary.title} roadmap`,
       "یادگیری برنامه نویسی",
-      "رودمپ فارسی",
+      "نقشه راه فارسی",
     ],
   });
 }

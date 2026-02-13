@@ -20,7 +20,7 @@ import {
 export const metadata: Metadata = buildPageMetadata({
   title: "مسیر یادگیری برنامه‌نویسی",
   description:
-    "با DevRoad مسیر یادگیری برنامه‌نویسی را با رودمپ‌های جامع، پروژه‌های عملی، منتورینگ و جامعه تخصصی فارسی شروع کنید.",
+    "با DevRoad مسیر یادگیری برنامه‌نویسی را با نقشه راه‌های جامع، پروژه‌های عملی، منتورینگ و جامعه تخصصی فارسی شروع کنید.",
   path: "/",
 });
 
@@ -63,7 +63,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 py-20 md:py-32">
           <div className="mx-auto max-w-3xl text-center">
             <Badge variant="secondary" className="mb-4">
-              پروژه اوپن‌سورس
+              پروژه متن‌باز
             </Badge>
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
               مسیر یادگیری{" "}
@@ -71,7 +71,7 @@ export default function HomePage() {
             </h1>
             <p className="mt-6 text-lg text-muted-foreground leading-relaxed">
               با DevRoad، مسیر یادگیری خود را در دنیای برنامه‌نویسی پیدا کنید.
-              رودمپ‌های جامع، پروژه‌های عملی، منتورینگ و فوروم‌های تخصصی
+              نقشه راه‌های جامع، پروژه‌های عملی، منتورینگ و فوروم‌های تخصصی
               همگی در یک مکان.
             </p>
             <div className="mt-8 flex flex-wrap justify-center gap-4">
@@ -106,7 +106,7 @@ export default function HomePage() {
               <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-lg bg-primary/10 text-primary">
                 <BookOpen className="h-6 w-6" />
               </div>
-              <CardTitle className="mt-4">رودمپ‌های جامع</CardTitle>
+              <CardTitle className="mt-4">نقشه راه‌های جامع</CardTitle>
             </CardHeader>
             <CardContent>
               <CardDescription>
