@@ -117,7 +117,7 @@
           "description": "نصب و استفاده از VS Code (برای اکثر مسیرها) و آشنایی کلی با IDEها مثل Android Studio",
           "resources": [
             {
-              "title": " آموزش نصب و راه\u200Cاندازی Visual Studio Code",
+              "title": " آموزش نصب و راه‌اندازی Visual Studio Code",
               "type": "video",
               "url": "https://www.youtube.com/watch?v=8dU6r03Xaow",
               "price": "free",
@@ -194,7 +194,7 @@
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
-              "description": "لینوکس یک سیستم\u200Cعامل کامپیوتری است که از لحاظ اصولی بر پایه هسته لینوکس (Linux kernel) ساخته شده است. این سیستم\u200Cعامل به عنوان یک سیستم\u200Cعامل متن\u200Cباز (Open Source) شناخته می\u200Cشود"
+              "description": "لینوکس یک سیستم‌عامل کامپیوتری است که از لحاظ اصولی بر پایه هسته لینوکس (Linux kernel) ساخته شده است. این سیستم‌عامل به عنوان یک سیستم‌عامل متن‌باز (Open Source) شناخته می‌شود"
             },
             {
               "title": "The Linux Command Line (William Shotts)",
@@ -326,7 +326,7 @@
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
-              "description": "ساختمان داده یکی از دروس اصل رشته مهندسی کامپیوتر و علوم کامپیوتر است و از دروس پایه و بسیار کاربردی برای برنامه\u200Cنویسی به\u200Cحساب می\u200Cآید. دوره آموزش ساختمان داده مکتب خونه با هدف آموزش این درس مهم تهیه و تدوین شده است."
+              "description": "ساختمان داده یکی از دروس اصل رشته مهندسی کامپیوتر و علوم کامپیوتر است و از دروس پایه و بسیار کاربردی برای برنامه‌نویسی به‌حساب می‌آید. دوره آموزش ساختمان داده مکتب خونه با هدف آموزش این درس مهم تهیه و تدوین شده است."
             }
           ],
           "recommendation": "personal"
@@ -528,49 +528,13 @@
           "description": "توسعه سمت سرور، API و دیتابیس — نقشه راه کامل Backend",
           "resources": [
             {
-              "title": "آموزش آشنایی با برنامه‌نویسی Back End و Front End و تفاوت آن‌ها (رایگان) | فرادرس",
-              "type": "course",
-              "url": "https://faradars.org/courses/familiarity-with-back-end-and-front-end-programming-fvazpub109",
+              "title": "ورود به نقشه راه Backend در DevRoad",
+              "type": "roadmap",
+              "url": "/roadmaps/backend",
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
-              "description": "یک شروع سریع برای اینکه Backend دقیقا چیست و چه مهارت‌هایی می‌خواهد."
-            },
-            {
-              "title": "فرق Back End و Front End چیست؟ (مجله فرادرس)",
-              "type": "article",
-              "url": "https://blog.faradars.org/back-end-%D9%88-front-end-%DA%86%DB%8C%D8%B3%D8%AA/",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "fa",
-              "description": "مرور کلی برای تصمیم‌گیری و شناخت تفاوت‌ها."
-            },
-            {
-              "title": "Back End Development and APIs (freeCodeCamp)",
-              "type": "course",
-              "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "مسیر رایگان برای آشنایی با مفاهیم Backend و کار با APIها (تمرین‌محور)."
-            },
-            {
-              "title": "Computer Networking Course (YouTube Playlist)",
-              "type": "playlist",
-              "url": "https://www.youtube.com/playlist?list=PLPSzPbA1T_p3gty-2gzFEq1x4W1CUyZgV",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "درک شبکه برای Backend مهم است؛ این پلی‌لیست یک دوره کامل Network Engineering است."
-            },
-            {
-              "title": "Backend Developer Roadmap (roadmap.sh)",
-              "type": "article",
-              "url": "https://roadmap.sh/backend",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "نقشه راه دقیق و مرحله‌به‌مرحله برای Backend."
+              "description": "نقشه راه داخلی Backend را باز کنید و مسیر تخصصی را ادامه دهید."
             }
           ],
           "linkedRoadmapSlug": "backend",
@@ -582,49 +546,13 @@
           "description": "توسعه رابط کاربری وب — نقشه راه کامل Frontend",
           "resources": [
             {
-              "title": "آموزش آشنایی با برنامه‌نویسی Back End و Front End و تفاوت آن‌ها (رایگان) | فرادرس",
-              "type": "course",
-              "url": "https://faradars.org/courses/familiarity-with-back-end-and-front-end-programming-fvazpub109",
+              "title": "ورود به نقشه راه Frontend در DevRoad",
+              "type": "roadmap",
+              "url": "/roadmaps/frontend",
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
-              "description": "شروع سریع برای فهم نقش Frontend و مهارت‌های لازم."
-            },
-            {
-              "title": "فرق Back End و Front End چیست؟ (مجله فرادرس)",
-              "type": "article",
-              "url": "https://blog.faradars.org/back-end-%D9%88-front-end-%DA%86%DB%8C%D8%B3%D8%AA/",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "fa",
-              "description": "مقایسه عملی Frontend/Backend برای تصمیم‌گیری و شناخت بهتر مسیر."
-            },
-            {
-              "title": "Responsive Web Design (freeCodeCamp)",
-              "type": "course",
-              "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "مسیر رایگان برای شروع Frontend با HTML/CSS و پروژه‌های مرحله‌ای."
-            },
-            {
-              "title": "Frontend vs Backend [Persian] (YouTube)",
-              "type": "video",
-              "url": "https://www.youtube.com/watch?v=l4l540eYKvk",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "fa",
-              "description": "ویدیوی کوتاه برای دیدن تفاوت نقش‌ها (کمک به انتخاب مسیر)."
-            },
-            {
-              "title": "Frontend Developer Roadmap (roadmap.sh)",
-              "type": "article",
-              "url": "https://roadmap.sh/frontend",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "نقشه راه دقیق و مرحله‌به‌مرحله برای Frontend."
+              "description": "نقشه راه داخلی Frontend را باز کنید و مسیر تخصصی را ادامه دهید."
             }
           ],
           "linkedRoadmapSlug": "frontend",
@@ -636,49 +564,13 @@
           "description": "توسعه اپلیکیشن موبایل Android — نقشه راه کامل Android",
           "resources": [
             {
-              "title": "آموزش 0 تا 100 برنامه‌نویسی Android با Kotlin (YouTube Playlist - فارسی)",
-              "type": "playlist",
-              "url": "https://www.youtube.com/playlist?list=PLK7GvnlPRNbNWbkMD-aBRerwCDdlz2nVt",
+              "title": "ورود به نقشه راه Android در DevRoad",
+              "type": "roadmap",
+              "url": "/roadmaps/android",
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
-              "description": "شروع رایگان و فارسی برای آشنایی با Android Studio و مفاهیم اولیه اندروید."
-            },
-            {
-              "title": "دوره رایگان آموزش Kotlin 2025 (دانشجویار)",
-              "type": "article",
-              "url": "https://www.daneshjooyar.com/learning-kotlin/",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "fa",
-              "description": "برای یادگیری Kotlin از پایه (پیش‌نیاز اصلی مسیر Android)."
-            },
-            {
-              "title": "Android Developer Courses (Official - developer.android.com)",
-              "type": "course",
-              "url": "https://developer.android.com/courses",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "دوره‌ها و مسیرهای رایگان رسمی گوگل برای یادگیری Android."
-            },
-            {
-              "title": "Android App Development with Kotlin (YouTube Playlist)",
-              "type": "playlist",
-              "url": "https://www.youtube.com/playlist?list=PLYjHmrrr8jEWFVgZ6cBzqdV9G5_tvmfd0",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "پلی‌لیست انگلیسی برای آموزش جامع توسعه اپ اندروید با Kotlin."
-            },
-            {
-              "title": "Android Developer Roadmap (roadmap.sh)",
-              "type": "article",
-              "url": "https://roadmap.sh/android",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "نقشه راه مرحله‌به‌مرحله برای Android Developer."
+              "description": "نقشه راه داخلی Android را باز کنید و مسیر تخصصی را ادامه دهید."
             }
           ],
           "linkedRoadmapSlug": "android",
@@ -690,49 +582,13 @@
           "description": "زیرساخت، CI/CD، Cloud و اتوماسیون — نقشه راه کامل DevOps",
           "resources": [
             {
-              "title": "آموزش آشنایی دواپس DevOps + مبانی و مقدمات (رایگان) | فرادرس",
-              "type": "course",
-              "url": "https://faradars.org/courses/introduction-to-devops-fvit312",
+              "title": "ورود به نقشه راه DevOps در DevRoad",
+              "type": "roadmap",
+              "url": "/roadmaps/devops",
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
-              "description": "شروع با مفاهیم پایه DevOps، CI/CD، اتوماسیون و فرهنگ همکاری."
-            },
-            {
-              "title": "DevOps چیست؟ (ویکی‌پدیا فارسی)",
-              "type": "article",
-              "url": "https://fa.wikipedia.org/wiki/DevOps",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "fa",
-              "description": "برای درک سریع مفهوم DevOps و این‌که دقیقا در سازمان‌ها چه نقشی دارد."
-            },
-            {
-              "title": "DevOps Zero to Hero Course (YouTube Playlist)",
-              "type": "course",
-              "url": "https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "مسیر ویدیویی رایگان و جامع برای شروع DevOps (Linux, Git, Cloud, CI/CD و ...)."
-            },
-            {
-              "title": "دوره DevOps از صفر (YouTube Playlist - فارسی)",
-              "type": "playlist",
-              "url": "https://www.youtube.com/playlist?list=PL-mrTgDRWNRWJkB3b3DiYF4lw64egnaEh",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "fa",
-              "description": "پلی‌لیست فارسی برای شروع مفاهیم زیرساخت و DevOps."
-            },
-            {
-              "title": "DevOps Roadmap (roadmap.sh)",
-              "type": "article",
-              "url": "https://roadmap.sh/devops",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "نقشه راه مرحله‌به‌مرحله DevOps."
+              "description": "نقشه راه داخلی DevOps را باز کنید و مسیر تخصصی را ادامه دهید."
             }
           ],
           "linkedRoadmapSlug": "devops",
