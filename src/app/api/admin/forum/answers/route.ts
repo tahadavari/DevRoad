@@ -27,7 +27,7 @@ export async function GET() {
     });
 
     const pendingAnswers = answers.filter(
-      (answer) => (answer as { status?: string }).status === "PENDING"
+      (answer: { status?: string }) => answer.status === "PENDING"
     );
 
     return NextResponse.json({ success: true, data: pendingAnswers });
