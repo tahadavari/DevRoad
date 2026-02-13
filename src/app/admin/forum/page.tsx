@@ -17,6 +17,14 @@ interface PendingQuestion {
   user: { firstName: string; lastName: string };
 }
 
+interface PendingBlogComment {
+  id: string;
+  blogSlug: string;
+  content: string;
+  createdAt: string;
+  user: { firstName: string; lastName: string };
+}
+
 interface PendingAnswer {
   id: string;
   content: string;
@@ -32,17 +40,24 @@ export default function AdminForumModerationPage() {
   const [busyId, setBusyId] = useState<string | null>(null);
   const [questions, setQuestions] = useState<PendingQuestion[]>([]);
   const [answers, setAnswers] = useState<PendingAnswer[]>([]);
+  const [comments, setComments] = useState<PendingBlogComment[]>([]);
 
   const fetchData = async () => {
     setLoading(true);
     try {
-      const [qRes, aRes] = await Promise.all([
+      const [qRes, aRes, cRes] = await Promise.all([
         fetch("/api/admin/forum/questions"),
         fetch("/api/admin/forum/answers"),
+        fetch("/api/admin/blog/comments"),
       ]);
-      const [qData, aData] = await Promise.all([qRes.json(), aRes.json()]);
+      const [qData, aData, cData] = await Promise.all([
+        qRes.json(),
+        aRes.json(),
+        cRes.json(),
+      ]);
       if (qData.success) setQuestions(qData.data || []);
       if (aData.success) setAnswers(aData.data || []);
+      if (cData.success) setComments(cData.data || []);
     } finally {
       setLoading(false);
     }
@@ -68,6 +83,22 @@ export default function AdminForumModerationPage() {
       });
       if (res.ok) {
         setQuestions((prev) => prev.filter((q) => q.id !== questionId));
+      }
+    } finally {
+      setBusyId(null);
+    }
+  };
+
+  const updateCommentStatus = async (commentId: string, status: "APPROVED" | "REJECTED") => {
+    setBusyId(commentId);
+    try {
+      const res = await fetch("/api/admin/blog/comments/status", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ commentId, status }),
+      });
+      if (res.ok) {
+        setComments((prev) => prev.filter((c) => c.id !== commentId));
       }
     } finally {
       setBusyId(null);
@@ -127,6 +158,27 @@ export default function AdminForumModerationPage() {
             </div>
           ))}
           {!loading && questions.length === 0 && <p className="text-sm text-muted-foreground">موردی وجود ندارد.</p>}
+        </CardContent>
+      </Card>
+
+
+      <Card>
+        <CardHeader>
+          <CardTitle>کامنت‌های بلاگ در انتظار تایید ({comments.length})</CardTitle>
+        </CardHeader>
+        <CardContent className="space-y-3">
+          {loading ? <Loader2 className="h-5 w-5 animate-spin" /> : comments.map((c) => (
+            <div key={c.id} className="border rounded-lg p-3 space-y-2">
+              <p className="text-sm text-muted-foreground">بلاگ: {c.blogSlug}</p>
+              <p className="text-sm">{c.content}</p>
+              <p className="text-xs text-muted-foreground">{c.user.firstName} {c.user.lastName}</p>
+              <div className="flex gap-2">
+                <Button size="sm" disabled={busyId === c.id} onClick={() => updateCommentStatus(c.id, "APPROVED")}>تایید</Button>
+                <Button size="sm" variant="destructive" disabled={busyId === c.id} onClick={() => updateCommentStatus(c.id, "REJECTED")}>رد</Button>
+              </div>
+            </div>
+          ))}
+          {!loading && comments.length === 0 && <p className="text-sm text-muted-foreground">موردی وجود ندارد.</p>}
         </CardContent>
       </Card>
 
