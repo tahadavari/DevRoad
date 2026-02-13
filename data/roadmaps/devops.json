@@ -86,7 +86,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "python",
@@ -155,7 +155,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "javascript-node-js",
@@ -204,7 +204,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -334,7 +334,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -404,7 +404,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -534,7 +534,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "gitlab",
@@ -583,7 +583,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "bitbucket-2",
@@ -632,7 +632,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -721,7 +721,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1061,7 +1061,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1161,7 +1161,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "puppet",
@@ -1200,7 +1200,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1300,7 +1300,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "circle-ci",
@@ -1339,7 +1339,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "octopus-deploy",
@@ -1368,7 +1368,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "github-actions",
@@ -1417,7 +1417,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1517,7 +1517,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1587,7 +1587,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "vault",
@@ -1636,7 +1636,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "cloud-specific-tools",
@@ -1715,7 +1715,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1795,7 +1795,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1945,7 +1945,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -2025,7 +2025,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -2251,7 +2251,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -2341,7 +2341,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "linkerd",
@@ -2390,7 +2390,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "envoy",
@@ -2439,7 +2439,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "consul",
@@ -2488,7 +2488,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -2618,7 +2618,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "vim-nano-emacs-2",
@@ -2697,7 +2697,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "process-monitoring",
@@ -2746,7 +2746,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "performance-monitoring",
@@ -2795,7 +2795,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "text-manipulation",
@@ -2824,7 +2824,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "text-manipulation-2",
@@ -2853,7 +2853,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [

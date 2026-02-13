@@ -134,6 +134,16 @@ function slugify(title) {
     .replace(/^-+|-+$/g, "");
 }
 
+/** از legend نودهای API به مقدار recommendation در DevRoad */
+function legendToRecommendation(legend) {
+  if (!legend?.label) return "";
+  const label = (legend.label || "").toLowerCase();
+  if (label.includes("personal recommendation") || label.includes("opinion")) return "personal";
+  if (label.includes("alternative option") || label.includes("pick this or purple")) return "alternative";
+  if (label.includes("order not strict") || label.includes("learn anytime")) return "flexible";
+  return "";
+}
+
 function ensureUniqueIds(steps) {
   const used = new Set();
   function fix(obj, isChild = false) {
@@ -161,6 +171,9 @@ function getStepIdToNodeId() {
   return stepIdToNodeId;
 }
 
+/** نودهایی که فقط واسط هستند؛ فرزندان واقعی از پسِ آن‌ها (subtopic) جمع‌آوری می‌شوند. */
+const PASS_THROUGH_TYPES = new Set(["vertical", "horizontal", "paragraph"]);
+
 function convertApiToDevRoad(apiData) {
   const nodes = apiData.nodes || [];
   const edges = apiData.edges || [];
@@ -170,22 +183,58 @@ function convertApiToDevRoad(apiData) {
     if (n.data?.oldId) nodeMap.set(n.data.oldId, n);
   });
 
+  const outEdges = new Map();
+  edges.forEach((edge) => {
+    const source = nodeMap.get(edge.source);
+    const target = nodeMap.get(edge.target);
+    if (!source || !target) return;
+    if (!outEdges.has(edge.source)) outEdges.set(edge.source, []);
+    outEdges.get(edge.source).push(edge.target);
+  });
+
+  /** از یک نود (topic/section یا pass-through) همهٔ subtopicهای قابل‌دسترس را با عبور از vertical/horizontal برمی‌گرداند. */
+  function getReachableSubtopics(startId) {
+    const visited = new Set();
+    const result = [];
+    function dfs(id) {
+      if (visited.has(id)) return;
+      visited.add(id);
+      const targets = outEdges.get(id) || [];
+      for (const tid of targets) {
+        const tnode = nodeMap.get(tid);
+        if (!tnode) continue;
+        if (tnode.type === "subtopic") result.push(tid);
+        else if (PASS_THROUGH_TYPES.has(tnode.type)) dfs(tid);
+      }
+    }
+    dfs(startId);
+    const withPosition = result.map((nodeId) => ({ id: nodeId, y: (nodeMap.get(nodeId)?.position?.y ?? 0) }));
+    withPosition.sort((a, b) => a.y - b.y);
+    return withPosition.map((x) => x.id);
+  }
+
   const childrenMap = new Map();
   const parentMap = new Map();
   edges.forEach((edge) => {
     const source = nodeMap.get(edge.source);
     const target = nodeMap.get(edge.target);
     if (!source || !target) return;
-    if ((source.type === "topic" || source.type === "section") && target.type === "subtopic") {
-      if (!childrenMap.has(source.id)) childrenMap.set(source.id, []);
-      childrenMap.get(source.id).push(target.id);
-      parentMap.set(target.id, source.id);
-    } else if (source.type === "subtopic" && target.type === "subtopic") {
+    if (source.type === "subtopic" && target.type === "subtopic") {
       if (!childrenMap.has(source.id)) childrenMap.set(source.id, []);
       childrenMap.get(source.id).push(target.id);
       parentMap.set(target.id, source.id);
     }
   });
+
+  const rootTopics = nodes.filter((n) => n.type === "topic" && !parentMap.has(n.id));
+  const rootSections = nodes.filter((n) => n.type === "section" && !parentMap.has(n.id));
+  for (const node of [...rootTopics, ...rootSections]) {
+    const reachable = getReachableSubtopics(node.id);
+    if (reachable.length > 0) {
+      childrenMap.set(node.id, reachable);
+      reachable.forEach((subId) => parentMap.set(subId, node.id));
+    }
+  }
 
   const topics = nodes.filter((n) => n.type === "topic");
   topics.sort((a, b) => (a.position?.y ?? 0) - (b.position?.y ?? 0));
@@ -208,6 +257,8 @@ function convertApiToDevRoad(apiData) {
     const children = childIds
       .map((nodeId, idx) => toDevRoadStep(nodeMap.get(nodeId), idx + 1))
       .filter(Boolean);
+    const legend = node.legend || node.data?.legend;
+    const recommendation = legendToRecommendation(legend) || "";
     return {
       id,
       title,
@@ -215,7 +266,7 @@ function convertApiToDevRoad(apiData) {
       order,
       children: children.length ? children : undefined,
       resources: [],
-      recommendation: "",
+      recommendation,
     };
   }
 
@@ -231,15 +282,17 @@ function convertApiToDevRoad(apiData) {
     const children = childIds
       .map((nodeId, idx) => toDevRoadStep(nodeMap.get(nodeId), idx + 1))
       .filter(Boolean);
+    const topicLegend = topic.legend || topic.data?.legend;
+    const topicRecommendation = legendToRecommendation(topicLegend) || "";
     if (children.length === 0) {
       steps.push({
         id,
         title,
         description: `مباحث و تمرین‌های مرتبط با «${title}».`,
         order: order++,
-        children: [{ id: id + "-item", title, description: `مباحث و تمرین‌های مرتبط با «${title}».`, order: 1, children: [], resources: [], recommendation: "" }],
+        children: [{ id: id + "-item", title, description: `مباحث و تمرین‌های مرتبط با «${title}».`, order: 1, children: [], resources: [], recommendation: topicRecommendation }],
         resources: [],
-        recommendation: "",
+        recommendation: topicRecommendation,
       });
     } else {
       steps.push({
@@ -249,7 +302,7 @@ function convertApiToDevRoad(apiData) {
         order: order++,
         children,
         resources: [],
-        recommendation: "",
+        recommendation: topicRecommendation,
       });
     }
   });

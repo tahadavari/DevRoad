@@ -66,7 +66,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -166,7 +166,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -316,7 +316,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "hooks-best-practices",
@@ -375,7 +375,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -445,7 +445,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -515,7 +515,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -665,7 +665,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "react-aria",
@@ -694,7 +694,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "ark-ui",
@@ -743,7 +743,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -863,7 +863,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "cypress",
@@ -912,7 +912,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1022,7 +1022,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1112,7 +1112,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1172,7 +1172,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1232,7 +1232,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1452,7 +1452,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [

@@ -76,7 +76,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "what-is-http",
@@ -155,7 +155,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "what-is-domain-name",
@@ -204,7 +204,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "what-is-hosting",
@@ -263,7 +263,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "dns-and-how-it-works",
@@ -322,7 +322,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "browsers-and-how-they-work",
@@ -371,7 +371,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -485,13 +485,244 @@
       "order": 3,
       "children": [
         {
-          "id": "pick-a-backend-language-item",
-          "title": "Pick a Backend Language",
-          "description": "مباحث و تمرین‌های مرتبط با «Pick a Backend Language».",
+          "id": "go",
+          "title": "Go",
+          "description": "مباحث و تمرین‌های مرتبط با «Go».",
           "order": 1,
           "children": [],
-          "resources": [],
-          "recommendation": ""
+          "resources": [
+            {
+              "title": "Visit Dedicated Go Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/golang",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Go Documentation",
+              "type": "article",
+              "url": "https://go.dev/doc/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
+        },
+        {
+          "id": "php",
+          "title": "PHP",
+          "description": "مباحث و تمرین‌های مرتبط با «PHP».",
+          "order": 2,
+          "children": [],
+          "resources": [
+            {
+              "title": "Visit Dedicated PHP Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "PHP Documentation",
+              "type": "article",
+              "url": "https://www.php.net/docs.php",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
+        },
+        {
+          "id": "javascript",
+          "title": "JavaScript",
+          "description": "مباحث و تمرین‌های مرتبط با «JavaScript».",
+          "order": 3,
+          "children": [],
+          "resources": [
+            {
+              "title": "Visit Dedicated Node.js Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/nodejs",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "MDN JavaScript Guide",
+              "type": "article",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
+        },
+        {
+          "id": "java",
+          "title": "Java",
+          "description": "مباحث و تمرین‌های مرتبط با «Java».",
+          "order": 4,
+          "children": [],
+          "resources": [
+            {
+              "title": "Visit Dedicated Java Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/java",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Java Documentation",
+              "type": "article",
+              "url": "https://docs.oracle.com/en/java/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
+        },
+        {
+          "id": "python",
+          "title": "Python",
+          "description": "مباحث و تمرین‌های مرتبط با «Python».",
+          "order": 5,
+          "children": [],
+          "resources": [
+            {
+              "title": "Visit Dedicated Python Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/python",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Python Documentation",
+              "type": "article",
+              "url": "https://docs.python.org/3/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "personal"
+        },
+        {
+          "id": "c-sharp",
+          "title": "C#",
+          "description": "مباحث و تمرین‌های مرتبط با «C#».",
+          "order": 6,
+          "children": [],
+          "resources": [
+            {
+              "title": "Visit Dedicated ASP.NET Core Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/aspnet-core",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "C# Documentation",
+              "type": "article",
+              "url": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
+        },
+        {
+          "id": "ruby",
+          "title": "Ruby",
+          "description": "مباحث و تمرین‌های مرتبط با «Ruby».",
+          "order": 7,
+          "children": [],
+          "resources": [
+            {
+              "title": "Visit Dedicated Ruby Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/ruby",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Ruby Documentation",
+              "type": "article",
+              "url": "https://docs.ruby-lang.org/en/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
+        },
+        {
+          "id": "rust",
+          "title": "Rust",
+          "description": "مباحث و تمرین‌های مرتبط با «Rust».",
+          "order": 8,
+          "children": [],
+          "resources": [
+            {
+              "title": "Visit Dedicated Rust Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/rust",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Rust Book",
+              "type": "article",
+              "url": "https://doc.rust-lang.org/book/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
         }
       ],
       "resources": [],
@@ -580,7 +811,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -710,7 +941,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -820,7 +1051,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "sqlite",
@@ -869,7 +1100,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "sqlite-2",
@@ -918,7 +1149,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1038,7 +1269,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "flexible"
         }
       ],
       "resources": [
@@ -1983,7 +2214,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -2073,7 +2304,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "unit-testing",
@@ -2122,7 +2353,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "functional-testing",
@@ -2161,7 +2392,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -2351,7 +2582,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "serverless",
@@ -2400,7 +2631,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "service-mesh",
@@ -2449,7 +2680,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "twelve-factor-apps",
@@ -2488,7 +2719,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -2548,7 +2779,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "long-short-polling-2",
@@ -2577,7 +2808,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -2667,7 +2898,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "flexible"
         },
         {
           "id": "sharding-strategies",
@@ -2716,7 +2947,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "flexible"
         },
         {
           "id": "data-replication",
@@ -2745,7 +2976,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "flexible"
         },
         {
           "id": "database-indexes",
@@ -2784,7 +3015,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [

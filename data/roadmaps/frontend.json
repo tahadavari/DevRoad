@@ -56,7 +56,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "what-is-http",
@@ -105,7 +105,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "what-is-domain-name",
@@ -144,7 +144,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "what-is-hosting",
@@ -183,7 +183,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "dns-and-how-it-works",
@@ -242,7 +242,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "browsers-and-how-they-work",
@@ -291,7 +291,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -591,7 +591,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -701,7 +701,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -901,7 +901,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -945,13 +945,204 @@
       "order": 9,
       "children": [
         {
-          "id": "learn-a-framework-item",
-          "title": "Learn a Framework",
-          "description": "مباحث و تمرین‌های مرتبط با «Learn a Framework».",
+          "id": "react",
+          "title": "React",
+          "description": "مباحث و تمرین‌های مرتبط با «React».",
           "order": 1,
           "children": [],
-          "resources": [],
-          "recommendation": ""
+          "resources": [
+            {
+              "title": "Visit Dedicated React Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/react",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "React Website",
+              "type": "article",
+              "url": "https://react.dev",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about React",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/react?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "personal"
+        },
+        {
+          "id": "vue-js",
+          "title": "Vue.js",
+          "description": "مباحث و تمرین‌های مرتبط با «Vue.js».",
+          "order": 2,
+          "children": [],
+          "resources": [
+            {
+              "title": "Vue.js Website",
+              "type": "article",
+              "url": "https://vuejs.org/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Meet Vue.js, the Flexible JavaScript Framework",
+              "type": "article",
+              "url": "https://thenewstack.io/meet-vue-js-flexible-javascript-framework/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Vue.js",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/vuejs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
+        },
+        {
+          "id": "angular",
+          "title": "Angular",
+          "description": "مباحث و تمرین‌های مرتبط با «Angular».",
+          "order": 3,
+          "children": [],
+          "resources": [
+            {
+              "title": "Visit Dedicated Angular Roadmap",
+              "type": "article",
+              "url": "https://roadmap.sh/angular",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Angular Website",
+              "type": "article",
+              "url": "https://angular.dev",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Angular",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/angular?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
+        },
+        {
+          "id": "svelte",
+          "title": "Svelte",
+          "description": "مباحث و تمرین‌های مرتبط با «Svelte».",
+          "order": 4,
+          "children": [],
+          "resources": [
+            {
+              "title": "Svelte Website",
+              "type": "article",
+              "url": "https://svelte.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Svelte Kit",
+              "type": "article",
+              "url": "https://kit.svelte.dev/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about Svelte",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/svelte?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
+        },
+        {
+          "id": "solid-js",
+          "title": "Solid JS",
+          "description": "مباحث و تمرین‌های مرتبط با «Solid JS».",
+          "order": 5,
+          "children": [],
+          "resources": [
+            {
+              "title": "SolidJS Website",
+              "type": "article",
+              "url": "https://www.solidjs.com/",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "SolidJS Tutorial",
+              "type": "article",
+              "url": "https://www.solidjs.com/tutorial",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            },
+            {
+              "title": "Explore top posts about SolidJS",
+              "type": "article",
+              "url": "https://app.daily.dev/tags/solidjs?ref=roadmapsh",
+              "price": "free",
+              "priceAmount": 0,
+              "duration": "",
+              "language": "en",
+              "description": ""
+            }
+          ],
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1171,7 +1362,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "antigravity",
@@ -1230,7 +1421,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "claude-code",
@@ -1299,7 +1490,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "copilot",
@@ -1358,7 +1549,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1966,7 +2157,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -2046,7 +2237,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -2216,7 +2407,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -2386,7 +2577,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -2436,7 +2627,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -2481,7 +2672,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "personal"
     },
     {
       "id": "vue-js",
@@ -2496,7 +2687,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -2541,7 +2732,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "alternative"
     },
     {
       "id": "ssr",
@@ -2616,7 +2807,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -2661,7 +2852,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "alternative"
     },
     {
       "id": "type-checkers",
@@ -2746,7 +2937,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -2996,7 +3187,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "flexible"
         }
       ],
       "resources": [
@@ -3096,7 +3287,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -3161,7 +3352,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "personal"
     },
     {
       "id": "accessibility",
@@ -3216,7 +3407,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "lighthouse",
@@ -3285,7 +3476,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "service-workers",
@@ -3344,7 +3535,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "cache-control",
@@ -3393,7 +3584,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "cache-control-2",
@@ -3442,7 +3633,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -3482,7 +3673,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "flexible"
         }
       ],
       "resources": [
@@ -3527,7 +3718,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "flexible"
     },
     {
       "id": "mobile-apps",
@@ -3572,7 +3763,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -3627,7 +3818,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "flexible"
     },
     {
       "id": "desktop-apps",
@@ -3682,7 +3873,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "tauri",
@@ -3721,7 +3912,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "flutter",
@@ -3790,7 +3981,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [

@@ -33,3 +33,11 @@ $env:ROADMAP_SH_BEARER="Bearer YOUR_TOKEN"; node scripts/fetch-roadmap-sh-resour
 ```
 
 (این اسکریپت فقط backend و فایل `backend-roadmap.sh.json` را پشتیبانی می‌کند؛ برای بقیه از `sync-all-roadmaps.js` استفاده کنید.)
+
+## به‌روزرسانی index.json بدون API
+
+اگر فقط فایل‌های `data/roadmaps/*.json` را دارید و می‌خواهید `index.json` را با تعداد مراحل (totalSteps) و لیست نقشه‌ها همگام کنید (بدون نیاز به توکن):
+
+```bash
+node scripts/refresh-index-from-roadmaps.js
+```

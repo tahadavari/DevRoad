@@ -6,7 +6,7 @@
       "description": "مسیر کلی از آشنایی با کامپیوتر تا انتخاب مسیر تخصصی (بک‌اند، فرانت‌اند، اندروید)",
       "icon": "Map",
       "color": "#6366f1",
-      "totalSteps": 7
+      "totalSteps": 14
     },
     {
       "slug": "backend",

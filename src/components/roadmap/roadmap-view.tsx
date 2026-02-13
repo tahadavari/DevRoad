@@ -21,6 +21,42 @@ import {
 
 type ClickableStep = RoadmapStep | (RoadmapCategory & { resources: RoadmapResource[] });
 
+/** برای استپ‌هایی که فقط یک چیلد دارند، منابع استپ و چیلد را ادغام برمی‌گرداند. */
+function getStepResources(
+  roadmap: Roadmap,
+  step: ClickableStep
+): RoadmapResource[] {
+  const cat = roadmap.steps.find((s) => s.id === step.id);
+  if (cat?.children?.length === 1) {
+    const child = cat.children[0];
+    const stepRes = (step.resources ?? []) as RoadmapResource[];
+    const childRes = child.resources ?? [];
+    const seen = new Set<string>();
+    return [...stepRes, ...childRes].filter((r) => {
+      const key = `${r.url}-${r.title}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  }
+  const child = roadmap.steps.flatMap((s) => s.children ?? []).find((c) => c.id === step.id);
+  if (child) {
+    const parent = roadmap.steps.find((s) => s.children?.some((c) => c.id === child.id));
+    if (parent?.children?.length === 1) {
+      const stepRes = child.resources ?? [];
+      const parentRes = parent.resources ?? [];
+      const seen = new Set<string>();
+      return [...parentRes, ...stepRes].filter((r) => {
+        const key = `${r.url}-${r.title}`;
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+    }
+  }
+  return (step.resources ?? []) as RoadmapResource[];
+}
+
 export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
   const { user } = useAuthStore();
   const [selectedStep, setSelectedStep] = useState<ClickableStep | null>(null);
@@ -143,9 +179,10 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
       return;
     }
 
-    if ((step.resources?.length ?? 0) === 0) return;
+    const resources = getStepResources(roadmap, step);
+    if (resources.length === 0) return;
 
-    setSelectedStep(step);
+    setSelectedStep({ ...step, resources });
   };
 
   const startRoadmap = async () => {
@@ -304,10 +341,9 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
 
                       <button
                         type="button"
-                        disabled={!isStarted || (!user && !isStarted)}
                         onClick={() => toggleStep(category.id)}
-                        className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-border hover:bg-accent disabled:opacity-40 disabled:cursor-not-allowed"
-                        title={isStarted ? "تغییر وضعیت تکمیل" : "ابتدا مسیر را شروع کنید"}
+                        title={isStarted && user ? "تغییر وضعیت تکمیل" : "برای ذخیرهٔ پیشرفت وارد شوید و مسیر را شروع کنید"}
+                        className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-border hover:bg-accent"
                       >
                         {isCategoryDone ? <Check className="h-4 w-4" /> : <Circle className="h-4 w-4" />}
                       </button>
@@ -324,7 +360,11 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
                         return (
                           <div
                             key={uniqueKey}
-                            className={`rounded-lg border p-3 transition-colors ${
+                            role="button"
+                            tabIndex={0}
+                            onClick={() => handleStepOpen(step)}
+                            onKeyDown={(e) => e.key === "Enter" && handleStepOpen(step)}
+                            className={`rounded-lg border p-3 transition-colors cursor-pointer ${
                               step.recommendation
                                 ? recommendationStyles[step.recommendation].card
                                 : isCurrent
@@ -333,27 +373,26 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
                             }`}
                           >
                             <div className="flex items-start justify-between gap-2">
-                              <div className="flex items-start gap-2">
+                              <div className="flex items-start gap-2 flex-1 min-w-0 text-right">
                                 {getRecommendationMarker(step.recommendation)}
-                              <button
-                                type="button"
-                                className="text-right"
-                                onClick={() => handleStepOpen(step)}
-                              >
-                                <h3 className="font-medium leading-snug hover:text-primary transition-colors">
-                                  {step.title}
-                                </h3>
-                                <p className="mt-1 text-xs text-muted-foreground line-clamp-2">
-                                  {step.description}
-                                </p>
-                              </button>
+                                <div>
+                                  <h3 className="font-medium leading-snug hover:text-primary transition-colors">
+                                    {step.title}
+                                  </h3>
+                                  <p className="mt-1 text-xs text-muted-foreground line-clamp-2">
+                                    {step.description}
+                                  </p>
+                                </div>
                               </div>
 
                               <button
                                 type="button"
-                                onClick={() => toggleStep(step.id)}
-                                disabled={!isStarted || (!user && !isStarted)}
-                                className="inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-md border border-border hover:bg-accent disabled:opacity-40 disabled:cursor-not-allowed"
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  toggleStep(step.id);
+                                }}
+                                title={isStarted && user ? "تغییر وضعیت تکمیل" : "برای ذخیرهٔ پیشرفت وارد شوید و مسیر را شروع کنید"}
+                                className="inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-md border border-border hover:bg-accent"
                               >
                                 {isDone ? <Check className="h-4 w-4" /> : <Circle className="h-4 w-4" />}
                               </button>

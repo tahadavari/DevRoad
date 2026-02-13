@@ -538,7 +538,7 @@
             }
           ],
           "linkedRoadmapSlug": "backend",
-          "recommendation": "personal"
+          "recommendation": "alternative"
         },
         {
           "id": "path-frontend",

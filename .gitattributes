@@ -1,0 +1,2 @@
+# Liara / Linux scripts must use LF
+*.sh text eol=lf

@@ -46,7 +46,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "net",
@@ -85,7 +85,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "stylecop-rules",
@@ -134,7 +134,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -234,7 +234,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "github-gitlab-bitbucket",
@@ -273,7 +273,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "http-https-protocol",
@@ -372,7 +372,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "data-structures-and-algorithms",
@@ -421,7 +421,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -501,7 +501,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "database-design-basics",
@@ -540,7 +540,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "stored-procedures",
@@ -569,7 +569,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "constraints",
@@ -598,7 +598,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "triggers",
@@ -647,7 +647,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -722,7 +722,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "personal"
     },
     {
       "id": "asp-net-core-basics",
@@ -887,7 +887,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -922,7 +922,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "personal"
     },
     {
       "id": "caching",
@@ -987,7 +987,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1032,7 +1032,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "personal"
     },
     {
       "id": "search-engines",
@@ -1047,7 +1047,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1082,7 +1082,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "alternative"
     },
     {
       "id": "cloud",
@@ -1097,7 +1097,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1142,7 +1142,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "alternative"
     },
     {
       "id": "databases",
@@ -1207,7 +1207,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1232,7 +1232,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "personal"
     },
     {
       "id": "nosql",
@@ -1247,7 +1247,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1292,7 +1292,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "alternative"
     },
     {
       "id": "log-frameworks",
@@ -1337,7 +1337,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "distributed-cache",
@@ -1376,7 +1376,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1426,7 +1426,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1471,7 +1471,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "personal"
     },
     {
       "id": "graphql",
@@ -1486,7 +1486,7 @@
           "order": 1,
           "children": [],
           "resources": [],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [
@@ -1531,7 +1531,7 @@
           "description": ""
         }
       ],
-      "recommendation": ""
+      "recommendation": "alternative"
     },
     {
       "id": "api-clients-and-communication",
@@ -1626,7 +1626,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "flexible"
         },
         {
           "id": "signalr-core",
@@ -1645,7 +1645,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1715,7 +1715,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "mapperly",
@@ -1723,7 +1723,7 @@
           "description": "مباحث و تمرین‌های مرتبط با «Mapperly».",
           "order": 2,
           "resources": [],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "manual-mapping",
@@ -1742,7 +1742,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         }
       ],
       "resources": [
@@ -1822,7 +1822,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "coravel",
@@ -1861,7 +1861,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "flexible"
         },
         {
           "id": "quartz",
@@ -1890,7 +1890,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "flexible"
         }
       ],
       "resources": [
@@ -2110,7 +2110,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "alternative"
         },
         {
           "id": "scriban",
@@ -2139,7 +2139,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "flexible"
         },
         {
           "id": "fluid",
@@ -2158,7 +2158,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "flexible"
         }
       ],
       "resources": [
@@ -2238,7 +2238,7 @@
               "description": ""
             }
           ],
-          "recommendation": ""
+          "recommendation": "personal"
         },
         {
           "id": "net-maui",
@@ -2246,7 +2246,7 @@
           "description": "مباحث و تمرین‌های مرتبط با «.NET MAUI».",
           "order": 2,
           "resources": [],
-          "recommendation": ""
+          "recommendation": "alternative"
         }
       ],
       "resources": [],
