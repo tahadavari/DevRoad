@@ -41,6 +41,8 @@ interface Question {
   _count: {
     answers: number;
   };
+  status: "PENDING" | "APPROVED" | "REJECTED";
+  isOwner?: boolean;
 }
 
 export default function ForumPage() {
@@ -207,6 +209,11 @@ export default function ForumPage() {
                         <MessageCircle className="h-3 w-3" />
                         {q._count.answers} پاسخ
                       </span>
+                      {q.isOwner && q.status !== "APPROVED" && (
+                        <Badge variant="secondary">
+                          {q.status === "PENDING" ? "در انتظار تایید" : "رد شده"}
+                        </Badge>
+                      )}
                     </div>
                   </div>
                   <ArrowLeft className="h-4 w-4 text-muted-foreground shrink-0 mt-2" />

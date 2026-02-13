@@ -22,6 +22,18 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    const answer = await prisma.forumAnswer.findUnique({
+      where: { id: answerId },
+      select: { id: true, status: true, userId: true },
+    });
+
+    if (!answer || (answer.status !== "APPROVED" && user.role !== "ADMIN" && answer.userId !== user.id)) {
+      return NextResponse.json(
+        { success: false, error: "پاسخ قابل رای‌دهی نیست" },
+        { status: 404 }
+      );
+    }
+
     // Check existing vote
     const existingVote = await prisma.answerVote.findUnique({
       where: {
