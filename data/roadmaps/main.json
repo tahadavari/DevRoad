@@ -22,42 +22,6 @@
               "priceAmount": 0,
               "language": "fa",
               "description": "برای شروع از صفر: مفاهیم پایه کامپیوتر، آشنایی با نرم‌افزار/سخت‌افزار، مقدمات برنامه‌سازی و مهارت‌های پایه."
-            },
-            {
-              "title": "آموزش کامپیوتر رایگان — راهنمای گام‌به‌گام کار با رایانه (مجله فرادرس)",
-              "type": "article",
-              "url": "https://blog.faradars.org/learn-computer-basics-step-by-step/",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "fa",
-              "description": "راهنمای متنی برای مفاهیم پایه و مهارت‌های عمومی کار با کامپیوتر (فایل‌ها، پوشه‌ها، تنظیمات و ...)."
-            },
-            {
-              "title": "Computer Basics (GCFGlobal)",
-              "type": "course",
-              "url": "https://edu.gcfglobal.org/en/computerbasics/",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "دوره رایگان و ساده برای آشنایی با مفاهیم پایه کامپیوتر و کاربری عمومی."
-            },
-            {
-              "title": "ICDL آموزش کامل (YouTube Playlist)",
-              "type": "playlist",
-              "url": "https://www.youtube.com/playlist?list=PLRN6VIFs6J_lC-06pOVvK3pjaBmRNu3uk",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "fa",
-              "description": "پلی‌لیست ویدیویی برای مهارت‌های عمومی کامپیوتر و کاربری نرم‌افزارها (مناسب شروع)."
-            },
-            {
-              "title": "Computer Skills: Basic Computer Skills Definition and Examples (freeCodeCamp)",
-              "type": "article",
-              "url": "https://www.freecodecamp.org/news/computer-skills-definition-and-examples/",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "مقاله انگلیسی درباره مهارت‌های پایه کامپیوتر و چیزهایی که برای ورود به دنیای فناوری لازم است."
             }
           ],
           "recommendation": "personal"
@@ -78,7 +42,7 @@
             {
               "title": "آموزش درک شبکه با جادی — مقدماتی (رایگان) + گواهینامه | فرادرس",
               "type": "course",
-              "url": "https://faradars.org/courses/jadi-network-fvnet9707",
+              "url": "https://faradars.org/courses/network-basics-with-jadi-fvnet360",
               "price": "free",
               "priceAmount": 0,
               "language": "fa",
@@ -92,15 +56,6 @@
               "priceAmount": 0,
               "language": "fa",
               "description": "آشنایی با HTTP، ساختار Request/Response و مفاهیم پایه وب."
-            },
-            {
-              "title": "Computers and the Internet (Khan Academy)",
-              "type": "course",
-              "url": "https://www.khanacademy.org/computing/computers-and-internet",
-              "price": "free",
-              "priceAmount": 0,
-              "language": "en",
-              "description": "دوره رایگان برای فهم اینترنت، شبکه، وب و مفاهیم کلیدی به زبان ساده."
             },
             {
               "title": "درک مقدماتی شبکه با جادی (YouTube Playlist)",
