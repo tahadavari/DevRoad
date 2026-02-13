@@ -64,7 +64,8 @@
               "language": "fa",
               "description": "Aparat playlists for Persian HTML/CSS practice."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
       ]
     },
@@ -129,7 +130,8 @@
               "language": "fa",
               "description": "Persian CSS playlists with practical exercises."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
       ]
     },
@@ -194,7 +196,8 @@
               "language": "fa",
               "description": "Persian JavaScript playlists on Aparat."
             }
-          ]
+          ],
+          "recommendation": "personal"
         },
         {
           "id": "es6-plus",
@@ -251,9 +254,11 @@
               "language": "fa",
               "description": "Persian ES6 playlists for modern JS."
             }
-          ]
+          ],
+          "recommendation": "alternative"
         }
-      ]
+      ],
+      "recommendation": "flexible"
     },
     {
       "id": "react",
@@ -316,7 +321,8 @@
               "language": "fa",
               "description": "Persian React playlists on Aparat."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
       ]
     },
@@ -381,9 +387,11 @@
               "language": "fa",
               "description": "Persian TypeScript playlists for practice."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
-      ]
+      ],
+      "recommendation": "flexible"
     },
     {
       "id": "nextjs",
@@ -446,7 +454,8 @@
               "language": "fa",
               "description": "Aparat playlists for Persian Next.js learning."
             }
-          ]
+          ],
+          "recommendation": "personal"
         }
       ]
     }

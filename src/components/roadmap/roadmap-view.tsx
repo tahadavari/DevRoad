@@ -16,6 +16,7 @@ import {
   Circle,
   ArrowUpRight,
   BookOpen,
+  Minus,
 } from "lucide-react";
 
 type ClickableStep = RoadmapStep | (RoadmapCategory & { resources: RoadmapResource[] });
@@ -100,6 +101,40 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
       }
       setCompletedSteps(revert);
     }
+  };
+
+
+
+  const recommendationStyles = {
+    personal: {
+      card: "border-violet-500/60 bg-violet-500/5",
+      iconWrap: "bg-violet-500 text-white",
+      icon: <Check className="h-3.5 w-3.5" />,
+    },
+    alternative: {
+      card: "border-green-600/60 bg-green-600/5",
+      iconWrap: "bg-green-600 text-white",
+      icon: <Check className="h-3.5 w-3.5" />,
+    },
+    flexible: {
+      card: "border-muted-foreground/60 bg-muted/40",
+      iconWrap: "bg-muted-foreground text-white",
+      icon: <Minus className="h-3.5 w-3.5" />,
+    },
+  } as const;
+
+  const getRecommendationMarker = (
+    recommendation?: "personal" | "alternative" | "flexible"
+  ) => {
+    if (!recommendation) return null;
+    const style = recommendationStyles[recommendation];
+    return (
+      <span
+        className={`inline-flex h-5 w-5 items-center justify-center rounded-full ${style.iconWrap}`}
+      >
+        {style.icon}
+      </span>
+    );
   };
 
   const startRoadmap = async () => {
@@ -187,6 +222,27 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
           نقشه‌راه مرحله به مرحله (الهام گرفته از roadmap.sh)
         </div>
 
+        <div className="mb-5 inline-flex flex-col gap-2 rounded-xl border-2 border-foreground/80 bg-card px-4 py-3 shadow-sm">
+          <div className="flex items-center gap-2.5 text-sm font-medium text-foreground">
+            <span className="inline-flex h-5 w-5 items-center justify-center rounded-full bg-violet-500 text-white">
+              <Check className="h-3.5 w-3.5" />
+            </span>
+            Personal Recommendation
+          </div>
+          <div className="flex items-center gap-2.5 text-sm font-medium text-foreground">
+            <span className="inline-flex h-5 w-5 items-center justify-center rounded-full bg-green-600 text-white">
+              <Check className="h-3.5 w-3.5" />
+            </span>
+            Alternative Option
+          </div>
+          <div className="flex items-center gap-2.5 text-sm font-medium text-foreground">
+            <span className="inline-flex h-5 w-5 items-center justify-center rounded-full bg-muted-foreground text-white">
+              <Minus className="h-3.5 w-3.5" />
+            </span>
+            Order not strict on roadmap
+          </div>
+        </div>
+
         <div className="space-y-5">
           {roadmap.steps.map((category, index) => {
             const hasChildren = !!category.children?.length;
@@ -200,7 +256,7 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
                   <div className="absolute right-6 top-12 h-[calc(100%+1.25rem)] w-px bg-border" />
                 )}
 
-                <div className="relative overflow-hidden rounded-xl border border-border/70 bg-card">
+                <div className={`relative overflow-hidden rounded-xl border bg-card ${category.recommendation ? recommendationStyles[category.recommendation].card : "border-border/70"}`}>
                   <div className="flex items-start justify-between gap-3 border-b border-border/60 p-4">
                     <button
                       type="button"
@@ -222,6 +278,7 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
                     </button>
 
                     <div className="flex items-center gap-2">
+                      {getRecommendationMarker(category.recommendation)}
                       {category.linkedRoadmapSlug && (
                         <a
                           href={`/roadmaps/${category.linkedRoadmapSlug}`}
@@ -256,12 +313,16 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
                           <div
                             key={step.id}
                             className={`rounded-lg border p-3 transition-colors ${
-                              isCurrent
-                                ? "border-primary/60 bg-primary/5"
-                                : "border-border/70 hover:border-primary/40"
+                              step.recommendation
+                                ? recommendationStyles[step.recommendation].card
+                                : isCurrent
+                                  ? "border-primary/60 bg-primary/5"
+                                  : "border-border/70 hover:border-primary/40"
                             }`}
                           >
                             <div className="flex items-start justify-between gap-2">
+                              <div className="flex items-start gap-2">
+                                {getRecommendationMarker(step.recommendation)}
                               <button
                                 type="button"
                                 className="text-right"
@@ -274,6 +335,7 @@ export function RoadmapView({ roadmap }: { roadmap: Roadmap }) {
                                   {step.description}
                                 </p>
                               </button>
+                              </div>
 
                               <button
                                 type="button"
